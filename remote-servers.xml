@@ -1,0 +1,52 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker PHP 7.1.6" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://localhost:2375" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker PHP 7.1.6-cli-xdebug" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://localhost:2375" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker PHPUnit 6.0.6" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://localhost:2375" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://localhost:2375" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+      </configuration>
+    </remote-server>
+    <remote-server name="PHPUnit 5.7.12" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://localhost:2375" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker PHPUnit 6.0.6" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://localhost:2375" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker PHPUnit 6.0.6" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://localhost:2375" />
+        <option name="certificatesPath" value="/Applications/Docker.app/" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker PHPUnit 6.0.6" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://localhost:2375" />
+        <option name="certificatesPath" value="/Applications/Docker.app/" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
