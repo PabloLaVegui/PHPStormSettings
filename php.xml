@@ -10,14 +10,14 @@
       <interpreter home="docker://phpunit/phpunit:6.0.6/php" id="9c0b57e0-c849-46ff-bb4b-e3c769150172" name="phpunit/phpunit:6.0.6" debugger_id="php.debugger.XDebug">
         <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="phpunit/phpunit:6.0.6" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
-      <interpreter home="docker://phpunit/phpunit:6.0.6/php" id="11f27ebd-6b50-4c30-9ec7-b80b0a0f2d8c" name="Docker PHPUnit 6.0.6" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="phpunit/phpunit:6.0.6" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="docker://phpunit/phpunit:5.7.12/php" id="11f27ebd-6b50-4c30-9ec7-b80b0a0f2d8c" name="Docker PHPUnit 5.7.12" debugger_id="php.debugger.XDebug">
+        <remote_data DOCKER_ACCOUNT_NAME="Docker PHP 5.6" DOCKER_IMAGE_NAME="phpunit/phpunit:5.7.12" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="Docker PHPUnit 6.0.6">
+      <interpreter name="Docker PHPUnit 5.7.12">
         <phpinfo binary_type="PHP" php_cli="/usr/bin/php7" path_separator=":" version="7.1.5">
           <additional_php_ini>/etc/php7/conf.d/00_bcmath.ini, /etc/php7/conf.d/00_ctype.ini, /etc/php7/conf.d/00_curl.ini, /etc/php7/conf.d/00_dom.ini, /etc/php7/conf.d/00_json.ini, /etc/php7/conf.d/00_mbstring.ini, /etc/php7/conf.d/00_mcrypt.ini, /etc/php7/conf.d/00_opcache.ini, /etc/php7/conf.d/00_openssl.ini, /etc/php7/conf.d/00_pcntl.ini, /etc/php7/conf.d/00_pdo.ini, /etc/php7/conf.d/00_session.ini, /etc/php7/conf.d/00_soap.ini, /etc/php7/conf.d/00_tokenizer.ini, /etc/php7/conf.d/00_xml.ini, /etc/php7/conf.d/00_zip.ini, /etc/php7/conf.d/00_zlib.ini, /etc/php7/conf.d/01_exif.ini, /etc/php7/conf.d/01_mysqlnd.ini, /etc/php7/conf.d/01_pdo_pgsql.ini, /etc/php7/conf.d/01_pdo_sqlite.ini, /etc/php7/conf.d/01_phar.ini, /etc/php7/conf.d/01_xmlreader.ini, /etc/php7/conf.d/02_pdo_mysql.ini, /etc/php7/conf.d/xdebug.ini</additional_php_ini>
           <configuration_file>/etc/php7/php.ini</configuration_file>
