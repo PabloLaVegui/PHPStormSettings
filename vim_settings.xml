@@ -277,12 +277,12 @@
         <mark key="^" line="76" column="3" />
         <mark key="." line="76" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" timestamp="1506678645980">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="69" column="32" />
-        <mark key="]" line="69" column="58" />
-        <mark key="^" line="69" column="58" />
-        <mark key="." line="69" column="58" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" timestamp="1506681742072">
+        <mark key="'" line="161" column="0" />
+        <mark key="[" line="75" column="17" />
+        <mark key="]" line="75" column="18" />
+        <mark key="." line="75" column="18" />
+        <mark key="^" line="195" column="74" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris2D/Movement/Right.php" timestamp="1502472592637">
         <mark key="[" line="9" column="11" />
@@ -1243,13 +1243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="33" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/Formatter.php" />
-      <jump line="56" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/HomeLinksDTO.php" />
-      <jump line="75" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/HomeLinksDTO.php" />
-      <jump line="88" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/HomeLinksDTO.php" />
-      <jump line="104" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/HomeLinksDTO.php" />
-      <jump line="119" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/HomeLinksDTO.php" />
-      <jump line="19" column="100" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/HomeLinksDTOBuilder.php" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/icons/WUserSavedSearchChanges.php" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/twig/particular/home/home.twig" />
       <jump line="136" column="0" filename="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris/Board/Board.php" />
@@ -1343,46 +1336,54 @@
       <jump line="91" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
       <jump line="216" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
       <jump line="122" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
+      <jump line="100" column="5" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
+      <jump line="80" column="47" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
+      <jump line="90" column="44" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
+      <jump line="91" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
+      <jump line="58" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
+      <jump line="179" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
+      <jump line="161" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>deleteUrl</text>
+        <text>classifiedViewdto</text>
       </register>
       <register name="-" type="4">
-        <text>deleteUrl</text>
+        <text>classifiedViewdto</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxORVdfQ0xBU1NJRklFRFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICogQHZhciBzdHJpbmcgJGRlbGV0ZVVybAo=</text>
+      <register name="0" type="4">
+        <text>getExpiredData</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">VXJsSGFuZGxlck1pem9uYTo6dGFrZSgpCiAgICAgICAgICAgICAgICAtPnJlbm92YXRlKCkKICAgICAgICAgICAgICAgIC0+d2l0aElkUGF0aFBhcmFtKCR0aGlzLT5jbGFzc2lmaWVkVmlld0RUTy0+Z2V0Q2xhc3NpZmllZElkKCkpOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="8">
+        <text>$data[
+$data[</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YVsnZGVsZXRlVXJsJ10gPSAkdGhpcy0+Z2V0RGVsZXRlVXJsKCk7CiAgICAgICAgJGRhdGFbJ3Jlbm92YXRlVXJsJ10gPSAkdGhpcy0+Z2V0UmVub3ZhdGVVcmwoKTsKICAgICAgICAkZGF0YVsnZXhwaXJhdGlvbkRhdGUnXSA9ICR0aGlzLT5jbGFzc2lmaWVkVmlld0RUTy0+Z2V0RXhwaXJhdGlvbkRhdGUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0idG9faW1wbGVtZW50IiBocmVmPSIjIj5SZW5vdmFyPC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGFbJ2RlbGV0ZVVybCddID0gJHRoaXMtPmdldERlbGV0ZVVybCgpOwogICAgICAgICAgICAkZGF0YVsncmVub3ZhdGVVcmwnXSA9ICR0aGlzLT5nZXRSZW5vdmF0ZVVybCgpOwogICAgICAgICAgICAkZGF0YVsnZXhwaXJhdGlvbkRhdGUnXSA9ICR0aGlzLT5jbGFzc2lmaWVkVmlld0RUTy0+Z2V0RXhwaXJhdGlvbkRhdGUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0idG9faW1wbGVtZW50IiBocmVmPSIjIj5Cb3JyYXIgYW51bmNpbzwvYT4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkZGF0YSA9IFtdOwoKICAgICAgICAvLyBUT0RPKFBhYmxvKTogSW1wcm92ZQoK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IE5FV19DTEFTU0lGSUVEID0gJ251ZXZvLWNvY2hlcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICApIHsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -1435,6 +1436,7 @@
         <entry>vs</entry>
         <entry>3</entry>
         <entry>w</entry>
+        <entry>waq</entry>
         <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
