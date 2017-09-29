@@ -468,10 +468,10 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/views/wExpiredActions.php" timestamp="1506678663368">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/views/wExpiredActions.php" timestamp="1506684123617">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
         <mark key="^" line="4" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/views/wDeactivateActions.php" timestamp="1506666737607">
@@ -1345,8 +1345,8 @@
       <jump line="161" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>classifiedViewdto</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CjxzY3JpcHQgdHlwZT0iYXBwbGljYXRpb24vamF2YXNjcmlwdCI+CiAgICAkKGRvY3VtZW50KS5vbigiY2xpY2siLCAiLnRvX2ltcGxlbWVudCIsIGZ1bmN0aW9uKCkgewogICAgICAgIGFsZXJ0KCJUbyBpbXBsZW1lbnQgaW4gTUlaLTkxIikKICAgIH0pOwo8L3NjcmlwdD4K</text>
       </register>
       <register name="-" type="4">
         <text>classifiedViewdto</text>
@@ -1358,32 +1358,32 @@
         <text>getExpiredData</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CjxzY3JpcHQgdHlwZT0iYXBwbGljYXRpb24vamF2YXNjcmlwdCI+CiAgICAkKGRvY3VtZW50KS5vbigiY2xpY2siLCAiLnRvX2ltcGxlbWVudCIsIGZ1bmN0aW9uKCkgewogICAgICAgIGFsZXJ0KCJUbyBpbXBsZW1lbnQgaW4gTUlaLTkxIikKICAgIH0pOwo8L3NjcmlwdD4K</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>$data[
 $data[</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkZGF0YVsnZGVsZXRlVXJsJ10gPSAkdGhpcy0+Z2V0RGVsZXRlVXJsKCk7CiAgICAgICAgJGRhdGFbJ3Jlbm92YXRlVXJsJ10gPSAkdGhpcy0+Z2V0UmVub3ZhdGVVcmwoKTsKICAgICAgICAkZGF0YVsnZXhwaXJhdGlvbkRhdGUnXSA9ICR0aGlzLT5jbGFzc2lmaWVkVmlld0RUTy0+Z2V0RXhwaXJhdGlvbkRhdGUoKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGRhdGFbJ2RlbGV0ZVVybCddID0gJHRoaXMtPmdldERlbGV0ZVVybCgpOwogICAgICAgICAgICAkZGF0YVsncmVub3ZhdGVVcmwnXSA9ICR0aGlzLT5nZXRSZW5vdmF0ZVVybCgpOwogICAgICAgICAgICAkZGF0YVsnZXhwaXJhdGlvbkRhdGUnXSA9ICR0aGlzLT5jbGFzc2lmaWVkVmlld0RUTy0+Z2V0RXhwaXJhdGlvbkRhdGUoKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkZGF0YSA9IFtdOwoKICAgICAgICAvLyBUT0RPKFBhYmxvKTogSW1wcm92ZQoK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -1419,7 +1419,6 @@ $data[</text>
         <entry encoding="base64">XDxORVdfQ0xBU1NJRklFRFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>12</entry>
         <entry>13</entry>
         <entry>sp</entry>
         <entry>wa]</entry>
@@ -1438,6 +1437,7 @@ $data[</text>
         <entry>w</entry>
         <entry>waq</entry>
         <entry>q</entry>
+        <entry>1528</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
