@@ -277,12 +277,12 @@
         <mark key="^" line="76" column="3" />
         <mark key="." line="76" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" timestamp="1506667638973">
-        <mark key="'" line="17" column="106" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="75" />
-        <mark key="^" line="145" column="15" />
-        <mark key="." line="145" column="0" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" timestamp="1506678645980">
+        <mark key="'" line="122" column="0" />
+        <mark key="[" line="69" column="32" />
+        <mark key="]" line="69" column="58" />
+        <mark key="^" line="69" column="58" />
+        <mark key="." line="69" column="58" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris2D/Movement/Right.php" timestamp="1502472592637">
         <mark key="[" line="9" column="11" />
@@ -467,6 +467,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="9" column="13" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/views/wExpiredActions.php" timestamp="1506678663368">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="4" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/views/wDeactivateActions.php" timestamp="1506666737607">
         <mark key="[" line="16" column="17" />
@@ -991,9 +997,9 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/views/wActivedActions.php" timestamp="1506613118994">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="101" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/views/wActivedActions.php" timestamp="1506678433351">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="48" column="2" />
         <mark key="." line="33" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/EditPassword/views/WMyDataEditPassword.php" timestamp="1506430750334">
@@ -1237,7 +1243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="5" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/Formatter.php" />
       <jump line="14" column="33" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/Formatter.php" />
       <jump line="56" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/HomeLinksDTO.php" />
       <jump line="75" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/HomeLinksDTO.php" />
@@ -1337,46 +1342,47 @@
       <jump line="20" column="10" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
       <jump line="91" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
       <jump line="216" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
+      <jump line="122" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GeneratorSellCar::getUrlForSignUpIndividualDealer()</text>
+        <text>deleteUrl</text>
       </register>
       <register name="-" type="4">
-        <text>GeneratorSellCar::getUrlForSignUpIndividualDealer()</text>
+        <text>deleteUrl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxORVdfQ0xBU1NJRklFRFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+X3VybGJ1aWxkZWQgLj0gc2VsZjo6TVlfQ0xBU1NJRklFRFM7CgogICAgICAgIHJldHVybiAkdGhpczsK</text>
+        <text encoding="base64">ICogQHZhciBzdHJpbmcgJGRlbGV0ZVVybAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">VXJsSGFuZGxlck1pem9uYTo6dGFrZSgpCiAgICAgICAgICAgICAgICAtPnJlbm92YXRlKCkKICAgICAgICAgICAgICAgIC0+d2l0aElkUGF0aFBhcmFtKCR0aGlzLT5jbGFzc2lmaWVkVmlld0RUTy0+Z2V0Q2xhc3NpZmllZElkKCkpOw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IE5FV19DTEFTU0lGSUVEID0gJ251ZXZvLWNvY2hlcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0idG9faW1wbGVtZW50IiBocmVmPSIjIj5SZW5vdmFyPC9hPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0idG9faW1wbGVtZW50IiBocmVmPSIjIj5Cb3JyYXIgYW51bmNpbzwvYT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IE5FV19DTEFTU0lGSUVEID0gJ251ZXZvLWNvY2hlcyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -1428,8 +1434,8 @@
         <entry>195</entry>
         <entry>vs</entry>
         <entry>3</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
