@@ -468,7 +468,7 @@
         <mark key="^" line="21" column="38" />
         <mark key="." line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/composer.json" timestamp="1507243788287">
+      <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/composer.json" timestamp="1507244854197">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -515,7 +515,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507238834021">
+      <file name="/Dummy.txt" timestamp="1507244468782">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/kata-environment/README.md" timestamp="1498343033170">
@@ -673,11 +673,11 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="8" column="2" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/domain/User/User.php" timestamp="1507243400825">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="37" />
-        <mark key="^" line="9" column="18" />
-        <mark key="." line="9" column="18" />
+      <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/domain/User/User.php" timestamp="1507244538759">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="18" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris/Board/Checker/GameOverChecker.php" timestamp="1501710356185">
         <mark key="[" line="1" column="39" />
@@ -1119,11 +1119,11 @@
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/infrastructure/doctrine/config/User.dcm.yml" timestamp="1507243408760">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-        <mark key="^" line="10" column="18" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/infrastructure/doctrine/config/User.dcm.yml" timestamp="1507244492417">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris2D/Board/Checker/CompleteRowScoreChecker.php" timestamp="1502708818076">
         <mark key="[" line="10" column="14" />
@@ -1266,10 +1266,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAicHNyLTAiOiB7IkxhdmVndWlcXENhbGVuZGFyXFwiOiAic3JjLyJ9LAo=</text>
+        <text encoding="base64">ICAgICAgICAicHNyLTAiOiB7IiI6ICJzcmMvIn0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>LaVegui\User</text>
+        <text>Lavegui\\Calendar\\</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRTdGF0dXNcPg==</text>
@@ -1278,31 +1278,31 @@
         <text>Lavegui\\Calendar\\</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAicHNyLTAiOiB7IkxhdmVndWlcXENhbGVuZGFyXFwiOiAic3JjLyJ9LAo=</text>
+        <text encoding="base64">ICAgICAgICAicHNyLTAiOiB7IiI6ICJzcmMvIn0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAicHNyLTAiOiB7IiI6ICJzcmMvaW5mcmFzdHJ1Y3R1cmUvZG9jdHJpbmUvY29uZmlnLyJ9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JGVudGl0eU1hbmFnZXIgPSBHZXRFbnRpdHlNYW5hZ2VyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAicHNyLTAiOiB7IkxhdmVndWlcXENhbGVuZGFyXFwiOiAic3JjLyJ9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci8vIHJlcGxhY2Ugd2l0aCBmaWxlIHRvIHlvdXIgb3duIHByb2plY3QgYm9vdHN0cmFwCnJlcXVpcmVfb25jZSAnYm9vdHN0cmFwLnBocCc7CgovLyByZXBsYWNlIHdpdGggbWVjaGFuaXNtIHRvIHJldHJpZXZlIEVudGl0eU1hbmFnZXIgaW4geW91ciBhcHAKJGVudGl0eU1hbmFnZXIgPSBHZXRFbnRpdHlNYW5hZ2VyKCk7CgpyZXR1cm4gQ29uc29sZVJ1bm5lcjo6Y3JlYXRlSGVscGVyU2V0KCRlbnRpdHlNYW5hZ2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAicHNyLTAiOiB7IiI6ICJzcmMvaW5mcmFzdHJ1Y3R1cmUvZG9jdHJpbmUvY29uZmlnLyJ9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxUb29sc1xDb25zb2xlXENvbnNvbGVSdW5uZXI7Cg==</text>
+        <text encoding="base64">JGVudGl0eU1hbmFnZXIgPSBHZXRFbnRpdHlNYW5hZ2VyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIAo=</text>
+        <text encoding="base64">Ci8vIHJlcGxhY2Ugd2l0aCBmaWxlIHRvIHlvdXIgb3duIHByb2plY3QgYm9vdHN0cmFwCnJlcXVpcmVfb25jZSAnYm9vdHN0cmFwLnBocCc7CgovLyByZXBsYWNlIHdpdGggbWVjaGFuaXNtIHRvIHJldHJpZXZlIEVudGl0eU1hbmFnZXIgaW4geW91ciBhcHAKJGVudGl0eU1hbmFnZXIgPSBHZXRFbnRpdHlNYW5hZ2VyKCk7CgpyZXR1cm4gQ29uc29sZVJ1bm5lcjo6Y3JlYXRlSGVscGVyU2V0KCRlbnRpdHlNYW5hZ2VyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gY2xpLWNvbmZpZy5waHAK</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxUb29sc1xDb25zb2xlXENvbnNvbGVSdW5uZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PD9waHAK</text>
+        <text encoding="base64">dXNlIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAic3ltZm9ueS95YW1sIjogIioiCg==</text>
+        <text encoding="base64">Ly8gY2xpLWNvbmZpZy5waHAK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
