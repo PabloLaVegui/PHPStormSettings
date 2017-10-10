@@ -232,8 +232,12 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/Config/YamlConfig.php" timestamp="1507593492365">
-        <mark key="'" line="23" column="6" />
+      <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/Config/YamlConfig.php" timestamp="1507630780362">
+        <mark key="'" line="27" column="4" />
+        <mark key="[" line="19" column="72" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="20" column="32" />
+        <mark key="^" line="20" column="32" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris/Event/EventScore.php" timestamp="1501610210573">
         <mark key="[" line="7" column="20" />
@@ -1252,7 +1256,7 @@
         <mark key="^" line="9" column="45" />
         <mark key="." line="9" column="45" />
       </file>
-      <file name="/PHP Console" timestamp="1507626805175">
+      <file name="/PHP Console" timestamp="1507630789746">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/icons/views/wIconWithNumberOfChangesPHP.php" timestamp="1505920541276">
@@ -1328,8 +1332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="23" filename="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris/Board/BoardTest.php" />
-      <jump line="308" column="0" filename="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris/Board/BoardTest.php" />
       <jump line="103" column="0" filename="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris/Board/BoardTest.php" />
       <jump line="52" column="16" filename="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris/Board/BoardTest.php" />
       <jump line="93" column="0" filename="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris/Board/BoardTest.php" />
@@ -1428,46 +1430,48 @@
       <jump line="13" column="0" filename="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/Config.php" />
       <jump line="30" column="29" filename="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/dependencies.php" />
       <jump line="25" column="6" filename="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/Config/YamlConfig.php" />
+      <jump line="20" column="8" filename="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/Config/YamlConfig.php" />
+      <jump line="27" column="4" filename="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/Config/YamlConfig.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkZXhwZWN0ZWRQYXRoT25lID0K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29uZmlnWydkb2N0cmluZSddWydtYXBwaW5nUGF0aHMnXSA9ICR0aGlzLT5zZXRNYXBwaW5nUGF0aHMoJHRoaXMtPmNvbmZpZ1snZG9jdHJpbmUnXVsnbWFwcGluZ1BhdGhzJ10pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>['..']</text>
+        <text>array</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUUkFOU01JU1NJT05fT0ZfTU9ERUxfWUVBUl9GVUVMX1RZUEVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZG9jdHJpbmU6CiAgbWFwcGluZ1BhdGhzOgogICAgLSBJbmZyYXN0cnVjdHVyZS9QZXJzaXN0ZW5jZS9Eb2N0cmluZS9NYXBwaW5nCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">JHRoaXMtPmNvbmZpZ1snZG9jdHJpbmUnXVsnbWFwcGluZ1BhdGhzJ10=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZXhwZWN0ZWRQYXRoT25lID0K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29uZmlnWydkb2N0cmluZSddWydtYXBwaW5nUGF0aHMnXSA9ICR0aGlzLT5zZXRNYXBwaW5nUGF0aHMoJHRoaXMtPmNvbmZpZ1snZG9jdHJpbmUnXVsnbWFwcGluZ1BhdGhzJ10pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkcmVsYXRpdmVNYXBwaW5nUGF0aHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkYSA9IGdldGN3ZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZXhwZWN0ZWRQYXRoT25lID0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNob3VsZF9yZXR1cm5fYW5kX2FycmF5X2Zyb21fYV95YW1sX2ZpbGUoKQogICAgewogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHRlc3QgKi8K</text>
+        <text encoding="base64">ICAgICAgICAkYSA9IGdldGN3ZCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNob3VsZF9yZXR1cm5fYW5kX2FycmF5X2Zyb21fYV95YW1sX2ZpbGUoKQogICAgewogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
