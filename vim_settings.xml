@@ -48,7 +48,7 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classified/classified.php" timestamp="1508314581057">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classified/classified.php" timestamp="1508772848856">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="11" />
         <mark key="." line="61" column="5" />
@@ -272,6 +272,7 @@
         <mark key="." line="28" column="32" />
         <mark key="^" line="28" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" timestamp="1508772860473" />
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris2D/Movement/Right.php" timestamp="1502472592637">
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="30" />
@@ -1013,11 +1014,18 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/views/wActivedActions.php" timestamp="1508772874217" />
       <file name="$USER_HOME$/Code/phetris7/test/observer/EndOfMovementObserverTest.php" timestamp="1484936892928">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="6" />
         <mark key="^" line="24" column="7" />
         <mark key="." line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyZoneController.php" timestamp="1508773244606">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="84" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/LogVODTOBuilder.php" timestamp="1506354700652">
         <mark key="[" line="9" column="14" />
@@ -1368,10 +1376,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjbGFzc2lmaWVkKCkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gX2lzVmFsaWRhdGVkQ2FyKFVzZXIgJHVzZXIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>edit</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDT05DRVNJT05BUklPX0FDQ0VTU19EQVRBXD4=</text>
@@ -1380,31 +1388,31 @@
         <text encoding="base64">ZWNobyAkZm9ybS0+ZXJyb3JTdW1tYXJ5KCRkYXRvc1BhcnRpY3VsYXJGb3JtLCAnJywgJycsIFsnY2xhc3MnID0+ICdmb3JtRXJyb3InXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjbGFzc2lmaWVkKCkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gX2lzVmFsaWRhdGVkQ2FyKFVzZXIgJHVzZXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xhc3NpZmllZFVzZUNhc2UgPSAkdGhpcy0+Y29udGFpbmVyKCktPmdldChDbGFzc2lmaWVkVXNlQ2FzZTo6Y2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISR1c2VyVHlwZUhlbHBlci0+aXNHdWVzdCgpICYmICEkdXNlclR5cGVIZWxwZXItPmlzUGFydGljdWxhcigpKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjbGFzc2lmaWVkKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xhc3NpZmllZFVzZUNhc2UgPSAkdGhpcy0+Y29udGFpbmVyKCktPmdldChDbGFzc2lmaWVkVXNlQ2FzZTo6Y2xhc3MpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAkZm9ybS0+ZXJyb3JTdW1tYXJ5KCRkYXRvc1BhcnRpY3VsYXJGb3JtLCAnJywgJycsIFsnY2xhc3MnID0+ICdmb3JtRXJyb3InXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FjY2Vzc0RhdGFEVE8nID0+ICR0aGlzLT5hdXRob3JpemVkRGVhbGVyRGF0YVVzZUNhc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+Z2V0QXV0aG9yaXplZERlYWxlckFjY2Vzc0RhdGFWaWV3RFRPKCR1c2VySWQpLAo=</text>
+        <text encoding="base64">ZWNobyAkZm9ybS0+ZXJyb3JTdW1tYXJ5KCRkYXRvc1BhcnRpY3VsYXJGb3JtLCAnJywgJycsIFsnY2xhc3MnID0+ICdmb3JtRXJyb3InXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgnaGknKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FjY2Vzc0RhdGFEVE8nID0+ICR0aGlzLT5hdXRob3JpemVkRGVhbGVyRGF0YVVzZUNhc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGtsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+Z2V0QXV0aG9yaXplZERlYWxlckFjY2Vzc0RhdGFWaWV3RFRPKCR1c2VySWQpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -1443,11 +1451,9 @@
         <entry encoding="base64">XDxDT05DRVNJT05BUklPX0FDQ0VTU19EQVRBXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>a</entry>
         <entry>waa</entry>
         <entry>was</entry>
         <entry>x</entry>
-        <entry>41</entry>
         <entry>177</entry>
         <entry>195</entry>
         <entry>3</entry>
@@ -1462,6 +1468,8 @@
         <entry>vs</entry>
         <entry>w</entry>
         <entry>q</entry>
+        <entry>163</entry>
+        <entry>41</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
