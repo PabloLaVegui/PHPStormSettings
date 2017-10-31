@@ -173,12 +173,6 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/repositories/AuthDealerRepository.php" timestamp="1509445847153">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="29" />
-        <mark key="^" line="5" column="9" />
-        <mark key="." line="3" column="9" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/generic/config/main.php" timestamp="1509022287031">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="84" column="33" />
@@ -588,10 +582,11 @@
         <mark key="^" line="21" column="38" />
         <mark key="." line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/AuthDealerInfoDataController.php" timestamp="1509450764246">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/AuthDealerInfoDataController.php" timestamp="1509451482708">
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="30" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/Classified/DeleteClassifiedUseCaseTest.php" timestamp="1508836813428">
         <mark key="[" line="11" column="0" />
@@ -713,11 +708,8 @@
         <mark key="^" line="65" column="28" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Transformers/AuthDealerTransformer.php" timestamp="1509450095554">
-        <mark key="[" line="39" column="48" />
-        <mark key="]" line="40" column="7" />
-        <mark key="^" line="40" column="7" />
-        <mark key="." line="40" column="7" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Transformers/AuthDealerTransformer.php" timestamp="1509451152463">
+        <mark key="[" line="126" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Classified/DeleteClassifiedUseCase.php" timestamp="1508836699885">
         <mark key="[" line="24" column="0" />
@@ -785,12 +777,6 @@
         <mark key="]" line="1" column="30" />
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/AuthorizedDealer/AccessData/UpdateAuthorizedDealerAccessDataUseCase.php" timestamp="1509370436442">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="40" />
-        <mark key="." line="12" column="40" />
-        <mark key="^" line="12" column="40" />
       </file>
       <file name="$USER_HOME$/Code/eventstracker/protected/modules/admin/views/user/create.php" timestamp="1425337106143">
         <mark key="[" line="16" column="43" />
@@ -1026,7 +1012,6 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classified/edit/editClassified.php" timestamp="1509361300028" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/AuthorizedDealer/AccessData/UpdateAuthDealerPasswordUseCase.php" timestamp="1509366193902">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="3" column="9" />
@@ -1070,6 +1055,12 @@
         <mark key="]" line="14" column="67" />
         <mark key="." line="14" column="67" />
         <mark key="^" line="14" column="67" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/AuthorizedDealerAccessDataController.php" timestamp="1509451526234">
+        <mark key="[" line="39" column="71" />
+        <mark key="]" line="40" column="11" />
+        <mark key="." line="40" column="11" />
+        <mark key="^" line="40" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/composer.json" timestamp="1508236144024">
         <mark key="[" line="11" column="45" />
@@ -1437,7 +1428,6 @@
         <mark key="^" line="14" column="85" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/MyData/WMyData.php" timestamp="1509373390928" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Dto/AuthorisedDealer/AuthDealerInfoDataViewDTO.php" timestamp="1509450076997">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -1731,11 +1721,11 @@
       <jump line="38" column="10" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgnYWFhYWFhYWFhYWJiYicpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>orized</text>
       </register>
       <register name="-" type="4">
-        <text>show</text>
+        <text>orized</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDT05DRVNJT05BUklPX0lORk9fREFUQVw+</text>
