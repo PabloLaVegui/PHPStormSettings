@@ -456,8 +456,8 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/classified/ClassifiedForm.php" timestamp="1510046309455">
-        <mark key="'" line="22" column="29" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/classified/ClassifiedForm.php" timestamp="1510054745833">
+        <mark key="'" line="651" column="33" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="20" column="32" />
         <mark key="." line="20" column="32" />
@@ -634,7 +634,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510051087957">
+      <file name="/Dummy.txt" timestamp="1510054375328">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/AccessData.php" timestamp="1508920854008">
@@ -1405,7 +1405,7 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/services/ClassifiedUseCase.php" timestamp="1510051832126">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/services/ClassifiedUseCase.php" timestamp="1510054370610">
         <mark key="'" line="218" column="16" />
         <mark key="[" line="253" column="20" />
         <mark key="]" line="253" column="75" />
@@ -1577,9 +1577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/AuthorizedDealerAccessDataController.php" />
-      <jump line="96" column="2" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/AuthorizedDealerUserController.php" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
       <jump line="65" column="22" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/AuthorizedDealerAccessDataController.php" />
       <jump line="36" column="38" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/AuthorizedDealerAccessDataController.php" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/AuthorizedDealerDataController.php" />
@@ -1634,7 +1631,6 @@
       <jump line="167" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/ClassifiedTransformer.php" />
       <jump line="205" column="49" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/Car/Car.php" />
       <jump line="658" column="33" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/classified/ClassifiedForm.php" />
-      <jump line="21" column="29" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/classified/ClassifiedForm.php" />
       <jump line="154" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classified/edit/partials/_viewCar.php" />
       <jump line="321" column="5" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classified/edit/partials/_viewCar.php" />
       <jump line="55" column="26" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classified/edit/partials/_viewCar.php" />
@@ -1677,6 +1673,10 @@
       <jump line="375" column="22" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/services/ClassifiedUseCase.php" />
       <jump line="144" column="23" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/services/ClassifiedUseCase.php" />
       <jump line="218" column="16" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/services/ClassifiedUseCase.php" />
+      <jump line="21" column="10" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/classified/ClassifiedForm.php" />
+      <jump line="753" column="46" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/classified/ClassifiedForm.php" />
+      <jump line="667" column="45" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/classified/ClassifiedForm.php" />
+      <jump line="651" column="33" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/classified/ClassifiedForm.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1686,7 +1686,7 @@
         <text>_validateIfUserCanCreateCar</text>
       </register>
       <register name="/" type="4">
-        <text>validate</text>
+        <text encoding="base64">XDxVUERBVEVfU0NFTkFSSU9cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoISR0aGlzLT5fdmFsaWRhdGVJZlVzZXJDYW5DcmVhdGVDYXIoJHVzZXIpKSB7Cg==</text>
@@ -1723,17 +1723,16 @@
       </register>
     </registers>
     <search>
-      <last-search>validate</last-search>
+      <last-search encoding="base64">XDxVUERBVEVfU0NFTkFSSU9cPg==</last-search>
       <last-offset />
-      <last-pattern>validate</last-pattern>
+      <last-pattern encoding="base64">XDxVUERBVEVfU0NFTkFSSU9cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxfZnJvbUNsYXNzaWZpZWRUb0NsYXNzaWZpZWRGb3JtXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>DealerAccessData</entry>
         <entry encoding="base64">XDxDT05DRVNJT05BUklPX0FDQ0VTU19EQVRBXD4=</entry>
         <entry encoding="base64">XDxhdXRoRGVhbGVyRGF0YVw+</entry>
         <entry encoding="base64">XDxnZXRBdXRoRGVhbGVyQWNjZXNzRGF0YVZpZXdEVE9cPg==</entry>
@@ -1753,6 +1752,7 @@
         <entry encoding="base64">XDxfZnJvbUNsYXNzaWZpZWRUb0NsYXNzaWZpZWRGb3JtXD4=</entry>
         <entry encoding="base64">XDxfdmFsaWRhdGVJZlVzZXJDYW5DcmVhdGVDYXJcPg==</entry>
         <entry>validate</entry>
+        <entry encoding="base64">XDxVUERBVEVfU0NFTkFSSU9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>3</entry>
