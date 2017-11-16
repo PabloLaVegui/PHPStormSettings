@@ -181,11 +181,11 @@
         <mark key="^" line="44" column="20" />
         <mark key="." line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusIndicator.php" timestamp="1510822741876">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusIndicator.php" timestamp="1510828748837">
         <mark key="[" line="23" column="37" />
-        <mark key="]" line="23" column="44" />
-        <mark key="." line="23" column="44" />
-        <mark key="^" line="23" column="44" />
+        <mark key="]" line="23" column="47" />
+        <mark key="." line="23" column="37" />
+        <mark key="^" line="23" column="36" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Position/ScoreChecker.php" timestamp="1499187916183">
         <mark key="[" line="9" column="0" />
@@ -306,6 +306,12 @@
         <mark key="." line="11" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/calendar-api/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" timestamp="1510765283415" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/views/wRejectedActions.php" timestamp="1510828580853">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="7" column="75" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/calendar-api/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/AbstractClassMetadataFactory.php" timestamp="1510736957227" />
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris/Board/FixedGeoMap.php" timestamp="1501341778114">
         <mark key="[" line="12" column="65" />
@@ -367,11 +373,12 @@
         <mark key="^" line="76" column="3" />
         <mark key="." line="76" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" timestamp="1510822811118">
-        <mark key="[" line="22" column="97" />
-        <mark key="]" line="22" column="122" />
-        <mark key="." line="22" column="97" />
-        <mark key="^" line="22" column="31" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" timestamp="1510828664022">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="215" column="19" />
+        <mark key="." line="215" column="19" />
+        <mark key="^" line="215" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/FormFactory.php" timestamp="1510583480389">
         <mark key="[" line="34" column="0" />
@@ -1660,7 +1667,7 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="/PHP Console" timestamp="1510822788105">
+      <file name="/PHP Console" timestamp="1510828771049">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1777,7 +1784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/listClassified/ClassifiedFiltersForm.php" />
       <jump line="328" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classified/edit/partials/_viewCar.php" />
       <jump line="25" column="36" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/_listFilters.php" />
       <jump line="45" column="16" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedListController.php" />
@@ -1877,46 +1883,47 @@
       <jump line="179" column="27" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
       <jump line="57" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
       <jump line="291" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
+      <jump line="117" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wUserInactivedActions</text>
+        <text>deactivate</text>
       </register>
       <register name="-" type="4">
-        <text>wUserInactivedActions</text>
+        <text>rejected</text>
       </register>
       <register name="/" type="4">
         <text>editar</text>
       </register>
       <register name="0" type="4">
-        <text>wValidationPendingActions</text>
+        <text>deactivate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Jlbm92YXRlVXJsJyA9PiAkdGhpcy0+Z2V0UmVub3ZhdGVVcmwoKSwKICAgICAgICAgICAgJ2V4cGlyYXRpb25EYXRlJyA9PiAkdGhpcy0+Y2xhc3NpZmllZFZpZXdEVE8tPmdldEV4cGlyYXRpb25EYXRlKCksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHZhciBzdHJpbmcgJHVybAogKiBAdmFyIHN0cmluZyAkZXhwaXJhdGlvbkRhdGUKICogQHZhciBzdHJpbmcgJGNsaWNrc051bWJlcgogKiBAdmFyIHN0cmluZyAkcmVxdWVzdHNOdW1iZXIKICogQHZhciBVcmxIYW5kbGVyTWl6b25hICRlZGl0VXJsCiAqIEB2YXIgc3RyaW5nICRhbGxvd1Jlbm92YXRpb24KICogQHZhciBVcmxIYW5kbGVyTWl6b25hICRyZW5vdmF0ZVVybAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmlzUGFydGljdWxhclVzZXIoKSApIHsKICAgICAgICAgICAgJHRoaXMtPnJlZGlyZWN0KFVybEhhbmRsZXJNaXpvbmE6OnRha2UoKQogICAgICAgICAgICAgICAgLT53aXRoQWJzb2x1dGVVcmwoKQogICAgICAgICAgICAgICAgLT5teUNsYXNzaWZpZWQoKQogICAgICAgICAgICApOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICogQHZhciBVcmxIYW5kbGVyTWl6b25hICRkaXNhYmxlVXJsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0ZSA9ICcyMDE3LTExLTE1IDAwOjAwOjAwJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChVc2VyICR1c2VyLCAkZGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICA8YSBocmVmPSI8P3BocCBlY2hvICR1cmw7ID8+Ij5JciBhIG1pIGFudW5jaW8gKENhZHVjYSBlbCA8P3BocCBlY2hvICRleHBpcmF0aW9uRGF0ZTsgPz4pPC9hPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRzdXBwb3J0ID0gbmV3IFN1cHBvcnQoJHVzZXIsIG5ldyBcRGF0ZVRpbWUoJ25vdycpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbmRleGVzOgogICAgZGF0ZV9pbmRleDoKICAgICAgY29sdW1uczogWyBkYXRlIF0K</text>
+        <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0ibWl6X2J0biIgaHJlZj0iPD9waHAgZWNobyAkZWRpdFVybDsgPz4iPkVkaXRhcjwvYT4KICAgICAgICA8P3BocCBpZiAoJGFsbG93UmVub3ZhdGlvbikgOiA/Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBEYXRlVGltZSAkZGF0ZQogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBnZXREYXRlU3RyKERhdGVUaW1lICRkYXRlKQogICAgewogICAgICAgIHJldHVybiAkZGF0ZS0+Zm9ybWF0KCdZLW0tZCcpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICA8YSAgY2xhc3M9Im1pel9idG4iIGhyZWY9IiMiIGRhdGEtdG9nZ2xlPSJtb2RhbCIgZGF0YS10YXJnZXQ9IiNyZW5vdmF0ZV9jbGFzc2lmaWVkIj5SZW5vdmFyPC9hPgogICAgICAgIDw/cGhwIGVuZGlmID8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gXERhdGVUaW1lOjpmb3JtYXQoJycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
