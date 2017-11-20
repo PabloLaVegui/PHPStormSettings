@@ -640,7 +640,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510943862090">
+      <file name="/Dummy.txt" timestamp="1511165130034">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/kata-environment/README.md" timestamp="1498343033170">
@@ -947,6 +947,12 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" timestamp="1511165477988">
+        <mark key="[" line="208" column="57" />
+        <mark key="]" line="209" column="11" />
+        <mark key="." line="209" column="11" />
+        <mark key="^" line="209" column="11" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Tetromino/TetrominoBuilder.php" timestamp="1499102370356">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="10" column="23" />
@@ -988,6 +994,11 @@
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/services/ClassifiedUseCase.php" timestamp="1511165226610">
+        <mark key="'" line="128" column="5" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="182" column="19" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/Application/UseCases/AuthorisedDealer/AccessData/UpdateAuthDealerInfoDataRequest.php" timestamp="1509621767355">
         <mark key="[" line="14" column="13" />
@@ -1397,6 +1408,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="43" column="56" />
       </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/Application/UseCases/Classified/EnableClassifiedUseCase.php" timestamp="1511165624202">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="24" column="34" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/phetris7/src/position/Position.php" timestamp="1486839704046">
         <mark key="[" line="33" column="41" />
         <mark key="]" line="33" column="48" />
@@ -1489,8 +1506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="319" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
-      <jump line="42" column="8" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerEurotax.php" />
       <jump line="410" column="8" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
       <jump line="19" column="3" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerEurotax.php" />
       <jump line="36" column="38" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerEurotax.php" />
@@ -1589,10 +1604,12 @@
       <jump line="36" column="54" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/DependenciesTest.php" />
       <jump line="23" column="17" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/src/Domain/Model/Support/Support.php" />
       <jump line="58" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Action/Support/CreateSupportActionTest.php" />
+      <jump line="128" column="5" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/services/ClassifiedUseCase.php" />
+      <jump line="204" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IENhbGxhYmxl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gQ2FyCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IENhbGxhYmxl</text>
@@ -1601,34 +1618,34 @@
         <text>hidden</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0U2FtZSgKICAgICAgICAgICAgSHR0cFJlc3BvbnNlU3RhdHVzOjpCQURfUkVRVUVTVCwKICAgICAgICAgICAgJHJlc3BvbnNlLT5nZXRTdGF0dXNDb2RlKCkKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAkY2FyID0gJHRoaXMtPmNsYXNzaWZpZWRSZXBvc2l0b3J5LT5vbmVCeUlkT3JGYWlsKCRjbGFzc2lmaWVkSWQpOwoKICAgICAgICBpZiAoISRjYXItPmVuYWJsZSgpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBDYW5ub3RFbmFibGVDbGFzc2lmaWVkRXhjZXB0aW9uKCdDYW5ub3QgZW5hYmxlIENhci4gSWQ6ICcgLiAkY2xhc3NpZmllZElkKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiAkY2FyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gQ2FyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNlIHBocERvY3VtZW50b3JcUmVmbGVjdGlvblxUeXBlc1xDYWxsYWJsZV87Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgX19pbnZva2UoKSBtZXRob2QuCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0U2FtZSgyMDQsICRyZXNwb25zZS0+Z2V0U3RhdHVzQ29kZSgpKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ampqampqCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNhcjsgLy8gVE9ETyhwYWJsbykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNsYXNzaWZpZWRVc2VDYXNlLT5lbmFibGVDbGFzc2lmaWVkKCRpZCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNlIHBocERvY3VtZW50b3JcUmVmbGVjdGlvblxUeXBlc1xDYWxsYWJsZV87Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -1677,9 +1694,9 @@
         <entry>wqa</entry>
         <entry>58</entry>
         <entry>79</entry>
-        <entry>vs</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>vs</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
