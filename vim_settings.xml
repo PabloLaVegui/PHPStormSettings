@@ -560,6 +560,11 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/classified/ClassifiedForm.php" timestamp="1511253690468">
+        <mark key="'" line="207" column="44" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="37" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Exception/Board/NotAllowedAddTetrominoException.php" timestamp="1499104667851">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="18" />
@@ -643,6 +648,12 @@
         <mark key="]" line="40" column="50" />
         <mark key="." line="40" column="50" />
         <mark key="^" line="40" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/myData/ChangePasswordForm.php" timestamp="1511254144153">
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="37" column="18" />
+        <mark key="^" line="37" column="18" />
+        <mark key="." line="37" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/calendar-api/infrastructure/Persistence/Doctrine/Repository/DoctrineUserRepository.php" timestamp="1510760509794">
         <mark key="[" line="17" column="0" />
@@ -780,7 +791,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510911044757">
+      <file name="/Dummy.txt" timestamp="1511253349728">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/AccessData.php" timestamp="1508920854008">
@@ -1737,7 +1748,7 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="/PHP Console" timestamp="1510833893539">
+      <file name="/PHP Console" timestamp="1511252943684">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1854,7 +1865,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/listClassified/ClassifiedFiltersForm.php" />
       <jump line="203" column="29" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/classified/ClassifiedForm.php" />
       <jump line="70" column="31" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/listClassified/ClassifiedFiltersForm.php" />
       <jump line="47" column="19" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedListController.php" />
@@ -1954,46 +1964,47 @@
       <jump line="1372" column="27" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/User/User.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/Classified/DeleteClassifiedUseCaseTest.php" />
       <jump line="52" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/MarkRequestAsReadUseCaseTest.php" />
+      <jump line="207" column="44" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/classified/ClassifiedForm.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoQ29uc2VjdXRpdmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgc2VsZjo6SU5QVVRfVEVYVEZJRUxEX09MRF9QQVNTV09SRCwKICAgICAgICAgICAgICAgICdyZXF1aXJlZCcsCiAgICAgICAgICAgICAgICAnbWVzc2FnZScgPT4gJ0VzIG9ibGlnYXRvcmlvIHVuIG3DrW5pbW8gZGUgNiBjYXJhY3RlcmVzJwogICAgICAgICAgICBdLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>W</text>
       </register>
       <register name="/" type="4">
         <text>editar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlck1vY2stPmV4cGVjdHMoc2VsZjo6b25jZSgpKQogICAgICAgICAgICAtPm1ldGhvZCgnZ2V0Q2FycycpCiAgICAgICAgICAgIC0+d2lsbFJldHVybigkdXNlclRvdGFsQ2Fycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgc2VsZjo6SU5QVVRfVEVYVEZJRUxEX09MRF9QQVNTV09SRCwKICAgICAgICAgICAgICAgICdyZXF1aXJlZCcsCiAgICAgICAgICAgICAgICAnbWVzc2FnZScgPT4gJ0VzIG9ibGlnYXRvcmlvIHVuIG3DrW5pbW8gZGUgNiBjYXJhY3RlcmVzJwogICAgICAgICAgICBdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoQ29uc2VjdXRpdmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlck1vY2stPmV4cGVjdHMoc2VsZjo6b25jZSgpKQogICAgICAgICAgICAtPm1ldGhvZCgnaXNOb3REZWFsZXJQaG9uZVZhbGlkYXRlZCcpCiAgICAgICAgICAgIC0+d2lsbFJldHVybih0cnVlKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHVibGljICRvbGRQYXNzd29yZDsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlck1vY2sgPSAkdGhpcy0+Z2V0TW9ja0J1aWxkZXIoVXNlcjo6Y2xhc3MpCiAgICAgICAgICAgIC0+ZGlzYWJsZU9yaWdpbmFsQ29uc3RydWN0b3IoKQogICAgICAgICAgICAtPmdldE1vY2soKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBFc3RhcsOtYSBndWF5IHVzYXIgZWwgb2JqZXRvIFVzZXIgcmVhbCwgcGVybyB0aWVuZSB1bmEgbMOzZ2ljYSBpbmZlcm5hbCBwYXJhIGdlbmVyYXJsbwogICAgICAgICAqIGNvbiBlbCBzdGF0dXMgeSBlbCB0eXBlIGFkZWN1YWRvLCBzaSBhbGd1bmEgdmV6IGVsIHVzdWFyaW8gcGFzYSBhIHNlciB1bmEgY2xhc2UgZGUKICAgICAgICAgKiBudWVzdHJvIGRvbWluaW8sIHBvciBmYXZvciB1c2FyIGVuIGxvcyB0ZXN0IGVsIG9iamVjdG8gcmVhbAogICAgICAgICAqCiAgICAgICAgICogQHZhciBVc2VyIHwgUEhQVW5pdF9GcmFtZXdvcmtfTW9ja09iamVjdF9Nb2NrT2JqZWN0ICR1c2VyTW9jawogICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBAdmFyIFVzZXIgfCBQSFBVbml0X0ZyYW1ld29ya19Nb2NrT2JqZWN0X01vY2tPYmplY3QgJHVzZXJNb2NrCiAgICAgICAgICovCiAgICAgICAgJHVzZXJNb2NrID0gJHRoaXMtPmdldE1vY2tCdWlsZGVyKFVzZXI6OmNsYXNzKQogICAgICAgICAgICAtPmRpc2FibGVPcmlnaW5hbENvbnN0cnVjdG9yKCkKICAgICAgICAgICAgLT5nZXRNb2NrKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoQ29uc2VjdXRpdmUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBFc3RhcsOtYSBndWF5IHVzYXIgZWwgb2JqZXRvIFVzZXIgcmVhbCwgcGVybyB0aWVuZSB1bmEgbMOzZ2ljYSBpbmZlcm5hbCBwYXJhIGdlbmVyYXJsbwogICAgICAgICAqIGNvbiBlbCBzdGF0dXMgeSBlbCB0eXBlIGFkZWN1YWRvLCBzaSBhbGd1bmEgdmV6IGVsIHVzdWFyaW8gcGFzYSBhIHNlciB1bmEgY2xhc2UgZGUKICAgICAgICAgKiBudWVzdHJvIGRvbWluaW8sIHBvciBmYXZvciB1c2FyIGVuIGxvcyB0ZXN0IGVsIG9iamVjdG8gcmVhbAogICAgICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAkdXNlck1vY2stPmV4cGVjdHMoc2VsZjo6b25jZSgpKQogICAgICAgICAgICAtPm1ldGhvZCgnaXNOb3REZWFsZXJQaG9uZVZhbGlkYXRlZCcpCiAgICAgICAgICAgIC0+d2lsbFJldHVybih0cnVlKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IG5ldyBVc2VyKCk7CiAgICAgICAgJHVzZXItPnNldFR5cGVBdXRoZGVhbGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdXNlck1vY2sgPSAkdGhpcy0+Z2V0TW9ja0J1aWxkZXIoVXNlcjo6Y2xhc3MpCiAgICAgICAgICAgIC0+ZGlzYWJsZU9yaWdpbmFsQ29uc3RydWN0b3IoKQogICAgICAgICAgICAtPmdldE1vY2soKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -2049,8 +2060,8 @@
         <entry>238</entry>
         <entry>1409</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
-        <entry>vs</entry>
         <entry>q</entry>
+        <entry>vs</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
