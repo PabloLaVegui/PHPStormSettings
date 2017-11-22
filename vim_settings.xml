@@ -340,11 +340,11 @@
         <mark key="." line="7" column="33" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/myData/PasswordOwnerValidator.php" timestamp="1511281909859">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="61" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/myData/PasswordOwnerValidator.php" timestamp="1511340711461">
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="46" column="7" />
+        <mark key="^" line="46" column="7" />
+        <mark key="." line="46" column="7" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/php-phpunit-xdebug-phpstorm-docker-phpunit5/test/KataTest.php" timestamp="1498339495854">
         <mark key="[" line="13" column="31" />
@@ -657,11 +657,11 @@
         <mark key="^" line="151" column="29" />
         <mark key="." line="151" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/myData/ChangePasswordForm.php" timestamp="1511283557915">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/myData/ChangePasswordForm.php" timestamp="1511339977744">
         <mark key="'" line="115" column="0" />
-        <mark key="[" line="90" column="30" />
-        <mark key="]" line="90" column="54" />
-        <mark key="." line="90" column="54" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
         <mark key="^" line="90" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/calendar-api/infrastructure/Persistence/Doctrine/Repository/DoctrineUserRepository.php" timestamp="1510760509794">
@@ -1537,7 +1537,7 @@
         <mark key="^" line="53" column="29" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/EditPassword/views/WMyDataEditPassword.php" timestamp="1511281642871">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/EditPassword/views/WMyDataEditPassword.php" timestamp="1511339935631">
         <mark key="'" line="110" column="20" />
         <mark key="[" line="42" column="50" />
         <mark key="]" line="42" column="54" />
@@ -1763,7 +1763,7 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="/PHP Console" timestamp="1511282474903">
+      <file name="/PHP Console" timestamp="1511340739192">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1848,7 +1848,7 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyDataController.php" timestamp="1511283556667">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyDataController.php" timestamp="1511339496870">
         <mark key="'" line="47" column="72" />
         <mark key="[" line="220" column="17" />
         <mark key="]" line="220" column="17" />
@@ -1989,7 +1989,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>messages.push(&quot;.CJSON::encode('La contraseña es incorrecta').')</text>
       </register>
       <register name="-" type="4">
         <text>!</text>
@@ -1997,35 +1997,46 @@
       <register name="/" type="4">
         <text encoding="base64">XDxnZXREYXRlRnJvbVRvZGF5XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICAkdGhpcy0+dXBkYXRlUGFzc3dvcmRVc2VDYXNlLT5leGVjdXRlKAogICAgICAgICAgICAgICAgJHRoaXMtPmdldFVzZXJJZCgpLAogICAgICAgICAgICAgICAgJGNoYW5nZVBhc3N3b3JkRm9ybS0+Z2V0T2xkUGFzc3dvcmQoKSwKICAgICAgICAgICAgICAgICRjaGFuZ2VQYXNzd29yZEZvcm0tPmdldE5ld1Bhc3N3b3JkKCkKICAgICAgICAgICAgKTsKCi8vICAgICAgICAgICAgJG1lc3NhZ2UgPSBGbGFzaE1lc3NhZ2U6OnRha2UoKQovLyAgICAgICAgICAgICAgICAtPmZha2VGbGFzaE1lc3NhZ2UoCi8vICAgICAgICAgICAgICAgICAgICBGbGFzaE1lc3NhZ2VTdGF0ZUVudW06OlNVQ0NFU1MsCi8vICAgICAgICAgICAgICAgICAgICAnTGEgY29udHJhc2XDsWEgc2UgaGEgYWN0dWFsaXphZG8gY29uIGV4aXRvJwovLyAgICAgICAgICAgICAgICApOwovLyAgICAgICAgICAgICRzdGF0dXMgPSB0cnVlOwogICAgICAgICAgICBGbGFzaE1lc3NhZ2U6OnRha2VBc1N0YXRlKEZsYXNoTWVzc2FnZVN0YXRlRW51bTo6U1VDQ0VTUykKICAgICAgICAgICAgICAgIC0+c2V0KCdMYSBjb250cmFzZcOxYSBzZSBoYSBhY3R1YWxpemFkbyBjb24gZXhpdG8nKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gJGUpIHsKLy8gICAgICAgICAgICAkbWVzc2FnZSA9IEZsYXNoTWVzc2FnZTo6dGFrZSgpCi8vICAgICAgICAgICAgICAgIC0+ZmFrZUZsYXNoTWVzc2FnZSgKLy8gICAgICAgICAgICAgICAgICAgIEZsYXNoTWVzc2FnZVN0YXRlRW51bTo6RVJST1IsCi8vICAgICAgICAgICAgICAgICAgICAkZS0+Z2V0TWVzc2FnZSgpCi8vICAgICAgICAgICAgICAgICk7Ci8vICAgICAgICAgICAgJHN0YXR1cyA9IGZhbHNlOwogICAgICAgICAgICBGbGFzaE1lc3NhZ2U6OnRha2VBc1N0YXRlKEZsYXNoTWVzc2FnZVN0YXRlRW51bTo6RVJST1IpCiAgICAgICAgICAgICAgICAtPnNldCgnTm8gc2UgaGEgcG9kaWRvIGFjdHVhbGl6YXIgbGEgY29udHJhc2XDsWEuIFBvciBmYXZvciwgaW50w6ludGFsbyBkZSBudWV2byBtw6FzIHRhcmRlLicpOwogICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>messages.push(&quot;.CJSON::encode('La contraseña es incorrecta').')</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmlzQWpheFJlcXVlc3QoKSkgewogICAgICAgICAgICAgJGNoYW5nZVBhc3N3b3JkRm9ybS0+dmFsaWRhdGUoKTsK</text>
+      <register name="1" type="4">
+        <text>$.ajax({
+                    url: '/index.php?r=mizonaControllers/myData/checkPassword/',
+                    type: 'POST',
+                    dataType: 'JSON',
+                    data: {password: value},
+                    success: function (result) {
+                        if (!result['status']) {
+                            alert('dentro');
+                            messages.push(&quot;.CJSON::encode('La contraseña es incorrecta').')
+                        }
+                    }
+                });'</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVyKCdhcHBsaWNhdGlvbi9qc29uJyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmlzQWpheFJlcXVlc3QoKSkgewogICAgICAgICAgICAgJGNoYW5nZVBhc3N3b3JkRm9ybS0+dmFsaWRhdGUoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGllOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVyKCdhcHBsaWNhdGlvbi9qc29uJyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoISkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkRXJyb3IoJ2VycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJvcicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -2036,7 +2047,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxnZXREYXRlRnJvbVRvZGF5XD4=</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxjbGFzc2lmaWVkUmVwb3NpdG9yeVw+</last-substitute>
+      <last-substitute encoding="base64">XDxnZXREYXRlRnJvbVRvZGF5XD4=</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
