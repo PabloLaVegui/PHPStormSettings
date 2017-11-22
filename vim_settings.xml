@@ -340,11 +340,11 @@
         <mark key="." line="7" column="33" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/myData/PasswordOwnerValidator.php" timestamp="1511340711461">
-        <mark key="[" line="45" column="23" />
-        <mark key="]" line="46" column="7" />
-        <mark key="^" line="46" column="7" />
-        <mark key="." line="46" column="7" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/myData/PasswordOwnerValidator.php" timestamp="1511343010741">
+        <mark key="[" line="41" column="89" />
+        <mark key="]" line="41" column="89" />
+        <mark key="^" line="41" column="89" />
+        <mark key="." line="41" column="89" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/php-phpunit-xdebug-phpstorm-docker-phpunit5/test/KataTest.php" timestamp="1498339495854">
         <mark key="[" line="13" column="31" />
@@ -657,11 +657,11 @@
         <mark key="^" line="151" column="29" />
         <mark key="." line="151" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/myData/ChangePasswordForm.php" timestamp="1511339977744">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/myData/ChangePasswordForm.php" timestamp="1511342805140">
         <mark key="'" line="115" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="91" column="14" />
+        <mark key="." line="87" column="0" />
         <mark key="^" line="90" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/calendar-api/infrastructure/Persistence/Doctrine/Repository/DoctrineUserRepository.php" timestamp="1510760509794">
@@ -798,7 +798,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511282266423">
+      <file name="/Dummy.txt" timestamp="1511342245213">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/AccessData.php" timestamp="1508920854008">
@@ -1763,7 +1763,7 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="/PHP Console" timestamp="1511340739192">
+      <file name="/PHP Console" timestamp="1511341744363">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1848,11 +1848,12 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyDataController.php" timestamp="1511339496870">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyDataController.php" timestamp="1511342776559">
         <mark key="'" line="47" column="72" />
-        <mark key="[" line="220" column="17" />
-        <mark key="]" line="220" column="17" />
-        <mark key="." line="220" column="17" />
+        <mark key="[" line="205" column="38" />
+        <mark key="]" line="205" column="42" />
+        <mark key="." line="205" column="42" />
+        <mark key="^" line="205" column="42" />
       </file>
       <file name="$USER_HOME$/Code/php-observer/src/IObserver.php" timestamp="1490734765616">
         <mark key="[" line="5" column="27" />
@@ -1989,18 +1990,42 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>messages.push(&quot;.CJSON::encode('La contraseña es incorrecta').')</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXREYXRlRnJvbVRvZGF5XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>messages.push(&quot;.CJSON::encode('La contraseña es incorrecta').')</text>
+        <text>$('#ChangePasswordForm_old_password_em_')</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoJyNDaGFuZ2VQYXNzd29yZEZvcm1fb2xkX3Bhc3N3b3JkX2VtXycpLmh0bWwoJ2phcnJycnJsbGwnKS5zaG93KCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgc2VsZjo6SU5QVVRfVEVYVEZJRUxEX09MRF9QQVNTV09SRCwKICAgICAgICAgICAgICAgICdQYXNzd29yZE93bmVyVmFsaWRhdG9yJywKLy8gICAgICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICdlc3RlIHllIGVsIGRlbCBmb3JtdWxhcmlvIGNvbnRyYXNlw7FhIGVzIGluY29ycmVjdGEnCiAgICAgICAgICAgIF0sCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgnI0NoYW5nZVBhc3N3b3JkRm9ybV9vbGRfcGFzc3dvcmRfZW1fJykuaGlkZSgpOwogICAgICAgICAgICAgICAgICAgICAgICB9</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgc2VsZjo6SU5QVVRfVEVYVEZJRUxEX09MRF9QQVNTV09SRCwKICAgICAgICAgICAgICAgICdQYXNzd29yZE93bmVyVmFsaWRhdG9yJywKLy8gICAgICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICdlc3RlIHllIGVsIGRlbCBmb3JtdWxhcmlvIGNvbnRyYXNlw7FhIGVzIGluY29ycmVjdGEnCiAgICAgICAgICAgIF0sCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsZXJ0KCdkZW50cm8nKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2VzLnB1c2goIi5DSlNPTjo6ZW5jb2RlKCdMYSBjb250cmFzZcOxYSBlcyBpbmNvcnJlY3RhJykuIikK</text>
+      </register>
+      <register name="9" type="4">
         <text>$.ajax({
                     url: '/index.php?r=mizonaControllers/myData/checkPassword/',
                     type: 'POST',
@@ -2013,30 +2038,6 @@
                         }
                     }
                 });'</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmlzQWpheFJlcXVlc3QoKSkgewogICAgICAgICAgICAgJGNoYW5nZVBhc3N3b3JkRm9ybS0+dmFsaWRhdGUoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVyKCdhcHBsaWNhdGlvbi9qc29uJyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -2083,7 +2084,6 @@
         <entry>25</entry>
         <entry>67</entry>
         <entry>x</entry>
-        <entry>w</entry>
         <entry>263</entry>
         <entry>95</entry>
         <entry>47</entry>
@@ -2094,6 +2094,7 @@
         <entry>vs</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
