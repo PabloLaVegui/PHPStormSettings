@@ -209,12 +209,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandler.php" timestamp="1511952897832">
-        <mark key="'" line="62" column="15" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="40" column="19" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandler.php" timestamp="1511953739785">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="40" column="48" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Classified/ClassifiedCreationValidator.php" timestamp="1510917243520">
         <mark key="[" line="15" column="23" />
@@ -1629,7 +1629,7 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="/PHP Console" timestamp="1511953087499">
+      <file name="/PHP Console" timestamp="1511953104119">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1752,7 +1752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="27" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
       <jump line="57" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
       <jump line="291" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
       <jump line="117" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
@@ -1852,10 +1851,11 @@
       <jump line="39" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandler.php" />
       <jump line="70" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandler.php" />
       <jump line="62" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandler.php" />
+      <jump line="49" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandler.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChVcmxIYW5kbGVyTWl6b25hOjp0YWtlKCktPndpdGhBYnNvbHV0ZVVybCgpLT4oJ3BlcGUnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAqICZpZGlkaT1hYWEmcGVwZT1wb3BvCg==</text>
       </register>
       <register name="-" type="4">
         <text>withParamAsSegment</text>
@@ -1864,34 +1864,34 @@
         <text>withParams</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChVcmxIYW5kbGVyTWl6b25hOjp0YWtlKCktPndpdGhBYnNvbHV0ZVVybCgpLT53aXRoUGFyYW1Bc1NlZ21lbnQoJ3BlcGUnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3Vic3RyKCR0aGlzLT5fdXJsYnVpbGRlZCwgMCwgLTEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChVcmxIYW5kbGVyTWl6b25hOjp0YWtlKCktPndpdGhBYnNvbHV0ZVVybCgpLT4oJ3BlcGUnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAqICZpZGlkaT1hYWEmcGVwZT1wb3BvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiAK</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgVE9ETyhwYWJsbyk6IG5vIHNlIHVzYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICogVE9ETyhwYWJsbyk6IG5vIHNlIHVzYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogJmlkaWRpPWFhYSZwZXBlPXBvcG8KICAgICAqIEBwYXJhbSAkcHJvcGVydGllcwogICAgICoKICAgICAqIEByZXR1cm4gYm9vbHxzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGFkZFBhcmFtcygkcHJvcGVydGllcykKICAgIHsKICAgICAgICAkdGhpcy0+X3VybGJ1aWxkZWQgLj0gIiYiOwogICAgICAgICR0aGlzLT5zZXRQYXJhbXMoJHByb3BlcnRpZXMpOwoKICAgICAgICByZXR1cm4gc3Vic3RyKCR0aGlzLT5fdXJsYnVpbGRlZCwgMCwgLTEpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChVcmxIYW5kbGVyTWl6b25hOjp0YWtlKCktPndpdGhBYnNvbHV0ZVVybCgpLT4oJ3BlcGUnKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGFycmF5ICRwcm9wZXJ0aWVzCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gc2V0UGFyYW1zKCRwcm9wZXJ0aWVzKQogICAgewogICAgICAgIGZvcmVhY2ggKCRwcm9wZXJ0aWVzIGFzICRuYW1lID0+ICR2YWx1ZSkgewogICAgICAgICAgICAkdGhpcy0+X3VybGJ1aWxkZWQgLj0gJG5hbWUgLiAnPScgLiAkdmFsdWUgLiAnJic7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRwcm9wZXJ0aWVzCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gc2V0UGFyYW1zKCRwcm9wZXJ0aWVzKQogICAgewogICAgICAgIGZvcmVhY2ggKCRwcm9wZXJ0aWVzIGFzICRuYW1lID0+ICR2YWx1ZSkgewogICAgICAgICAgICAkdGhpcy0+X3VybGJ1aWxkZWQgLj0gJG5hbWUgLiAnPScgLiAkdmFsdWUgLiAnJic7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgVE9ETyhwYWJsbyk6IG5vIHNlIHVzYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICogVE9ETyhwYWJsbyk6IG5vIHNlIHVzYQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
