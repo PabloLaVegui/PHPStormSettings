@@ -209,12 +209,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandler.php" timestamp="1511953739785">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="40" column="48" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandler.php" timestamp="1511954006792">
+        <mark key="'" line="82" column="20" />
+        <mark key="[" line="95" column="7" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Classified/ClassifiedCreationValidator.php" timestamp="1510917243520">
         <mark key="[" line="15" column="23" />
@@ -1752,8 +1752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
-      <jump line="291" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
       <jump line="117" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
       <jump line="214" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/MarkRequestAsReadUseCaseTest.php" />
@@ -1852,6 +1850,8 @@
       <jump line="70" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandler.php" />
       <jump line="62" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandler.php" />
       <jump line="49" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandler.php" />
+      <jump line="99" column="39" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandler.php" />
+      <jump line="82" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandler.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1861,7 +1861,7 @@
         <text>withParamAsSegment</text>
       </register>
       <register name="/" type="4">
-        <text>withParams</text>
+        <text encoding="base64">XDxnZXRRdWVyeVBhcmFtU3RyaW5nXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gc3Vic3RyKCR0aGlzLT5fdXJsYnVpbGRlZCwgMCwgLTEpOwo=</text>
@@ -1898,17 +1898,16 @@
       </register>
     </registers>
     <search>
-      <last-search>withParams</last-search>
+      <last-search encoding="base64">XDxnZXRRdWVyeVBhcmFtU3RyaW5nXD4=</last-search>
       <last-offset />
-      <last-pattern>withParams</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRRdWVyeVBhcmFtU3RyaW5nXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>QUERY_PARAM</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>resetpass</entry>
         <entry encoding="base64">XDxERUxFVEVcPg==</entry>
         <entry>recoverypas</entry>
         <entry encoding="base64">XDxDTEFTU0lGSUVEX0lOVEVSQUNUSU9OU19EQVRFX1JBTkdFX0lOSVRcPg==</entry>
@@ -1928,6 +1927,7 @@
         <entry encoding="base64">XDxzZXRQYXJhbXNcPg==</entry>
         <entry>setParams</entry>
         <entry>withParams</entry>
+        <entry encoding="base64">XDxnZXRRdWVyeVBhcmFtU3RyaW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>41</entry>
