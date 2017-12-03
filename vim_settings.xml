@@ -1314,12 +1314,12 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Infrastructure/Persistence/Doctrine/Repository/DoctrineSupportRepositoryTest.php" timestamp="1512250243763">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="39" />
-        <mark key="^" line="7" column="39" />
-        <mark key="." line="7" column="39" />
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Infrastructure/Persistence/Doctrine/Repository/DoctrineSupportRepositoryTest.php" timestamp="1512250489245">
+        <mark key="'" line="51" column="17" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="49" column="26" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/src/Application/UseCase/Support/CreateSupportUseCase.php" timestamp="1512245285240">
         <mark key="[" line="41" column="39" />
@@ -1677,7 +1677,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="17" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classified/edit/partials/_viewCar.php" />
       <jump line="123" column="17" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classified/edit/partials/_viewCar.php" />
       <jump line="297" column="23" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classified/edit/partials/_viewCar.php" />
       <jump line="298" column="23" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classified/edit/partials/_viewCar.php" />
@@ -1777,13 +1776,14 @@
       <jump line="48" column="11" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Infrastructure/Persistence/Doctrine/Repository/DoctrineSupportRepositoryTest.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Infrastructure/Persistence/Doctrine/Repository/DoctrineSupportRepositoryTest.php" />
       <jump line="31" column="11" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/infrastructure/Persistence/Doctrine/Repository/DoctrineSupportRepository.php" />
+      <jump line="51" column="17" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Infrastructure/Persistence/Doctrine/Repository/DoctrineSupportRepositoryTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\Exception</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIDsK</text>
       </register>
       <register name="-" type="4">
-        <text>\Exception</text>
+        <text>ResourceAlreadyExistsException</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVNeURhdGFVc2VDYXNlXD4=</text>
@@ -1792,31 +1792,31 @@
         <text encoding="base64">ICAgICAgICAkcmVwb3NpdG9yeSA9IG5ldyBEb2N0cmluZVN1cHBvcnRSZXBvc2l0b3J5KCR0aGlzLT5lbnRpdHlNYW5hZ2VyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">dXNlIDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKiBAZXhwZWN0ZWRFeGNlcHRpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNyZWF0ZV9hbl9leGlzdHNfc3VwcG9ydF9zaG91bGRfdGhyb3dfZXhjZXB0aW9uKCkKICAgIHsKICAgICAgICAkZW1haWwgPSAndGVzdEBjb2NoZXMuY29tJzsKICAgICAgICAkZGF0ZSA9IG5ldyBEYXRlKCcyMDE3JywgJzEyJywgJzAyJyk7CiAgICAgICAgJHJlcXVlc3QgPSBuZXcgQ3JlYXRlU3VwcG9ydFJlcXVlc3QoJGVtYWlsLCAkZGF0ZSk7CgogICAgICAgICR0aGlzLT5zdXBwb3J0UmVwb3NpdG9yeU1vY2stPmV4cGVjdHMoc2VsZjo6b25jZSgpKQogICAgICAgICAgICAtPm1ldGhvZCgnY291bnQnKQogICAgICAgICAgICAtPndpbGxSZXR1cm4oMSk7CgogICAgICAgICR0aGlzLT51c2VDYXNlLT5leGVjdXRlKCRyZXF1ZXN0KTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKiBAZXhwZWN0ZWRFeGNlcHRpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNyZWF0ZV9hbl9leGlzdHNfc3VwcG9ydF9zaG91bGRfdGhyb3dfZXhjZXB0aW9uKCkKICAgIHsKICAgICAgICAkZW1haWwgPSAndGVzdEBjb2NoZXMuY29tJzsKICAgICAgICAkZGF0ZSA9IG5ldyBEYXRlKCcyMDE3JywgJzEyJywgJzAyJyk7CiAgICAgICAgJHJlcXVlc3QgPSBuZXcgQ3JlYXRlU3VwcG9ydFJlcXVlc3QoJGVtYWlsLCAkZGF0ZSk7CgogICAgICAgICR0aGlzLT5zdXBwb3J0UmVwb3NpdG9yeU1vY2stPmV4cGVjdHMoc2VsZjo6b25jZSgpKQogICAgICAgICAgICAtPm1ldGhvZCgnY291bnQnKQogICAgICAgICAgICAtPndpbGxSZXR1cm4oMSk7CgogICAgICAgICR0aGlzLT51c2VDYXNlLT5leGVjdXRlKCRyZXF1ZXN0KTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlQ2FzZSA9IG5ldyBDcmVhdGVTdXBwb3J0VXNlQ2FzZSgKICAgICAgICAgICAgJHVzZXJSZXBvc2l0b3J5TW9jaywKICAgICAgICAgICAgJHN1cHBvcnRSZXBvc2l0b3J5TW9jawogICAgICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkdXNlQ2FzZSA9IG5ldyBDcmVhdGVTdXBwb3J0VXNlQ2FzZSgKICAgICAgICAgICAgJHVzZXJSZXBvc2l0b3J5TW9jaywKICAgICAgICAgICAgJHN1cHBvcnRSZXBvc2l0b3J5TW9jawogICAgICAgICk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBTdXBwb3J0UmVwb3NpdG9yeSB8IFBIUFVuaXRfRnJhbWV3b3JrX01vY2tPYmplY3RfTW9ja09iamVjdCAkc3VwcG9ydFJlcG9zaXRvcnlNb2NrICovCiAgICAgICAgJHRoaXMtPnN1cHBvcnRSZXBvc2l0b3J5TW9jayA9ICR0aGlzLT5nZXRNb2NrQnVpbGRlcihTdXBwb3J0UmVwb3NpdG9yeTo6Y2xhc3MpCiAgICAgICAgICAgIC0+Z2V0TW9jaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdXNlQ2FzZSA9IG5ldyBDcmVhdGVTdXBwb3J0VXNlQ2FzZSgKICAgICAgICAgICAgJHVzZXJSZXBvc2l0b3J5TW9jaywKICAgICAgICAgICAgJHN1cHBvcnRSZXBvc2l0b3J5TW9jawogICAgICAgICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBVc2VyUmVwb3NpdG9yeSB8IFBIUFVuaXRfRnJhbWV3b3JrX01vY2tPYmplY3RfTW9ja09iamVjdCAkdXNlclJlcG9zaXRvcnlNb2NrICovCiAgICAgICAgJHVzZXJSZXBvc2l0b3J5TW9jayA9ICR0aGlzLT5nZXRNb2NrQnVpbGRlcihVc2VyUmVwb3NpdG9yeTo6Y2xhc3MpCiAgICAgICAgICAgIC0+Z2V0TW9jaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBTdXBwb3J0UmVwb3NpdG9yeSB8IFBIUFVuaXRfRnJhbWV3b3JrX01vY2tPYmplY3RfTW9ja09iamVjdCAkc3VwcG9ydFJlcG9zaXRvcnlNb2NrICovCiAgICAgICAgJHRoaXMtPnN1cHBvcnRSZXBvc2l0b3J5TW9jayA9ICR0aGlzLT5nZXRNb2NrQnVpbGRlcihTdXBwb3J0UmVwb3NpdG9yeTo6Y2xhc3MpCiAgICAgICAgICAgIC0+Z2V0TW9jaygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
