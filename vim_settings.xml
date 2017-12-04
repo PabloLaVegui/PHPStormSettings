@@ -218,12 +218,12 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Response/ErrorResponseMiddlewareTest.php" timestamp="1512389326781">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="16" />
-        <mark key="." line="103" column="0" />
-        <mark key="^" line="119" column="39" />
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Response/ErrorResponseMiddlewareTest.php" timestamp="1512391065880">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="39" column="57" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Board/BoardChecker.php" timestamp="1499382368720">
         <mark key="[" line="26" column="4" />
@@ -1673,8 +1673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="23" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classified/edit/partials/_viewCar.php" />
-      <jump line="299" column="23" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classified/edit/partials/_viewCar.php" />
       <jump line="248" column="20" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
       <jump line="249" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
       <jump line="256" column="20" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
@@ -1773,46 +1771,48 @@
       <jump line="51" column="17" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Infrastructure/Persistence/Doctrine/Repository/DoctrineSupportRepositoryTest.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Response/ErrorResponseMiddlewareTest.php" />
       <jump line="63" column="14" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/application/Response/ErrorResponseMiddleware.php" />
+      <jump line="39" column="4" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Response/ErrorResponseMiddlewareTest.php" />
+      <jump line="120" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Response/ErrorResponseMiddlewareTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBSZXNwb25zZSAkcmVzcG9uc2UKICAgICAqIEBwYXJhbSBIdHRwUmVzcG9uc2VTdGF0dXMgfCBpbnQgJHJlc3BvbnNlU3RhdHVzCiAgICAgKiBAcGFyYW0gYXJyYXkgJGVycm9yc0luZm8KICAgICAqIEByZXR1cm4gUmVzcG9uc2UKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiB3aXRoSnNvbkVycm9yc0luZm8oCiAgICAgICAgUmVzcG9uc2UgJHJlc3BvbnNlLAogICAgICAgICRlcnJvcnNJbmZvCiAgICApIHsKICAgICAgICByZXR1cm4gJHJlc3BvbnNlLT53aXRoSnNvbihbCiAgICAgICAgICAgICdlcnJvcnMnID0+IFskZXJyb3JzSW5mb10KICAgICAgICBdKTsKICAgIH0K</text>
+        <text encoding="base64">Ci8vICAgICAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoJ2Vycm9ycycsICRib2R5KTsKLy8gICAgICAgICR0aGlzLT5hc3NlcnRBcnJheUhhc0tleSgnbWVzc2FnZScsICRib2R5WydlcnJvcnMnXVswXSk7Ci8vICAgICAgICAkdGhpcy0+YXNzZXJ0U2FtZSgkZXhwZWN0ZWRFcnJvck1lc3NhZ2UsICRib2R5WydlcnJvcnMnXVswXVsnbWVzc2FnZSddKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>expectedErrorMessage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVNeURhdGFVc2VDYXNlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">WydtZXNzYWdlJyA9PiAkZS0+Z2V0TWVzc2FnZSgpXQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgICRleHBlY3RlZEVycm9yTWVzc2FnZSA9ICdlcnJvciBtZXNzYWdlIHRlc3QnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBSZXNwb25zZSAkcmVzcG9uc2UKICAgICAqIEBwYXJhbSBIdHRwUmVzcG9uc2VTdGF0dXMgfCBpbnQgJHJlc3BvbnNlU3RhdHVzCiAgICAgKiBAcGFyYW0gYXJyYXkgJGVycm9yc0luZm8KICAgICAqIEByZXR1cm4gUmVzcG9uc2UKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiB3aXRoSnNvbkVycm9yc0luZm8oCiAgICAgICAgUmVzcG9uc2UgJHJlc3BvbnNlLAogICAgICAgICRlcnJvcnNJbmZvCiAgICApIHsKICAgICAgICByZXR1cm4gJHJlc3BvbnNlLT53aXRoSnNvbihbCiAgICAgICAgICAgICdlcnJvcnMnID0+IFskZXJyb3JzSW5mb10KICAgICAgICBdKTsKICAgIH0K</text>
+        <text encoding="base64">Ci8vICAgICAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoJ2Vycm9ycycsICRib2R5KTsKLy8gICAgICAgICR0aGlzLT5hc3NlcnRBcnJheUhhc0tleSgnbWVzc2FnZScsICRib2R5WydlcnJvcnMnXVswXSk7Ci8vICAgICAgICAkdGhpcy0+YXNzZXJ0U2FtZSgkZXhwZWN0ZWRFcnJvck1lc3NhZ2UsICRib2R5WydlcnJvcnMnXVswXVsnbWVzc2FnZSddKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3BvbnNlID0gCiAgICAgICAgICAgIHJldHVybiAgJHJlc3BvbnNlLT53aXRoU3RhdHVzKEh0dHBSZXNwb25zZVN0YXR1czo6SU5URVJOQUxfRVJST1IpOwogICAgICAgICAgICAKICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Ci8vICAgICAgICAkYm9keSA9IGpzb25fZGVjb2RlKChzdHJpbmcpJHJlc3BvbnNlLT5nZXRCb2R5KCksIHRydWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICRleHBlY3RlZEVycm9yTWVzc2FnZSA9ICdlcnJvciBtZXNzYWdlIHRlc3QnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT53aXRoSnNvbkVycm9ycygK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2VTdGF0dXMsCg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2VCb2R5ID0ganNvbl9kZWNvZGUoKHN0cmluZykkcmVzcG9uc2UtPmdldEJvZHkoKSwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
