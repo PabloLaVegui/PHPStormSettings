@@ -341,12 +341,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" timestamp="1513699353145">
-        <mark key="'" line="112" column="34" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="169" column="15" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" timestamp="1513700944905">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="^" line="74" column="7" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/repositories/AuthorisedDealerRepository.php" timestamp="1509370520302">
         <mark key="[" line="5" column="14" />
@@ -2144,7 +2144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/repositories/ClassifiedsRepository.php" />
       <jump line="75" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
       <jump line="51" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/balance/showBalance.php" />
       <jump line="239" column="27" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classified/edit/partials/_viewCar.php" />
@@ -2244,13 +2243,14 @@
       <jump line="481" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
       <jump line="383" column="11" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
       <jump line="116" column="34" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
+      <jump line="88" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGF5T3JkZXJVc2VDYXNlID0gJHRoaXMtPmNvbnRhaW5lcigpCiAgICAgICAgICAgIC0+Z2V0KFBheU9yZGVyVXNlQ2FzZTo6Y2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8vLy8vLy8vLyBVc2VDYXNlCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGltcGxlbWVudHMgUGF5bWVudEdhdGV3YXk=</text>
+        <text encoding="base64">IC8vIFRPRE8oUGFibG8pOiBERVNDT01FTlRBUiEhISEhISEhISEhISE=</text>
       </register>
       <register name="/" type="4">
         <text>actionCancel</text>
@@ -2259,31 +2259,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnZhbGlkYXRlT3JkZXJUb1BheSgkb3JkZXIsICR1c2VyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGF5T3JkZXJVc2VDYXNlID0gJHRoaXMtPmNvbnRhaW5lcigpCiAgICAgICAgICAgIC0+Z2V0KFBheU9yZGVyVXNlQ2FzZTo6Y2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8vLy8vLy8vLyBVc2VDYXNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIFBheU9yZGVyVXNlQ2FzZSAqLwogICAgcHJpdmF0ZSAkcGF5T3JkZXJVc2VDYXNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdhcHBsaWNhdGlvbi5BcHBsaWNhdGlvbi5Vc2VDYXNlcy5PcmRlci4qJywK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoISRvcmRlci0+aXNUaGlzVXNlcigkdXNlcikpIHsKLy8gICAgICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigpOyAvLyBUT0RPKFBhYmxvKToKLy8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT52YWxpZGF0ZU9yZGVyVG9QYXkoJG9yZGVyLCAkdXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8oUGFibG8pOiBERVNDT01FTlRBUiEhISEhISEhISEhISEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnBheU9yZGVyVXNlQ2FzZS0+ZXhlY3V0ZSgKICAgICAgICAgICAgICAgICRvcmRlciwKICAgICAgICAgICAgICAgICR1c2VyLAogICAgICAgICAgICAgICAgT3JkZXI6OlBBWU1FTlRfVFlQRV9ESVJFQ1RfREVCSVQKICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gc2kgZWwgdXN1YXJpbyBubyB0ZW5pYSBhc29jaWFkYSBzZSB2YWxpZGEgZWwgZm9ybXVsYXJpbyB5IHNlIGxlIGFzb2NpYSBsYSBjdWVudGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVybE9yZGVyQ2FuY2VsID0gWWlpOjphcHAoKS0+Y3JlYXRlVXJsKHNlbGY6OlJPVVRFIC4nLycuIHNlbGY6OlJPVVRFX0NBTkNFTCwgYXJyYXkoJ29pZCcgPT4gJG9yZGVySWQpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVybE9yZGVyQ2FuY2VsID0gVXNlclNlY3VyZUNvbnRyb2xsZXI6OmdldFVybAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVmFsaWRhdGUgUE9TVAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkdXJsT3JkZXJDYW5jZWwgPSBZaWk6OmFwcCgpLT5jcmVhdGVVcmwoc2VsZjo6Uk9VVEUgLicvJy4gc2VsZjo6Uk9VVEVfQ0FOQ0VMLCBhcnJheSgnb2lkJyA9PiAkb3JkZXJJZCkpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJHRoaXMtPnJlZGlyZWN0KFlpaTo6YXBwKCktPlBheXBhbC0+cGF5cGFsVXJsIC4gJG9yZGVyLT50cmFuc2FjdGlvbl9pZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyhQYWJsbyk6IEZMQVNICg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAkdXJsT3JkZXJDYW5jZWwgPSAnbWl6b25hQ29udHJvbGxlcnMvQmFsYW5jZS9jYW5jZWxPcmRlciZvaWQ9Jy4kb3JkZXItPmlkOyAvLyBUT0RPKFBhYmxvKToKLy8gICAgICAgICAgICAkdXJsT3JkZXJDYW5jZWwgPSBZaWk6OmFwcCgpLT5jcmVhdGVVcmwoc2VsZjo6Uk9VVEUgLicvJy4gc2VsZjo6Uk9VVEVfQ0FOQ0VMLCBhcnJheSgnb2lkJyA9PiAkb3JkZXJJZCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
