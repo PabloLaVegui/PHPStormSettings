@@ -237,11 +237,12 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/Payment/PayPalGateway.php" timestamp="1513684454312">
-        <mark key="[" line="42" column="44" />
-        <mark key="]" line="42" column="44" />
-        <mark key="^" line="82" column="56" />
-        <mark key="." line="42" column="44" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/Payment/PayPalGateway.php" timestamp="1513690015462">
+        <mark key="'" line="41" column="21" />
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="26" column="23" />
+        <mark key="^" line="26" column="23" />
+        <mark key="." line="26" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/enums/routes/BalanceRoutes.php" timestamp="1513598072098">
         <mark key="[" line="5" column="19" />
@@ -1033,8 +1034,8 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/PaymentGatewayController.php" timestamp="1513684854564">
-        <mark key="'" line="158" column="0" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/PaymentGatewayController.php" timestamp="1513690046438">
+        <mark key="'" line="119" column="20" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="28" column="112" />
         <mark key="." line="52" column="0" />
@@ -2138,11 +2139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
-      <jump line="81" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
-      <jump line="51" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
-      <jump line="78" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
-      <jump line="11" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/FormFactory.php" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/Forms/OrderForm.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/generic/config/main.php" />
@@ -2238,10 +2234,15 @@
       <jump line="366" column="53" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/PaymentGatewayController.php" />
       <jump line="12" column="34" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/PaymentGatewayController.php" />
       <jump line="158" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/PaymentGatewayController.php" />
+      <jump line="42" column="19" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/Payment/PayPalGateway.php" />
+      <jump line="41" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/Payment/PayPalGateway.php" />
+      <jump line="294" column="37" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/PaymentGatewayController.php" />
+      <jump line="43" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/PaymentGatewayController.php" />
+      <jump line="119" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/PaymentGatewayController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Confirm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgWWlpOjphcHAoKS0+UGF5cGFsLT5yZXR1cm5VcmwgPSBZaWk6OmFwcCgpLT5jcmVhdGVBYnNvbHV0ZVVybChzZWxmOjpST1VURS4nLycuc2VsZjo6Uk9VVEVfQ09NUExFVEVfUFApOwogICAgICAgICAgICBZaWk6OmFwcCgpLT5QYXlwYWwtPmNhbmNlbFVybCA9IFlpaTo6YXBwKCktPmNyZWF0ZUFic29sdXRlVXJsKHNlbGY6OlJPVVRFLicvJy5zZWxmOjpST1VURV9DQU5DRUxfUFApOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Confirm</text>
@@ -2250,7 +2251,7 @@
         <text>actionPayp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaHR0cHM6Ly9kZXZlbC1taXpvbmEuY29jaGVzLmNvbS9pbmRleC5waHA/cj1taXpvbmFDb250cm9sbGVycy9CYWxhbmNlL3BheXBhbENvbmZpcm0nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWWlpOjphcHAoKS0+UGF5cGFsLT5yZXR1cm5VcmwgPSBZaWk6OmFwcCgpLT5jcmVhdGVBYnNvbHV0ZVVybChzZWxmOjpST1VURS4nLycuc2VsZjo6Uk9VVEVfQ09NUExFVEVfUFApOwogICAgICAgICAgICBZaWk6OmFwcCgpLT5QYXlwYWwtPmNhbmNlbFVybCA9IFlpaTo6YXBwKCktPmNyZWF0ZUFic29sdXRlVXJsKHNlbGY6OlJPVVRFLicvJy5zZWxmOjpST1VURV9DQU5DRUxfUFApOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRSVUU7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgaWYgKCFlbXB0eSgkb3JkZXIpKSB7CiAgICAgICAgICAgICAgICAkb3JkZXItPnNldFBheXBhbFN0YXR1cyhPcmRlcjo6TE9HX1BBWVBBTF9FUlJPUiwgJHJlcyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgJHRoaXMtPnJlbmRlcignLy8nLnNlbGY6OlJPVVRFLicvJy5zZWxmOjpST1VURV9FUlJPUiwgYXJyYXkoJ2RhdGEnPT4kcmVzKSApOwogICAgICAgICAgICByZXR1cm4gRkFMU0U7CiAgICAgICAgfQo=</text>
@@ -2309,10 +2310,10 @@
         <entry>domain</entry>
         <entry>actionBank</entry>
         <entry>Paypal</entry>
-        <entry encoding="base64">XDxjaGVja1BheXBhbFJlc3VsdFw+</entry>
         <entry>returnUrl</entry>
-        <entry>actionPay</entry>
         <entry>palConfirm</entry>
+        <entry encoding="base64">XDxjaGVja1BheXBhbFJlc3VsdFw+</entry>
+        <entry>actionPay</entry>
         <entry>actionPayp</entry>
       </history-search>
       <history-cmd>
