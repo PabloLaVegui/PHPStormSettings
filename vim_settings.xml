@@ -1225,11 +1225,12 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" timestamp="1513776150639">
-        <mark key="'" line="412" column="21" />
-        <mark key="[" line="353" column="0" />
-        <mark key="]" line="360" column="10" />
-        <mark key="^" line="113" column="42" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" timestamp="1513776817371">
+        <mark key="'" line="113" column="19" />
+        <mark key="[" line="174" column="35" />
+        <mark key="]" line="172" column="30" />
+        <mark key="^" line="172" column="30" />
+        <mark key="." line="172" column="30" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Event/EventEnd.php" timestamp="1499446815447">
         <mark key="[" line="11" column="18" />
@@ -2186,8 +2187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/PaymentGatewayController.php" />
-      <jump line="195" column="38" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
       <jump line="233" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/PaymentGatewayController.php" />
       <jump line="6" column="33" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/PaymentGatewayController.php" />
       <jump line="248" column="10" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
@@ -2286,16 +2285,18 @@
       <jump line="364" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
       <jump line="402" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/PaymentGatewayController.php" />
       <jump line="423" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
+      <jump line="68" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
+      <jump line="113" column="19" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkb3JkZXJGb3JtID0gJHRoaXMtPmdldE5ld0JhbGFuY2VPcmRlckZvcm0oKTsKCiAgICAgICAgJHRoaXMtPnJlbmRlcignLy9taXpvbmFEZXNpZ24vYmFsYW5jZS9zaG93QmFsYW5jZScsIFsKICAgICAgICAgICAgJ3Nob3dCYWxhbmNlVmlld0RUTycgPT4gJHRoaXMtPnNob3dCYWxhbmNlVmlld0RUT0J1aWxkZXItPmJ1aWxkKAogICAgICAgICAgICAgICAgJG9yZGVyRm9ybSwKICAgICAgICAgICAgICAgICR1c2VyCiAgICAgICAgICAgICkKICAgICAgICBdKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Pay</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>Pay</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRDYW5jZWxPcmRlclVybFw+</text>
+        <text encoding="base64">XDxzZXRVcFBheXBhbEFuZFBheVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkb3JkZXJGb3JtID0gJHRoaXMtPmdldE5ld0JhbGFuY2VPcmRlckZvcm0oKTsKCiAgICAgICAgJHRoaXMtPnJlbmRlcignLy9taXpvbmFEZXNpZ24vYmFsYW5jZS9zaG93QmFsYW5jZScsIFsKICAgICAgICAgICAgJ3Nob3dCYWxhbmNlVmlld0RUTycgPT4gJHRoaXMtPnNob3dCYWxhbmNlVmlld0RUT0J1aWxkZXItPmJ1aWxkKAogICAgICAgICAgICAgICAgJG9yZGVyRm9ybSwKICAgICAgICAgICAgICAgICR1c2VyCiAgICAgICAgICAgICkKICAgICAgICBdKTsK</text>
@@ -2332,9 +2333,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRDYW5jZWxPcmRlclVybFw+</last-search>
+      <last-search encoding="base64">XDxzZXRVcFBheXBhbEFuZFBheVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRDYW5jZWxPcmRlclVybFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRVcFBheXBhbEFuZFBheVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>SEE</last-substitute>
       <last-dir>-1</last-dir>
@@ -2342,7 +2343,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Paypal</entry>
         <entry>returnUrl</entry>
         <entry>palConfirm</entry>
         <entry encoding="base64">XDxjaGVja1BheXBhbFJlc3VsdFw+</entry>
@@ -2362,6 +2362,7 @@
         <entry encoding="base64">XDxnZXRPcmRlckZvcm1Gcm9tUmVxdWVzdFw+</entry>
         <entry>bankAccountFor</entry>
         <entry encoding="base64">XDxnZXRDYW5jZWxPcmRlclVybFw+</entry>
+        <entry encoding="base64">XDxzZXRVcFBheXBhbEFuZFBheVw+</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
