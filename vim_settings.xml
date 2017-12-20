@@ -188,12 +188,12 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/balance/BalanceOrderForm.php" timestamp="1513760839626">
-        <mark key="'" line="51" column="19" />
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="15" column="18" />
-        <mark key="^" line="15" column="18" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/balance/BalanceOrderForm.php" timestamp="1513778073292">
+        <mark key="'" line="67" column="19" />
+        <mark key="[" line="43" column="14" />
+        <mark key="]" line="43" column="17" />
+        <mark key="." line="43" column="17" />
+        <mark key="^" line="43" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/SiteController.php" timestamp="1512050339050">
         <mark key="[" line="47" column="5" />
@@ -436,7 +436,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513777107424">
+      <file name="/Dummy.txt" timestamp="1513778274581">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/favorite/favorite.php" timestamp="1506609511259">
@@ -504,6 +504,12 @@
         <mark key="]" line="14" column="20" />
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Order/CancelOrderUseCase.php" timestamp="1513778473443">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="20" column="20" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/core/Event/Event.php" timestamp="1499720646764">
         <mark key="[" line="1" column="26" />
@@ -632,11 +638,11 @@
         <mark key="." line="183" column="0" />
         <mark key="^" line="184" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/BalanceOrderTransformer.php" timestamp="1513595881157">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="8" column="39" />
-        <mark key="^" line="8" column="39" />
-        <mark key="." line="8" column="39" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/BalanceOrderTransformer.php" timestamp="1513778119683">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="24" column="30" />
+        <mark key="^" line="24" column="30" />
+        <mark key="." line="24" column="30" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris2D/Geo2D/GeoMap.php" timestamp="1500584938763">
         <mark key="[" line="13" column="22" />
@@ -1231,12 +1237,12 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" timestamp="1513777465761">
-        <mark key="'" line="45" column="50" />
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="295" column="0" />
-        <mark key="^" line="282" column="11" />
-        <mark key="." line="295" column="0" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" timestamp="1513778955322">
+        <mark key="'" line="49" column="44" />
+        <mark key="[" line="313" column="0" />
+        <mark key="]" line="313" column="0" />
+        <mark key="^" line="347" column="52" />
+        <mark key="." line="313" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Event/EventEnd.php" timestamp="1499446815447">
         <mark key="[" line="11" column="18" />
@@ -2193,11 +2199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="10" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
-      <jump line="283" column="11" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
-      <jump line="389" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/PaymentGatewayController.php" />
-      <jump line="156" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
-      <jump line="250" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/PaymentGatewayController.php" />
       <jump line="207" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
       <jump line="73" column="16" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/PaymentGatewayController.php" />
       <jump line="11" column="32" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/PaymentGatewayController.php" />
@@ -2293,64 +2294,67 @@
       <jump line="113" column="19" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
       <jump line="213" column="16" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
       <jump line="45" column="50" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
+      <jump line="367" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
+      <jump line="318" column="24" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
+      <jump line="342" column="18" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
+      <jump line="347" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
+      <jump line="49" column="44" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogY29tcHJvYmFyIHF1ZSBzZSBwdWVkZSBoYWNlciBkZSBvdHJhIG1hbmVyYQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogcmVmYWN0b3JpemFyIHRvIGVsbG8K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YmFua0FjY291bnRGb3JtLT5nZXRBY2NvdW50TnVtYmVyKCk=</text>
+        <text>OrderRepository</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRVcFBheXBhbEFuZFBheVw+</text>
+        <text>actionCanc</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JGJhbmtBY2NvdW50Rm9ybS0+Z2V0QWNjb3VudE51bWJlcigp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyLT5zZXRTdGF0dXNDYW5jZWxsZWQoKTsKICAgICAgICAgICAgJHRoaXMtPm9yZGVyUmVwb3NpdG9yeS0+c2F2ZU9yRmFpbCgkb3JkZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogY29tcHJvYmFyIHF1ZSBzZSBwdWVkZSBoYWNlciBkZSBvdHJhIG1hbmVyYQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogcmVmYWN0b3JpemFyIHRvIGVsbG8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9ICR0aGlzLT51c2VyUmVwb3NpdG9yeS0+b2ZJZE9yRmFpbCgkdGhpcy0+Z2V0VXNlcklkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyhQYWJsbyk6CiAgICAgICAgICAgICRvcmRlciA9IE9yZGVyOjptb2RlbCgpLT5maW5kQnlQaygkb2lkKTsKCiAgICAgICAgICAgICRvcmRlci0+c2V0U3RhdHVzQ2FuY2VsbGVkKCk7CiAgICAgICAgICAgICR0aGlzLT5vcmRlclJlcG9zaXRvcnktPnNhdmVPckZhaWwoJG9yZGVyKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR1c2VyLT5zZXRCYW5rQWNjb3VudCgkYmFua0FjY291bnRGb3JtLT5nZXRBY2NvdW50TnVtYmVyKCkpOwogICAgICAgICAgICAgICAgJHVzZXItPnNldFZhbGlkQmFua0FjY291bnQoKTsKICAgICAgICAgICAgICAgICR0aGlzLT51c2VyUmVwb3NpdG9yeS0+c2F2ZSgkdXNlcik7Cg==</text>
+        <text encoding="base64">ICAgIHIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyRm9ybS0+dG90YWwgPSAkb3JkZXItPnRvdGFsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyRm9ybS0+cGF5bWVudF90eXBlID0gJG9yZGVyLT5wYXltZW50X3R5cGU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdQo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gaW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRvcmRlckZvcm0tPnBheW1lbnRfdHlwZSA9ICRvcmRlci0+cGF5bWVudF90eXBlOwogICAgICAgICAgICAgICAgJG9yZGVyRm9ybS0+dG90YWwgPSAkb3JkZXItPnRvdGFsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRVcFBheXBhbEFuZFBheVw+</last-search>
+      <last-search>actionCanc</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRVcFBheXBhbEFuZFBheVw+</last-pattern>
+      <last-pattern>actionCanc</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>SEE</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>returnUrl</entry>
-        <entry>palConfirm</entry>
         <entry encoding="base64">XDxjaGVja1BheXBhbFJlc3VsdFw+</entry>
         <entry>actionPay</entry>
         <entry>actionPayp</entry>
@@ -2369,6 +2373,8 @@
         <entry>bankAccountFor</entry>
         <entry encoding="base64">XDxnZXRDYW5jZWxPcmRlclVybFw+</entry>
         <entry encoding="base64">XDxzZXRVcFBheXBhbEFuZFBheVw+</entry>
+        <entry encoding="base64">XDxpc1RoaXNVc2VyXD4=</entry>
+        <entry>actionCanc</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
