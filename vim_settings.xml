@@ -91,11 +91,12 @@
         <mark key="^" line="44" column="20" />
         <mark key="." line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/balance/showBalance.twig" timestamp="1513863473618">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="50" column="125" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/balance/showBalance.twig" timestamp="1513867811143">
+        <mark key="'" line="39" column="33" />
+        <mark key="[" line="43" column="89" />
+        <mark key="]" line="43" column="134" />
+        <mark key="." line="43" column="134" />
+        <mark key="^" line="43" column="134" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Position/ScoreChecker.php" timestamp="1499187916183">
         <mark key="[" line="9" column="0" />
@@ -202,12 +203,11 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/balance/BalanceOrderForm.php" timestamp="1513778073292">
-        <mark key="'" line="67" column="19" />
-        <mark key="[" line="43" column="14" />
-        <mark key="]" line="43" column="17" />
-        <mark key="." line="43" column="17" />
-        <mark key="^" line="43" column="17" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/balance/BalanceOrderForm.php" timestamp="1513867075930">
+        <mark key="'" line="43" column="17" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/SiteController.php" timestamp="1512050339050">
         <mark key="[" line="47" column="5" />
@@ -1205,7 +1205,7 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" timestamp="1513865103991">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" timestamp="1513866475121">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="383" column="0" />
         <mark key="]" line="383" column="0" />
@@ -1572,6 +1572,12 @@
         <mark key="]" line="5" column="41" />
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/PaymentGatewayController.php" timestamp="1513769397108">
+        <mark key="'" line="402" column="6" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="49" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/core/Services/BoardChecker.php" timestamp="1499720281548">
         <mark key="[" line="1" column="40" />
@@ -2144,9 +2150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="34" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
-      <jump line="88" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
-      <jump line="0" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/Payment/PayPalGateway.php" />
       <jump line="308" column="31" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
       <jump line="41" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/repositories/OrderRepository.php" />
       <jump line="84" column="36" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/Payment/PayPalGateway.php" />
@@ -2244,46 +2247,49 @@
       <jump line="46" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Dto/Balance/ShowBalanceViewDTO.php" />
       <jump line="300" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
       <jump line="36" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
+      <jump line="35" column="7" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/balance/showBalance.twig" />
+      <jump line="43" column="17" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/balance/BalanceOrderForm.php" />
+      <jump line="36" column="33" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/balance/showBalance.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJG9yZGVySWQK</text>
+      <register name="&quot;" type="4">
+        <text>balanceForm.INPUT_SELECT_TOTAL</text>
       </register>
       <register name="-" type="4">
-        <text>. json</text>
+        <text>balanceForm.INPUT_SELECT_TOTAL</text>
       </register>
       <register name="/" type="4">
         <text>ensure</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVuZGVyKCcvL21pem9uYURlc2lnbi9iYWxhbmNlL3Nob3dCYWxhbmNlJywgWwo=</text>
+      <register name="0" type="4">
+        <text>showBalanceViewDTO.getBalanceOrderForm()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJG9yZGVySWQK</text>
+        <text encoding="base64">ICAgIGNvbnN0IE5BTUUgPSAnQmFsYW5jZU9yZGVyRm9ybSc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFVzZXIgJHVzZXIKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBlbnN1cmVJc05vdEZyZWVVc2VyKFVzZXIgJHVzZXIpCiAgICB7CiAgICAgICAgaWYgKCR1c2VyLT5pc0ZyZWUoKSkgewogICAgICAgICAgICAkdGhpcy0+cmVkaXJlY3QoVXJsSGFuZGxlck1pem9uYTo6dGFrZSgpLT53aXRoQWJzb2x1dGVVcmwoKSk7CiAgICAgICAgfQogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXROYW1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmVuc3VyZUlzTm90RnJlZVVzZXIoJHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJG9yZGVySWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFVzZXIgJHVzZXIKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBlbnN1cmVJc05vdEZyZWVVc2VyKFVzZXIgJHVzZXIpCiAgICB7CiAgICAgICAgaWYgKCR1c2VyLT5pc0ZyZWUoKSkgewogICAgICAgICAgICAkdGhpcy0+cmVkaXJlY3QoVXJsSGFuZGxlck1pem9uYTo6dGFrZSgpLT53aXRoQWJzb2x1dGVVcmwoKSk7CiAgICAgICAgfQogICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW5zdXJlSXNOb3RGcmVlVXNlcigkdXNlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmVuc3VyZUlzTm90RnJlZVVzZXIoJHVzZXIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIgPSAkdGhpcy0+dXNlclJlcG9zaXRvcnktPm9mSWRPckZhaWwoJHRoaXMtPmdldFVzZXJJZCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW5zdXJlSXNOb3RGcmVlVXNlcigkdXNlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -2338,9 +2344,9 @@
         <entry>385</entry>
         <entry>647</entry>
         <entry>vs</entry>
-        <entry>q</entry>
         <entry>231</entry>
         <entry>303</entry>
+        <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
