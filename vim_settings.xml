@@ -243,6 +243,9 @@
         <mark key="^" line="7" column="34" />
         <mark key="." line="7" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/generic/config/main.php" timestamp="1514969808922">
+        <mark key="'" line="3" column="77" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/User/UpdateBankAccountUseCase.php" timestamp="1513777300690">
         <mark key="[" line="26" column="31" />
         <mark key="]" line="26" column="43" />
@@ -689,12 +692,6 @@
         <mark key="^" line="32" column="46" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/home/home.php" timestamp="1514888125578">
-        <mark key="'" line="3" column="13" />
-        <mark key="]" line="96" column="9" />
-        <mark key="^" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Exception/Board/NotAllowedAddTetrominoException.php" timestamp="1499104667851">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="18" />
@@ -916,7 +913,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514901545212">
+      <file name="/Dummy.txt" timestamp="1514969814689">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/AccessData.php" timestamp="1508920854008">
@@ -1416,6 +1413,7 @@
         <mark key="^" line="70" column="34" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/composer.json" timestamp="1514969665155" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/views/wUserInactivedActions.php" timestamp="1505812828380">
         <mark key="[" line="8" column="132" />
         <mark key="]" line="8" column="160" />
@@ -1820,6 +1818,12 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="69" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/main.php" timestamp="1514969902433">
+        <mark key="[" line="136" column="24" />
+        <mark key="]" line="136" column="22" />
+        <mark key="^" line="136" column="22" />
+        <mark key="." line="136" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/services/AuthorizedDealerDataUseCase.php" timestamp="1509022422382">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="9" column="0" />
@@ -2062,8 +2066,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="340" column="46" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
-      <jump line="341" column="43" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
       <jump line="365" column="46" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
       <jump line="366" column="43" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
       <jump line="16" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
@@ -2162,6 +2164,8 @@
       <jump line="81" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/authorizedDealer/authDealerInfoData/_info_dealer_edit.twig" />
       <jump line="296" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/authorizedDealer/authDealerInfoData/_info_dealer_edit.twig" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/generic/config/main.php" />
+      <jump line="3" column="77" filename="$USER_HOME$/Projects/mizona.coches.com/generic/config/main.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2171,7 +2175,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>edit</text>
+        <text>view</text>
       </register>
       <register name="0" type="4">
         <text>//mizonaDesign/authorizedDealer/authDealerInfoData/_info_dealer_edit</text>
@@ -2204,13 +2208,13 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>edit</last-search>
+      <last-search>view</last-search>
       <last-offset />
-      <last-pattern>edit</last-pattern>
+      <last-pattern>view</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>SEE</last-substitute>
       <last-dir>1</last-dir>
@@ -2218,7 +2222,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRVcFBheXBhbEFuZFBheVw+</entry>
         <entry encoding="base64">XDxpc1RoaXNVc2VyXD4=</entry>
         <entry>actionCanc</entry>
         <entry encoding="base64">XDxyZWRpcmVjdFw+</entry>
@@ -2238,6 +2241,7 @@
         <entry encoding="base64">XDx1c2VydFR5cGVTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDx1c2VyVHlwZVN0cmluZ1w+</entry>
         <entry>edit</entry>
+        <entry>view</entry>
       </history-search>
       <history-cmd>
         <entry>259</entry>
@@ -2257,9 +2261,9 @@
         <entry>231</entry>
         <entry>303</entry>
         <entry>waa</entry>
-        <entry>q</entry>
         <entry>vs</entry>
         <entry>wa</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
