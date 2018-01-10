@@ -548,12 +548,12 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/LoginController.php" timestamp="1515574403218">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/LoginController.php" timestamp="1515580152278">
         <mark key="'" line="151" column="11" />
-        <mark key="[" line="156" column="14" />
-        <mark key="]" line="157" column="11" />
-        <mark key="." line="157" column="11" />
-        <mark key="^" line="157" column="11" />
+        <mark key="[" line="158" column="64" />
+        <mark key="]" line="158" column="74" />
+        <mark key="." line="158" column="74" />
+        <mark key="^" line="158" column="74" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris/PhetrisTestCase.php" timestamp="1502706616646">
         <mark key="[" line="34" column="0" />
@@ -1094,6 +1094,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/login/_recoverPasswordEmailSendOK.twig" timestamp="1515580111549">
+        <mark key="[" line="1" column="65" />
+        <mark key="]" line="1" column="64" />
+        <mark key="^" line="1" column="64" />
+        <mark key="." line="1" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/balance/payment/bankTransfer.php" timestamp="1513682277760">
         <mark key="[" line="17" column="45" />
@@ -2347,44 +2353,44 @@
       <jump line="151" column="11" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/LoginController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogY29tcHJvYmFyIHF1ZSBleGlzdGUgZWwgbWFpbAogICAgICAgIC8vIFRPRE8oUGFibG8pOiBtYW5kYXIgbWFpbAoK</text>
+      <register name="&quot;" type="4">
+        <text>, [</text>
       </register>
       <register name="-" type="4">
-        <text>array|CActiveRecord|mixed|null</text>
+        <text>, [</text>
       </register>
       <register name="/" type="4">
         <text>Flash</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJG1vZGVsID09PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSZXNvdXJjZW5vdEZvdW5kRXhjZXB0aW9uKCdVc2VyIG5vdCBmb3VuZCcpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVuZGVyKCcvL21pem9uYURlc2lnbi9sb2dpbi9fcmVjb3ZlclBhc3N3b3JkJywgWwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogY29tcHJvYmFyIHF1ZSBleGlzdGUgZWwgbWFpbAogICAgICAgIC8vIFRPRE8oUGFibG8pOiBtYW5kYXIgbWFpbAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyhQYWJsbyk6IHZpc3RhIGRlIGhhIGlkbyBiaWVuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRtb2RlbCA9PT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogY29tcHJvYmFyIHF1ZSBleGlzdGUgZWwgbWFpbAogICAgICAgIC8vIFRPRE8oUGFibG8pOiBtYW5kYXIgbWFpbAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRtb2RlbCA9PT0gbnVsbCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogdmlzdGEgZGUgaGEgaWRvIGJpZW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyhQYWJsbyk6IGNvbXByb2JhciBxdWUgZXhpc3RlIGVsIG1haWwKICAgICAgICAgICAgLy8gVE9ETyhQYWJsbyk6IG1hbmRhciBtYWlsCiAgICAgICAgICAgIC8vIFRPRE8oUGFibG8pOiB2aXN0YSBkZSBoYSBpZG8gYmllbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogdmlzdGEgZGUgaGEgaWRvIGJpZW4K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
