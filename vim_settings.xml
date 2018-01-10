@@ -462,12 +462,6 @@
         <mark key="." line="13" column="33" />
         <mark key="^" line="13" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/miZona/editar.php" timestamp="1515495271214">
-        <mark key="'" line="130" column="9" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="189" />
-        <mark key="." line="148" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/balance/payment/directDebit.php" timestamp="1514907648747">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="25" />
@@ -554,12 +548,12 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/LoginController.php" timestamp="1515516013521">
-        <mark key="'" line="144" column="26" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="152" column="55" />
-        <mark key="." line="152" column="55" />
-        <mark key="^" line="152" column="55" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/LoginController.php" timestamp="1515574403218">
+        <mark key="'" line="151" column="11" />
+        <mark key="[" line="156" column="14" />
+        <mark key="]" line="157" column="11" />
+        <mark key="." line="157" column="11" />
+        <mark key="^" line="157" column="11" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris/PhetrisTestCase.php" timestamp="1502706616646">
         <mark key="[" line="34" column="0" />
@@ -974,7 +968,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515573129402">
+      <file name="/Dummy.txt" timestamp="1515574850629">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/AccessData.php" timestamp="1508920854008">
@@ -1824,6 +1818,12 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Access/SendRecoverPasswordEmailUseCase.php" timestamp="1515574530927">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="24" column="36" />
+        <mark key="^" line="24" column="36" />
+        <mark key="." line="24" column="36" />
+      </file>
       <file name="$USER_HOME$/Code/phetris7/test/observer/EndOfMovementObserverTest.php" timestamp="1484936892928">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="6" />
@@ -1949,11 +1949,11 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/repositories/UserMiZonaRepository.php" timestamp="1509006376055">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="27" column="37" />
-        <mark key="^" line="27" column="37" />
-        <mark key="." line="27" column="37" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/repositories/UserMiZonaRepository.php" timestamp="1515574975489">
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="27" column="18" />
+        <mark key="^" line="27" column="18" />
+        <mark key="." line="27" column="18" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris2D/Board/Board2DConfig.php" timestamp="1500502831912">
         <mark key="[" line="16" column="4" />
@@ -2245,7 +2245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/authorizedDealer/home/home.php" />
       <jump line="6" column="16" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/authorizedDealer/home/home.php" />
       <jump line="158" column="14" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/authorizedDealer/home/home.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/authorizedDealer/home/home.php" />
@@ -2345,49 +2344,50 @@
       <jump line="6" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/FormFactory.php" />
       <jump line="144" column="26" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/LoginController.php" />
       <jump line="67" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
+      <jump line="151" column="11" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/LoginController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VXJsSGFuZGxlck1pem9uYTo6dGFrZSgpLT53aXRoQWJzb2x1dGVVcmwoKS0+Zm9yZ290UGFzc3dvcmQoKQ==</text>
+        <text>array|CActiveRecord|mixed|null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCktPg==</text>
+        <text>array|CActiveRecord|mixed|null</text>
       </register>
       <register name="/" type="4">
         <text>Flash</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">VXJsSGFuZGxlck1pem9uYTo6dGFrZSgpLT53aXRoQWJzb2x1dGVVcmwoKS0+Zm9yZ290UGFzc3dvcmQoKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJG1vZGVsID09PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSZXNvdXJjZW5vdEZvdW5kRXhjZXB0aW9uKCdVc2VyIG5vdCBmb3VuZCcpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVjb3ZlcnlQYXNzd29yZEZvcm0gPSAkdGhpcy0+Z2V0UmVjb3ZlclBhc3N3b3JkRm9ybSgpOwogICAgICAgIGlmICghJHJlY292ZXJ5UGFzc3dvcmRGb3JtLT52YWxpZGF0ZSgpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oKTsgLy8gVE9ETyhQYWJsbyk6IAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRtb2RlbCA9PT0gbnVsbCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBSZWNvdmVyUGFzc3dvcmRGb3JtICRyZWNvdmVyeVBhc3N3b3JkRm9ybSAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVjb3ZlcnlQYXNzd29yZEZvcm0tPnNldEFjdGlvbignJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogdmlzdGEgZGUgaGEgaWRvIGJpZW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Zvcm1BY3Rpb24nID0+ICcnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyhQYWJsbyk6IGNvbXByb2JhciBxdWUgZXhpc3RlIGVsIG1haWwKICAgICAgICAgICAgLy8gVE9ETyhQYWJsbyk6IG1hbmRhciBtYWlsCiAgICAgICAgICAgIC8vIFRPRE8oUGFibG8pOiB2aXN0YSBkZSBoYSBpZG8gYmllbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -2441,8 +2441,8 @@
         <entry>waa</entry>
         <entry>198</entry>
         <entry>vs</entry>
-        <entry>wa</entry>
         <entry>q</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
