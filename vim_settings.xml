@@ -591,8 +591,8 @@
         <mark key="^" line="17" column="13" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/User/User.php" timestamp="1515587058023">
-        <mark key="'" line="3423" column="20" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/User/User.php" timestamp="1515587218144">
+        <mark key="'" line="1181" column="9" />
         <mark key="[" line="2904" column="0" />
         <mark key="]" line="2912" column="4" />
         <mark key="." line="1289" column="68" />
@@ -1607,11 +1607,11 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/services/RecoveryPassowordTokenGenerator.php" timestamp="1515587104152">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="65" />
-        <mark key="." line="7" column="65" />
-        <mark key="^" line="7" column="65" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/services/RecoveryPassowordTokenGenerator.php" timestamp="1515587186922">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Transformers/ClassifiedListTransformer.php" timestamp="1510563271729">
         <mark key="[" line="18" column="37" />
@@ -2151,8 +2151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/authorizedDealer/home/home.php" />
-      <jump line="5" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
       <jump line="25" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
       <jump line="81" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/authorizedDealer/authDealerInfoData/_info_dealer_edit.twig" />
@@ -2251,13 +2249,15 @@
       <jump line="2442" column="61" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/User/User.php" />
       <jump line="2480" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/User/User.php" />
       <jump line="3423" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/User/User.php" />
+      <jump line="16" column="30" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/User/User.php" />
+      <jump line="1181" column="9" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/User/User.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhpcy0+</text>
       </register>
       <register name="-" type="4">
-        <text>$timestamp = null</text>
+        <text encoding="base64">dGhpcy0+</text>
       </register>
       <register name="/" type="4">
         <text>sendRecov</text>
@@ -2307,8 +2307,6 @@
     </search>
     <history>
       <history-search>
-        <entry>uploaderWithCarIdUrl</entry>
-        <entry encoding="base64">XDxmb3JtX3VybFw+</entry>
         <entry>withAuth</entry>
         <entry>upload(</entry>
         <entry encoding="base64">XDx3aWRnZXRcPg==</entry>
@@ -2326,6 +2324,8 @@
         <entry>getName</entry>
         <entry>sendRecover</entry>
         <entry>getUserName</entry>
+        <entry>generateToke</entry>
+        <entry>token</entry>
         <entry>sendRecov</entry>
       </history-search>
       <history-cmd>
