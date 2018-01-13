@@ -269,11 +269,11 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/application/Response/ResponsePayLoadBuilder.php" timestamp="1515866068195">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="11" column="19" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/application/Response/ResponsePayLoadBuilder.php" timestamp="1515868503789">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="27" />
+        <mark key="^" line="18" column="16" />
+        <mark key="." line="17" column="27" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/test/Config/YamlConfigTest.php" timestamp="1508522666821">
         <mark key="[" line="11" column="1" />
@@ -654,11 +654,12 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Unit/App/Response/ResponsePayloadBuilderTest.php" timestamp="1515866503349">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="24" column="12" />
-        <mark key="^" line="24" column="12" />
-        <mark key="." line="24" column="12" />
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Unit/App/Response/ResponsePayloadBuilderTest.php" timestamp="1515868433036">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="47" column="7" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/infrastructure/Persistence/Doctrine/Generator/IdSupportDateGenerator.php" timestamp="1512242724508">
         <mark key="[" line="10" column="6" />
@@ -1816,7 +1817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Infrastructure/Persistence/Doctrine/Repository/DoctrineSupportRepositoryTest.php" />
       <jump line="126" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Infrastructure/Persistence/Doctrine/Repository/DoctrineSupportRepositoryTest.php" />
       <jump line="144" column="7" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Infrastructure/Persistence/Doctrine/Repository/DoctrineSupportRepositoryTest.php" />
       <jump line="179" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Infrastructure/Persistence/Doctrine/Repository/DoctrineSupportRepositoryTest.php" />
@@ -1916,46 +1916,47 @@
       <jump line="116" column="13" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
       <jump line="447" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
       <jump line="195" column="52" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/views/mizonaDesign/authorizedDealer/authDealerInfoData/_info_dealer_edit.twig" />
+      <jump line="30" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Unit/App/Response/ResponsePayloadBuilderTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>$responseData,</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>$responseData,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRHYXJhbnRlZU9wdGlvblN0cmluZ1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>infoDataForm.getGaranteeOptions()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkcGF5bG9hZCA9ICR0aGlzLT5idWlsZGVyLT5idWlsZCgkZGF0YSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ19lbWJlZGRlZCcgPT4gJHJlc3BvbnNlRGF0YSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRwYXlsb2FkID0gWwovLyAgICAgICAgICAgICdjb3VudCcgPT4gY291bnQoJHJlc3BvbnNlRGF0YSksCi8vICAgICAgICAgICAgJ19lbWJlZGRlZCcgPT4gWwovLyAgICAgICAgICAgICAgICAndXNlcnMnID0+IGFycmF5X21hcChmdW5jdGlvbiAoVXNlciAkdXNlcikgewovLyAgICAgICAgICAgICAgICAgICAgcmV0dXJuICR1c2VyLT5nZXRBcnJheUNvcHkoKTsKLy8gICAgICAgICAgICAgICAgfSwgJHJlc3BvbnNlRGF0YSkKLy8gICAgICAgICAgICBdCi8vICAgICAgICBdOwoK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRwYXlsb2FkID0gWwovLyAgICAgICAgICAgICdjb3VudCcgPT4gY291bnQoJHJlc3BvbnNlRGF0YSksCi8vICAgICAgICAgICAgJ19lbWJlZGRlZCcgPT4gWwovLyAgICAgICAgICAgICAgICAndXNlcnMnID0+IGFycmF5X21hcChmdW5jdGlvbiAoVXNlciAkdXNlcikgewovLyAgICAgICAgICAgICAgICAgICAgcmV0dXJuICR1c2VyLT5nZXRBcnJheUNvcHkoKTsKLy8gICAgICAgICAgICAgICAgfSwgJHJlc3BvbnNlRGF0YSkKLy8gICAgICAgICAgICBdCi8vICAgICAgICBdOwoK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0U2FtZShVc2VyOjpjbGFzcywgZ2V0X2NsYXNzKCR1c2VyKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlciA9ICR0aGlzLT5nZXRNb2NrQnVpbGRlcihVc2VyOjpjbGFzcykKICAgICAgICAgICAgLT5kaXNhYmxlT3JpZ2luYWxDb25zdHJ1Y3RvcigpLT5nZXRNb2NrKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkZGF0YSA9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIFNsaW1cSHR0cFxSZXNwb25zZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICRwYXlsb2FkID0gWwovLyAgICAgICAgICAgICdjb3VudCcgPT4gY291bnQoJHJlc3BvbnNlRGF0YSksCi8vICAgICAgICAgICAgJ19lbWJlZGRlZCcgPT4gWwovLyAgICAgICAgICAgICAgICAndXNlcnMnID0+IGFycmF5X21hcChmdW5jdGlvbiAoVXNlciAkdXNlcikgewovLyAgICAgICAgICAgICAgICAgICAgcmV0dXJuICR1c2VyLT5nZXRBcnJheUNvcHkoKTsKLy8gICAgICAgICAgICAgICAgfSwgJHJlc3BvbnNlRGF0YSkKLy8gICAgICAgICAgICBdCi8vICAgICAgICBdOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhdHVzID0gJ3N0YXR1c19yZXNwb25zZSc7CgogICAgICAgICRyZXNwb25zZSA9ICR0aGlzLT5idWlsZGVyLT5idWlsZCgkc3RhdHVzLCBbXSk7CgogICAgICAgICR0aGlzLT5hc3NlcnRTYW1lKCRzdGF0dXMsICRyZXNwb25zZS0+Z2V0U3RhdHVzQ29kZSgpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICRwYXlsb2FkID0gWwovLyAgICAgICAgICAgICdjb3VudCcgPT4gY291bnQoJHJlc3BvbnNlRGF0YSksCi8vICAgICAgICAgICAgJ19lbWJlZGRlZCcgPT4gWwovLyAgICAgICAgICAgICAgICAndXNlcnMnID0+IGFycmF5X21hcChmdW5jdGlvbiAoVXNlciAkdXNlcikgewovLyAgICAgICAgICAgICAgICAgICAgcmV0dXJuICR1c2VyLT5nZXRBcnJheUNvcHkoKTsKLy8gICAgICAgICAgICAgICAgfSwgJHJlc3BvbnNlRGF0YSkKLy8gICAgICAgICAgICBdCi8vICAgICAgICBdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
