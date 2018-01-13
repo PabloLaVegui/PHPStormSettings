@@ -123,6 +123,12 @@
         <mark key="^" line="14" column="44" />
         <mark key="." line="23" column="32" />
       </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Unit/App/Response/ResponseBuilderTest.php" timestamp="1515865204996">
+        <mark key="[" line="23" column="62" />
+        <mark key="]" line="23" column="62" />
+        <mark key="^" line="23" column="62" />
+        <mark key="." line="23" column="62" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/Infrastructure/Persistence/Doctrine/Repository/DoctrineUserRepository.php" timestamp="1507572096061">
         <mark key="[" line="18" column="15" />
         <mark key="]" line="18" column="20" />
@@ -438,7 +444,6 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/coches.com/secure_yii/protected/controllers/MiZonaController.php" timestamp="1515398438372" />
       <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/domain/Date/Date.php" timestamp="1506550140330">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -1254,11 +1259,11 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/application/Response/ResponseBuilder.php" timestamp="1513812804704">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="15" column="13" />
-        <mark key="^" line="15" column="13" />
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/application/Response/ResponseBuilder.php" timestamp="1515865091425">
+        <mark key="[" line="25" column="56" />
+        <mark key="]" line="25" column="59" />
+        <mark key="." line="25" column="59" />
+        <mark key="^" line="25" column="59" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/migrations.yml" timestamp="1506980280695">
         <mark key="[" line="0" column="0" />
@@ -1896,10 +1901,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{% if optionKey == infoDataForm.getGaranteeOption() %} checked {% endif %}</text>
+        <text>userList</text>
       </register>
       <register name="-" type="4">
-        <text>{% if optionKey == infoDataForm.getGaranteeOption() %} checked {% endif %}</text>
+        <text>userList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRHYXJhbnRlZU9wdGlvblN0cmluZ1w+</text>
@@ -1908,31 +1913,31 @@
         <text>infoDataForm.getGaranteeOptions()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkYXV0aERlYWxlckluZm9EYXRhRFRPLT5zZXRHdWFyYW50ZWVEZXNjcmlwdGlvbigkYXV0aERlYWxlci0+ZGVzY3JpcGNpb25fZ2FyYW50aWEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBUWVBFX05BTUUgJHJlc3BvbnNlICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYXV0aERlYWxlckluZm9EYXRhRFRPLT5zZXRHYXJhbnRlZURlc2NyaXB0aW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBUWVBFX05BTUUgJHJlc3BvbnNlICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0R2FyYW50ZWVPcHRpb25TdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBUWVBFX05BTUUgJHJlc3BvbnNlICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkb3B0aW9ucyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBUWVBFX05BTUUgJHJlc3BvbnNlICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICBBdXRoRGVhbGVyR2FyYW50ZWVPcHRpb25zRW51bTo6T05MWV9NQVJLRURfQ0xBU1NJRklFRFMgPT4gJ1PDs2xvIGEgbG9zIG1hcmNhZG9zIGNvbiBnYXJhbnTDrWEnLAogICAgICAgICAgICBBdXRoRGVhbGVyR2FyYW50ZWVPcHRpb25zRW51bTo6QUxMX0NMQVNTSUZJRUQgPT4gJ0EgdG9kb3MgbWlzIGNvY2hlcycsCiAgICAgICAgXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkYXV0aERlYWxlckluZm9EYXRhRFRPLT5zZXRHYXJhbnRlZU9wdGlvbigkdGhpcy0+Z2V0R2FyYW50ZWVPcHRpb24oJGF1dGhEZWFsZXItPmdldElkKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRHYXJhbnRlZU9wdGlvblN0cmluZygpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5nYXJhbnRlZU9wdGlvblN0cmluZzsKICAgIH0KCiAgICAvKioKICAgICAqIEBwYXJhbSBzdHJpbmcgJGdhcmFudGVlT3B0aW9uU3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRHYXJhbnRlZU9wdGlvblN0cmluZygkZ2FyYW50ZWVPcHRpb25TdHJpbmcpCiAgICB7CiAgICAgICAgJHRoaXMtPmdhcmFudGVlT3B0aW9uU3RyaW5nID0gJGdhcmFudGVlT3B0aW9uU3RyaW5nOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNfYXJyYXkoJHJlc3BvbnNlRGF0YSkpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiI+U29sbyBhIGxvcyBtYXJjYWRvcyBjb24gZ2FyYW50w61hPC9vcHRpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAkYXV0aERlYWxlckluZm9EYXRhRFRPLT5zZXRHdWFyYW50ZWVEZXNjcmlwdGlvbigkYXV0aERlYWxlci0+ZGVzY3JpcGNpb25fZ2FyYW50aWEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
