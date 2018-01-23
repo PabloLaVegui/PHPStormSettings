@@ -317,6 +317,12 @@
         <mark key="." line="69" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/environments/env.master.web1" timestamp="1516619024289" />
+      <file name="$USER_HOME$/Projects/deployer.coches.com/playbooks/custom-tasks/mizona.coches.com.yml" timestamp="1516708662135">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="1" column="79" />
+        <mark key="." line="1" column="79" />
+        <mark key="^" line="1" column="79" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris2D/Board/Frame/RectangleTest.php" timestamp="1503064941262">
         <mark key="[" line="46" column="67" />
         <mark key="]" line="46" column="67" />
@@ -731,7 +737,7 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="/fragment.php" timestamp="1516705822529">
+      <file name="/fragment.php" timestamp="1516707428334">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/sass/positon/_position.scss" timestamp="1515670096353">
@@ -980,7 +986,7 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="/PHP Console" timestamp="1516706269544">
+      <file name="/PHP Console" timestamp="1516707344555">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1739,11 +1745,11 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/console.php" timestamp="1516706262369">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="1" column="21" />
-        <mark key="." line="1" column="21" />
-        <mark key="^" line="1" column="21" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/console.php" timestamp="1516707534097">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="51" column="6" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="3" column="38" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris/Event/EventFactory.php" timestamp="1501709676614">
         <mark key="[" line="35" column="0" />
@@ -1908,11 +1914,11 @@
         <mark key="^" line="27" column="46" />
         <mark key="." line="27" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/migrations/m180123_101641_create_table_particular_data_update_temporary.php" timestamp="1516703745819">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="8" />
-        <mark key="." line="24" column="8" />
-        <mark key="^" line="24" column="9" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/migrations/m180123_101641_create_table_particular_data_update_temporary.php" timestamp="1516707741857">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Position/Geo.php" timestamp="1498771712081">
         <mark key="[" line="27" column="5" />
@@ -2383,43 +2389,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>protected</text>
+        <text>{{ ansistrano_release_path.stdout }}</text>
       </register>
       <register name="-" type="4">
-        <text>protected</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>actionEd</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSBfX0RJUl9fIC4gJy9wcm90ZWN0ZWQvdmVuZG9yL2F1dG9sb2FkLnBocCc7CgoobmV3IERvdGVudlxEb3RlbnYoX19ESVJfXyAuICcvLi4vZW52aXJvbm1lbnRzLycpKS0+bG9hZCgpOwo=</text>
+      <register name="0" type="4">
+        <text>{{ ansistrano_release_path.stdout }}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnY29tbWFuZE1hcCcgPT4gWwogICAgICAgICAgICAnbWlncmF0ZSc9PiBbCiAgICAgICAgICAgICAgICAnY2xhc3MnPT4nc3lzdGVtLmNsaS5jb21tYW5kcy5NaWdyYXRlQ29tbWFuZCcsCiAgICAgICAgICAgICAgICAnbWlncmF0aW9uUGF0aCc9PidhcHBsaWNhdGlvbi5taWdyYXRpb25zJywKICAgICAgICAgICAgICAgICdtaWdyYXRpb25UYWJsZSc9PidtaXpvbmFfbWlncmF0aW9ucycsCiAgICAgICAgICAgICAgICAnY29ubmVjdGlvbklEJz0+J2RiJywKICAgICAgICAgICAgICAgICd0ZW1wbGF0ZUZpbGUnPT4nYXBwbGljYXRpb24ubWlncmF0aW9ucy50ZW1wbGF0ZScsCiAgICAgICAgICAgIF0sCiAgICAgICAgXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZSBfX0RJUl9fIC4gJy8uLi92ZW5kb3IvYXV0b2xvYWQucGhwJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdjb21tYW5kTWFwJyA9PiBbCiAgICAgICAgJ21pZ3JhdGUnPT4gWwogICAgICAgICAgICAnY2xhc3MnPT4nc3lzdGVtLmNsaS5jb21tYW5kcy5NaWdyYXRlQ29tbWFuZCcsCiAgICAgICAgICAgICdtaWdyYXRpb25QYXRoJz0+J2FwcGxpY2F0aW9uLm1pZ3JhdGlvbnMnLAogICAgICAgICAgICAnbWlncmF0aW9uVGFibGUnPT4nbWl6b25hX21pZ3JhdGlvbnMnLAogICAgICAgICAgICAnY29ubmVjdGlvbklEJz0+J2RiJywKICAgICAgICAgICAgJ3RlbXBsYXRlRmlsZSc9PidhcHBsaWNhdGlvbi5taWdyYXRpb25zLnRlbXBsYXRlJywKICAgICAgICBdLAogICAgXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdjb21tYW5kTWFwJyA9PiBbCiAgICAgICAgJ21pZ3JhdGUnPT4gWwogICAgICAgICAgICAnY2xhc3MnPT4nc3lzdGVtLmNsaS5jb21tYW5kcy5NaWdyYXRlQ29tbWFuZCcsCiAgICAgICAgICAgICdtaWdyYXRpb25QYXRoJz0+J2FwcGxpY2F0aW9uLm1pZ3JhdGlvbnMnLAogICAgICAgICAgICAnbWlncmF0aW9uVGFibGUnPT4nbWl6b25hX21pZ3JhdGlvbnMnLAogICAgICAgICAgICAnY29ubmVjdGlvbklEJz0+J2RiJywKICAgICAgICAgICAgJ3RlbXBsYXRlRmlsZSc9PidhcHBsaWNhdGlvbi5taWdyYXRpb25zLnRlbXBsYXRlJywKICAgICAgICBdLAogICAgXSwK</text>
+        <text encoding="base64">cmVxdWlyZSBfX0RJUl9fIC4gJy8uLi92ZW5kb3IvYXV0b2xvYWQucGhwJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdjb21tYW5kTWFwJyA9PiBbCiAgICAgICAgJ21pZ3JhdGUnPT4gWwogICAgICAgICAgICAnY2xhc3MnPT4nc3lzdGVtLmNsaS5jb21tYW5kcy5NaWdyYXRlQ29tbWFuZCcsCiAgICAgICAgICAgICdtaWdyYXRpb25QYXRoJz0+J2FwcGxpY2F0aW9uLm1pZ3JhdGlvbnMnLAogICAgICAgICAgICAnbWlncmF0aW9uVGFibGUnPT4nbWl6b25hX21pZ3JhdGlvbnMnLAogICAgICAgICAgICAnY29ubmVjdGlvbklEJz0+J2RiJywKICAgICAgICAgICAgJ3RlbXBsYXRlRmlsZSc9PidhcHBsaWNhdGlvbi5taWdyYXRpb25zLnRlbXBsYXRlJywKICAgICAgICBdLAogICAgXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdjb21tYW5kTWFwJyA9PiBbCiAgICAgICAgJ21pZ3JhdGUnPT4gWwogICAgICAgICAgICAnY2xhc3MnPT4nc3lzdGVtLmNsaS5jb21tYW5kcy5NaWdyYXRlQ29tbWFuZCcsCiAgICAgICAgICAgICdtaWdyYXRpb25QYXRoJz0+J2FwcGxpY2F0aW9uLm1pZ3JhdGlvbnMnLAogICAgICAgICAgICAnbWlncmF0aW9uVGFibGUnPT4nbWl6b25hX21pZ3JhdGlvbnMnLAogICAgICAgICAgICAnY29ubmVjdGlvbklEJz0+J2RiJywKICAgICAgICAgICAgJ3RlbXBsYXRlRmlsZSc9PidhcHBsaWNhdGlvbi5taWdyYXRpb25zLnRlbXBsYXRlJywKICAgICAgICBdLAogICAgXSwK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ZhbGlkYXRpb25fZGF0ZScgPT4gJ3RleHQnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -2472,11 +2478,11 @@
         <entry>303</entry>
         <entry>waa</entry>
         <entry>198</entry>
-        <entry>q</entry>
         <entry>99</entry>
         <entry>115</entry>
-        <entry>w</entry>
         <entry>vs</entry>
+        <entry>w</entry>
+        <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
