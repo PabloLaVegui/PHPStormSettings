@@ -317,10 +317,11 @@
         <mark key="." line="69" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/environments/env.master.web1" timestamp="1516619024289" />
-      <file name="$USER_HOME$/Projects/deployer.coches.com/playbooks/custom-tasks/mizona.coches.com.yml" timestamp="1516715298904">
-        <mark key="[" line="34" column="11" />
-        <mark key="]" line="34" column="11" />
-        <mark key="." line="34" column="11" />
+      <file name="$USER_HOME$/Projects/deployer.coches.com/playbooks/custom-tasks/mizona.coches.com.yml" timestamp="1516716555077">
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="36" column="48" />
+        <mark key="." line="36" column="11" />
+        <mark key="^" line="36" column="10" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris2D/Board/Frame/RectangleTest.php" timestamp="1503064941262">
         <mark key="[" line="46" column="67" />
@@ -2388,7 +2389,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/{{ ansistrano_release_path.stdout }}</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -2396,8 +2397,8 @@
       <register name="/" type="4">
         <text>actionEd</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHdvcmtpbmdfZGlyOiAve3sgYW5zaXN0cmFub19yZWxlYXNlX3BhdGguc3Rkb3V0IH19Cg==</text>
+      <register name="0" type="4">
+        <text>/{{ ansistrano_release_path.stdout }}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB3b3JraW5nX2RpcjogL3t7IGFuc2lzdHJhbm9fcmVsZWFzZV9wYXRoLnN0ZG91dCB9fQo=</text>
