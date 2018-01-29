@@ -1213,6 +1213,9 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/SignUpController.php" timestamp="1517241694369">
+        <mark key="'" line="177" column="43" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-2d/src/Geo/Geo2D.php" timestamp="1500053492478">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="13" />
@@ -2354,12 +2357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="12" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/LoginController.php" />
-      <jump line="18" column="35" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/login/_login.twig" />
-      <jump line="446" column="0" filename="$USER_HOME$/Projects/domain.coches.com/activeRecordModels/Car/CarModel.php" />
-      <jump line="7" column="6" filename="$USER_HOME$/Projects/domain.coches.com/activeRecordModels/Manhattan/Order/MhtOrderService.php" />
-      <jump line="59" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/cardCar/views/view.php" />
-      <jump line="453" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/cardCar/views/view.php" />
       <jump line="88" column="41" filename="$USER_HOME$/Projects/mizona.coches.com/generic/config/main.php" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/generic/config/main.php" />
@@ -2454,6 +2451,12 @@
       <jump line="53" column="31" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyDataController.php" />
       <jump line="246" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyDataController.php" />
       <jump line="5" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyZoneController.php" />
+      <jump line="374" column="43" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/SignUpController.php" />
+      <jump line="312" column="43" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/SignUpController.php" />
+      <jump line="276" column="43" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/SignUpController.php" />
+      <jump line="229" column="43" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/SignUpController.php" />
+      <jump line="140" column="43" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/SignUpController.php" />
+      <jump line="177" column="43" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/SignUpController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2463,7 +2466,7 @@
         <text>private</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBVFRSSUJVVEVfVE9fVkFMSURBVEVfVU5JUVVFXD4=</text>
+        <text>actionSend</text>
       </register>
       <register name="0" type="4">
         <text>SWITCHING_PHONE_EDIT</text>
@@ -2496,22 +2499,20 @@
         <text encoding="base64">ICAgICAgICAkdXNlclQK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBVFRSSUJVVEVfVE9fVkFMSURBVEVfVU5JUVVFXD4=</last-search>
+      <last-search>actionSend</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBVFRSSUJVVEVfVE9fVkFMSURBVEVfVU5JUVVFXD4=</last-pattern>
+      <last-pattern>actionSend</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>SEE</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rules</entry>
-        <entry>garantia</entry>
         <entry>getFilteredOrderList</entry>
         <entry>actionEd</entry>
         <entry>mis-datos</entry>
@@ -2530,6 +2531,8 @@
         <entry>TODO</entry>
         <entry encoding="base64">XDxDTEFTU05BTUVfVE9fVkFMSURBVEVfVU5JUVVFXD4=</entry>
         <entry encoding="base64">XDxBVFRSSUJVVEVfVE9fVkFMSURBVEVfVU5JUVVFXD4=</entry>
+        <entry encoding="base64">XDxfZ2V0VmFsaWRhdGlvblNlY3VyaXR5RG9tYWluXD4=</entry>
+        <entry>actionSend</entry>
       </history-search>
       <history-cmd>
         <entry>v</entry>
@@ -2548,10 +2551,10 @@
         <entry>115</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>w</entry>
-        <entry>vs</entry>
         <entry>a</entry>
         <entry>q</entry>
         <entry>wa</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
