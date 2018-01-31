@@ -457,7 +457,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517234539284">
+      <file name="/Dummy.txt" timestamp="1517411503569">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/favorite/favorite.php" timestamp="1506609511259">
@@ -1120,6 +1120,10 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/exceptions/ClassifiedNotEditableException.php" timestamp="1517411532905">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="53" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/mizonaDesign/passwordmodifier.js" timestamp="1511267747617">
         <mark key="[" line="21" column="49" />
         <mark key="]" line="21" column="49" />
@@ -1436,6 +1440,12 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="27" column="61" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/exceptions/CannotSendSmsException.php" timestamp="1517411540780">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/icons/views/wIconWithNumberOfChangesTwig.twig" timestamp="1505911331191">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -1580,8 +1590,11 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" timestamp="1517245034274">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" timestamp="1517411287354">
         <mark key="'" line="38" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/AuthorizedDealerAccessDataViewDTO.php" timestamp="1508318565584">
         <mark key="[" line="8" column="22" />
@@ -2454,7 +2467,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>extends Exception</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -2463,37 +2476,37 @@
         <text>actionSend</text>
       </register>
       <register name="0" type="4">
-        <text>SWITCHING_PHONE_EDIT</text>
+        <text>extends Exception</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgQ2Fubm90U2VuZFNtc0V4Y2VwdGlvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gcmVnaXN0ZXJGb3JtVmFsaWRhdGlvbkpTKCkKICAgIHsKICAgICAgICBZaWk6OmFwcCgpLT5jbGllbnRTY3JpcHQtPnJlZ2lzdGVyU2NyaXB0RmlsZSgKICAgICAgICAgICAgWWlpOjphcHAoKS0+YmFzZVVybCAuICcvanMvbWl6b25hRGVzaWduL2Zvcm0vZm9ybVZhbGlkYXRpb24uanMnCiAgICAgICAgKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gcmVnaXN0ZXJGb3JtVmFsaWRhdGlvbkpTKCkKICAgIHsKICAgICAgICBZaWk6OmFwcCgpLT5jbGllbnRTY3JpcHQtPnJlZ2lzdGVyU2NyaXB0RmlsZSgKICAgICAgICAgICAgWWlpOjphcHAoKS0+YmFzZVVybCAuICcvanMvbWl6b25hRGVzaWduL2Zvcm0vZm9ybVZhbGlkYXRpb24uanMnCiAgICAgICAgKTsKICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkY3JlYXRlZEF0Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkY3JlYXRlZEF0Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkY3JlYXRlZEF0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZvcm1hdHRlcjo6REFURVRJTUVfRk9STUFUCg==</text>
+        <text encoding="base64">ICAgICAgICAkY3JlYXRlZEF0Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEZvcm1hdHRlcjo6REFURVRJTUVfRk9STUFUCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZvcm1hdHRlcjo6REFURVRJTUVfRk9STUFUCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -2529,7 +2542,6 @@
         <entry>actionSend</entry>
       </history-search>
       <history-cmd>
-        <entry>v</entry>
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>ww</entry>
@@ -2546,9 +2558,10 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>w</entry>
         <entry>a</entry>
+        <entry>wa</entry>
+        <entry>x</entry>
         <entry>q</entry>
         <entry>vs</entry>
-        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
