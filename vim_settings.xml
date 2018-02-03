@@ -342,6 +342,13 @@
         <mark key="^" line="9" column="40" />
         <mark key="." line="9" column="40" />
       </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/phpstorm-docker-xdebug-apache/Dockerfile" timestamp="1517696527031">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="50" />
+        <mark key="]" line="3" column="51" />
+        <mark key="." line="3" column="51" />
+        <mark key="^" line="47" column="21" />
+      </file>
       <file name="$USER_HOME$/Code/eventstracker/protected/modules/admin/views/user/admin.php" timestamp="1425421528549">
         <mark key="[" line="49" column="9" />
         <mark key="]" line="49" column="17" />
@@ -1304,7 +1311,6 @@
         <mark key="." line="28" column="3" />
         <mark key="^" line="28" column="3" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/coches.com/coches_yii/protected/controllers/SignUpController.php" timestamp="1517325980424" />
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Position/CodeDictionary.php" timestamp="1498772697285">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1585,7 +1591,6 @@
         <mark key="^" line="47" column="114" />
         <mark key="." line="47" column="89" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/Classified/ClassifiedCreationValidatorTest.php" timestamp="1517320760108" />
       <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/Environment/env.devel.calendar" timestamp="1507584134606">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="56" />
@@ -1906,7 +1911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="49" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Functional/FunctionalTestCase.php" />
       <jump line="10" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Functional/FunctionalTestCase.php" />
       <jump line="38" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Functional/FunctionalTestCase.php" />
       <jump line="27" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Functional/FunctionalTestCase.php" />
@@ -2006,46 +2010,47 @@
       <jump line="45" column="16" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/MyData/SendPhoneValidationSmsUseCaseTest.php" />
       <jump line="23" column="34" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/MyData/SendPhoneValidationSmsUseCaseTest.php" />
       <jump line="26" column="54" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/SendPhoneValidationSmsUseCase.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/phpstorm-docker-xdebug-apache/Dockerfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>secure_yii/protected/domain/Services/SmsSenderService.php</text>
+        <text>/opt/project</text>
       </register>
       <register name="-" type="4">
-        <text>secure_yii/protected/domain/Services/SmsSenderService.php</text>
+        <text>/opt/project</text>
       </register>
       <register name="/" type="4">
         <text>actionEdit</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZXhwZWN0ZWRDb2RlUmVndWxhckV4cHJlc2lvbiA9ICcvXlxkeycgLiBTZW5kUGhvbmVWYWxpZGF0aW9uU21zVXNlQ2FzZTo6VkFMSURBVElPTl9DT0RFX0RJR0lUU19OVU1CRVIgLiAnfS8nOwo=</text>
+      <register name="0" type="4">
+        <text>/var/www/html</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR2YWxpZGF0aW9uQ29kZSA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ci8vICAgIC8qKgovLyAgICAgKiBAcGFyYW0gc3RyaW5nICRleHBlY3RlZFBob25lCi8vICAgICAqIEByZXR1cm4gVXNlclRlbXBvcmFyeURhdGEgfCBQSFBVbml0X0ZyYW1ld29ya19Nb2NrT2JqZWN0X01vY2tPYmplY3QKLy8gICAgICovCi8vICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXRUZW1wb3JhcnlEYXRhTW9jaygkZXhwZWN0ZWRQaG9uZSkKLy8gICAgewovLyAgICAgICAgJG1vY2sgPSAkdGhpcy0+Z2V0TW9ja0J1aWxkZXIoVXNlclRlbXBvcmFyeURhdGE6OmNsYXNzKQovLyAgICAgICAgICAgIC0+Z2V0TW9jaygpOwovLyAgICAgICAgJG1vY2stPmV4cGVjdHMoc2VsZjo6b25jZSgpKQovLyAgICAgICAgICAgIC0+bWV0aG9kKCdnZXRUZWxlcGhvbmUnKQovLyAgICAgICAgICAgIC0+d2lsbFJldHVybigkZXhwZWN0ZWRQaG9uZSk7Ci8vCi8vICAgICAgICByZXR1cm4gJG1vY2s7Ci8vICAgIH0K</text>
+        <text encoding="base64">Vk9MVU1FIFsiL3Zhci93d3cvaHRtbCJdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPndpbGxSZXR1cm4oJHRlbXBvcmFyeURhdGFNb2NrKTsK</text>
+        <text encoding="base64">IyBWb2x1bWUgdG8gaGF2ZSBhY2Nlc3MgdG8gdGhlIHNvdXJjZSBjb2RlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0ZW1wb3JhcnlEYXRhTW9jayA9ICR0aGlzLT5nZXRUZW1wb3JhcnlEYXRhTW9jaygkZXhwZWN0ZWRQaG9uZSk7Cg==</text>
+        <text encoding="base64">IyBJbnN0YWxsIFhkZWJ1Zwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZXhwZWN0ZWRDb2RlUmVndWxhckV4cHJlc2lvbiA9IDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkZXhwZWN0ZWRDb2RlUmVndWxhckV4cHJlc2lvbiA9ICcvXlxkeycgLiBTZW5kUGhvbmVWYWxpZGF0aW9uU21zVXNlQ2FzZTo6VkFMSURBVElPTl9DT0RFX0RJR0lUU19OVU1CRVIgLiAnfS8nOwo=</text>
+        <text encoding="base64">TUFJTlRBSU5FUiBMdWlzIFJvdmlyb3NhIDxsdWlzcm92aXJvc2FAZ21haWwuY29tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoKCcxMicsICEkdGhpcy0+aXNFbXB0eSgpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICR2YWxpZGF0aW9uQ29kZSA9IG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBzdHJpbmcgJHVzZXJJZAogICAgICogQHBhcmFtIHN0cmluZyAkdmFsaWF0aW9uVG9rZW4KICAgICAqIEB0aHJvd3MgSW52YWxpZFVzZXJUZW1wb3JhcnlEYXRhRXhjZXB0aW9uCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gdmFsaWRhdGVUb2tlbigkdXNlcklkLCAkdmFsaWF0aW9uVG9rZW4pCiAgICB7CiAgICAgICAgJHRoaXMtPnVzZXJNaVpvbmFSZXBvc2l0b3J5LT5nZXRVc2VyVGVtcG9yYXJ5RGF0YU9yRmFpbCgkdXNlcklkLCAkdmFsaWF0aW9uVG9rZW4pOwogICAgfQo=</text>
+        <text encoding="base64">Ci8vICAgIC8qKgovLyAgICAgKiBAcGFyYW0gc3RyaW5nICRleHBlY3RlZFBob25lCi8vICAgICAqIEByZXR1cm4gVXNlclRlbXBvcmFyeURhdGEgfCBQSFBVbml0X0ZyYW1ld29ya19Nb2NrT2JqZWN0X01vY2tPYmplY3QKLy8gICAgICovCi8vICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXRUZW1wb3JhcnlEYXRhTW9jaygkZXhwZWN0ZWRQaG9uZSkKLy8gICAgewovLyAgICAgICAgJG1vY2sgPSAkdGhpcy0+Z2V0TW9ja0J1aWxkZXIoVXNlclRlbXBvcmFyeURhdGE6OmNsYXNzKQovLyAgICAgICAgICAgIC0+Z2V0TW9jaygpOwovLyAgICAgICAgJG1vY2stPmV4cGVjdHMoc2VsZjo6b25jZSgpKQovLyAgICAgICAgICAgIC0+bWV0aG9kKCdnZXRUZWxlcGhvbmUnKQovLyAgICAgICAgICAgIC0+d2lsbFJldHVybigkZXhwZWN0ZWRQaG9uZSk7Ci8vCi8vICAgICAgICByZXR1cm4gJG1vY2s7Ci8vICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmFsaWRhdGVUb2tlbigkdXNlcklkLCAkdmFsaWF0aW9uVG9rZW4pOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAtPndpbGxSZXR1cm4oJHRlbXBvcmFyeURhdGFNb2NrKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
