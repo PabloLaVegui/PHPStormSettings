@@ -276,12 +276,12 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EmailChangeController.php" timestamp="1517836831076">
-        <mark key="'" line="105" column="35" />
-        <mark key="[" line="159" column="15" />
-        <mark key="]" line="163" column="18" />
-        <mark key="^" line="144" column="6" />
-        <mark key="." line="144" column="5" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EmailChangeController.php" timestamp="1517837862795">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="114" column="6" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris/PhetrisTestCase.php" timestamp="1502706616646">
         <mark key="[" line="34" column="0" />
@@ -475,7 +475,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517828980336">
+      <file name="/Dummy.txt" timestamp="1517838129324">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/favorite/favorite.php" timestamp="1506609511259">
@@ -1126,7 +1126,8 @@
         <mark key="^" line="161" column="5" />
         <mark key="." line="161" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/SendChangeEmailRequestUseCase.php" timestamp="1517235538934">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/SendChangeEmailRequestUseCase.php" timestamp="1517838119938">
+        <mark key="'" line="8" column="10" />
         <mark key="[" line="43" column="22" />
         <mark key="]" line="43" column="22" />
         <mark key="." line="43" column="22" />
@@ -2443,8 +2444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
-      <jump line="63" column="17" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/MyData/views/WMyDataEditParticular.php" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
       <jump line="183" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
       <jump line="81" column="22" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
@@ -2543,55 +2542,57 @@
       <jump line="69" column="40" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EmailChangeController.php" />
       <jump line="181" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EmailChangeController.php" />
       <jump line="105" column="35" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EmailChangeController.php" />
+      <jump line="50" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EmailChangeController.php" />
+      <jump line="8" column="10" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/SendChangeEmailRequestUseCase.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBtaXhlZHxudWxsCiAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>TelephoneForm</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRFZGl0RGF0YVJvdXRlXD4=</text>
+        <text encoding="base64">XDxFTUFJTF9URU1QTEFURV9OQU1FXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">bnVsbCAhPT0g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBtaXhlZHxudWxsCiAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIGZ1bmN0aW9uIGFjdGlvbkluZGV4KCkKLy8gICAgewovLyAgICAgICAgWWlpOjphcHAoKS0+Y2xpZW50U2NyaXB0LT5yZWdpc3RlclNjcmlwdEZpbGUoWWlpOjphcHAoKS0+YmFzZVVybCAuICcvanMvbWl6b25hRGVzaWduL2Zvcm0vZm9ybVZhbGlkYXRpb24uanMnKTsKLy8KLy8gICAgICAgIHRyeSB7Ci8vICAgICAgICAgICAgJGNoYW5nZUVtYWlsRm9ybSA9ICR0aGlzLT5nZXROZXdDaGFuZ2VFbWFpbEZvcm0oKTsKLy8gICAgICAgICAgICAkdGhpcy0+YWpheFZhbGlkYXRpb25Gb3JtKCRjaGFuZ2VFbWFpbEZvcm0pOwovLwovLyAgICAgICAgICAgICR1c2VySWQgPSAkdGhpcy0+Z2V0VXNlcklkKCk7Ci8vICAgICAgICAgICAgJHVzZXJUeXBlID0gJHRoaXMtPmdldFVzZXJUeXBlKCk7Ci8vICAgICAgICAgICAgLyoqIEB2YXIgVXNlck1pWm9uYSAkdXNlck1pWm9uYSAqLwovLyAgICAgICAgICAgICR1c2VyTWlab25hID0gJHRoaXMtPmZpbmRlck15RGF0YVVzZUNhc2UtPmV4ZWN1dGUoJHVzZXJJZCwgJHVzZXJUeXBlKTsKLy8KLy8gICAgICAgICAgICAkdGhpcy0+cmVuZGVyKCcvL21pem9uYURlc2lnbi9teURhdGEvX2NoYW5nZV9lbWFpbCcsIFsKLy8gICAgICAgICAgICAgICAgJ2NoYW5nZUVtYWlsRm9ybScgPT4gJGNoYW5nZUVtYWlsRm9ybSwKLy8gICAgICAgICAgICAgICAgJ29yaWdpbmFsRW1haWwnID0+ICR1c2VyTWlab25hLT5nZXRFbWFpbCgpLAovLyAgICAgICAgICAgICAgICAnYmFja1JvdXRlJyA9PiAkdGhpcy0+Z2V0RWRpdERhdGFSb3V0ZSgpLAovLyAgICAgICAgICAgIF0pOwovLyAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uICRlKSB7Ci8vICAgICAgICAgICAgJG1lc3NhZ2UgPSAkdGhpcy0+cmVzcG9uc2VNZXNzYWdlc1tzZWxmOjpFRElUX0VNQUlMX0VSUk9SX01FU1NBR0VdOwovLyAgICAgICAgICAgIEZsYXNoTWVzc2FnZTo6dGFrZUFzU3RhdGUoRmxhc2hNZXNzYWdlU3RhdGVFbnVtOjpFUlJPUikKLy8gICAgICAgICAgICAgICAgLT5zZXQoJG1lc3NhZ2UpOwovLwovLyAgICAgICAgICAgICR0aGlzLT5yZWRpcmVjdCgkdGhpcy0+Z2V0RWRpdERhdGFSb3V0ZSgpKTsKLy8gICAgICAgIH0KLy8gICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5maW5kZXJNeURhdGFVc2VDYXNlID0gJHRoaXMtPmNvbnRhaW5lcigpLT5nZXQoRmluZGVyTXlEYXRhVXNlQ2FzZTo6Y2xhc3MpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gbWl4ZWR8bnVsbAo=</text>
+        <text encoding="base64">Ly8gICAgLyoqIEB2YXIgIEZpbmRlck15RGF0YVVzZUNhc2UgKi8KLy8gICAgcHJpdmF0ZSAkZmluZGVyTXlEYXRhVXNlQ2FzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBtaXhlZHxudWxsCiAgICAgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gdmFsaWRhdGVGb3JtcygpCiAgICB7CiAgICAgICAgaWYgKCR0aGlzLT5yZXF1ZXN0SGFzVGVsZXBob25lRm9ybSgpKSB7CiAgICAgICAgICAgICR0ZWxlcGhvbmVGb3JtID0gJHRoaXMtPmdldFRlbGVwaG9uZUZvcm0oKTsKICAgICAgICAgICAgJHRoaXMtPmFqYXhWYWxpZGF0aW9uRm9ybSgkdGVsZXBob25lRm9ybSk7CiAgICAgICAgfQogICAgICAgIGlmICgkdGhpcy0+cmVxdWVzdEhhc0NoYW5nZUVtYWlsRm9ybSgpKSB7CiAgICAgICAgICAgICRjaGFuZ2VFbWFpbEZvcm0gPSAkdGhpcy0+Z2V0Q2hhbmdlRU1haWxGb3JtKCk7CiAgICAgICAgICAgICR0aGlzLT5hamF4VmFsaWRhdGlvbkZvcm0oJGNoYW5nZUVtYWlsRm9ybSk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gdmFsaWRhdGVGb3JtcygpCiAgICB7CiAgICAgICAgaWYgKCR0aGlzLT5yZXF1ZXN0SGFzVGVsZXBob25lRm9ybSgpKSB7CiAgICAgICAgICAgICR0ZWxlcGhvbmVGb3JtID0gJHRoaXMtPmdldFRlbGVwaG9uZUZvcm0oKTsKICAgICAgICAgICAgJHRoaXMtPmFqYXhWYWxpZGF0aW9uRm9ybSgkdGVsZXBob25lRm9ybSk7CiAgICAgICAgfQogICAgICAgIGlmICgkdGhpcy0+cmVxdWVzdEhhc0NoYW5nZUVtYWlsRm9ybSgpKSB7CiAgICAgICAgICAgICRjaGFuZ2VFbWFpbEZvcm0gPSAkdGhpcy0+Z2V0Q2hhbmdlRU1haWxGb3JtKCk7CiAgICAgICAgICAgICR0aGlzLT5hamF4VmFsaWRhdGlvbkZvcm0oJGNoYW5nZUVtYWlsRm9ybSk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gbWl4ZWR8bnVsbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPnJlcXVlc3RIYXNUZWxlcGhvbmVGb3JtKCkpIHsKICAgICAgICAgICAgJHRlbGVwaG9uZUZvcm0gPSAkdGhpcy0+Z2V0VGVsZXBob25lRm9ybSgpOwogICAgICAgICAgICAkdGhpcy0+YWpheFZhbGlkYXRpb25Gb3JtKCR0ZWxlcGhvbmVGb3JtKTsKICAgICAgICB9CiAgICAgICAgaWYgKCR0aGlzLT5yZXF1ZXN0SGFzQ2hhbmdlRW1haWxGb3JtKCkpIHsKICAgICAgICAgICAgJGNoYW5nZUVtYWlsRm9ybSA9ICR0aGlzLT5nZXRDaGFuZ2VFTWFpbEZvcm0oKTsKICAgICAgICAgICAgJHRoaXMtPmFqYXhWYWxpZGF0aW9uRm9ybSgkY2hhbmdlRW1haWxGb3JtKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRFZGl0RGF0YVJvdXRlXD4=</last-search>
+      <last-search encoding="base64">XDxFTUFJTF9URU1QTEFURV9OQU1FXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRFZGl0RGF0YVJvdXRlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxFTUFJTF9URU1QTEFURV9OQU1FXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>SEE</last-substitute>
       <last-dir>-1</last-dir>
@@ -2599,7 +2600,6 @@
     </search>
     <history>
       <history-search>
-        <entry>todo</entry>
         <entry>TODO</entry>
         <entry encoding="base64">XDxDTEFTU05BTUVfVE9fVkFMSURBVEVfVU5JUVVFXD4=</entry>
         <entry encoding="base64">XDxBVFRSSUJVVEVfVE9fVkFMSURBVEVfVU5JUVVFXD4=</entry>
@@ -2619,6 +2619,7 @@
         <entry encoding="base64">XDxmaW5kZXJNeURhdGFVc2VDYXNlXD4=</entry>
         <entry encoding="base64">XDxyZXNwb25zZU1lc3NhZ2VzXD4=</entry>
         <entry encoding="base64">XDxnZXRFZGl0RGF0YVJvdXRlXD4=</entry>
+        <entry encoding="base64">XDxFTUFJTF9URU1QTEFURV9OQU1FXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
