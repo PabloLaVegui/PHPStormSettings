@@ -351,6 +351,12 @@
         <mark key="^" line="30" column="34" />
         <mark key="." line="30" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/migrations/m180206_103423_add_count_columns_to_user_temporary_data.php" timestamp="1517913691020">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="25" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/SavedSearchesModifiedStatisticService.php" timestamp="1511428456282">
         <mark key="[" line="69" column="14" />
         <mark key="]" line="69" column="17" />
@@ -1038,9 +1044,9 @@
         <mark key="." line="15" column="42" />
         <mark key="^" line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/migrations/m180201_105233_add_sms_code_and_sms_sent_at_columns_to_user_temporary_data_column.php" timestamp="1517482879901">
-        <mark key="[" line="2" column="88" />
-        <mark key="]" line="3" column="3" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/migrations/m180201_105233_add_sms_code_and_sms_sent_at_columns_to_user_temporary_data_column.php" timestamp="1517913326690">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="26" column="9" />
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
@@ -2588,46 +2594,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZHJvcENvbHVtbigKICAgICAgICAgICAgc2VsZjo6VEFCTEVfTkFNRSwKICAgICAgICAgICAgJ3Ntc19zZW50X2NvdW50JwogICAgICAgICk7CiAgICAgICAgJHRoaXMtPmRyb3BDb2x1bW4oCiAgICAgICAgICAgIHNlbGY6OlRBQkxFX05BTUUsCiAgICAgICAgICAgICdzbXNfY29kZScKICAgICAgICApOwogICAgICAgICR0aGlzLT5kcm9wQ29sdW1uKAogICAgICAgICAgICBzZWxmOjpUQUJMRV9OQU1FLAogICAgICAgICAgICAnc21zX2NvZGUnCiAgICAgICAgKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>MiZonaValidationAttempt</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZW5kVmFsaWRhdGlvblNtc1VzZUNhc2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>SmsCountService</text>
+      <register name="0" type="2">
+        <text encoding="base64">CSAgICBmb3JlYWNoIChzZWxmOjpDT0xVTU5fTkFNRVMgYXMgJGNvbHVtbk5hbWUpIHsKICAgICAgICAgICAgJHRoaXMtPmFkZENvbHVtbigKICAgICAgICAgICAgICAgIHNlbGY6OlRBQkxFX05BTUUsCiAgICAgICAgICAgICAgICAkY29sdW1uTmFtZSwKICAgICAgICAgICAgICAgICdpbnRlZ2VyIE5PVCBOVUxMIERFRkFVTFQgMCcKICAgICAgICAgICAgKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZHJvcENvbHVtbigKICAgICAgICAgICAgc2VsZjo6VEFCTEVfTkFNRSwKICAgICAgICAgICAgJ3Ntc19zZW50X2NvdW50JwogICAgICAgICk7CiAgICAgICAgJHRoaXMtPmRyb3BDb2x1bW4oCiAgICAgICAgICAgIHNlbGY6OlRBQkxFX05BTUUsCiAgICAgICAgICAgICdzbXNfY29kZScKICAgICAgICApOwogICAgICAgICR0aGlzLT5kcm9wQ29sdW1uKAogICAgICAgICAgICBzZWxmOjpUQUJMRV9OQU1FLAogICAgICAgICAgICAnc21zX2NvZGUnCiAgICAgICAgKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFRlbGVwaG9uZVZhbGlkYXRpb25BdHRlbXB0U2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpbnRlZ2VyIE5PVCBOVUxMIERFRkFVTFQgMCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OnNldFVwKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkQ29sdW1uKAogICAgICAgICAgICBzZWxmOjpUQUJMRV9OQU1FLAogICAgICAgICAgICAnc21zX3ZhbGlkYXRpb25fYXR0ZW1wdF9jb3VudCcsCiAgICAgICAgICAgICdpbnRlZ2VyIE5PVCBOVUxMIERFRkFVTFQgMCcKICAgICAgICApOwogICAgICAgICR0aGlzLT5hZGRDb2x1bW4oCiAgICAgICAgICAgIHNlbGY6OlRBQkxFX05BTUUsCiAgICAgICAgICAgICdjYWxsX3ZhbGlkYXRpb25fYXR0ZW1wdF9jb3VudCcsCiAgICAgICAgICAgICdpbnRlZ2VyIE5PVCBOVUxMIERFRkFVTFQgMCcKICAgICAgICApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CSAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkQ29sdW1uKAogICAgICAgICAgICBzZWxmOjpUQUJMRV9OQU1FLAogICAgICAgICAgICAnc21zX3NlbnRfY291bnQnLAogICAgICAgICAgICAnaW50ZWdlciBOT1QgTlVMTCBERUZBVUxUIDAnCiAgICAgICAgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIE1hbmRyaWxsTWVzc2FnZSAkbWVzc2FnZQogICAgICogQHJldHVybiBNYW5kcmlsbE1lc3NhZ2UKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBhZGRSZWNvdmVyUGFzc3dvcmRUYWdzKE1hbmRyaWxsTWVzc2FnZSAkbWVzc2FnZSkKICAgIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Ntc19jb2RlJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoIChzZWxmOjpSRUNPVkVSX1BBU1NXT1JEX1RBR1MgYXMgJHRhZykgewogICAgICAgICAgICAkbWVzc2FnZS0+YWRkVGFnKCR0YWcpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICRtZXNzYWdlOwo=</text>
+        <text encoding="base64">CSovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkbWVzc2FnZS0+dGFnCg==</text>
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB1cCgpCgl7Cgl9CgoJcHVibGljIGZ1bmN0aW9uIGRvd24oKQoJewoJCWVjaG8gIm0xODAyMDZfMTAzNDIzX2FkZF9jb3VudF9jb2x1bW5zX3RvX3VzZXJfdGVtcG9yYXJ5X2RhdGEgZG9lcyBub3Qgc3VwcG9ydCBtaWdyYXRpb24gZG93bi5cbiI7CgkJcmV0dXJuIGZhbHNlOwoJfQoKCS8qCgkvLyBVc2Ugc2FmZVVwL3NhZmVEb3duIHRvIGRvIG1pZ3JhdGlvbiB3aXRoIHRyYW5zYWN0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbWVzc2FnZS0+YWRkVGFnKCkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -2681,8 +2687,8 @@
         <entry>91</entry>
         <entry>70</entry>
         <entry>q</entry>
-        <entry>vs</entry>
         <entry>wa</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
