@@ -412,11 +412,11 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/AttemptValidationService.php" timestamp="1517936043816">
-        <mark key="[" line="38" column="21" />
-        <mark key="]" line="38" column="56" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/AttemptValidationService.php" timestamp="1517991503098">
+        <mark key="[" line="9" column="49" />
+        <mark key="]" line="9" column="50" />
         <mark key="^" line="38" column="56" />
-        <mark key="." line="38" column="56" />
+        <mark key="." line="9" column="50" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/php-kata-environment/src/Kata.php" timestamp="1498344493189">
         <mark key="[" line="11" column="0" />
@@ -1369,8 +1369,8 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/ChangeTelephoneBySmsUseCase.php" timestamp="1517936132990">
-        <mark key="'" line="32" column="43" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/ChangeTelephoneBySmsUseCase.php" timestamp="1517991525919">
+        <mark key="'" line="31" column="23" />
         <mark key="[" line="34" column="48" />
         <mark key="]" line="34" column="75" />
         <mark key="^" line="34" column="75" />
@@ -1715,7 +1715,7 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" timestamp="1517926368360">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" timestamp="1517992458002">
         <mark key="'" line="16" column="13" />
         <mark key="[" line="207" column="47" />
         <mark key="]" line="207" column="65" />
@@ -2036,12 +2036,12 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/ChangeTelephoneUseCase.php" timestamp="1517935675560">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/ChangeTelephoneUseCase.php" timestamp="1517992022155">
         <mark key="'" line="115" column="32" />
-        <mark key="[" line="36" column="58" />
-        <mark key="]" line="37" column="67" />
-        <mark key="^" line="37" column="67" />
-        <mark key="." line="37" column="67" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="56" column="7" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/PhoneHelper.php" timestamp="1517495656878">
         <mark key="[" line="18" column="14" />
@@ -2567,8 +2567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="46" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/services/NrsGatewaySmsSenderService.php" />
-      <jump line="12" column="35" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/services/NrsGatewaySmsSenderService.php" />
       <jump line="58" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
       <jump line="76" column="18" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
@@ -2667,13 +2665,15 @@
       <jump line="27" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/ChangeTelephoneBySmsUseCase.php" />
       <jump line="34" column="43" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/ChangeTelephoneBySmsUseCase.php" />
       <jump line="67" column="37" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/ChangeTelephoneByCallUseCase.php" />
+      <jump line="31" column="23" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/ChangeTelephoneBySmsUseCase.php" />
+      <jump line="117" column="32" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/ChangeTelephoneUseCase.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SendPhoneValidationSmsUseCase::COUNT_SMS_SENT_LIMIT;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>SendPhoneValidationSmsUseCase::COUNT_SMS_SENT_LIMIT;</text>
+        <text>, $changeTelephoneRequest</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0luVGhlQXR0ZW1wdHNMaW1pdFRvVmFsaWRhdGVcPg==</text>
@@ -2682,31 +2682,31 @@
         <text encoding="base64">IGlzQ2FsbFZhbGlkYXRpb25MaW1pdFJlYWNoZWQ=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2hhbmdlVGVsZXBob25lQnlTbXNVc2VDYXNlOjpWQUxJREFUSU9OX0FUVEVNUFRTX0NPVU5UX0xJTUlUOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2hhbmdlVGVsZXBob25lQnlDYWxsVXNlQ2FzZTo6VkFMSURBVElPTl9BVFRFTVBUU19DT1VOVF9MSU1JVDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdXNlclRlbXBvcmFyeURhdGEgPSAkdGhpcy0+dXNlclJlcG9zaXRvcnktPmdldFVzZXJUZW1wb3JhcnlEYXRhT3JGYWlsKCR1c2VySWQsICR0b2tlbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFZBTElEQVRJT05fQVRURU1QVFNfQ09VTlRfTElNSVQgPSA2Owo=</text>
+        <text encoding="base64">ICAgICAgICAkdXNlclRlbXBvcmFyeURhdGEgPSAkdGhpcy0+d2l0aE9uZU1vcmVBdHRlbXB0KCR1c2VyVGVtcG9yYXJ5RGF0YSk7CiAgICAgICAgJHRoaXMtPnVzZXJSZXBvc2l0b3J5LT5zYXZlVGVtcG9yYXJ5RGF0YSgkdXNlclRlbXBvcmFyeURhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZjo6VkFMSURBVElPTl9BVFRFTVBUU19DT1VOVF9MSU1JVCA8PSAkdXNlclRlbXBvcmFyeURhdGEtPmNvdW50Q2FsbFZhbGlkYXRpb25BdHRlbXB0cygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCR0aGlzLT5pc0luVGhlQXR0ZW1wdHNMaW1pdFRvVmFsaWRhdGUoJHVzZXJUZW1wb3JhcnlEYXRhKSkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IFZhbGlkYXRpb25BdHRlbXB0c1JlYWNoZWRFeGNlcHRpb24oCiAgICAgICAgICAgICAgICAgICAgJ1RoZSBsaW1pdCBvZiB2YWxpZGF0aW9uIGF0dGVtcHRzIGlzIHJlYWNoZWQuICcgLiBqc29uX2VuY29kZShbCiAgICAgICAgICAgICAgICAgICAgICAgICd1c2VyX2lkJyA9PiAkdXNlclRlbXBvcmFyeURhdGEtPmdldFVzZXJJZCgpLAogICAgICAgICAgICAgICAgICAgICAgICAndG9rZW4nID0+ICR1c2VyVGVtcG9yYXJ5RGF0YS0+Z2V0VG9rZW4oKSwKICAgICAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENPVU5UX0NBTEwgPSA2Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCR0aGlzLT5pc0luVGhlQXR0ZW1wdHNMaW1pdFRvVmFsaWRhdGUoJHVzZXJUZW1wb3JhcnlEYXRhKSkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IFZhbGlkYXRpb25BdHRlbXB0c1JlYWNoZWRFeGNlcHRpb24oCiAgICAgICAgICAgICAgICAgICAgJ1RoZSBsaW1pdCBvZiB2YWxpZGF0aW9uIGF0dGVtcHRzIGlzIHJlYWNoZWQuICcgLiBqc29uX2VuY29kZShbCiAgICAgICAgICAgICAgICAgICAgICAgICd1c2VyX2lkJyA9PiAkdXNlclRlbXBvcmFyeURhdGEtPmdldFVzZXJJZCgpLAogICAgICAgICAgICAgICAgICAgICAgICAndG9rZW4nID0+ICR1c2VyVGVtcG9yYXJ5RGF0YS0+Z2V0VG9rZW4oKSwKICAgICAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmlzSW5UaGVBdHRlbXB0c0xpbWl0VG9WYWxpZGF0ZSgkdXNlclRlbXBvcmFyeURhdGEpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBWYWxpZGF0aW9uQXR0ZW1wdHNSZWFjaGVkRXhjZXB0aW9uKAogICAgICAgICAgICAgICAgJ1RoZSBsaW1pdCBvZiB2YWxpZGF0aW9uIGF0dGVtcHRzIGlzIHJlYWNoZWQuICcgLiBqc29uX2VuY29kZShbCiAgICAgICAgICAgICAgICAgICAgJ3VzZXJfaWQnID0+ICR1c2VyVGVtcG9yYXJ5RGF0YS0+Z2V0VXNlcklkKCksCiAgICAgICAgICAgICAgICAgICAgJ3Rva2VuJyA9PiAkdXNlclRlbXBvcmFyeURhdGEtPmdldFRva2VuKCksCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICApOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFZBTElEQVRJT05fQVRURU1QVFNfQ09VTlRfTElNSVQgPSA2Owo=</text>
+        <text encoding="base64">ICAgICAgICBDaGFuZ2VUZWxlcGhvbmVSZXF1ZXN0ICRjaGFuZ2VUZWxlcGhvbmVSZXF1ZXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZjo6VkFMSURBVElPTl9BVFRFTVBUU19DT1VOVF9MSU1JVCA8PSAkdXNlclRlbXBvcmFyeURhdGEtPmNvdW50U21zVmFsaWRhdGlvbkF0dGVtcHRzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgTm90VmFsaWRhdGVkVGVsZXBob25lRXhjZXB0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
