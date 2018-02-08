@@ -1472,10 +1472,12 @@
         <mark key="^" line="36" column="52" />
         <mark key="." line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" timestamp="1518080557095">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" timestamp="1518085084229">
+        <mark key="'" line="371" column="21" />
+        <mark key="[" line="257" column="106" />
+        <mark key="]" line="258" column="11" />
+        <mark key="^" line="258" column="11" />
+        <mark key="." line="258" column="11" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/php-phpunit-xdebug-phpstorm-docker/composer.json" timestamp="1498296103178">
         <mark key="[" line="10" column="1" />
@@ -1945,8 +1947,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Functional/FunctionalTestCase.php" />
-      <jump line="68" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/application/dependencies.php" />
       <jump line="45" column="13" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/src/Config/YamlConfig.php" />
       <jump line="67" column="45" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/infrastructure/Persistence/Doctrine/Repository/DoctrineSupportRepository.php" />
       <jump line="31" column="6" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/infrastructure/Persistence/Doctrine/Repository/DoctrineSupportRepository.php" />
@@ -2045,63 +2045,64 @@
       <jump line="3" column="0" filename="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/phpstorm-docker-xdebug-apache/Dockerfile" />
       <jump line="13" column="6" filename="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/phpstorm-docker-xdebug-apache/Dockerfile" />
       <jump line="111" column="35" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/.htaccess" />
+      <jump line="260" column="35" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
+      <jump line="372" column="21" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGUtPmdldE1lc3NhZ2UoKSk7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNhblVzZVNtczsK</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>$canUseSms =</text>
       </register>
       <register name="/" type="4">
-        <text>error-llamada</text>
+        <text encoding="base64">XDxjYW5Vc2VTTVNWYWxpZGF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UlVOIGVjaG8gJ3hkZWJ1Zy5yZW1vdGVfZW5hYmxlPTEnID4+IC91c3IvbG9jYWwvZXRjL3BocC9waHAuaW5pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGUtPmdldE1lc3NhZ2UoKSk7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNhblVzZVNtczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgnYWtkamZrZHNqZmtzamRma2RzamYnKTtkaWU7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiN6ZW5kX2V4dGVuc2lvbj14ZGVidWcuc28KI3hkZWJ1Zy5yZW1vdGVfZW5hYmxlPTEKI3hkZWJ1Zy5yZW1vdGVfaGFuZGxlcj1kYmdwCiN4ZGVidWcucmVtb3RlX3BvcnQ9OTAwMAojeGRlYnVnLnJlbW90ZV9hdXRvc3RhcnQ9MQojeGRlYnVnLnJlbW90ZV9jb25uZWN0X2JhY2s9MAojeGRlYnVnLmlkZWtleT1kb2NrZXIKI3hkZWJ1Zy5yZW1vdGVfaG9zdD0/Pz8K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiN6ZW5kX2V4dGVuc2lvbj14ZGVidWcuc28KI3hkZWJ1Zy5yZW1vdGVfZW5hYmxlPTEKI3hkZWJ1Zy5yZW1vdGVfaGFuZGxlcj1kYmdwCiN4ZGVidWcucmVtb3RlX3BvcnQ9OTAwMAojeGRlYnVnLnJlbW90ZV9hdXRvc3RhcnQ9MQojeGRlYnVnLnJlbW90ZV9jb25uZWN0X2JhY2s9MAojeGRlYnVnLmlkZWtleT1kb2NrZXIKI3hkZWJ1Zy5yZW1vdGVfaG9zdD0/Pz8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">I1JVTiBlY2hvICd4ZGVidWcucmVtb3RlX2F1dG9zdGFydD0wJyA+PiAvdXNyL2xvY2FsL2V0Yy9waHAvcGhwLmluaQojUlVOIGVjaG8gJ3hkZWJ1Zy5yZW1vdGVfaGFuZGxlcj1kYmdwJyA+PiAvdXNyL2xvY2FsL2V0Yy9waHAvcGhwLmluaQojUlVOIGVjaG8gJ3hkZWJ1Zy5yZW1vdGVfY29ubmVjdF9iYWNrPTAnID4+IC91c3IvbG9jYWwvZXRjL3BocC9waHAuaW5pCiNSVU4gZWNobyAneGRlYnVnLnByb2ZpbGVyX291dHB1dF9kaXI9Ii92YXIvd3d3L2h0bWwiJyA+PiAvdXNyL2xvY2FsL2V0Yy9waHAvcGhwLmluaQojUlVOIGVjaG8gJ3hkZWJ1Zy5pZGVrZXk9UEhQU1RPUk0nID4+IC91c3IvbG9jYWwvZXRjL3BocC9waHAuaW5pCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">I1JVTiBlY2hvICd4ZGVidWcucmVtb3RlX2hvc3Q9MTI3LjAuMC4xJyA+PiAvdXNyL2xvY2FsL2V0Yy9waHAvcGhwLmluaQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGUtPmdldE1lc3NhZ2UoKSk7ZGllOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgnYWtkamZrZHNqZmtzamRma2RzamYnKTtkaWU7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiN6ZW5kX2V4dGVuc2lvbj14ZGVidWcuc28KI3hkZWJ1Zy5yZW1vdGVfZW5hYmxlPTEKI3hkZWJ1Zy5yZW1vdGVfaGFuZGxlcj1kYmdwCiN4ZGVidWcucmVtb3RlX3BvcnQ9OTAwMAojeGRlYnVnLnJlbW90ZV9hdXRvc3RhcnQ9MQojeGRlYnVnLnJlbW90ZV9jb25uZWN0X2JhY2s9MAojeGRlYnVnLmlkZWtleT1kb2NrZXIKI3hkZWJ1Zy5yZW1vdGVfaG9zdD0/Pz8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiN6ZW5kX2V4dGVuc2lvbj14ZGVidWcuc28KI3hkZWJ1Zy5yZW1vdGVfZW5hYmxlPTEKI3hkZWJ1Zy5yZW1vdGVfaGFuZGxlcj1kYmdwCiN4ZGVidWcucmVtb3RlX3BvcnQ9OTAwMAojeGRlYnVnLnJlbW90ZV9hdXRvc3RhcnQ9MQojeGRlYnVnLnJlbW90ZV9jb25uZWN0X2JhY2s9MAojeGRlYnVnLmlkZWtleT1kb2NrZXIKI3hkZWJ1Zy5yZW1vdGVfaG9zdD0/Pz8K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">I1JVTiBlY2hvICd4ZGVidWcucmVtb3RlX2F1dG9zdGFydD0wJyA+PiAvdXNyL2xvY2FsL2V0Yy9waHAvcGhwLmluaQojUlVOIGVjaG8gJ3hkZWJ1Zy5yZW1vdGVfaGFuZGxlcj1kYmdwJyA+PiAvdXNyL2xvY2FsL2V0Yy9waHAvcGhwLmluaQojUlVOIGVjaG8gJ3hkZWJ1Zy5yZW1vdGVfY29ubmVjdF9iYWNrPTAnID4+IC91c3IvbG9jYWwvZXRjL3BocC9waHAuaW5pCiNSVU4gZWNobyAneGRlYnVnLnByb2ZpbGVyX291dHB1dF9kaXI9Ii92YXIvd3d3L2h0bWwiJyA+PiAvdXNyL2xvY2FsL2V0Yy9waHAvcGhwLmluaQojUlVOIGVjaG8gJ3hkZWJ1Zy5pZGVrZXk9UEhQU1RPUk0nID4+IC91c3IvbG9jYWwvZXRjL3BocC9waHAuaW5pCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIGVjaG8gJ3hkZWJ1Zy5yZW1vdGVfcG9ydD05MDAxJyA+PiAvdXNyL2xvY2FsL2V0Yy9waHAvcGhwLmluaQo=</text>
+        <text encoding="base64">I1JVTiBlY2hvICd4ZGVidWcucmVtb3RlX2hvc3Q9MTI3LjAuMC4xJyA+PiAvdXNyL2xvY2FsL2V0Yy9waHAvcGhwLmluaQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIGVjaG8gJ3hkZWJ1Zy5yZW1vdGVfZW5hYmxlPTEnID4+IC91c3IvbG9jYWwvZXRjL3BocC9waHAuaW5pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>error-llamada</last-search>
+      <last-search encoding="base64">XDxjYW5Vc2VTTVNWYWxpZGF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>error-llamada</last-pattern>
+      <last-pattern encoding="base64">XDxjYW5Vc2VTTVNWYWxpZGF0aW9uXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>actionEdit</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVc2VyUmVwb3NpdG9yeVw+</entry>
         <entry>Update</entry>
         <entry>facilit</entry>
         <entry encoding="base64">XDxmYWNpbGl0aWVzSW1hZ2VzXD4=</entry>
@@ -2121,6 +2122,7 @@
         <entry encoding="base64">XDxnZXRTbXNWYWxpZGF0aW9uRm9ybVw+</entry>
         <entry>actionEdit</entry>
         <entry>error-llamada</entry>
+        <entry encoding="base64">XDxjYW5Vc2VTTVNWYWxpZGF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>104</entry>
