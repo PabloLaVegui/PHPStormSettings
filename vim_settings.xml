@@ -246,11 +246,11 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" timestamp="1519201878948">
+      <file name="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" timestamp="1519203812087">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
-        <mark key="^" line="26" column="21" />
+        <mark key="^" line="27" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/balance/payment/directDebit.php" timestamp="1514907648747">
         <mark key="[" line="0" column="22" />
@@ -545,7 +545,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519144115108">
+      <file name="/Dummy.txt" timestamp="1519203427379">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/favorite/favorite.php" timestamp="1506609511259">
@@ -884,6 +884,12 @@
         <mark key="^" line="89" column="9" />
         <mark key="." line="89" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/infrastructure/Exceptions/SugarConnectionException.php" timestamp="1519203438210">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="48" />
+        <mark key="^" line="7" column="48" />
+        <mark key="." line="7" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/authorizedDealer/authDealerInfoData/_info_dealer_edit.twig" timestamp="1518454465239">
         <mark key="[" line="20" column="15" />
         <mark key="]" line="20" column="104" />
@@ -1089,6 +1095,12 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="69" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/infrastructure/Exceptions/UnauthorizedException.php" timestamp="1519203277241">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="45" />
+        <mark key="^" line="7" column="45" />
+        <mark key="." line="7" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/login/_resetPassword.twig" timestamp="1516875011212">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="102" />
@@ -1131,7 +1143,7 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="/PHP Console" timestamp="1519202510132">
+      <file name="/PHP Console" timestamp="1519203834488">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1773,12 +1785,12 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/wrapper/SugarConnection.php" timestamp="1519202732026">
-        <mark key="'" line="85" column="7" />
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="13" column="42" />
-        <mark key="." line="13" column="42" />
-        <mark key="^" line="13" column="21" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/wrapper/SugarConnection.php" timestamp="1519203673890">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+        <mark key="^" line="44" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/ClassifiedInteractionsStatisticsService.php" timestamp="1511438733965">
         <mark key="[" line="52" column="16" />
@@ -2605,7 +2617,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="0" filename="$USER_HOME$/Projects/domain.coches.com/activeRecordModels/User/UserTemporaryData.php" />
       <jump line="96" column="44" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/MyData/SendPhoneValidationSmsUseCaseTest.php" />
       <jump line="75" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/SendPhoneValidationSmsUseCase.php" />
       <jump line="47" column="27" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/MyData/SendPhoneValidationSmsUseCaseTest.php" />
@@ -2705,46 +2716,47 @@
       <jump line="48" column="30" filename="$USER_HOME$/Projects/crmmigrations/tests/unit/infrastructure/gateways/eurotax/MakeGatewayCommandTest.php" />
       <jump line="60" column="3" filename="$USER_HOME$/Projects/crmmigrations/application/commands/PruebaCommand.php" />
       <jump line="82" column="7" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/wrapper/SugarConnection.php" />
+      <jump line="99" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/wrapper/SugarConnection.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>NOT_FOUND</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAncmVxdWVzdC5vcHRpb25zJyA9PiBbCiAgICAgICAgICAgICdleGNlcHRpb25zJyA9PiBmYWxzZSwKICAgICAgICBdLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>NOT_FOUND</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlZFNlYXJjaHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IE5PVF9GT1VORF9SRVNQT05TRV9DT0RFID0gNDA0Owo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2hlY2tFcnJvcnMoJHJlc3BvbnNlKTsKCiAgICAgICAgcmV0dXJuIGpzb25fZGVjb2RlKChzdHJpbmcpJHJlc3BvbnNlLT5nZXRCb2R5KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAncmVxdWVzdC5vcHRpb25zJyA9PiBbCiAgICAgICAgICAgICdleGNlcHRpb25zJyA9PiBmYWxzZSwKICAgICAgICBdLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdodHRwX2Vycm9ycycgPT4gZmFsc2UsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtPmpzb24oKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkdXJsCiAgICAgKiBAcGFyYW0gYXJyYXkgJHBheWxvYWQKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRjbGllbnQtPnNldEJhc2VVcmwoZ2V0ZW52KCdQUkFLVE9OX0JBU0VfVVJMJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlcXVlc3QtPnNlbmQoKS0+anNvbigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRjbGllbnQtPmtra2tra2tra2tra2sK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICR1cmwKICAgICAqIEBwYXJhbSAkcGF5bG9hZAogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqIEB0aHJvd3MgXGNvY2hlc2NvbVxkb21haW5caW5mcmFzdHJ1Y3R1cmVcRXhjZXB0aW9uc1xSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uCiAgICAgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAncmVxdWVzdC5vcHRpb25zJyA9PiBhcnJheSgKICAgICAgICAgICAgJ2V4Y2VwdGlvbnMnID0+IGZhbHNlLAogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlcXVlc3QtPnNlbmQoKS0+anNvbigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEd1enpsZVxIdHRwXENsaWVudDsK</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXEV4Y2VwdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2h0dHBfZXJyb3JzJyA9PiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXEV4Y2VwdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdib2R5JyA9PiAkcGF5bG9hZCwK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkdXJsTm9kZQogICAgICogQHJldHVybiBhcnJheQogICAgICogQHRocm93cyBcRXhjZXB0aW9uCiAgICAgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
