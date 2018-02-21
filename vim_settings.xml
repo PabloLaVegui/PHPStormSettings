@@ -271,6 +271,12 @@
         <mark key="^" line="5" column="33" />
         <mark key="." line="5" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/DoctrineSegmentRepository.php" timestamp="1519221364286">
+        <mark key="[" line="32" column="51" />
+        <mark key="]" line="32" column="57" />
+        <mark key="^" line="32" column="57" />
+        <mark key="." line="32" column="57" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/enums/routes/ClassifiedRoutesEnum.php" timestamp="1511968081589">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -531,7 +537,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519210552548">
+      <file name="/Dummy.txt" timestamp="1519221309658">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/favorite/favorite.php" timestamp="1506609511259">
@@ -851,6 +857,12 @@
         <mark key="]" line="9" column="41" />
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/infrastructure/repositories/eurotax/SegmentRepository.php" timestamp="1519221257147">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/twig/one.twig" timestamp="1505899678598">
         <mark key="[" line="0" column="2" />
@@ -1555,6 +1567,12 @@
         <mark key="." line="36" column="90" />
         <mark key="^" line="36" column="90" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.eurotax.Segment.dcm.yml" timestamp="1519221526574">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris2D/Board/Checker/CompleteFixedRowScoreChecker.php" timestamp="1505928988099">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="38" />
@@ -1741,6 +1759,10 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/DoctrineModelRepository.php" timestamp="1519221350209">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="35" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/wrapper/SugarConnection.php" timestamp="1519211592105">
         <mark key="'" line="107" column="0" />
         <mark key="[" line="58" column="0" />
@@ -1855,6 +1877,10 @@
         <mark key="]" line="12" column="12" />
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/infrastructure/repositories/eurotax/ModelRepository.php" timestamp="1519221213170">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="11" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/authorizedDealer/authDealerInfoData/_info_dealer.twig" timestamp="1516617803202">
         <mark key="[" line="20" column="0" />
@@ -2669,42 +2695,42 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sugarconnectione</text>
+        <text>segment</text>
       </register>
       <register name="-" type="4">
-        <text>sugarconnectione</text>
+        <text>segment</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRFeHBlY3RlZFJlcXVlc3RNb2NrXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXGNvY2hlc2NvbVxkb21haW5caW5mcmFzdHJ1Y3R1cmVcRXhjZXB0aW9uc1xTdWdhckNvbm5lY3Rpb25FeGNlcHRpb24KICAgICAqIEB0aHJvd3MgXGNvY2hlc2NvbVxkb21haW5caW5mcmFzdHJ1Y3R1cmVcRXhjZXB0aW9uc1xSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIFxjb2NoZXNjb21cZG9tYWluXGluZnJhc3RydWN0dXJlXEV4Y2VwdGlvbnNcVW5hdXRob3JpemVkRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyICBFbnRpdHlNYW5hZ2VyICovCiAgICBwcml2YXRlICRlbnRpdHlNYW5hZ2VyOwoKICAgIC8qKgogICAgICogRG9jdHJpbmVNb2RlbFJlcG9zaXRvcnkgY29uc3RydWN0b3IuCiAgICAgKiBAcGFyYW0gRW50aXR5TWFuYWdlciAkZW50aXR5TWFuYWdlcgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoRW50aXR5TWFuYWdlciAkZW50aXR5TWFuYWdlcikKICAgIHsKICAgICAgICAkdGhpcy0+ZW50aXR5TWFuYWdlciA9ICRlbnRpdHlNYW5hZ2VyOwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtIGludCAkbGltaXQKICAgICAqIEBwYXJhbSBpbnQgJG9mZnNldAogICAgICogQHJldHVybiBhcnJheQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZmluZEFsbCgkbGltaXQsICRvZmZzZXQpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5lbnRpdHlNYW5hZ2VyLT5nZXRSZXBvc2l0b3J5KE1vZGVsOjpjbGFzcykKICAgICAgICAgICAgLT5maW5kQnkoW10sIG51bGwsICRsaW1pdCwgJG9mZnNldCk7CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGludCAkbGltaXQKICAgICAqIEBwYXJhbSBpbnQgJG9mZnNldAogICAgICogQHJldHVybiBTZWdtZW50W10KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGZpbmRBbGwoJGxpbWl0LCAkb2Zmc2V0KQogICAgewogICAgICAgIC8vIFRPRE86IEltcGxlbWVudCBmaW5kQWxsKCkgbWV0aG9kLgogICAgfQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="8">
         <text>* @throws \
 * @throws \
 * @throws \</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">KiBAdGhyb3dzIFxjb2NoZXNjb21cZG9tYWluXGluZnJhc3RydWN0dXJlXEV4Y2VwdGlvbnNcU3VnYXJDb25uZWN0aW9uRXhjZXB0aW9uCiogQHRocm93cyBcY29jaGVzY29tXGRvbWFpblxpbmZyYXN0cnVjdHVyZVxFeGNlcHRpb25zXFJlc291cmNlTm90Rm91bmRFeGNlcHRpb24KKiBAdGhyb3dzIFxjb2NoZXNjb21cZG9tYWluXGluZnJhc3RydWN0dXJlXEV4Y2VwdGlvbnNcVW5hdXRob3JpemVkRXhjZXB0aW9uCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAqIHRvZG86IGV4Y2VwdGlvbgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkbWFrZSA9IG5ldyBNYWtlKCRpZCwgJG5hbWUpOwo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbWFrZSA9IG5ldyBNYWtlKCRpZCwgJG5hbWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
