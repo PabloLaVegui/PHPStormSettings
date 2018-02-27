@@ -1514,9 +1514,9 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/DoctrineMakeRepository.php" timestamp="1519730172760">
-        <mark key="[" line="35" column="45" />
-        <mark key="]" line="35" column="45" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/DoctrineMakeRepository.php" timestamp="1519745197718">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="40" column="32" />
         <mark key="." line="35" column="45" />
         <mark key="^" line="35" column="45" />
       </file>
@@ -1886,6 +1886,12 @@
         <mark key="]" line="15" column="5" />
         <mark key="^" line="5" column="57" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/DoctrineModelRepository.php" timestamp="1519745403608">
+        <mark key="[" line="38" column="36" />
+        <mark key="]" line="38" column="37" />
+        <mark key="." line="38" column="37" />
+        <mark key="^" line="38" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/ClassifiedInteractionsStatisticsService.php" timestamp="1511438733965">
         <mark key="[" line="52" column="16" />
@@ -2410,12 +2416,12 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Model.php" timestamp="1519744321146">
-        <mark key="'" line="22" column="21" />
-        <mark key="[" line="98" column="5" />
-        <mark key="]" line="99" column="3" />
-        <mark key="." line="99" column="3" />
-        <mark key="^" line="99" column="3" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Model.php" timestamp="1519745336604">
+        <mark key="'" line="79" column="20" />
+        <mark key="[" line="95" column="31" />
+        <mark key="]" line="95" column="63" />
+        <mark key="." line="95" column="63" />
+        <mark key="^" line="95" column="63" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/composer.json" timestamp="1500055108911">
         <mark key="[" line="4" column="14" />
@@ -2725,7 +2731,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="24" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/eurotax/MakeGatewayQuery.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/eurotax/MakeGatewayQuery.php" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/eurotax/MakeGatewayQuery.php" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/eurotax/MakeGatewayQuery.php" />
@@ -2825,19 +2830,20 @@
       <jump line="197" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" />
       <jump line="42" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Model.php" />
       <jump line="22" column="21" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Model.php" />
+      <jump line="79" column="20" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Model.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gc2VyaWFsaXplRW5kRGF0ZSgpCiAgICB7CiAgICAgICAgaWYgKCR0aGlzLT5oYXNFbXB0eUVuZERhdGUoKSkgewogICAgICAgICAgICByZXR1cm4gc2VsZjo6Tk9fREFURV9WQUxVRV9TRVJJQUxJWkFUSU9OOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIFN1Z2FyRGF0ZUhlbHBlcjo6dGFrZSgpCiAgICAgICAgICAgIC0+ZnJvbURhdGVUaW1lVG9TdWdhckRhdGVSZXF1ZXN0KCR0aGlzLT5nZXRDb21tZXJjaWFsRW5kKCkpOwogICAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>modnatcode</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPnNlcmlhbGl6ZUVuZERhdGUoKSw=</text>
+        <text>modnatcode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RlbFByb3ZpZGVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdXRmOF9lbmNvZGUoJHRoaXMtPm5hbWUpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">LT5hZGRHcm91cEJ5KCdtYWtlLm5hbWUnKQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gc2VyaWFsaXplRW5kRGF0ZSgpCiAgICB7CiAgICAgICAgaWYgKCR0aGlzLT5oYXNFbXB0eUVuZERhdGUoKSkgewogICAgICAgICAgICByZXR1cm4gc2VsZjo6Tk9fREFURV9WQUxVRV9TRVJJQUxJWkFUSU9OOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIFN1Z2FyRGF0ZUhlbHBlcjo6dGFrZSgpCiAgICAgICAgICAgIC0+ZnJvbURhdGVUaW1lVG9TdWdhckRhdGVSZXF1ZXN0KCR0aGlzLT5nZXRDb21tZXJjaWFsRW5kKCkpOwogICAgfQoK</text>
