@@ -2,7 +2,7 @@
   <option name="myName" value="Project Default" />
   <inspection_tool class="BadExceptionsProcessingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ComparisonOperandsOrderInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
-    <option name="PREFER_REGULAR_STYLE" value="true" />
+    <option name="PREFER_YODA_STYLE" value="true" />
   </inspection_tool>
   <inspection_tool class="EmptyClassInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ForgottenDebugOutputInspection" enabled="true" level="ERROR" enabled_by_default="true">
