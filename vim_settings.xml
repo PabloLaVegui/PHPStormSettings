@@ -2479,12 +2479,12 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Model.php" timestamp="1519806222422">
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Model.php" timestamp="1519808559528">
         <mark key="'" line="85" column="19" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="38" column="27" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="61" column="24" />
+        <mark key="]" line="61" column="30" />
+        <mark key="^" line="61" column="30" />
+        <mark key="." line="61" column="30" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/composer.json" timestamp="1500055108911">
         <mark key="[" line="4" column="14" />
@@ -2683,6 +2683,12 @@
         <mark key="]" line="11" column="39" />
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/helpers/SugarDateHelper.php" timestamp="1519808493397">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="49" column="20" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/domain/infrastructure/providers/eurotax/FakeModelDataProvider.php" timestamp="1519726903635">
         <mark key="[" line="23" column="45" />
@@ -2897,10 +2903,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkdGhpcy0+ZW50aXR5TWFuYWdlci0+Z2V0UmVwb3NpdG9yeShNb2RlbDo6Y2xhc3MpCi8vICAgICAgICAgICAgLT5maW5kQnkoW10sIG51bGwsICRsaW1pdCwgJG9mZnNldCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>$sugarDate === ''</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXROYW1lRnJvbUlkXD4=</text>
@@ -2909,31 +2915,31 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+bmFtZSA9ICR0aGlzLT5nZXROYW1lRnJvbUlkKCRjb2NoZXNJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkdGhpcy0+ZW50aXR5TWFuYWdlci0+Z2V0UmVwb3NpdG9yeShNb2RlbDo6Y2xhc3MpCi8vICAgICAgICAgICAgLT5maW5kQnkoW10sIG51bGwsICRsaW1pdCwgJG9mZnNldCk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyAgICAgIHR5cGU6IG1vZGVsSWQKIyAgICAgIGNvbHVtbjogbW9kbmFtZWdycDEK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkdGhpcy0+ZW50aXR5TWFuYWdlci0+Z2V0UmVwb3NpdG9yeShNb2RlbDo6Y2xhc3MpCi8vICAgICAgICAgICAgLT5maW5kQnkoW10sIG51bGwsICRsaW1pdCwgJG9mZnNldCk7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIGNvY2hlc2NvbVxkb21haW5caGVscGVyc1xNb2RlbElkSGVscGVyOwo=</text>
+        <text encoding="base64">IyAgICAgIHR5cGU6IG1vZGVsSWQKIyAgICAgIGNvbHVtbjogbW9kbmFtZWdycDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5uYW1lID0gJHRoaXMtPmdldE5hbWVGcm9tSWQoJGNvY2hlc0lkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBNb2RlbElkSGVscGVyOjp0YWtlKCktPmRlZmxhdGVNb2RlbElkKCR0aGlzLT5nZXRJZCgpKTsK</text>
+        <text encoding="base64">dXNlIGNvY2hlc2NvbVxkb21haW5caGVscGVyc1xNb2RlbElkSGVscGVyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8KLy8gICAgLyoqCi8vICAgICAqIEBwYXJhbSBzdHJpbmcgJG1vZGVsSWQKLy8gICAgICogQHJldHVybiBzdHJpbmcKLy8gICAgICovCi8vICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0TmFtZUZyb21JZCgkbW9kZWxJZCkKLy8gICAgewovLyAgICAgICAgcmV0dXJuIE1vZGVsSWRIZWxwZXI6OnRha2UoKS0+ZGVmbGF0ZU1vZGVsSWQoJG1vZGVsSWQpOwovLyAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5uYW1lID0gJHRoaXMtPmdldE5hbWVGcm9tSWQoJGNvY2hlc0lkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIGNvY2hlc2NvbVxkb21haW5caGVscGVyc1xTdWdhckRhdGVIZWxwZXI7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBNb2RlbElkSGVscGVyOjp0YWtlKCktPmRlZmxhdGVNb2RlbElkKCR0aGlzLT5nZXRJZCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPmdyb3VwQnkoJ21vZGVsLmNvY2hlc0lkJykK</text>
+        <text encoding="base64">Ly8KLy8gICAgLyoqCi8vICAgICAqIEBwYXJhbSBzdHJpbmcgJG1vZGVsSWQKLy8gICAgICogQHJldHVybiBzdHJpbmcKLy8gICAgICovCi8vICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0TmFtZUZyb21JZCgkbW9kZWxJZCkKLy8gICAgewovLyAgICAgICAgcmV0dXJuIE1vZGVsSWRIZWxwZXI6OnRha2UoKS0+ZGVmbGF0ZU1vZGVsSWQoJG1vZGVsSWQpOwovLyAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -2972,7 +2978,6 @@
         <entry encoding="base64">XDxnZXROYW1lRnJvbUlkXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>waa</entry>
         <entry>198</entry>
         <entry>99</entry>
         <entry>115</entry>
@@ -2991,6 +2996,7 @@
         <entry>vs</entry>
         <entry>62</entry>
         <entry>q</entry>
+        <entry>41</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
