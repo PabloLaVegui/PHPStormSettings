@@ -324,6 +324,10 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/crmmigrations/src/domain/helpers/ModelDateHelper.php" timestamp="1519904169397">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="16" column="4" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris/Event/EventScore.php" timestamp="1501610210573">
         <mark key="[" line="7" column="20" />
         <mark key="]" line="7" column="33" />
@@ -694,6 +698,12 @@
         <mark key="^" line="11" column="37" />
         <mark key="." line="11" column="37" />
       </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/crmmigrations/src/infrastructure/transformers/eurotax/FuelFactory.php" timestamp="1519904231571">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris/GeoMap/GeoMapTest.php" timestamp="1505771235784">
         <mark key="[" line="47" column="25" />
         <mark key="]" line="47" column="24" />
@@ -866,7 +876,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519902543944">
+      <file name="/Dummy.txt" timestamp="1519904123002">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/Type.php" timestamp="1512236091834">
@@ -905,7 +915,7 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/crmmigrations/src/domain/models/eurotax/Fuel.php" timestamp="1519903075809">
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/crmmigrations/src/domain/models/eurotax/Fuel.php" timestamp="1519903608261">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="11" column="18" />
         <mark key="^" line="11" column="18" />
@@ -1196,6 +1206,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="5" column="12" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/crmmigrations/src/infrastructure/repositories/doctrine/types/eurotax/FuelType.php" timestamp="1519903847632">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="38" column="36" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Tetromino/OTetromino.php" timestamp="1499035438812">
         <mark key="[" line="3" column="16" />
@@ -1553,6 +1569,11 @@
         <mark key="]" line="16" column="64" />
         <mark key="^" line="16" column="64" />
         <mark key="." line="16" column="64" />
+      </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/crmmigrations/src/infrastructure/repositories/doctrine/types/eurotax/ModelDateType.php" timestamp="1519903843140">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="48" column="4" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/LICENSE" timestamp="1499506755163">
         <mark key="[" line="2" column="19" />
@@ -2004,7 +2025,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/application/dependencies.php" />
       <jump line="25" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/application/dependencies.php" />
       <jump line="32" column="16" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Unit/App/Action/Support/CreateSupportActionTest.php" />
       <jump line="107" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Unit/App/Action/Support/CreateSupportActionTest.php" />
@@ -2104,46 +2124,47 @@
       <jump line="17" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/views/mizonaDesign/myData/_change_email_ok.twig" />
       <jump line="50" column="38" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/views/mizonaDesign/editTelephone/validate_sms_code.twig" />
       <jump line="11" column="36" filename="$USER_HOME$/Amazon Drive/Code/cochescom/crmmigrations/application/commands/eurotax/EurotaxCommand.php" />
+      <jump line="11" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/crmmigrations/src/infrastructure/repositories/doctrine/types/eurotax/ModelDateType.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>float</text>
+        <text>E</text>
       </register>
       <register name="-" type="4">
-        <text>float</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYWtlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRvb3JzOgogICAgICB0eXBlOiBpbnRlZ2VyCiAgICAgIGNvbHVtbjogdHlwZG9vcgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gdGFrZSgpCiAgICB7CiAgICAgICAgcmV0dXJuIG5ldyBzZWxmKCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbW1lcmNpYWxFbmQ6CiAgICAgIHR5cGU6IG1vZGVsRGF0ZQogICAgICBjb2x1bW46IG1vZGltcGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1ha2VJZDoKICAgICAgdHlwZTogc3RyaW5nCiAgICAgIGNvbHVtbjogbW9kbWFrY2QK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjb252ZXJ0VG9QSFBWYWx1ZSgpCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CjxkaXYgY2xhc3M9Im1pel9tYXggbWl6X2JyZWFkY3J1bWJzIj4KICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CiAgICAgICAgPHVsIGNsYXNzPSJicmVhZGNydW1iIj4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii8iPkluaWNpbzwvYT48L2xpPgogICAgICAgICAgICA8bGkgY2xhc3M9ImFjdGl2ZSI+TWlzIERhdG9zPC9saT4KICAgICAgICA8L3VsPgogICAgPC9kaXY+CjwvZGl2PgoKPGRpdiBjbGFzcz0ibWl6X21heCI+CiAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgICAgIDxkaXYgY2xhc3M9Im1pel90aXRsZV9zZWN0aW9uIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0ibWl6X2gxIj5NaXMgZGF0b3M8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo8L2Rpdj4KCg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CjxkaXYgY2xhc3M9Im1pel9tYXggbWl6X2JyZWFkY3J1bWJzIj4KICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CiAgICAgICAgPHVsIGNsYXNzPSJicmVhZGNydW1iIj4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii8iPkluaWNpbzwvYT48L2xpPgogICAgICAgICAgICA8bGkgY2xhc3M9ImFjdGl2ZSI+TWlzIERhdG9zPC9saT4KICAgICAgICA8L3VsPgogICAgPC9kaXY+CjwvZGl2PgoKPGRpdiBjbGFzcz0ibWl6X21heCI+CiAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgICAgIDxkaXYgY2xhc3M9Im1pel90aXRsZV9zZWN0aW9uIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0ibWl6X2gxIj5NaXMgZGF0b3M8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo8L2Rpdj4KCg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKwo=</text>
+        <text encoding="base64">ICAgICAqIEB0b2RvIE5lZWRlZD8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJ3NlbmRTbXNSb3V0ZScgPT4gJHRoaXMtPmdldFNtc1NlbmRSb3V0ZSgkdG9rZW4pLAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0TmFtZSgpIG1ldGhvZC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkdGhpcy0+cmVkaXJlY3QoJHRoaXMtPmdldENhbGxDb25maXJtYXRpb25Sb3V0ZSgkdG9rZW4pKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0U1FMRGVjbGFyYXRpb24oKSBtZXRob2QuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCR0aGlzLT5hdHRlbXB0VmFsaWRhdGlvblNlcnZpY2UtPmlzU21zU2VudExpbWl0UmVhY2hlZCgkdXNlclRlbXBvcmFyeURhdGEpKTtkaWU7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IEZVRUwgPSAnZnVlbCc7CgogICAgLyoqCiAgICAgKiBHZXRzIHRoZSBTUUwgZGVjbGFyYXRpb24gc25pcHBldCBmb3IgYSBmaWVsZCBvZiB0aGlzIHR5cGUuCiAgICAgKgogICAgICogQHBhcmFtIGFycmF5ICRmaWVsZERlY2xhcmF0aW9uIFRoZSBmaWVsZCBkZWNsYXJhdGlvbi4KICAgICAqIEBwYXJhbSBcRG9jdHJpbmVcREJBTFxQbGF0Zm9ybXNcQWJzdHJhY3RQbGF0Zm9ybSAkcGxhdGZvcm0gVGhlIGN1cnJlbnRseSB1c2VkIGRhdGFiYXNlIHBsYXRmb3JtLgogICAgICoKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRTUUxEZWNsYXJhdGlvbigKICAgICAgICBhcnJheSAkZmllbGREZWNsYXJhdGlvbiwKICAgICAgICBBYnN0cmFjdFBsYXRmb3JtICRwbGF0Zm9ybQogICAgKSB7CiAgICAgICAgcmV0dXJuIHNlbGY6OkZVRUw7CiAgICB9CgogICAgLyoqCiAgICAgKiBHZXRzIHRoZSBuYW1lIG9mIHRoaXMgdHlwZS4KICAgICAqCiAgICAgKiBAcmV0dXJuIHN0cmluZwogICAgICoKICAgICAqIEB0b2RvIE5lZWRlZD8KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldE5hbWUoKQogICAgewogICAgfQogICAgLyoqCiAgICAgKiBHZXRzIHRoZSBuYW1lIG9mIHRoaXMgdHlwZS4KICAgICAqCiAgICAgKiBAcmV0dXJuIHN0cmluZwogICAgICoKICAgICAqIEB0b2RvIE5lZWRlZD8KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldE5hbWUoKQogICAgewogICAgICAgIC8vIFRPRE86IEltcGxlbWVudCBnZXROYW1lKCkgbWV0aG9kLgogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
