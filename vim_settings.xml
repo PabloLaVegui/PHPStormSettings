@@ -773,6 +773,12 @@
         <mark key="." line="13" column="45" />
         <mark key="^" line="13" column="45" />
       </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/crmmigrations/src/domain/infrastructure/providers/eurotax/VersionProvider.php" timestamp="1519892375064">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/views/layouts/mizonaDesign/main-mizona.php" timestamp="1516349623503">
         <mark key="[" line="80" column="143" />
         <mark key="]" line="80" column="158" />
@@ -848,7 +854,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518108393808">
+      <file name="/Dummy.txt" timestamp="1519892319679">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/Type.php" timestamp="1512236091834">
@@ -1839,6 +1845,10 @@
         <mark key="^" line="29" column="25" />
         <mark key="." line="29" column="25" />
       </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/crmmigrations/src/domain/infrastructure/providers/eurotax/ModelProvider.php" timestamp="1519892349388">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="16" column="44" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/Application/UseCases/Classified/EnableClassifiedUseCase.php" timestamp="1511165624202">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -2075,17 +2085,17 @@
       <jump line="50" column="38" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/views/mizonaDesign/editTelephone/validate_sms_code.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CjxkaXYgY2xhc3M9Im1pel9tYXggbWl6X2JyZWFkY3J1bWJzIj4KICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CiAgICAgICAgPHVsIGNsYXNzPSJicmVhZGNydW1iIj4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii8iPkluaWNpbzwvYT48L2xpPgogICAgICAgICAgICA8bGkgY2xhc3M9ImFjdGl2ZSI+TWlzIERhdG9zPC9saT4KICAgICAgICA8L3VsPgogICAgPC9kaXY+CjwvZGl2PgoKPGRpdiBjbGFzcz0ibWl6X21heCI+CiAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgICAgIDxkaXYgY2xhc3M9Im1pel90aXRsZV9zZWN0aW9uIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0ibWl6X2gxIj5NaXMgZGF0b3M8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo8L2Rpdj4KCg==</text>
+      <register name="&quot;" type="4">
+        <text>Model</text>
       </register>
       <register name="-" type="4">
-        <text>getCallValidationRoute</text>
+        <text>Model</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW5Vc2VTTVNWYWxpZGF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzZW5kU21zUm91dGUnID0+ICR0aGlzLT5nZXRTbXNTZW5kUm91dGUoJHRva2VuKSwK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGludCAkbGltaXQKICAgICAqIEBwYXJhbSBpbnQgJG9mZnNldAogICAgICogQHJldHVybiBNb2RlbFtdCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBmaW5kQWxsKCRsaW1pdCwgJG9mZnNldCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CjxkaXYgY2xhc3M9Im1pel9tYXggbWl6X2JyZWFkY3J1bWJzIj4KICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CiAgICAgICAgPHVsIGNsYXNzPSJicmVhZGNydW1iIj4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii8iPkluaWNpbzwvYT48L2xpPgogICAgICAgICAgICA8bGkgY2xhc3M9ImFjdGl2ZSI+TWlzIERhdG9zPC9saT4KICAgICAgICA8L3VsPgogICAgPC9kaXY+CjwvZGl2PgoKPGRpdiBjbGFzcz0ibWl6X21heCI+CiAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgICAgIDxkaXYgY2xhc3M9Im1pel90aXRsZV9zZWN0aW9uIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0ibWl6X2gxIj5NaXMgZGF0b3M8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo8L2Rpdj4KCg==</text>
