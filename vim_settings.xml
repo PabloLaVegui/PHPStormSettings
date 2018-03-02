@@ -527,8 +527,8 @@
         <mark key="^" line="9" column="29" />
         <mark key="." line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Version.php" timestamp="1519984916058">
-        <mark key="'" line="27" column="0" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Version.php" timestamp="1519987104983">
+        <mark key="'" line="113" column="4" />
         <mark key="[" line="120" column="37" />
         <mark key="]" line="120" column="53" />
         <mark key="." line="120" column="53" />
@@ -601,7 +601,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519978136271">
+      <file name="/Dummy.txt" timestamp="1519986889486">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/favorite/favorite.php" timestamp="1506609511259">
@@ -1356,6 +1356,13 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/application/commands/VersionUpdateCommand.php" timestamp="1519986486882">
+        <mark key="'" line="26" column="4" />
+        <mark key="[" line="41" column="38" />
+        <mark key="]" line="41" column="45" />
+        <mark key="." line="41" column="45" />
+        <mark key="^" line="41" column="45" />
+      </file>
       <file name="$USER_HOME$/Code/php-observer/composer.json" timestamp="1490723646242">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="35" />
@@ -1567,10 +1574,10 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/ModelUpdateCommand.php" timestamp="1519816168372">
+      <file name="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/ModelUpdateCommand.php" timestamp="1519986421069">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="43" column="4" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="14" column="64" />
       </file>
@@ -1616,6 +1623,12 @@
         <mark key="]" line="12" column="86" />
         <mark key="^" line="12" column="86" />
         <mark key="." line="12" column="86" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/application/UseCases/Eurotax/UpdateVersionUseCaseTest.php" timestamp="1519987256781">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="60" column="11" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Services/NsrGatewaySmsSenderServiceTest.php" timestamp="1517416864702">
         <mark key="[" line="10" column="9" />
@@ -1719,7 +1732,7 @@
         <mark key="^" line="33" column="90" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/Eurotax/UpdateModelUseCase.php" timestamp="1519826887529">
+      <file name="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/Eurotax/UpdateModelUseCase.php" timestamp="1519986761078">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="71" />
         <mark key="." line="47" column="67" />
@@ -2181,9 +2194,9 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/application/UseCases/Eurotax/UpdateModelUseCaseTest.php" timestamp="1519826950972">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="65" />
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/application/UseCases/Eurotax/UpdateModelUseCaseTest.php" timestamp="1519987011949">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="61" column="4" />
         <mark key="." line="58" column="64" />
         <mark key="^" line="58" column="64" />
       </file>
@@ -2253,6 +2266,13 @@
         <mark key="]" line="10" column="66" />
         <mark key="^" line="10" column="66" />
         <mark key="." line="10" column="66" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/Eurotax/UpdateVersionUseCase.php" timestamp="1519986851864">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="39" column="15" />
+        <mark key="]" line="39" column="15" />
+        <mark key="^" line="6" column="71" />
+        <mark key="." line="39" column="15" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris/Movement/Movement.php" timestamp="1501018074940">
         <mark key="[" line="0" column="5" />
@@ -2866,11 +2886,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" />
-      <jump line="54" column="4" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/MakeUpdateCommand.php" />
-      <jump line="122" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/MakeUpdateCommand.php" />
-      <jump line="97" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" />
-      <jump line="117" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/MakeUpdateCommand.php" />
       <jump line="132" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/MakeUpdateCommand.php" />
       <jump line="100" column="65" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/MakeUpdateCommand.php" />
       <jump line="152" column="4" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/MakeUpdateCommand.php" />
@@ -2966,46 +2981,55 @@
       <jump line="27" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Version.php" />
       <jump line="49" column="17" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/VersionData.php" />
       <jump line="107" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/VersionData.php" />
+      <jump line="13" column="4" filename="$USER_HOME$/Projects/crmmigrations/application/commands/VersionUpdateCommand.php" />
+      <jump line="33" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/Eurotax/UpdateVersionUseCase.php" />
+      <jump line="34" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/Eurotax/UpdateVersionUseCase.php" />
+      <jump line="46" column="27" filename="$USER_HOME$/Projects/crmmigrations/tests/unit/application/UseCases/Eurotax/UpdateVersionUseCaseTest.php" />
+      <jump line="113" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Version.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>horsePower</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>horsePower</text>
+        <text>$ver</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2NoZXNJZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdob3JzZXBvd2VyJyA9PiAkaG9yc2VQb3dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNvY2hlc0lkLAogICAgICAgICAgICAkbmFtZSwKICAgICAgICAgICAgJGZ1ZWwsCiAgICAgICAgICAgICRkb29ycywKICAgICAgICAgICAgJGhvcnNlUG93ZXIsCiAgICAgICAgICAgICR0cmFuc21pc3Npb24sCiAgICAgICAgICAgICRzZWdtZW50SWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkY29jaGVzQ29tSWQgW2V1cm90YXgvdHlwZS90eXBuYXRjb2RlXQogICAgICogQHBhcmFtICRuYW1lIFtldXJvdGF4L3R5cGUvdHlwbmFtZV0KICAgICAqIEBwYXJhbSBzdHJpbmcgJGZ1ZWwgW2V1cm90YXgvdHlwZS90eXB0eHRmdWVsdHlwZWNkMl0KICAgICAqIEBwYXJhbSAkZG9vcnMgW2V1cm90YXgvdHlwZS90eXBkb29yXQogICAgICogQHBhcmFtICRob3JzZVBvd2VyIFtldXJvdGF4L3R5cGUvdHlwaHBdCiAgICAgKiBAcGFyYW0gc3RyaW5nICR0cmFuc21pc3Npb24gW2V1cm90YXgvdHlwZS90eXB0eHR0cmFuc3R5cGVjZDJdCiAgICAgKiBAcGFyYW0gc3RyaW5nICRzZWdtZW50SWQgW2V1cm90YXgvdHlwZS90eXBtb2RjZF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkZnVlbCBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAkYmVnaW5EYXRlID0gbmV3IERhdGVUaW1lKCcyMDE3LTExLTAxJyk7CiAgICAgICAgJGVuZERhdGUgPSBuZXcgRGF0ZVRpbWUoJzIwMTUtMDMtMDgnKTsKICAgICAgICAkbWFrZV9pZCA9ICdtYWtlX2lkJzsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNlcmlhbGl6ZSgpCiAgICB7CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJ2NvY2hlc2lkJyA9PiAkdGhpcy0+Z2V0SWQoKSwKICAgICAgICAgICAgJ25hbWUnID0+ICR0aGlzLT5nZXROYW1lKCksCiAgICAgICAgICAgICdmdWVsJyA9PiAkdGhpcy0+Z2V0RnVlbCgpLAogICAgICAgICAgICAnZG9vcnMnID0+ICR0aGlzLT5nZXREb29ycygpLAogICAgICAgICAgICAnaG9yc2Vwb3dlcicgPT4gJHRoaXMtPmdldEhvcnNlUG93ZXIoKSwKICAgICAgICBdOwogICAgfQo=</text>
+      <register name="3" type="8">
+        <text>* @throws \
+* @throws \
+* @throws \</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkc2VnbWVudElkOwo=</text>
+        <text encoding="base64">KiBAdGhyb3dzIFxjb2NoZXNjb21cZG9tYWluXGluZnJhc3RydWN0dXJlXEV4Y2VwdGlvbnNcUmVzb3VyY2VOb3RGb3VuZEV4Y2VwdGlvbgoqIEB0aHJvd3MgXGNvY2hlc2NvbVxkb21haW5caW5mcmFzdHJ1Y3R1cmVcRXhjZXB0aW9uc1xVbmF1dGhvcml6ZWRFeGNlcHRpb24KKiBAdGhyb3dzIFxjb2NoZXNjb21cZG9tYWluXGluZnJhc3RydWN0dXJlXEV4Y2VwdGlvbnNcVW5leHBlY3RlZEVycm9yRXhjZXB0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJHNlZ21lbnRJZCBbZXVyb3RheC90eXBlL10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc2VnbWVudElkCg==</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENvbnNvbGVcRXhjZXB0aW9uXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2VnbWVudElkID0gJHNlZ21lbnRJZDsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHRocm93cyBJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24KICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvCg==</text>
+        <text encoding="base64">dXNlIFBzclxDb250YWluZXJcQ29udGFpbmVyRXhjZXB0aW9uSW50ZXJmYWNlCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNlIGNvY2hlc2NvbVxpbmZyYXN0cnVjdHVyZVx0cmFuc2Zvcm1lcnNcZXVyb3RheFxUcmFuc21pc3Npb25UeXBlVHJhbnNmb3JtZXI7Cg==</text>
+      <register name="9" type="8">
+        <text>* @throws \
+* @throws \
+* @throws \</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
