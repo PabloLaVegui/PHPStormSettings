@@ -252,11 +252,11 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" timestamp="1519990317465">
-        <mark key="[" line="55" column="26" />
-        <mark key="]" line="55" column="68" />
-        <mark key="." line="55" column="68" />
-        <mark key="^" line="55" column="68" />
+      <file name="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" timestamp="1519994165116">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="39" />
+        <mark key="." line="4" column="39" />
+        <mark key="^" line="4" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/balance/payment/directDebit.php" timestamp="1514907648747">
         <mark key="[" line="0" column="22" />
@@ -387,7 +387,6 @@
         <mark key="^" line="10" column="53" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.eurotax.Version.dcm.yml" timestamp="1519981007097" />
       <file name="$USER_HOME$/Amazon Drive/Code/php-kata-environment/.gitignore" timestamp="1498345174485">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="5" />
@@ -903,6 +902,12 @@
         <mark key="]" line="13" column="17" />
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/VersionUpdateCommand.php" timestamp="1519994286657">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="39" />
+        <mark key="^" line="14" column="39" />
+        <mark key="." line="14" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/views/wUserInactivedActions.php" timestamp="1505812828380">
         <mark key="[" line="8" column="132" />
@@ -3004,46 +3009,46 @@
       <jump line="113" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Version.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ybrid</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIGFwcGxpY2F0aW9uXGNvbW1hbmRzXGV1cm90YXhcRXVyb3RheENvbW1hbmQ7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ybrid</text>
+        <text>Model</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2NoZXNJZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRhcHBsaWNhdGlvbi0+YWRkKG5ldyBNb2RlbFVwZGF0ZUNvbW1hbmQoJGNvbnRhaW5lcikpOwo=</text>
+        <text encoding="base64">dXNlIGFwcGxpY2F0aW9uXGNvbW1hbmRzXGV1cm90YXhcTW9kZWxVcGRhdGVDb21tYW5kOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIGFwcGxpY2F0aW9uXGNvbW1hbmRzXGV1cm90YXhcRXVyb3RheENvbW1hbmQ7Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAkY29jaGVzSWQgPSAnY29jaGlub19pZCc7CiAgICAgICAgJG5hbWUgPSAnbmFtZSc7CiAgICAgICAgJGJlZ2luRGF0ZSA9IG5ldyBEYXRlVGltZSgnMjAxNy0xMS0wMScpOwogICAgICAgICRlbmREYXRlID0gbmV3IERhdGVUaW1lKCcyMDE1LTAzLTA4Jyk7CiAgICAgICAgJG1ha2VfaWQgPSAnbWFrZV9pZCc7CgogICAgICAgICRtb2RlbCA9IG5ldyBNb2RlbCgkY29jaGVzSWQsICRuYW1lLCAkYmVnaW5EYXRlLCAkZW5kRGF0ZSwgJG1ha2VfaWQpOwogICAgICAgICRtb2RlbERhdGEgPSBuZXcgTW9kZWxEYXRhKCRtb2RlbC0+Z2V0Q29jaGVzSWQoKSwgJ2RpZmZlcmVudCcsICRiZWdpbkRhdGUsICRlbmREYXRlLCAkbWFrZV9pZCk7Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkYmVnaW5EYXRlID0gbmV3IERhdGVUaW1lKCcyMDE3LTExLTAxJyk7CiAgICAgICAgJGVuZERhdGUgPSBuZXcgRGF0ZVRpbWUoJzIwMTUtMDMtMDgnKTsKICAgICAgICAkbWFrZV9pZCA9ICdtYWtlX2lkJzsK</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>* @throws \
 * @throws \
 * @throws \</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">KiBAdGhyb3dzIFxjb2NoZXNjb21cZG9tYWluXGluZnJhc3RydWN0dXJlXEV4Y2VwdGlvbnNcUmVzb3VyY2VOb3RGb3VuZEV4Y2VwdGlvbgoqIEB0aHJvd3MgXGNvY2hlc2NvbVxkb21haW5caW5mcmFzdHJ1Y3R1cmVcRXhjZXB0aW9uc1xVbmF1dGhvcml6ZWRFeGNlcHRpb24KKiBAdGhyb3dzIFxjb2NoZXNjb21cZG9tYWluXGluZnJhc3RydWN0dXJlXEV4Y2VwdGlvbnNcVW5leHBlY3RlZEVycm9yRXhjZXB0aW9uCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENvbnNvbGVcRXhjZXB0aW9uXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHRocm93cyBJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24KICAgICAqLwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFBzclxDb250YWluZXJcQ29udGFpbmVyRXhjZXB0aW9uSW50ZXJmYWNlCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHRocm93cyBJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24KICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
