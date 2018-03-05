@@ -252,11 +252,11 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" timestamp="1520260341383">
-        <mark key="[" line="74" column="36" />
-        <mark key="]" line="74" column="36" />
-        <mark key="." line="74" column="36" />
-        <mark key="^" line="74" column="47" />
+      <file name="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" timestamp="1520263308960">
+        <mark key="[" line="83" column="82" />
+        <mark key="]" line="83" column="82" />
+        <mark key="." line="83" column="82" />
+        <mark key="^" line="83" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/balance/payment/directDebit.php" timestamp="1514907648747">
         <mark key="[" line="0" column="22" />
@@ -476,6 +476,12 @@
         <mark key="^" line="20" column="47" />
         <mark key="." line="20" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/middleware/AuthMiddleware.php" timestamp="1520263411071">
+        <mark key="[" line="17" column="80" />
+        <mark key="]" line="17" column="81" />
+        <mark key="." line="17" column="81" />
+        <mark key="^" line="17" column="81" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/domain/infrastructure/providers/eurotax/ModelFakeRecoder.php" timestamp="1519655381150">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="9" column="10" />
@@ -611,7 +617,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520235899008">
+      <file name="/Dummy.txt" timestamp="1520263248172">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/favorite/favorite.php" timestamp="1506609511259">
@@ -3022,10 +3028,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgX19pbnZva2UoKSBtZXRob2QuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2NoZXNJZFw+</text>
@@ -3034,31 +3040,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gZnVuY3Rpb24gKGNhbGxhYmxlICRoYW5kbGVyKSB7CiAgICAgICAgICAgIHJldHVybiBmdW5jdGlvbiAoUmVxdWVzdEludGVyZmFjZSAkcmVxdWVzdCwgYXJyYXkgJG9wdGlvbnMpIHVzZSAoJGhhbmRsZXIpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgX19pbnZva2UoKSBtZXRob2QuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IE9hdXRoMiBzdWJzY3JpYmVyLgogICAgICoKICAgICAqIEBwYXJhbSBDbGllbnRJbnRlcmZhY2UgICAgICAgICAgICAgICAgJGNsaWVudAogICAgICogQHBhcmFtIEdyYW50VHlwZUludGVyZmFjZSAgICAgICAgICAgICAkZ3JhbnRUeXBlCiAgICAgKiBAcGFyYW0gUmVmcmVzaFRva2VuR3JhbnRUeXBlSW50ZXJmYWNlICRyZWZyZXNoVG9rZW5HcmFudFR5cGUKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KAogICAgICAgIENsaWVudEludGVyZmFjZSAkY2xpZW50Ci8vICAgICAgICBHcmFudFR5cGVJbnRlcmZhY2UgJGdyYW50VHlwZSA9IG51bGwsCi8vICAgICAgICBSZWZyZXNoVG9rZW5HcmFudFR5cGVJbnRlcmZhY2UgJHJlZnJlc2hUb2tlbkdyYW50VHlwZSA9IG51bGwKICAgICkgewogICAgICAgICR0aGlzLT5jbGllbnQgPSAkY2xpZW50OwovLyAgICAgICAgJHRoaXMtPmdyYW50VHlwZSA9ICRncmFudFR5cGU7Ci8vICAgICAgICAkdGhpcy0+cmVmcmVzaFRva2VuR3JhbnRUeXBlID0gJHJlZnJlc2hUb2tlbkdyYW50VHlwZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRjbGllbnQtPgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IE9hdXRoMiBzdWJzY3JpYmVyLgogICAgICoKICAgICAqIEBwYXJhbSBDbGllbnRJbnRlcmZhY2UgICAgICAgICAgICAgICAgJGNsaWVudAogICAgICogQHBhcmFtIEdyYW50VHlwZUludGVyZmFjZSAgICAgICAgICAgICAkZ3JhbnRUeXBlCiAgICAgKiBAcGFyYW0gUmVmcmVzaFRva2VuR3JhbnRUeXBlSW50ZXJmYWNlICRyZWZyZXNoVG9rZW5HcmFudFR5cGUKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KAogICAgICAgIENsaWVudEludGVyZmFjZSAkY2xpZW50Ci8vICAgICAgICBHcmFudFR5cGVJbnRlcmZhY2UgJGdyYW50VHlwZSA9IG51bGwsCi8vICAgICAgICBSZWZyZXNoVG9rZW5HcmFudFR5cGVJbnRlcmZhY2UgJHJlZnJlc2hUb2tlbkdyYW50VHlwZSA9IG51bGwKICAgICkgewogICAgICAgICR0aGlzLT5jbGllbnQgPSAkY2xpZW50OwovLyAgICAgICAgJHRoaXMtPmdyYW50VHlwZSA9ICRncmFudFR5cGU7Ci8vICAgICAgICAkdGhpcy0+cmVmcmVzaFRva2VuR3JhbnRUeXBlID0gJHJlZnJlc2hUb2tlbkdyYW50VHlwZTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5hdXRob3JpemVkRXhjZXB0aW9uKCdrc2RqZmtzZGpmJyk7Cg==</text>
+        <text encoding="base64">ICAgICRjbGllbnQtPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdmVyc2lvbiA9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5hdXRob3JpemVkRXhjZXB0aW9uKCdrc2RqZmtzZGpmJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBzdHJwb3MoJG51bWJlciwnLicpIT09ZmFsc2UgPyBydHJpbShydHJpbSgkbnVtYmVyLCcwJyksJy4nKSA6ICRudW1iZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdmVyc2lvbiA9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
