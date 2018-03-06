@@ -920,7 +920,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520336510069">
+      <file name="/Dummy.txt" timestamp="1520338193588">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/Type.php" timestamp="1512236091834">
@@ -1249,6 +1249,12 @@
         <mark key="]" line="14" column="13" />
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/coches.com/coches_yii/protected/components/widgets/WCarVNRequestForm.php" timestamp="1520338868001">
+        <mark key="'" line="121" column="20" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Tetromino/OTetromino.php" timestamp="1499035438812">
         <mark key="[" line="3" column="16" />
@@ -2135,8 +2141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="13" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/AuthDealerInfoDataController.php" />
-      <jump line="45" column="18" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/AuthDealerInfoDataController.php" />
       <jump line="379" column="25" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
       <jump line="84" column="36" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
       <jump line="43" column="12" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
@@ -2235,55 +2239,57 @@
       <jump line="15" column="54" filename="$USER_HOME$/Amazon Drive/Code/cochescom/crmmigrations/application/dependencies.php" />
       <jump line="219" column="16" filename="$USER_HOME$/Amazon Drive/Code/cochescom/crmmigrations/application/dependencies.php" />
       <jump line="9" column="43" filename="$USER_HOME$/Amazon Drive/Code/cochescom/crmmigrations/application/dependencies.php" />
+      <jump line="118" column="5" filename="$USER_HOME$/Amazon Drive/Code/cochescom/coches.com/coches_yii/protected/components/widgets/WCarVNRequestForm.php" />
+      <jump line="120" column="20" filename="$USER_HOME$/Amazon Drive/Code/cochescom/coches.com/coches_yii/protected/components/widgets/WCarVNRequestForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHBvc3QpO2RpZTsK</text>
       </register>
       <register name="-" type="4">
         <text>+</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVcGRhdGVWZXJzaW9uVXNlQ2FzZVw+</text>
+        <text encoding="base64">XDxzYXZlSW50b1NvbGljaXR1ZGVzVXNhZG9zXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMjIFNlZ21lbnRzIHVwZGF0ZToKCmAkIHBocCBwdWJsaWMvYXBwLnBocCBldXJvdGF4OnNlZ21lbnRVcGRhdGUgWy1sfC0tbGltaXQgW0xJTUlUXV0gWy1vfC0tb2Zmc2V0IFtPRkZTRVRdXWAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHBvc3QpO2RpZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGNvY2hlc0lkCg==</text>
+        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFxEYXRlVGltZSgpLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFxEYXRlVGltZSgpLAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGNvY2hlc0lkCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFxEYXRlVGltZSgpLAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFxEYXRlVGltZSgpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdXBkYXRlKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgaW5zZXJ0KCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86CiAgICAkYXBwbGljYXRpb24tPmFkZChuZXcgXGFwcGxpY2F0aW9uXGNvbW1hbmRzXFBydWViYUNvbW1hbmQoJGNvbnRhaW5lcikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdXBkYXRlKCkgbWV0aG9kLgo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVcGRhdGVWZXJzaW9uVXNlQ2FzZVw+</last-search>
+      <last-search encoding="base64">XDxzYXZlSW50b1NvbGljaXR1ZGVzVXNhZG9zXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVcGRhdGVWZXJzaW9uVXNlQ2FzZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzYXZlSW50b1NvbGljaXR1ZGVzVXNhZG9zXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>actionEdit</last-substitute>
       <last-dir>-1</last-dir>
@@ -2291,7 +2297,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmcm9tU2NoZWR1bGVEVE9Ub1NjaGVkdWxlRm9ybVw+</entry>
         <entry encoding="base64">XDxmcm9tQXV0aERlYWxlclRvU2NoZWR1bGVEVE9cPg==</entry>
         <entry>lorem</entry>
         <entry>getTipoGarantia</entry>
@@ -2311,6 +2316,7 @@
         <entry encoding="base64">XDxWZXJzaW9uUmVjb3JkZXJcPg==</entry>
         <entry encoding="base64">XDxWZXJzaW9uRGF0YVByb3ZpZGVyXD4=</entry>
         <entry encoding="base64">XDxVcGRhdGVWZXJzaW9uVXNlQ2FzZVw+</entry>
+        <entry encoding="base64">XDxzYXZlSW50b1NvbGljaXR1ZGVzVXNhZG9zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53YQ==</entry>
