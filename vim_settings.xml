@@ -1265,12 +1265,11 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" timestamp="1520950022398">
-        <mark key="'" line="55" column="13" />
-        <mark key="[" line="131" column="31" />
-        <mark key="]" line="131" column="36" />
-        <mark key="." line="131" column="36" />
-        <mark key="^" line="131" column="36" />
+      <file name="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" timestamp="1520952055484">
+        <mark key="'" line="203" column="0" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/Code/eventstracker/protected/modules/admin/views/user/_form.php" timestamp="1425422561804">
         <mark key="[" line="47" column="89" />
@@ -1650,11 +1649,11 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/eurotax/MakeGatewayCommand.php" timestamp="1520862367061">
-        <mark key="[" line="38" column="0" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/eurotax/MakeGatewayCommand.php" timestamp="1520951273599">
+        <mark key="[" line="38" column="61" />
         <mark key="]" line="38" column="68" />
-        <mark key="^" line="49" column="67" />
-        <mark key="." line="49" column="67" />
+        <mark key="^" line="38" column="68" />
+        <mark key="." line="38" column="68" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-2d/src/Geo/Geo2D.php" timestamp="1500053492478">
         <mark key="[" line="4" column="12" />
@@ -3105,8 +3104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" />
-      <jump line="102" column="26" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Model.php" />
       <jump line="62" column="7" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Model.php" />
       <jump line="100" column="7" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Model.php" />
       <jump line="66" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Model.php" />
@@ -3134,7 +3131,6 @@
       <jump line="26" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Model.php" />
       <jump line="15" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Model.php" />
       <jump line="39" column="27" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Model.php" />
-      <jump line="201" column="8" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" />
       <jump line="70" column="4" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" />
       <jump line="1" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/Eurotax/UpdateMakeUseCase.php" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/Eurotax/UpdateSegmentUseCase.php" />
@@ -3201,50 +3197,53 @@
       <jump line="200" column="36" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" />
       <jump line="20" column="11" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/webuser/DoctrineWebUserRepository.php" />
       <jump line="116" column="12" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" />
-      <jump line="203" column="19" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" />
       <jump line="131" column="37" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" />
       <jump line="126" column="48" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" />
       <jump line="55" column="13" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" />
+      <jump line="201" column="29" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" />
+      <jump line="199" column="52" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" />
+      <jump line="208" column="16" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" />
+      <jump line="203" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgU3ltZm9ueVN0eWxlICRjb25zb2xlT3V0cHV0ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAkZWxlbWVudHMgPSBbbmV3IE1ha2UoJ2Fka2onLCAnd3d3d3d3d3d3d3d3dycpXTsK</text>
       </register>
       <register name="-" type="4">
-        <text>OutputInterface</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcnJvcnNDb3VudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIGludCAqLwo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbigncXVlIHBhY2hhIG5lbiBxdWUgaGF5IGVycm9yIGFsIGluc2VydGFyJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgU3ltZm9ueVN0eWxlICRjb25zb2xlT3V0cHV0ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAkZWxlbWVudHMgPSBbbmV3IE1ha2UoJ2Fka2onLCAnd3d3d3d3d3d3d3d3dycpXTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSAkZWxlbWVudAogICAgICogQHRocm93cyBSZWZsZWN0aW9uRXhjZXB0aW9uCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gcGVyc2l0KCRlbGVtZW50KQogICAgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgICR0aGlzLT5zYXZlRWxlbWVudCgkZWxlbWVudCk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgICR0aGlzLT5sb2dFcnJvcigkZS0+Z2V0TWVzc2FnZSgpIC4gJy4nIC4gJHRoaXMtPmdldEVsZW1lbnRJbmZvKCRlbGVtZW50KSk7CiAgICAgICAgICAgICR0aGlzLT5lcnJvcnNDb3VudCsrOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkZWxlbWVudHMgPSBbbmV3IE1ha2UoJ2lkaWRpZCcsICduYW1lbmFtZScpLCBuZXcgTWFrZSgnZG9zZG9zJywgJ3BlcGVsbGxsbGxwYXRhdGFzJyldOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBmaW5hbGx5IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRjb25zb2xlT3V0cHV0LT5wcm9ncmVzc0FkdmFuY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZXJyb3JzQ291bnQgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ0Vycm9yKCRlLT5nZXRNZXNzYWdlKCkgLiAnLicgLiAkdGhpcy0+Z2V0RWxlbWVudEluZm8oJGVsZW1lbnQpKTsKICAgICAgICAgICAgJHRoaXMtPmVycm9yc0NvdW50Kys7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvLyBUT0RPKFBhYmxvKTogcmVtb3ZlCiAgICAkYXBwbGljYXRpb24tPmFkZChuZXcgXGFwcGxpY2F0aW9uXGNvbW1hbmRzXFBydWViYUNvbW1hbmQoJGNvbnRhaW5lcikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXRyeUNvdW50Kys7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZW50aXR5TWFuYWdlciA9ICR0aGlzLT5jb250YWluZXItPmdldChFbnRpdHlNYW5hZ2VyOjpjbGFzcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5sb2dJbmZvKCcnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -3300,8 +3299,8 @@
         <entry>19</entry>
         <entry>22</entry>
         <entry>x</entry>
-        <entry>vs</entry>
         <entry>q</entry>
+        <entry>vs</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
