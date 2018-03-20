@@ -264,8 +264,8 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" timestamp="1521456438111">
-        <mark key="'" line="94" column="11" />
+      <file name="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" timestamp="1521559445257">
+        <mark key="'" line="94" column="0" />
         <mark key="[" line="234" column="0" />
         <mark key="]" line="234" column="0" />
         <mark key="." line="234" column="0" />
@@ -637,13 +637,14 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521466343979">
+      <file name="/Dummy.txt" timestamp="1521559524907">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/application/UseCases/requests/CreateRequestUsecaseTest.php" timestamp="1521546485293">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/application/UseCases/requests/CreateRequestUsecaseTest.php" timestamp="1521560054294">
+        <mark key="[" line="86" column="26" />
+        <mark key="]" line="86" column="31" />
+        <mark key="." line="86" column="31" />
+        <mark key="^" line="86" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/favorite/favorite.php" timestamp="1506609511259">
         <mark key="[" line="46" column="0" />
@@ -683,6 +684,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="24" column="81" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/logs/LogFactory.php" timestamp="1521559554420">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-2d/vendor/pablolavegui/phetris/composer.json" timestamp="1499619030777">
         <mark key="[" line="15" column="16" />
@@ -1286,13 +1293,6 @@
         <mark key="]" line="7" column="45" />
         <mark key="^" line="7" column="45" />
         <mark key="." line="7" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/webuser/WebUserGatewayQuery.php" timestamp="1521457835959">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="53" column="25" />
-        <mark key="]" line="53" column="25" />
-        <mark key="^" line="53" column="15" />
-        <mark key="." line="53" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/login/_resetPassword.twig" timestamp="1516875011212">
         <mark key="[" line="32" column="0" />
@@ -3163,7 +3163,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" />
       <jump line="92" column="11" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" />
       <jump line="72" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" />
-      <jump line="94" column="11" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" />
       <jump line="32" column="40" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/webuser/WebUserGatewayQuery.php" />
       <jump line="41" column="15" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/filter/PhoneFilter.php" />
       <jump line="10" column="27" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/filter/PhoneFilter.php" />
@@ -3182,13 +3181,14 @@
       <jump line="96" column="0" filename="$USER_HOME$/Projects/crmmigrations/tests/unit/infrastructure/gateways/webuser/WebUserGatewayQueryTest.php" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/filter/EmailFilter.php" />
       <jump line="96" column="4" filename="$USER_HOME$/Projects/crmmigrations/tests/unit/infrastructure/gateways/webuser/WebUserGatewayCommandTest.php" />
+      <jump line="94" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>findByIdOrFail</text>
       </register>
       <register name="-" type="4">
-        <text>::RESULTS_COUNT</text>
+        <text>findByIdOrFail</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcnJvcnNDb3VudFw+</text>
