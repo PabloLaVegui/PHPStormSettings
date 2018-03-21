@@ -318,6 +318,12 @@
         <mark key="^" line="1" column="35" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/environments/env.devel" timestamp="1521629097442">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="21" column="12" />
+        <mark key="^" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Code/Code.php" timestamp="1498774249582">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -697,11 +703,12 @@
         <mark key="^" line="24" column="81" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/logs/LogFactory.php" timestamp="1521562300091">
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="25" column="29" />
-        <mark key="^" line="25" column="29" />
-        <mark key="." line="25" column="29" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/logs/LogFactory.php" timestamp="1521629071351">
+        <mark key="'" line="54" column="1" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="56" column="47" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-2d/vendor/pablolavegui/phetris/composer.json" timestamp="1499619030777">
         <mark key="[" line="15" column="16" />
@@ -1383,6 +1390,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/environments/env.staging" timestamp="1521629107526">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="21" column="13" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/QueryGatewayBuilder.php" timestamp="1520855170992">
         <mark key="[" line="26" column="0" />
@@ -2199,6 +2211,11 @@
         <mark key="]" line="22" column="9" />
         <mark key="^" line="21" column="24" />
         <mark key="." line="21" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/environments/env.production" timestamp="1521629100953">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="21" column="13" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/AccessData.php" timestamp="1508920854008">
         <mark key="[" line="12" column="10" />
@@ -3124,8 +3141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="14" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/webuser/WebUserData.php" />
-      <jump line="44" column="24" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/webuser/ClientData.php" />
       <jump line="38" column="57" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/webuser/WebUserGatewayQuery.php" />
       <jump line="13" column="52" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/webuser/WebUserGatewayQuery.php" />
       <jump line="73" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/webuser/WebUserData.php" />
@@ -3224,56 +3239,57 @@
       <jump line="96" column="4" filename="$USER_HOME$/Projects/crmmigrations/tests/unit/infrastructure/gateways/webuser/WebUserGatewayCommandTest.php" />
       <jump line="94" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" />
       <jump line="13" column="29" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" />
+      <jump line="54" column="1" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/logs/LogFactory.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/crmmigrations/environments/env.devel" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">CiMgUmVsYXRpdmUgcGF0aCB0byByb290IHByb2plY3Qgc3RhcnRzIHdpdGhvdXQgJy8nLCBhYnNvbHV0ZSBwYXRoIGVzdGFydHMgd2l0aCAnLycKTE9HX1BBVEg9bG9nLwo=</text>
       </register>
       <register name="-" type="4">
-        <text>\Symfony\Component\Console\Exception\</text>
+        <text>$USER_HOME$/Projects/crmmigrations/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlcnJvcnNDb3VudFw+</text>
+        <text encoding="base64">XDxMT0dfUEFUSFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXFBzclxDb250YWluZXJcTm90Rm91bmRFeGNlcHRpb25JbnRlcmZhY2UKICAgICAqIEB0aHJvd3MgXFBzclxDb250YWluZXJcQ29udGFpbmVyRXhjZXB0aW9uSW50ZXJmYWNlCg==</text>
+        <text encoding="base64">CiMgUmVsYXRpdmUgcGF0aCB0byByb290IHByb2plY3Qgc3RhcnRzIHdpdGhvdXQgJy8nLCBhYnNvbHV0ZSBwYXRoIGVzdGFydHMgd2l0aCAnLycKTE9HX1BBVEg9bG9nLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+Z2V0UGF0aCgpIC4gJGZpbGVMb2ctPmZpbGVOYW1lKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENvbnNvbGVcRXhjZXB0aW9uXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">I0xPR19QQVRIPS9Vc2Vycy9wYWJsb2d1dGllcnJlei9Qcm9qZWN0cy9jcm1taWdyYXRpb25zLwo=</text>
       </register>
-      <register name="3" type="8">
-        <text>* @throws \
-* @throws \</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPyAkcGF0aCAuICcvJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBfX0RJUl9fIC4gJy8uLi8uLi8uLi9sb2cvJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRjb250YWluZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmlsZU5hbWUoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFBzclxMb2dcTG9nZ2VySW50ZXJmYWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8kY29udGFpbmVyLT5zZXQoTG9nZ2VySW50ZXJmYWNlOjpjbGFzcywgZnVuY3Rpb24gKENvbnRhaW5lckludGVyZmFjZSAkY29udGFpbmVyKSB7Ci8vICAgICRvdXRwdXQgPSBmb3BlbihfX0RJUl9fIC4gJy8uLi9sb2cvYXBwbGljYXRpb24ubG9nJywgJ2EnKTsKLy8gICAgJGxvZ2dlck91dHB1dCA9IG5ldyBTdHJlYW1PdXRwdXQoJG91dHB1dCk7Ci8vCi8vICAgICR2ZXJib3NpdHlMZXZlbE1hcCA9IFsKLy8gICAgICAgIExvZ0xldmVsOjpERUJVRyA9PiBPdXRwdXRJbnRlcmZhY2U6OlZFUkJPU0lUWV9OT1JNQUwsCi8vICAgICAgICBMb2dMZXZlbDo6Tk9USUNFID0+IE91dHB1dEludGVyZmFjZTo6VkVSQk9TSVRZX05PUk1BTCwKLy8gICAgICAgIExvZ0xldmVsOjpJTkZPID0+IE91dHB1dEludGVyZmFjZTo6VkVSQk9TSVRZX05PUk1BTCwKLy8gICAgXTsKLy8KLy8gICAgcmV0dXJuIG5ldyBDb25zb2xlTG9nZ2VyKCRsb2dnZXJPdXRwdXQsICR2ZXJib3NpdHlMZXZlbE1hcCk7Ci8vfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkcGF0aCA9ICR0aGlzLT5pc0Fic29sdXRlUGF0aCgkcGF0aCkgCiAgICAgICAgICAgID8gJHBhdGgKICAgICAgICAgICAgOiAkdGhpcy0+Z2V0Um9vdFBhdGgoKSAuICRwYXRoOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlcnJvcnNDb3VudFw+</last-search>
+      <last-search encoding="base64">XDxMT0dfUEFUSFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlcnJvcnNDb3VudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxMT0dfUEFUSFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxlcnJvcnNDb3VudFw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -3281,7 +3297,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0luVGhlQXR0ZW1wdHNMaW1pdFRvVmFsaWRhdGVcPg==</entry>
         <entry encoding="base64">XDxnZXRTbXNWYWxpZGF0aW9uUm91dGVcPg==</entry>
         <entry>actionAja</entry>
         <entry encoding="base64">XDxzaG93RmlsdGVyZWRMaXN0XD4=</entry>
@@ -3301,6 +3316,7 @@
         <entry>coches-nuevos-</entry>
         <entry encoding="base64">XDxzZW5kUmVxdWVzdFNlbnRFdmVudFw+</entry>
         <entry encoding="base64">XDxlcnJvcnNDb3VudFw+</entry>
+        <entry encoding="base64">XDxMT0dfUEFUSFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5x</entry>
@@ -3321,8 +3337,8 @@
         <entry>.,.+1w</entry>
         <entry>w</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>vs</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
