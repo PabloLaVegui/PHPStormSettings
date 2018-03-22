@@ -252,6 +252,12 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/clients/ClientTest.php" timestamp="1521718248522">
+        <mark key="[" line="55" column="47" />
+        <mark key="]" line="55" column="56" />
+        <mark key="." line="55" column="56" />
+        <mark key="^" line="55" column="56" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/infrastructure/gateways/clients/ClientGatewayCommandTest.php" timestamp="1521120662956">
         <mark key="'" line="87" column="59" />
         <mark key="[" line="87" column="38" />
@@ -661,12 +667,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" timestamp="1521653293735">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="55" column="35" />
-        <mark key="]" line="55" column="42" />
-        <mark key="." line="55" column="42" />
-        <mark key="^" line="55" column="42" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" timestamp="1521718094268">
+        <mark key="'" line="282" column="13" />
+        <mark key="[" line="53" column="46" />
+        <mark key="]" line="53" column="49" />
+        <mark key="." line="53" column="49" />
+        <mark key="^" line="53" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/eurotax/ModelDataTest.php" timestamp="1519818239270">
         <mark key="[" line="30" column="12" />
@@ -2121,7 +2127,7 @@
         <mark key="." line="67" column="25" />
         <mark key="^" line="67" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.clients.ClientEntity.dcm.yml" timestamp="1521653210953">
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.clients.ClientEntity.dcm.yml" timestamp="1521717845701">
         <mark key="[" line="26" column="4" />
         <mark key="]" line="26" column="11" />
         <mark key="." line="26" column="11" />
@@ -2270,6 +2276,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="14" column="69" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/Client/ClientTransformer.php" timestamp="1521718076553">
+        <mark key="[" line="30" column="54" />
+        <mark key="]" line="30" column="54" />
+        <mark key="^" line="30" column="54" />
+        <mark key="." line="30" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/UserTemporaryDataBuilder.php" timestamp="1517235717587">
         <mark key="[" line="20" column="47" />
@@ -3340,9 +3352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/webuser/WebUser.php" />
-      <jump line="29" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/webuser/WebUserGatewayCommand.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/Projects/crmmigrations/tests/unit/infrastructure/gateways/webuser/WebUserGatewayQueryTest.php" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/crmmigrations/tests/unit/infrastructure/gateways/webuser/WebUserGatewayCommandTest.php" />
       <jump line="50" column="38" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/webuser/WebUserGatewayCommand.php" />
       <jump line="106" column="52" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/webuser/WebUser.php" />
@@ -3440,19 +3449,22 @@
       <jump line="399" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/clients/ClientEntity.php" />
       <jump line="287" column="20" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/clients/ClientEntity.php" />
       <jump line="397" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/clients/ClientEntity.php" />
+      <jump line="33" column="16" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" />
+      <jump line="250" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" />
+      <jump line="282" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>provinceId</text>
+        <text>vat_number_c</text>
       </register>
       <register name="-" type="4">
-        <text>provinceId</text>
+        <text>vat_number_c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUb3RhbEVsZW1lbnRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Byb3ZpbmNlX2MnID0+ICR0aGlzLT5wcm92aW5jZUlkLAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0U2FtZSgnY2lmJywgJGFjdHVhbFsndmF0X251bWJlcl9jJ10pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkbG9jYWxpdHk7Cg==</text>
