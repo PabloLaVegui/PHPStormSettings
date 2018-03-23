@@ -301,11 +301,11 @@
         <mark key="^" line="5" column="33" />
         <mark key="." line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.eurotax.Model.dcm.yml" timestamp="1521795586130">
-        <mark key="[" line="19" column="14" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.eurotax.Model.dcm.yml" timestamp="1521800209387">
+        <mark key="[" line="1" column="0" />
         <mark key="]" line="19" column="21" />
-        <mark key="^" line="4" column="4" />
-        <mark key="." line="4" column="4" />
+        <mark key="^" line="0" column="42" />
+        <mark key="." line="0" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/DoctrineSegmentRepository.php" timestamp="1519228371227">
         <mark key="[" line="28" column="15" />
@@ -2107,9 +2107,9 @@
         <mark key="." line="36" column="90" />
         <mark key="^" line="36" column="90" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.eurotax.Segment.dcm.yml" timestamp="1521795572768">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="22" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.eurotax.Segment.dcm.yml" timestamp="1521800440126">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="20" />
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="14" />
       </file>
@@ -2293,6 +2293,12 @@
         <mark key="^" line="35" column="56" />
         <mark key="." line="35" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.eurotax.ModelEntity.dcm.yml" timestamp="1521800536226">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="20" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/UserTemporaryDataBuilder.php" timestamp="1517235717587">
         <mark key="[" line="20" column="47" />
         <mark key="]" line="20" column="47" />
@@ -2359,11 +2365,11 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/DoctrineModelRepository.php" timestamp="1519806383542">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="38" column="35" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/DoctrineModelRepository.php" timestamp="1521800574538">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="32" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/DoctrineMySQLEntityManagerFactory.php" timestamp="1521794630857">
         <mark key="[" line="34" column="0" />
@@ -2407,8 +2413,8 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/ModelEntity.php" timestamp="1521795640473">
-        <mark key="'" line="40" column="3" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/ModelEntity.php" timestamp="1521800107911">
+        <mark key="'" line="14" column="0" />
         <mark key="[" line="40" column="5" />
         <mark key="]" line="41" column="3" />
         <mark key="." line="41" column="3" />
@@ -3374,8 +3380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="52" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" />
-      <jump line="208" column="16" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" />
       <jump line="203" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" />
       <jump line="46" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/commands/PruebaCommand.php" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/DumpCommand.php" />
@@ -3474,49 +3478,51 @@
       <jump line="65" column="60" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineTestCase.php" />
       <jump line="10" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/ModelEntity.php" />
       <jump line="40" column="3" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/ModelEntity.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/ModelEntity.php" />
+      <jump line="1" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.eurotax.ModelEntity.dcm.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldE1vZG5hdENvZGUoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+bW9kbmF0Q29kZTsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRNb2RuYW1lZ3JwMSgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5tb2RuYW1lZ3JwMTsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRNb2RpbXBiZWdpbigpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5tb2RpbXBiZWdpbjsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRNb2RpbXBlbmQoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+bW9kaW1wZW5kOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldE1vZG1ha2NkKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPm1vZG1ha2NkOwogICAgfQo=</text>
+        <text encoding="base64">dXNlIGNvY2hlc2NvbVxkb21haW5cbW9kZWxzXGV1cm90YXhcTW9kZWw7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwo=</text>
+        <text encoding="base64">ICAgIG5hbWU6CiAgICAgIHR5cGU6IHN0cmluZwogICAgICBjb2x1bW46IG1vZG5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldE1vZG5hdENvZGUoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+bW9kbmF0Q29kZTsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRNb2RuYW1lZ3JwMSgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5tb2RuYW1lZ3JwMTsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRNb2RpbXBiZWdpbigpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5tb2RpbXBiZWdpbjsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRNb2RpbXBlbmQoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+bW9kaW1wZW5kOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldE1vZG1ha2NkKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPm1vZG1ha2NkOwogICAgfQo=</text>
+        <text encoding="base64">dXNlIGNvY2hlc2NvbVxkb21haW5cbW9kZWxzXGV1cm90YXhcTW9kZWw7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC8vIFRPRE8oUGFibG8pOiBsb3MgbWFwcGluZ3Mgc29uIGxvcyBtaXNtb3MgcXVlIGVuIHByb2R1Y3Rpb24KLy8gICAgICAgICRtYXBwaW5nQ29uZmlnID0gU2V0dXA6OmNyZWF0ZVlBTUxNZXRhZGF0YUNvbmZpZ3VyYXRpb24oCi8vICAgICAgICAgICAgW19fRElSX18gLiAnLy4uLy4uLy4uLy4uLy4uLycgLmdldGVudignREJfRE9DVFJJTkVfTUFQUElOR1MnKV0sCi8vICAgICAgICAgICAgZmFsc2UKLy8gICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICB0eXBlOiBlbnRpdHkKICB0YWJsZTogY29uY2VzaW9uYXJpb3MKICBpZDoKICAgIGNvY2hlc0lkOgogICAgICB0eXBlOiBzdHJpbmcKICAgICAgY29sdW1uOiBpZGNvbmNlc2lvbmFyaW8KICBmaWVsZHM6CiAgICBuYW1lOgogICAgICB0eXBlOiBzdHJpbmcKICAgICAgY29sdW1uOiBjb25jZXNpb25hcmlvCiAgICB0cmFkZU5hbWU6CiAgICAgIHR5cGU6IHN0cmluZwogICAgICBjb2x1bW46IHJhem9uX3NvY2lhbAogICAgdmF0TnVtYmVyOgogICAgICB0eXBlOiBzdHJpbmcKICAgICAgY29sdW1uOiBjaWYKICAgIGNyZWF0ZWRPbjoKICAgICAgdHlwZTogZGF0ZXRpbWUKICAgICAgY29sdW1uOiBmZWNfYWx0YQogICAgbW9kaWZpZWREYXRlOgogICAgICB0eXBlOiBkYXRldGltZQogICAgICBjb2x1bW46IGZlY19tb2RpZmljYWNpb24KICAgIHN0cmVldDoKICAgICAgdHlwZTogc3RyaW5nCiAgICAgIGNvbHVtbjogZGlyZWNjaW9uCiAgICBjaXR5OgogICAgICB0eXBlOiBzdHJpbmcKICAgICAgY29sdW1uOiBsb2NhbGlkYWQKICAgIHBvc3RhbENvZGU6CiAgICAgIHR5cGU6IHN0cmluZwogICAgICBjb2x1bW46IGNvZGlnb19wb3N0YWwKICAgIHBob25lOgogICAgICB0eXBlOiBzdHJpbmcKICAgICAgY29sdW1uOiB0ZWxlZm9ubzAKICAgIHByb3ZpbmNlSWQ6CiAgICAgIHR5cGU6IHN0cmluZwogICAgICBjb2x1bW46IGlkcHJvdmluY2lhCiAgICBzdGF0dXM6CiAgICAgIHR5cGU6IGNsaWVudFN0YXR1cwogICAgICBjb2x1bW46IGVzdGFkbwogICAgY29udGFjdFBlcnNvbjFOYW1lOgogICAgICB0eXBlOiBzdHJpbmcKICAgICAgY29sdW1uOiBwZXJzb25hX2NvbnRhY3RvMQogICAgY29udGFjdFBlcnNvbjFQaG9uZToKICAgICAgdHlwZTogc3RyaW5nCiAgICAgIGNvbHVtbjogdGVsZWZvbm8xCiAgICBjb250YWN0UGVyc29uMU1vYmlsZToKICAgICAgdHlwZTogc3RyaW5nCiAgICAgIGNvbHVtbjogbW92aWwxCiAgICBjb250YWN0UGVyc29uMUZheDoKICAgICAgdHlwZTogc3RyaW5nCiAgICAgIGNvbHVtbjogZmF4MQogICAgY29udGFjdFBlcnNvbjFFbWFpbDoKICAgICAgdHlwZTogc3RyaW5nCiAgICAgIGNvbHVtbjogZW1haWwxCiAgICBjb250YWN0UGVyc29uMk5hbWU6CiAgICAgIHR5cGU6IHN0cmluZwogICAgICBjb2x1bW46IHBlcnNvbmFfY29udGFjdG8yCiAgICBjb250YWN0UGVyc29uMlBob25lOgogICAgICB0eXBlOiBzdHJpbmcKICAgICAgY29sdW1uOiB0ZWxlZm9ubzIKICAgIGNvbnRhY3RQZXJzb24yTW9iaWxlOgogICAgICB0eXBlOiBzdHJpbmcKICAgICAgY29sdW1uOiBtb3ZpbDIKICAgIGNvbnRhY3RQZXJzb24yRmF4OgogICAgICB0eXBlOiBzdHJpbmcKICAgICAgY29sdW1uOiBmYXgyCiAgICBjb250YWN0UGVyc29uMkVtYWlsOgogICAgICB0eXBlOiBzdHJpbmcKICAgICAgY29sdW1uOiBlbWFpbDIKICAgIHBvc2l0aW9uMU5hbWU6CiAgICAgIHR5cGU6IHN0cmluZwogICAgICBjb2x1bW46IG5vbWJyZV9jYXJnbzEKICAgIHBvc2l0aW9uMVBob25lOgogICAgICB0eXBlOiBzdHJpbmcKICAgICAgY29sdW1uOiB0ZWxlZm9ub19jYXJnbzEKICAgIHBvc2l0aW9uMVBvc2l0aW9uOgogICAgICB0eXBlOiBjb250YWN0UG9zaXRpb24KICAgICAgY29sdW1uOiBjYXJnbzEKICAgIHBvc2l0aW9uMVJlcXVlc3Q6CiAgICAgIHR5cGU6IGJvb2xlYW4KICAgICAgY29sdW1uOiBzb2xpY2l0dWRlc19jYXJnbzEKICAgIHBvc2l0aW9uMUVtYWlsOgogICAgICB0eXBlOiBzdHJpbmcKICAgICAgY29sdW1uOiBlbWFpbF9jYXJnbzEKICAgIHBvc2l0aW9uMk5hbWU6CiAgICAgIHR5cGU6IHN0cmluZwogICAgICBjb2x1bW46IG5vbWJyZV9jYXJnbzIKICAgIHBvc2l0aW9uMlBob25lOgogICAgICB0eXBlOiBzdHJpbmcKICAgICAgY29sdW1uOiB0ZWxlZm9ub19jYXJnbzIKICAgIHBvc2l0aW9uMlBvc2l0aW9uOgogICAgICB0eXBlOiBjb250YWN0UG9zaXRpb24KICAgICAgY29sdW1uOiBjYXJnbzIKICAgIHBvc2l0aW9uMlJlcXVlc3Q6CiAgICAgIHR5cGU6IGJvb2xlYW4KICAgICAgY29sdW1uOiBzb2xpY2l0dWRlc19jYXJnbzIKICAgIHBvc2l0aW9uMkVtYWlsOgogICAgICB0eXBlOiBzdHJpbmcKICAgICAgY29sdW1uOiBlbWFpbF9jYXJnbzIKICAgIHBvc2l0aW9uME5hbWU6CiAgICAgIHR5cGU6IHN0cmluZwogICAgICBjb2x1bW46IG5vbWJyZTAKICAgIHBvc2l0aW9uME1vYmlsZToKICAgICAgdHlwZTogc3RyaW5nCiAgICAgIGNvbHVtbjogbW92aWwwCiAgICBwb3NpdGlvbjBGYXg6CiAgICAgIHR5cGU6IHN0cmluZwogICAgICBjb2x1bW46IGZheDAKICAgIHBvc2l0aW9uMFBvc2l0aW9uOgogICAgICB0eXBlOiBjb250YWN0UG9zaXRpb24KICAgICAgY29sdW1uOiBjYXJnbzAKICAgIHBvc2l0aW9uMFJlcXVlc3Q6CiAgICAgIHR5cGU6IGJvb2xlYW4KICAgICAgY29sdW1uOiBzb2xpY2l0dWRlc19jYXJnbzAKICAgIHBvc2l0aW9uMEVtYWlsOgogICAgICB0eXBlOiBzdHJpbmcKICAgICAgY29sdW1uOiBlbWFpbDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldE1vZG5hdENvZGUoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+bW9kbmF0Q29kZTsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRNb2RuYW1lZ3JwMSgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5tb2RuYW1lZ3JwMTsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRNb2RpbXBiZWdpbigpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5tb2RpbXBiZWdpbjsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRNb2RpbXBlbmQoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+bW9kaW1wZW5kOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldE1vZG1ha2NkKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPm1vZG1ha2NkOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBFbnRpdHlNYW5hZ2VyOjpjcmVhdGUoJGRiUGFyYW1zLCAkbWFwcGluZ0NvbmZpZyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIC8vIFRPRE8oUGFibG8pOiBsb3MgbWFwcGluZ3Mgc29uIGxvcyBtaXNtb3MgcXVlIGVuIHByb2R1Y3Rpb24KLy8gICAgICAgICRtYXBwaW5nQ29uZmlnID0gU2V0dXA6OmNyZWF0ZVlBTUxNZXRhZGF0YUNvbmZpZ3VyYXRpb24oCi8vICAgICAgICAgICAgW19fRElSX18gLiAnLy4uLy4uLy4uLy4uLy4uLycgLmdldGVudignREJfRE9DVFJJTkVfTUFQUElOR1MnKV0sCi8vICAgICAgICAgICAgZmFsc2UKLy8gICAgICAgICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gbWl4ZWQK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBFbnRpdHlNYW5hZ2VyOjpjcmVhdGUoJGRiUGFyYW1zLCAkbWFwcGluZ0NvbmZpZyk7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
@@ -3552,7 +3558,6 @@
         <entry encoding="base64">XDxpZFw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5x</entry>
         <entry>a</entry>
         <entry>91</entry>
         <entry>70</entry>
@@ -3572,6 +3577,7 @@
         <entry>q</entry>
         <entry>vs</entry>
         <entry>wa</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
