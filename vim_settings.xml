@@ -2880,6 +2880,11 @@
         <mark key="^" line="88" column="86" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/migrations/m180326_145242_add_classified_positioning_table.php" timestamp="1522077776162">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/authorizedDealer/authDealerInfoData/authDealerInfoDataIndex.php" timestamp="1509450506476">
         <mark key="[" line="45" column="18" />
         <mark key="]" line="45" column="43" />
@@ -2917,9 +2922,9 @@
         <mark key="^" line="17" column="70" />
         <mark key="." line="17" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/migrations/m180123_101641_create_table_particular_data_update_temporary.php" timestamp="1517482543992">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="46" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/migrations/m180123_101641_create_table_particular_data_update_temporary.php" timestamp="1522076331479">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="47" />
         <mark key="." line="12" column="46" />
         <mark key="^" line="8" column="32" />
       </file>
@@ -3539,46 +3544,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkRm9yZWlnbktleSgKICAgICAgICAgICAgJ2ZrX2luZGl2aWR1YWxfZGVhbGVyJywKICAgICAgICAgICAgc2VsZjo6VEFCTEVfTkFNRSwKICAgICAgICAgICAgJ2luZGl2aWR1YWxfZGVhbGVyX2lkJywKICAgICAgICAgICAgJ3VzdWFyaW8nLAogICAgICAgICAgICAnaWQnCiAgICAgICAgKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IENyZWF0ZVN1cHBvcnRBY3Rpb24=</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNYWtlSWRzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly9ESSBjb250YWluZXIKJGJ1aWxkZXIgPSBuZXcgRElcQ29udGFpbmVyQnVpbGRlcigpOwokY29udGFpbmVyID0gJGJ1aWxkZXItPmJ1aWxkKCk7Cg==</text>
+      <register name="0" type="4">
+        <text>individual_dealer_id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkRm9yZWlnbktleSgKICAgICAgICAgICAgJ2ZrX2luZGl2aWR1YWxfZGVhbGVyJywKICAgICAgICAgICAgc2VsZjo6VEFCTEVfTkFNRSwKICAgICAgICAgICAgJ2luZGl2aWR1YWxfZGVhbGVyX2lkJywKICAgICAgICAgICAgJ3VzdWFyaW8nLAogICAgICAgICAgICAnaWQnCiAgICAgICAgKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2Zlc3Npb25hbF9kZWFsZXJfaWQnID0+ICdpbnRlZ2VyIE5VTEwnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2luZGl2aWR1YWxfZGVhbGVyX2lkJyA9PiAnaW50ZWdlciBOVUxMJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWlyZSBfX0RJUl9fIC4gJy8uLi9hcHBsaWNhdGlvbi9kZXBlbmRlbmNpZXMucGhwJzsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Zm9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8kYXBwQ29uZmlnID0gWwovLyAgICAnc2V0dGluZ3MnID0+IFsKLy8gICAgICAgICdmaWxlJyA9PiBfX0RJUl9fIC4gJy8uLi9lbnZpcm9ubWVudC9lbnYueW1sJywKLy8gICAgXQovL107Cg==</text>
+        <text encoding="base64">CSAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50cyA9ICRyZXBvLT5maW5kQWxsKDIsIDM2KTsKCiAgICAgICAgcHJpbnRfcigkY2xpZW50c1swXS0+c2VyaWFsaXplKCkpOwo=</text>
+        <text encoding="base64">CSovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBBYnN0cmFjdFBsYXRmb3JtICRwbGF0Zm9ybQo=</text>
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB1cCgpCgl7Cgl9CgoJcHVibGljIGZ1bmN0aW9uIGRvd24oKQoJewoJCWVjaG8gIm0xODAzMjZfMTQ1MjQyX2FkZF9jbGFzc2lmaWVkX3Bvc2l0aW9uaW5nX3RhYmxlIGRvZXMgbm90IHN1cHBvcnQgbWlncmF0aW9uIGRvd24uXG4iOwoJCXJldHVybiBmYWxzZTsKCX0KCgkvKgoJLy8gVXNlIHNhZmVVcC9zYWZlRG93biB0byBkbyBtaWdyYXRpb24gd2l0aCB0cmFuc2FjdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -3631,9 +3636,9 @@
         <entry>qa</entry>
         <entry>sp</entry>
         <entry>w</entry>
+        <entry>wa</entry>
         <entry>vs</entry>
         <entry>q</entry>
-        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
