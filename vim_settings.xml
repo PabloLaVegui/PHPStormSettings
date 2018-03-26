@@ -675,12 +675,12 @@
         <mark key="." line="30" column="29" />
         <mark key="^" line="30" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" timestamp="1521727214325">
-        <mark key="'" line="300" column="18" />
-        <mark key="[" line="62" column="21" />
-        <mark key="]" line="62" column="39" />
-        <mark key="." line="62" column="39" />
-        <mark key="^" line="62" column="39" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" timestamp="1522051145282">
+        <mark key="'" line="418" column="0" />
+        <mark key="[" line="434" column="0" />
+        <mark key="]" line="436" column="19" />
+        <mark key="^" line="436" column="19" />
+        <mark key="." line="436" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/eurotax/ModelDataTest.php" timestamp="1519818239270">
         <mark key="[" line="30" column="12" />
@@ -725,7 +725,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521801266047">
+      <file name="/Dummy.txt" timestamp="1522050895870">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/application/UseCases/requests/CreateRequestUsecaseTest.php" timestamp="1521560054294">
@@ -1125,7 +1125,7 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="/fragment.php" timestamp="1522049746221">
+      <file name="/fragment.php" timestamp="1522051183545">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/domain/infrastructure/providers/eurotax/ModelDataProvider.php" timestamp="1521022981350">
@@ -1522,7 +1522,7 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="12" column="56" />
       </file>
-      <file name="/PHP Console" timestamp="1522049610415">
+      <file name="/PHP Console" timestamp="1522051154179">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1606,8 +1606,12 @@
         <mark key="." line="17" column="39" />
         <mark key="^" line="17" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/clients/DoctrineClientProvider.php" timestamp="1522049573825">
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/clients/DoctrineClientProvider.php" timestamp="1522051301202">
         <mark key="'" line="14" column="6" />
+        <mark key="[" line="48" column="26" />
+        <mark key="]" line="37" column="52" />
+        <mark key="^" line="37" column="52" />
+        <mark key="." line="37" column="52" />
       </file>
       <file name="$USER_HOME$/Code/phetris7/src/tetrimino/TetriminoO.php" timestamp="1484939129778">
         <mark key="[" line="45" column="52" />
@@ -2298,11 +2302,11 @@
         <mark key="^" line="14" column="69" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/Client/ClientTransformer.php" timestamp="1521727387257">
-        <mark key="[" line="35" column="56" />
-        <mark key="]" line="35" column="56" />
-        <mark key="^" line="35" column="56" />
-        <mark key="." line="35" column="56" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/Client/ClientTransformer.php" timestamp="1522051025096">
+        <mark key="[" line="55" column="52" />
+        <mark key="]" line="55" column="52" />
+        <mark key="^" line="55" column="52" />
+        <mark key="." line="55" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.eurotax.ModelEntity.dcm.yml" timestamp="1521804444080">
         <mark key="[" line="23" column="0" />
@@ -2846,9 +2850,6 @@
         <mark key="^" line="45" column="43" />
         <mark key="." line="45" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/dependencies/commons.php" timestamp="1521793185689">
-        <mark key="'" line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/hydrator/rules.php" timestamp="1508401161198">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="14" />
@@ -3372,10 +3373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/DumpCommand.php" />
-      <jump line="38" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/Eurotax/UpdateEurotaxUseCase.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Make.php" />
-      <jump line="14" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Make.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/MakeData.php" />
       <jump line="42" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Make.php" />
       <jump line="41" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/MakeData.php" />
@@ -3472,13 +3469,17 @@
       <jump line="1" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.eurotax.ModelEntity.dcm.yml" />
       <jump line="77" column="28" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/ModelEntity.php" />
       <jump line="90" column="20" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/ModelEntity.php" />
+      <jump line="407" column="43" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" />
+      <jump line="54" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" />
+      <jump line="77" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" />
+      <jump line="418" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Model</text>
+        <text>mixed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
@@ -3487,34 +3488,34 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIE1vZGVsRW50aXR5ICRtb2RlbEVudGl0eQogICAgICogQHJldHVybiBNb2RlbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZnJvbU1vZGVsRW50aXR5VG9Nb2RlbChNb2RlbEVudGl0eSAkbW9kZWxFbnRpdHkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bW9kZWxFbnRpdHlUcmFuc2Zvcm1lciA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogTW9kZWxbXSAqLwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIGNvY2hlc2NvbVxkb21haW5cbW9kZWxzXGV1cm90YXhcTW9kZWxbXQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW107Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bW9kZWxFbnRpdHlUcmFuc2Zvcm1lciA9IAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvKiogTW9kZWxbXSAqLwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">dXNlIGNvY2hlc2NvbVxkb21haW5cbW9kZWxzXGV1cm90YXhcTW9kZWxbXQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -3568,8 +3569,8 @@
         <entry>qa</entry>
         <entry>q</entry>
         <entry>sp</entry>
-        <entry>wa</entry>
         <entry>vs</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
