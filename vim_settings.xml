@@ -444,6 +444,10 @@
         <mark key="^" line="16" column="53" />
         <mark key="." line="16" column="49" />
       </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/migrations/m180326_145242_add_classified_positioning_table.php" timestamp="1522134499888">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="48" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris2D/Movement/Right.php" timestamp="1502472592637">
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="30" />
@@ -872,6 +876,10 @@
         <mark key="^" line="42" column="12" />
         <mark key="." line="42" column="12" />
       </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/domain.coches.com/activeRecordModels/User/UserTemporaryData.php" timestamp="1522134653754">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="66" column="4" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/infrastructure/Repository/UserRepository.php" timestamp="1507239293660">
         <mark key="[" line="25" column="30" />
         <mark key="]" line="25" column="30" />
@@ -911,7 +919,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520354421066">
+      <file name="/Dummy.txt" timestamp="1522134387432">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/Type.php" timestamp="1512236091834">
@@ -2093,6 +2101,13 @@
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="36" />
       </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/domain.coches.com/activeRecordModels/Positioning/ClassifiedPositioning.php" timestamp="1522135188288">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="137" column="35" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/application/Response/HttpResponseStatus.php" timestamp="1513116840267">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="25" />
@@ -2125,8 +2140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="12" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
-      <jump line="19" column="44" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
       <jump line="391" column="15" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
       <jump line="383" column="35" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
       <jump line="117" column="29" filename="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/AuthDealerInfoDataController.php" />
@@ -2225,46 +2238,48 @@
       <jump line="120" column="20" filename="$USER_HOME$/Amazon Drive/Code/cochescom/coches.com/coches_yii/protected/components/widgets/WCarVNRequestForm.php" />
       <jump line="122" column="20" filename="$USER_HOME$/Amazon Drive/Code/cochescom/coches.com/coches_yii/protected/components/widgets/WCarVNRequestForm.php" />
       <jump line="55" column="33" filename="$USER_HOME$/Amazon Drive/Code/cochescom/coches.com/coches_yii/protected/components/widgets/WCarVNRequestForm.php" />
+      <jump line="123" column="6" filename="$USER_HOME$/Amazon Drive/Code/cochescom/domain.coches.com/activeRecordModels/Positioning/ClassifiedPositioning.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Amazon Drive/Code/cochescom/domain.coches.com/activeRecordModels/Positioning/ClassifiedPositioning.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>carVNRequestForm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgVEFCTEVfTkFNRSA9ICdjbGFzc2lmaWVkX3Bvc2l0aW9uaW5nJzsKJHRoaXMtPmNyZWF0ZVRhYmxlKHNlbGY6OlRBQkxFX05BTUUsIFsKICAgICdpZCcgPT4gJ3BrJywKICAgICdjbGFzc2lmaWVkX2lkJyA9PiAnaW50ZWdlciBOT1QgTlVMTCcsCiAgICAndXNlcl9pZCcgPT4gJ2ludGVnZXIgTk9UIE5VTEwnLAogICAgJ3BlcmlvZCcgPT4gJ2ludGVnZXIgTk9UIE5VTEwnLAogICAgJ2NyZWF0ZWRfYXQnID0+ICdkYXRldGltZSBOT1QgTlVMTCcsCiAgICAnbGFzdF91cGRhdGVfYXQnID0+ICdkYXRldGltZSBOVUxMJywKXSk7CiR0aGlzLT5hZGRGb3JlaWduS2V5KAogICAgJ2ZrX2NsYXNzaWZpZWQnLAogICAgc2VsZjo6VEFCTEVfTkFNRSwKICAgICdjbGFzc2lmaWVkX2lkJywKICAgICdjb2NoZScsCiAgICAnaWQnCik7CiR0aGlzLT5hZGRGb3JlaWduS2V5KAogICAgJ2ZrX3VzZXInLAogICAgc2VsZjo6VEFCTEVfTkFNRSwKICAgICd1c2VyX2lkJywKICAgICd1c3VhcmlvJywKICAgICdpZCcKKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>carVNRequestForm</text>
+        <text>created_at</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlSW50b1NvbGljaXR1ZGVzVXNhZG9zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8ocGFibG8pOiBkZSBxdWUgZXMgZWwgbm9tYnJlPz8K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldENyZWF0ZWRBdCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5jcmVhdGVkX2F0OwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkY3JlYXRlZEF0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRDcmVhdGVkQXQoJGNyZWF0ZWRBdCkKICAgIHsKICAgICAgICAkdGhpcy0+Y3JlYXRlZF9hdCA9ICRjcmVhdGVkQXQ7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8ocGFibG8pOiBzYWNhciB0b2RhIGxhIGluZm8gZGUgbGEgcmVxdWVzdCAobcOpdG9kbyBzYXZlSW50b1NvbGljaXR1ZGVzVXNhZG9zKQo=</text>
+        <text encoding="base64">Y29uc3QgVEFCTEVfTkFNRSA9ICdjbGFzc2lmaWVkX3Bvc2l0aW9uaW5nJzsKJHRoaXMtPmNyZWF0ZVRhYmxlKHNlbGY6OlRBQkxFX05BTUUsIFsKICAgICdpZCcgPT4gJ3BrJywKICAgICdjbGFzc2lmaWVkX2lkJyA9PiAnaW50ZWdlciBOT1QgTlVMTCcsCiAgICAndXNlcl9pZCcgPT4gJ2ludGVnZXIgTk9UIE5VTEwnLAogICAgJ3BlcmlvZCcgPT4gJ2ludGVnZXIgTk9UIE5VTEwnLAogICAgJ2NyZWF0ZWRfYXQnID0+ICdkYXRldGltZSBOT1QgTlVMTCcsCiAgICAnbGFzdF91cGRhdGVfYXQnID0+ICdkYXRldGltZSBOVUxMJywKXSk7CiR0aGlzLT5hZGRGb3JlaWduS2V5KAogICAgJ2ZrX2NsYXNzaWZpZWQnLAogICAgc2VsZjo6VEFCTEVfTkFNRSwKICAgICdjbGFzc2lmaWVkX2lkJywKICAgICdjb2NoZScsCiAgICAnaWQnCik7CiR0aGlzLT5hZGRGb3JlaWduS2V5KAogICAgJ2ZrX3VzZXInLAogICAgc2VsZjo6VEFCTEVfTkFNRSwKICAgICd1c2VyX2lkJywKICAgICd1c3VhcmlvJywKICAgICdpZCcKKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFQK</text>
+        <text encoding="base64">Ly8qIEBwcm9wZXJ0eSBzdHJpbmcgJGNyZWF0ZWRfYXQKLy8qIEBwcm9wZXJ0eSBzdHJpbmcgJGxhc3RfdXBkYXRlX2F0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRldmVudCA9IG5ldyBWTlJlcXVlc3QK</text>
+        <text encoding="base64">Ly8qIEBwcm9wZXJ0eSBpbnRlZ2VyICRwZXJpb2QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHBvc3QpO2RpZTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGludCAkcGVyaW9kCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRQZXJpb2QoJHBlcmlvZCkKICAgIHsKICAgICAgICAkdGhpcy0+dXNlcl9pZCA9ICRwZXJpb2Q7CiAgICB9Ci8vKiBAcHJvcGVydHkgaW50ZWdlciAkcGVyaW9kCi8vKiBAcHJvcGVydHkgc3RyaW5nICRjcmVhdGVkX2F0Ci8vKiBAcHJvcGVydHkgc3RyaW5nICRsYXN0X3VwZGF0ZV9hdAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">Ly8qIEBwcm9wZXJ0eSBpbnRlZ2VyICR1c2VyX2lkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8qIEBwcm9wZXJ0eSBpbnRlZ2VyICRjbGFzc2lmaWVkX2lkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGNvY2hlc0lkCg==</text>
+        <text encoding="base64">Ly8qIEBwcm9wZXJ0eSBpbnRlZ2VyICRjbGFzc2lmaWVkX2lkCi8vKiBAcHJvcGVydHkgaW50ZWdlciAkdXNlcl9pZAovLyogQHByb3BlcnR5IGludGVnZXIgJHBlcmlvZAovLyogQHByb3BlcnR5IHN0cmluZyAkY3JlYXRlZF9hdAovLyogQHByb3BlcnR5IHN0cmluZyAkbGFzdF91cGRhdGVfYXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFxEYXRlVGltZSgpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFxEYXRlVGltZSgpLAo=</text>
+        <text encoding="base64">Ly8qIEBwcm9wZXJ0eSBpbnRlZ2VyICRpZAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -2320,8 +2335,8 @@
         <entry>159</entry>
         <entry>wea</entry>
         <entry>w</entry>
-        <entry>vs</entry>
         <entry>q</entry>
+        <entry>vs</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
