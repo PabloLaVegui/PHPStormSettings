@@ -1653,12 +1653,12 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Positioning/PositioningClassified.php" timestamp="1522675688751">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Positioning/PositioningClassified.php" timestamp="1522676612370">
         <mark key="'" line="129" column="6" />
-        <mark key="[" line="134" column="39" />
-        <mark key="]" line="134" column="38" />
-        <mark key="." line="134" column="38" />
-        <mark key="^" line="134" column="38" />
+        <mark key="[" line="57" column="64" />
+        <mark key="]" line="57" column="69" />
+        <mark key="." line="57" column="69" />
+        <mark key="^" line="57" column="69" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Movemet/PositionChecker.php" timestamp="1499119918084">
         <mark key="[" line="18" column="0" />
@@ -3037,11 +3037,11 @@
         <mark key="." line="88" column="27" />
         <mark key="^" line="88" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/domain/Models/Positioning/PositioningClassifiedTest.php" timestamp="1522675820234">
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="20" column="18" />
-        <mark key="^" line="20" column="18" />
-        <mark key="." line="20" column="18" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/domain/Models/Positioning/PositioningClassifiedTest.php" timestamp="1522676497427">
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="37" column="34" />
+        <mark key="^" line="37" column="34" />
+        <mark key="." line="37" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/calendar-api/test/Infrastructure/Persistence/Doctrine/Repository/DoctrineSupportRepositoryTest.php" timestamp="1510765633819">
         <mark key="[" line="33" column="44" />
@@ -3345,43 +3345,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>ouldnt</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>ouldnt</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNYWtlSWRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdG9QZXJzaXN0ID0gbmV3IFBvc2l0aW9uaW5nQ2xhc3NpZmllZCgKICAgICAgICAgICAgbmV3IElkKCdoYXkgcXVlIHZlciBxdWUgcGFzYSBjb24gZXN0ZSBpZCBhbCBpbnNlcnRhcicpLAogICAgICAgICAgICBuZXcgSWQoMzAwMTkyNSksCiAgICAgICAgICAgIG5ldyBJZCgyOTEyMjMpLAogICAgICAgICAgICAyLAogICAgICAgICAgICBuZXcgRGF0ZSgpCiAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24oJ2NsYXNzaWZpZWQgaWQgaXMgcmVxdWlyZWQnKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiB0ZXN0cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24oJ2NsYXNzaWZpZWQgaWQgaXMgcmVxdWlyZWQnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobnVsbCA9PT0gJGNsYXNzaWZpZWRJZCAmJiAnJyA9PT0gJGNsYXNzaWZpZWRJZCkgewogICAgICAgICAgICB0aHJvdyBuZXcgXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbignY2xhc3NpZmllZCBpZCBpcyByZXF1aXJlZCcpOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0RlZmF1bHQgZGF0ZSBzaG91bGQgYmUgbm93JywK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="4">
+        <text>new PositioningClassified(
+            new Id(null),
+            new Id(3001925),
+            new Id(291223),
+            2,
+            new Date(),
+            new Date()
+        );</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEZPUk1BVCA9ICdZLW0tZCBoOmk6cyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiB0ZXN0cwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
