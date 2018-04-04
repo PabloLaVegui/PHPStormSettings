@@ -2186,6 +2186,12 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="12" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/Client/ClientStatusTypeTransformer.php" timestamp="1522854120544">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+        <mark key="^" line="21" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/renew/_position.twig" timestamp="1516023737264">
         <mark key="[" line="21" column="90" />
         <mark key="]" line="21" column="95" />
@@ -2250,8 +2256,8 @@
         <mark key="." line="67" column="25" />
         <mark key="^" line="67" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.clients.ClientEntity.dcm.yml" timestamp="1522060350489">
-        <mark key="'" line="124" column="21" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.clients.ClientEntity.dcm.yml" timestamp="1522853556499">
+        <mark key="'" line="27" column="18" />
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
@@ -3553,7 +3559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" />
       <jump line="121" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" />
       <jump line="83" column="8" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" />
@@ -3653,13 +3658,14 @@
       <jump line="16" column="0" filename="$USER_HOME$/Projects/domain.coches.com/activeRecordModels/Positioning/ClassifiedPositioning.php" />
       <jump line="31" column="16" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/repositories/UserMiZonaRepository.php" />
       <jump line="112" column="11" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/domain/Positioning/ModifyUserBalanceServiceTest.php" />
+      <jump line="27" column="18" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.clients.ClientEntity.dcm.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tQ2xhc3NpZmllZFBvc2l0aW9uaW5nQWN0aXZlUmVjb3JkVG9Eb21haW5Qb3NpdGlvbmluZ0NsYXNzaWZpZWRcPg==</text>
@@ -3695,7 +3701,7 @@
         <text encoding="base64">bmFtZXNwYWNlIG1pem9uYVxkb21haW5cU2VydmljZXNcUG9zaXRpb25pbmc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -3749,8 +3755,8 @@
         <entry>a</entry>
         <entry>q</entry>
         <entry>w</entry>
-        <entry>wa</entry>
         <entry>vs</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
