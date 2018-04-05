@@ -259,11 +259,11 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/clients/ClientTest.php" timestamp="1521718248522">
-        <mark key="[" line="55" column="47" />
-        <mark key="]" line="55" column="56" />
-        <mark key="." line="55" column="56" />
-        <mark key="^" line="55" column="56" />
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/clients/ClientTest.php" timestamp="1522920717520">
+        <mark key="[" line="52" column="34" />
+        <mark key="]" line="52" column="49" />
+        <mark key="^" line="65" column="53" />
+        <mark key="." line="52" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/infrastructure/gateways/clients/ClientGatewayCommandTest.php" timestamp="1521120662956">
         <mark key="'" line="87" column="59" />
@@ -688,12 +688,12 @@
         <mark key="." line="30" column="29" />
         <mark key="^" line="30" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" timestamp="1522914044958">
-        <mark key="'" line="481" column="0" />
-        <mark key="[" line="449" column="0" />
-        <mark key="]" line="480" column="5" />
-        <mark key="^" line="59" column="35" />
-        <mark key="." line="449" column="0" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" timestamp="1522920881448">
+        <mark key="'" line="89" column="13" />
+        <mark key="[" line="89" column="13" />
+        <mark key="]" line="89" column="27" />
+        <mark key="." line="89" column="67" />
+        <mark key="^" line="89" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/eurotax/ModelDataTest.php" timestamp="1519818239270">
         <mark key="[" line="30" column="12" />
@@ -2401,11 +2401,11 @@
         <mark key="^" line="14" column="69" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/Client/ClientTransformer.php" timestamp="1522914130976">
-        <mark key="[" line="49" column="43" />
-        <mark key="]" line="49" column="70" />
-        <mark key="^" line="48" column="62" />
-        <mark key="." line="49" column="43" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/Client/ClientTransformer.php" timestamp="1522919816457">
+        <mark key="[" line="51" column="69" />
+        <mark key="]" line="51" column="106" />
+        <mark key="^" line="51" column="106" />
+        <mark key="." line="51" column="106" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.eurotax.ModelEntity.dcm.yml" timestamp="1521804444080">
         <mark key="[" line="23" column="0" />
@@ -3533,8 +3533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" />
-      <jump line="92" column="11" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" />
       <jump line="72" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies.php" />
       <jump line="32" column="40" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/webuser/WebUserGatewayQuery.php" />
       <jump line="41" column="15" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/filter/PhoneFilter.php" />
@@ -3633,55 +3631,57 @@
       <jump line="27" column="18" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.clients.ClientEntity.dcm.yml" />
       <jump line="78" column="35" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" />
       <jump line="481" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" />
+      <jump line="445" column="20" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" />
+      <jump line="89" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JGNsaWVudEVudGl0eS0+Z2V0Q29tbWVudCgp</text>
+        <text>brands_c</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50IA==</text>
+        <text>brands_c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcm9tQ2xhc3NpZmllZFBvc2l0aW9uaW5nQWN0aXZlUmVjb3JkVG9Eb21haW5Qb3NpdGlvbmluZ0NsYXNzaWZpZWRcPg==</text>
+        <text encoding="base64">XDxnZXRNYWtlSWRzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JGNsaWVudEVudGl0eS0+Z2V0Q29tbWVudCgp</text>
+        <text>no_pay_months_c</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRIYXZlTm90RGlzY291bnRzKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmhhdmVOb3REaXNjb3VudHM7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gc3RyaW5nICRoYXZlTm90RGlzY291bnRzCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRIYXZlTm90RGlzY291bnRzKCRoYXZlTm90RGlzY291bnRzKQogICAgewogICAgICAgICR0aGlzLT5oYXZlTm90RGlzY291bnRzID0gJGhhdmVOb3REaXNjb3VudHM7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIHN0cmluZwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0RG9udFBheU1vbnRobHlQYXltZW50cygpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5kb250UGF5TW9udGhseVBheW1lbnRzOwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkZG9udFBheU1vbnRobHlQYXltZW50cwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0RG9udFBheU1vbnRobHlQYXltZW50cygkZG9udFBheU1vbnRobHlQYXltZW50cykKICAgIHsKICAgICAgICAkdGhpcy0+ZG9udFBheU1vbnRobHlQYXltZW50cyA9ICRkb250UGF5TW9udGhseVBheW1lbnRzOwogICAgfQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEluc3RhbmNlIGFzIG11bHRpcGxlIGNvbnN0cnVjdG9ycwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gVXJsSGFuZGxlck1pem9uYQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkbWFrZXMgPSBbbmV3IE1ha2UoJ2lkMScsICduYW1lMScpLCBuZXcgTWFrZSgnaWQyJywgJ25hbWUyJyldOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIGNvY2hlc2NvbVxkb21haW5cbW9kZWxzXGV1cm90YXhcTWFrZTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkbWFrZXMgPSBbJ21ha2UxJywgJ21ha2UyJ107Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRIYXZlTm90RGlzY291bnRzKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmhhdmVOb3REaXNjb3VudHM7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gc3RyaW5nICRoYXZlTm90RGlzY291bnRzCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRIYXZlTm90RGlzY291bnRzKCRoYXZlTm90RGlzY291bnRzKQogICAgewogICAgICAgICR0aGlzLT5oYXZlTm90RGlzY291bnRzID0gJGhhdmVOb3REaXNjb3VudHM7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIHN0cmluZwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0RG9udFBheU1vbnRobHlQYXltZW50cygpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5kb250UGF5TW9udGhseVBheW1lbnRzOwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkZG9udFBheU1vbnRobHlQYXltZW50cwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0RG9udFBheU1vbnRobHlQYXltZW50cygkZG9udFBheU1vbnRobHlQYXltZW50cykKICAgIHsKICAgICAgICAkdGhpcy0+ZG9udFBheU1vbnRobHlQYXltZW50cyA9ICRkb250UGF5TW9udGhseVBheW1lbnRzOwogICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaQo=</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIG1pem9uYVxkb21haW5cU2VydmljZXNcUG9zaXRpb25pbmdcTW9kaWZ5QmFsYW5jZVVzZUNhc2U7Cg==</text>
+        <text encoding="base64">ICAgICAqIEluc3RhbmNlIGFzIG11bHRpcGxlIGNvbnN0cnVjdG9ycwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcm9tQ2xhc3NpZmllZFBvc2l0aW9uaW5nQWN0aXZlUmVjb3JkVG9Eb21haW5Qb3NpdGlvbmluZ0NsYXNzaWZpZWRcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRNYWtlSWRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcm9tQ2xhc3NpZmllZFBvc2l0aW9uaW5nQWN0aXZlUmVjb3JkVG9Eb21haW5Qb3NpdGlvbmluZ0NsYXNzaWZpZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRNYWtlSWRzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxlcnJvcnNDb3VudFw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -3707,8 +3707,8 @@
         <entry encoding="base64">XDxnZXRUb3RhbEVsZW1lbnRzXD4=</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry encoding="base64">XDxnZXRNYWtlc0lkc1w+</entry>
-        <entry encoding="base64">XDxnZXRNYWtlSWRzXD4=</entry>
         <entry encoding="base64">XDxmcm9tQ2xhc3NpZmllZFBvc2l0aW9uaW5nQWN0aXZlUmVjb3JkVG9Eb21haW5Qb3NpdGlvbmluZ0NsYXNzaWZpZWRcPg==</entry>
+        <entry encoding="base64">XDxnZXRNYWtlSWRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>91</entry>
