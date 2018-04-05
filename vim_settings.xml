@@ -328,11 +328,11 @@
         <mark key="^" line="21" column="12" />
         <mark key="." line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/routes.php" timestamp="1522940941855">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="2" column="70" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Projects/crmmigrations/application/routes.php" timestamp="1522942533445">
+        <mark key="[" line="5" column="71" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Code/Code.php" timestamp="1498774249582">
         <mark key="[" line="1" column="0" />
@@ -617,6 +617,12 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/application/action/request/CreateRequestVNRequestValidatorMiddleware.php" timestamp="1522942954407">
+        <mark key="[" line="45" column="47" />
+        <mark key="]" line="47" column="24" />
+        <mark key="^" line="47" column="24" />
+        <mark key="." line="47" column="24" />
+      </file>
       <file name="$USER_HOME$/Code/php-observer/src/Observer.php" timestamp="1490733681578">
         <mark key="[" line="4" column="10" />
         <mark key="]" line="7" column="0" />
@@ -751,8 +757,8 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/action/request/CreateRequestVNRequestValidator.php" timestamp="1522941599960">
-        <mark key="[" line="22" column="9" />
+      <file name="$USER_HOME$/Projects/crmmigrations/application/action/request/CreateRequestVNRequestValidator.php" timestamp="1522942412715">
+        <mark key="[" line="9" column="37" />
         <mark key="]" line="22" column="9" />
         <mark key="." line="22" column="9" />
         <mark key="^" line="22" column="9" />
@@ -1463,7 +1469,7 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="12" column="56" />
       </file>
-      <file name="/PHP Console" timestamp="1522941513340">
+      <file name="/PHP Console" timestamp="1522942976767">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -2586,12 +2592,12 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/action/request/CreateRequestVNAction.php" timestamp="1522941373124">
+      <file name="$USER_HOME$/Projects/crmmigrations/application/action/request/CreateRequestVNAction.php" timestamp="1522943007454">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="48" column="14" />
-        <mark key="]" line="48" column="14" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
         <mark key="^" line="48" column="14" />
-        <mark key="." line="48" column="14" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Code/eventstracker/protected/tests/functional/AdminTest.php" timestamp="1425328736090">
         <mark key="[" line="47" column="50" />
@@ -3416,44 +3422,44 @@
       <jump line="44" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/action/request/CreateRequestVNAction.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>validateRequest()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICRlcnJvcnMgPSAkdGhpcy0+cmVxdWVzdFZhbGlkYXRvci0+Z2V0RXJyb3JzKCRyZXF1ZXN0KTsKLy8gICAgICAgIGlmICghZW1wdHkoJGVycm9ycykpIHsKLy8gICAgICAgICAgICByZXR1cm4gJHJlc3BvbnNlLT53aXRoU3RhdHVzKDQwMCktPndpdGhKc29uKFsKLy8gICAgICAgICAgICAgICAgJ2Vycm9ycycgPT4gJGVycm9ycwovLyAgICAgICAgICAgIF0pOwovLyAgICAgICAgfQoK</text>
       </register>
       <register name="-" type="4">
-        <text>validateRequest()</text>
+        <text encoding="base64">dGhpcy0+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNYWtlSWRzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>, Response $response</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gJHJlc3BvbnNlLT53aXRoU3RhdHVzKDQwMCktPndpdGhKc29uKFsKLy8gICAgICAgICAgICAgICAgJ2Vycm9ycycgPT4gJGVycm9ycwovLyAgICAgICAgICAgIF0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0CiAgICAgKiBAcGFyYW0gUmVzcG9uc2UgJHJlc3BvbnNlCiAgICAgKiBAcmV0dXJuIFJlc3BvbnNlIHwgbnVsbAogICAgICogQHRocm93cyBcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gdmFsaWRhdGVSZXF1ZXN0KFJlcXVlc3QgJHJlcXVlc3QsIFJlc3BvbnNlICRyZXNwb25zZSkKICAgIHsKICAgICAgICBpZiAoISR0aGlzLT5yZXF1ZXN0VmFsaWRhdG9yLT52YWxpZGF0ZSgkcmVxdWVzdCkpIHsKICAgICAgICAgICAgcmV0dXJuICRyZXNwb25zZS0+d2l0aFN0YXR1cyg0MDApLT53aXRoSnNvbigKICAgICAgICAgICAgICAgICR0aGlzLT5yZXF1ZXN0VmFsaWRhdG9yLT5nZXRFcnJvcnMoKQogICAgICAgICAgICApOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICRlcnJvcnMgPSAkdGhpcy0+cmVxdWVzdFZhbGlkYXRvci0+Z2V0RXJyb3JzKCRyZXF1ZXN0KTsKLy8gICAgICAgIGlmICghZW1wdHkoJGVycm9ycykpIHsKLy8gICAgICAgICAgICByZXR1cm4gJHJlc3BvbnNlLT53aXRoU3RhdHVzKDQwMCktPndpdGhKc29uKFsKLy8gICAgICAgICAgICAgICAgJ2Vycm9ycycgPT4gJGVycm9ycwovLyAgICAgICAgICAgIF0pOwovLyAgICAgICAgfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmFsaWRhdGVSZXF1ZXN0KCRyZXF1ZXN0LCAkcmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gYm9vbAogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIGVtcHR5RXJyb3JzKCkKICAgIHsKICAgICAgICByZXR1cm4gZW1wdHkoJHRoaXMtPmVycm9yc1snZXJyb3JzJ10pOwogICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEVycm9ycygpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5lcnJvcnM7CiAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgJGVycm9ycyA9IFtdOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8qKiBAdmFyIGFycmF5ICovCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIGFwcGxpY2F0aW9uXGFjdGlvblxDcmVhdGVSZXF1ZXN0Vk5BY3Rpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gc3RhdGljCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmVycm9yczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRFcnJvcnMoUmVxdWVzdCAkcmVxdWVzdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiR0aGlzLT5yZXF1ZXN0VmFsaWRhdG9yLT52YWxpZGF0ZSgpCg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0CiAgICAgKiBAcGFyYW0gUmVzcG9uc2UgJHJlc3BvbnNlCiAgICAgKiBAcmV0dXJuIFJlc3BvbnNlIHwgbnVsbAogICAgICogQHRocm93cyBcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gdmFsaWRhdGVSZXF1ZXN0KFJlcXVlc3QgJHJlcXVlc3QsIFJlc3BvbnNlICRyZXNwb25zZSkKICAgIHsKICAgICAgICBpZiAoISR0aGlzLT5yZXF1ZXN0VmFsaWRhdG9yLT52YWxpZGF0ZSgkcmVxdWVzdCkpIHsKICAgICAgICAgICAgcmV0dXJuICRyZXNwb25zZS0+d2l0aFN0YXR1cyg0MDApLT53aXRoSnNvbigKICAgICAgICAgICAgICAgICR0aGlzLT5yZXF1ZXN0VmFsaWRhdG9yLT5nZXRFcnJvcnMoKQogICAgICAgICAgICApOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
