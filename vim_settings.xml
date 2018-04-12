@@ -720,8 +720,8 @@
         <mark key="^" line="24" column="81" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/helpers/SugarDateHelperTest.php" timestamp="1523530614734">
-        <mark key="[" line="72" column="46" />
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/helpers/SugarDateHelperTest.php" timestamp="1523537771861">
+        <mark key="[" line="79" column="5" />
         <mark key="]" line="72" column="48" />
         <mark key="." line="72" column="48" />
         <mark key="^" line="72" column="48" />
@@ -835,8 +835,8 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" timestamp="1523530061879">
-        <mark key="'" line="215" column="4" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" timestamp="1523536327118">
+        <mark key="'" line="230" column="21" />
         <mark key="[" line="226" column="0" />
         <mark key="]" line="228" column="20" />
         <mark key="^" line="228" column="20" />
@@ -3159,11 +3159,12 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/helpers/SugarDateHelper.php" timestamp="1523529460582">
-        <mark key="[" line="72" column="12" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="58" column="0" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/helpers/SugarDateHelper.php" timestamp="1523537751671">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="76" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/domain/infrastructure/providers/eurotax/FakeModelDataProvider.php" timestamp="1519726903635">
         <mark key="[" line="23" column="45" />
@@ -3311,10 +3312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies/commons.php" />
-      <jump line="68" column="4" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineTestCase.php" />
-      <jump line="51" column="0" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineTestCase.php" />
-      <jump line="65" column="60" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineTestCase.php" />
       <jump line="10" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/ModelEntity.php" />
       <jump line="40" column="3" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/ModelEntity.php" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/ModelEntity.php" />
@@ -3411,55 +3408,59 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.requests.Request.dcm.yml" />
       <jump line="94" column="30" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" />
       <jump line="48" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/helpers/SugarDateHelper.php" />
+      <jump line="40" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/helpers/SugarDateHelper.php" />
+      <jump line="225" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
+      <jump line="230" column="21" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGlmICghJHRoaXMtPmlzRGF0ZSgkZGF0ZSkpIHsK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRFbGVtZW50c1w+</text>
+        <text encoding="base64">XDxnZXREYXRlVG9TZXJpYWxpemVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0U2FtZSgkYWN0dWFsWydwcm92aW5jZV9jJ10sIDIxKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISR0aGlzLT5pc0RhdGUoJGRhdGUpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGRhdGUgPSBuZXcgRGF0ZVRpbWUoKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmICghJHRoaXMtPmlzRGF0ZSgkZGF0ZSkpIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25vdCBEYXRlVGltZScgPT4gW25ldyBcc3RkQ2xhc3MoKV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogdGllbmUgcXVlIHNlIGRhdGV0aXRtZQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISR0aGlzLT5pc1ZhbGlkRGF0ZVRpbWUoJGRhdGUpKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRkYXRlU3RyaW5nID0gJGRhdGUtPmZvcm1hdChzZWxmOjpEQVRFX0ZPUk1BVCk7Ci8vICAgICAgICAkdGltZVN0cmluZyA9ICRkYXRlLT5mb3JtYXQoc2VsZjo6VElNRV9GT1JNQVQpOwovLwovLyAgICAgICAgcmV0dXJuICRkYXRlU3RyaW5nIC4gJ1QnIC4gJHRpbWVTdHJpbmc7Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGlzVmFsaWREYXRlVGltZSgkZGF0ZSkKICAgIHsKICAgICAgICByZXR1cm4gCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFRJTUVfRk9STUFUID0gJ0g6aTpzJzsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGRhdGUgPSBuZXcgRGF0ZVRpbWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZnJvCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25vdCBEYXRlVGltZScgPT4gW25ldyBcc3RkQ2xhc3MoKV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkbGltaXQgPSBudWxsOwogICAgICAgICRvZmZzZXQgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogdGllbmUgcXVlIHNlIGRhdGV0aXRtZQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRFbGVtZW50c1w+</last-search>
+      <last-search encoding="base64">XDxnZXREYXRlVG9TZXJpYWxpemVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRFbGVtZW50c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXREYXRlVG9TZXJpYWxpemVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxlcnJvcnNDb3VudFw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -3467,7 +3468,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Doctine</entry>
         <entry>ModelProvi</entry>
         <entry encoding="base64">XDxtb2RlbFByb3ZpZGVyXD4=</entry>
         <entry>seriali</entry>
@@ -3487,6 +3487,7 @@
         <entry encoding="base64">XDxoYW5kbGVFeGNlcHRpb25cPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxnZXRFbGVtZW50c1w+</entry>
+        <entry encoding="base64">XDxnZXREYXRlVG9TZXJpYWxpemVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
