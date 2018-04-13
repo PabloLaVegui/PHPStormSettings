@@ -663,7 +663,13 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523546197987">
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/DoctrineDealerDiscountProvider.php" timestamp="1523615873192">
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="24" column="50" />
+        <mark key="^" line="24" column="50" />
+        <mark key="." line="24" column="50" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1523615625254">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/application/UseCases/requests/CreateRequestUsecaseTest.php" timestamp="1521560054294">
@@ -828,9 +834,6 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="17" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" timestamp="1523545835878">
-        <mark key="'" line="91" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/calendar-api.coches.com/cli-config.php" timestamp="1520507898003">
         <mark key="[" line="9" column="30" />
@@ -1492,6 +1495,7 @@
         <mark key="^" line="19" column="77" />
         <mark key="." line="19" column="77" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Solicitud.php" timestamp="1523615080921" />
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.webuser.WebUser.dcm.yml" timestamp="1523010206824">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="13" column="22" />
@@ -2002,7 +2006,7 @@
         <mark key="^" line="21" column="95" />
         <mark key="." line="21" column="95" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.clients.Make.dcm.yml" timestamp="1522057370555">
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.clients.Make.dcm.yml" timestamp="1523615420835">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -2909,6 +2913,12 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/infrastructure/providers/requests/DirectDealerDiscountProvider.php" timestamp="1523615753657">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris/Movement/TetrominoMover.php" timestamp="1502663761108">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="16" column="64" />
@@ -3399,43 +3409,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vLT5zZWxlY3QoJ3ByZWNpb19hdXRvZGVzY3VlbnRvLHBhLmlkdmVyc2lvbiBpZHZlaGljbGUsdm4uaWRudWV2byBpZGNvY2hlLCBwYS5kdG9fcGFydGljdWxhcmVzLCB2bi5pZGNvbmNlc2lvbmFyaW8sIGlmIChwYS5pZHByb3ZpbmNpYTwxMCwgY29uY2F0KCIwIixwYS5pZHByb3ZpbmNpYSksIHBhLmlkcHJvdmluY2lhKSBpZHByb3ZpbmNpYSwgdC50eXBtYWtjZCBtYXJjYV9pZCcpCi8vICAgIC0+ZnJvbShDb25zdGFudHM6OkFVVE9ERVNDVUVOVE9fVEFCTEUgLiAnLnZlaGljdWxvc19udWV2b3Mgdm4sICcgLiBDb25zdGFudHM6OkFVVE9ERVNDVUVOVE9fVEFCTEUgLiAnLnByZWNpb3NfYXV0b2Rlc2N1ZW50byBwYSwgJyAuIENvbnN0YW50czo6RVVST1RBWF9UQUJMRSAuICcudHlwZSB0JykKLy8gICAgLT53aGVyZSgicGEuaWR2ZXJzaW9uPXQudHlwbmF0Y29kZSBhbmQgdm4uaWRudWV2bz1wYS5pZG51ZXZvIGFuZCB0LnR5cG5hdGNvZGU9OmlkdmVyc2lvbiIsIGFycmF5KAovLyAgICAgICAgJzppZHZlcnNpb24nID0+ICR0aGlzLT5leHRlcm5hbF9kYXRhWydpZHJ0ZCddLAovLyAgICApKQovLyAgICAtPm9yZGVyKCdwcmVjaW9fYXV0b2Rlc2N1ZW50bycpCi8vICAgIC8vLT5saW1pdCgnMScpCi8vICAgIC0+cXVlcnlBbGwoKTsKCi8vIFRPRE8oUGFibG8pOiBhZGQgbWFyY2EgeSBtb2RlbG8K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIFRPRE8ocGFibG8p</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXREYXRlVG9TZXJpYWxpemVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkb3V0cHV0ID0gJGRhdGVIZWxwZXItPmZyb21EYXRlVGltZVRvU3VnYXJEYXRlVGltZVJlcXVlc3QoJGRhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgUmVzb3VyY2VOb3RGb3VuZEV4Y2VwdGlvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vLT5zZWxlY3QoJ3ByZWNpb19hdXRvZGVzY3VlbnRvLHBhLmlkdmVyc2lvbiBpZHZlaGljbGUsdm4uaWRudWV2byBpZGNvY2hlLCBwYS5kdG9fcGFydGljdWxhcmVzLCB2bi5pZGNvbmNlc2lvbmFyaW8sIGlmIChwYS5pZHByb3ZpbmNpYTwxMCwgY29uY2F0KCIwIixwYS5pZHByb3ZpbmNpYSksIHBhLmlkcHJvdmluY2lhKSBpZHByb3ZpbmNpYSwgdC50eXBtYWtjZCBtYXJjYV9pZCcpCi8vICAgIC0+ZnJvbShDb25zdGFudHM6OkFVVE9ERVNDVUVOVE9fVEFCTEUgLiAnLnZlaGljdWxvc19udWV2b3Mgdm4sICcgLiBDb25zdGFudHM6OkFVVE9ERVNDVUVOVE9fVEFCTEUgLiAnLnByZWNpb3NfYXV0b2Rlc2N1ZW50byBwYSwgJyAuIENvbnN0YW50czo6RVVST1RBWF9UQUJMRSAuICcudHlwZSB0JykKLy8gICAgLT53aGVyZSgicGEuaWR2ZXJzaW9uPXQudHlwbmF0Y29kZSBhbmQgdm4uaWRudWV2bz1wYS5pZG51ZXZvIGFuZCB0LnR5cG5hdGNvZGU9OmlkdmVyc2lvbiIsIGFycmF5KAovLyAgICAgICAgJzppZHZlcnNpb24nID0+ICR0aGlzLT5leHRlcm5hbF9kYXRhWydpZHJ0ZCddLAovLyAgICApKQovLyAgICAtPm9yZGVyKCdwcmVjaW9fYXV0b2Rlc2N1ZW50bycpCi8vICAgIC8vLT5saW1pdCgnMScpCi8vICAgIC0+cXVlcnlBbGwoKTsKCi8vIFRPRE8oUGFibG8pOiBhZGQgbWFyY2EgeSBtb2RlbG8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5vcmRlckJ5KCdyZXF1ZXN0LmNvY2hlc0lkJywgJ0FTQycpOyAvLyBUT0RPKFBhYmxvKTogYm9ycmFyCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmluZERpc2NvdW50QnlWZXJzaW9uSWRBbmREZWFsZXJJZE9yRmFpbCgpIG1ldGhvZC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5vcmRlckJ5KCdyZXF1ZXN0LmNvY2hlc0lkJywgJ0FTQycpOyAvLyBUT0RPKFBhYmxvKTogYm9ycmFyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0ZSA9IG5ldyBcRGF0ZVRpbWUoc2VsZjo6RVVST1RBWF9JTlNUQVVSQVRJT05fRklSU1RfU09MSUNJVFVEX0lEKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgY29uc3QgRVVST1RBWF9JTlNUQVVSQVRJT05fREFURSA9ICcyMDExLTEyLTIzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZGF0ZSA9IG5ldyBcRGF0ZVRpbWUoc2VsZjo6RVVST1RBWF9JTlNUQVVSQVRJT05fRklSU1RfU09MSUNJVFVEX0lEKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgY29uc3QgRVVST1RBWF9JTlNUQVVSQVRJT05fREFURSA9ICcyMDExLTEyLTIzJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmICghJHRoaXMtPmlzRGF0ZSgkZGF0ZSkpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -3474,7 +3484,6 @@
         <entry encoding="base64">XDxnZXREYXRlVG9TZXJpYWxpemVcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>27</entry>
         <entry>62</entry>
         <entry>41</entry>
         <entry>19</entry>
@@ -3491,8 +3500,9 @@
         <entry>x</entry>
         <entry>q</entry>
         <entry>128</entry>
-        <entry>vs</entry>
         <entry>w</entry>
+        <entry>313</entry>
+        <entry>vs</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
