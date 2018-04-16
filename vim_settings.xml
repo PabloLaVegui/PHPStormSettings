@@ -393,7 +393,7 @@
         <mark key="^" line="10" column="53" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.eurotax.Version.dcm.yml" timestamp="1523882175493">
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.eurotax.Version.dcm.yml" timestamp="1523882975404">
         <mark key="[" line="28" column="18" />
         <mark key="]" line="28" column="21" />
         <mark key="^" line="28" column="21" />
@@ -685,8 +685,11 @@
       <file name="/Dummy.txt" timestamp="1523874848907">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/DoctrineVersionRepository.php" timestamp="1523882321994">
-        <mark key="[" line="39" column="5" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/DoctrineVersionRepository.php" timestamp="1523883478712">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/application/UseCases/requests/CreateRequestUsecaseTest.php" timestamp="1521560054294">
         <mark key="[" line="86" column="26" />
@@ -712,6 +715,7 @@
         <mark key="^" line="45" column="16" />
         <mark key="." line="45" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/DirectDealerDiscount.php" timestamp="1523882911241" />
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/eurotax/FuelTypeTransformer.php" timestamp="1519993375704">
         <mark key="[" line="6" column="42" />
         <mark key="]" line="6" column="42" />
@@ -1049,12 +1053,12 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/discounts/DoctrineDealerDiscountRepository.php" timestamp="1523881576141">
-        <mark key="'" line="72" column="5" />
-        <mark key="[" line="92" column="17" />
-        <mark key="]" line="92" column="16" />
-        <mark key="." line="92" column="16" />
-        <mark key="^" line="92" column="16" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/discounts/DoctrineDealerDiscountRepository.php" timestamp="1523883616829">
+        <mark key="'" line="87" column="18" />
+        <mark key="[" line="71" column="35" />
+        <mark key="]" line="71" column="35" />
+        <mark key="." line="71" column="35" />
+        <mark key="^" line="96" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/views/wUserInactivedActions.php" timestamp="1505812828380">
         <mark key="[" line="8" column="132" />
@@ -1473,7 +1477,7 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="12" column="56" />
       </file>
-      <file name="/PHP Console" timestamp="1523880868904">
+      <file name="/PHP Console" timestamp="1523883484727">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1634,6 +1638,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/application/dependencies/api.php" timestamp="1523451107711">
+        <mark key="'" line="28" column="43" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/mizonaDesign/passwordmodifier.js" timestamp="1511267747617">
         <mark key="[" line="21" column="49" />
@@ -3361,9 +3371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" />
-      <jump line="418" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" />
-      <jump line="123" column="25" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.clients.ClientEntity.dcm.yml" />
       <jump line="203" column="6" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" />
       <jump line="397" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/clients/ClientEntity.php" />
       <jump line="49" column="3" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/clients/DoctrineClientProvider.php" />
@@ -3461,46 +3468,49 @@
       <jump line="72" column="5" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/discounts/DoctrineDealerDiscountRepository.php" />
       <jump line="34" column="32" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Version.php" />
       <jump line="103" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Version.php" />
+      <jump line="46" column="55" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/discounts/DoctrineDealerDiscountRepository.php" />
+      <jump line="87" column="18" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/discounts/DoctrineDealerDiscountRepository.php" />
+      <jump line="0" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/DoctrineVersionRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>|void</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>|void</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXREYXRlVG9TZXJpYWxpemVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkc2VnbWVudElkOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">cHJpY2VFbnRpdHkg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZmluZEJ5VmVyc2lvbklkT3JGYWlsKCR2ZXJzaW9uSWQpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5lbnRpdHlNYW5hZ2VyLT4KICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRNYWtlSWQoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+bWFrZUlkOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZlcnNpb25JZDoKICAgICAgdHlwZTogc3RyaW5nCiAgICAgIGNvbHVtbjogaWR2ZXJzaW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogZ2V0IG9uZSAobm8gbGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICAkdmVyc2lvbiA9ICR0aGlzLT5kb2N0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRkaXNjb3VudExpc3QgPSAkcXVlcnktPmV4ZWN1dGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkbWFrZSA9ICQK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZGlzY291bnRMaXN0ID0gJHRoaXMtPmVudGl0eU1hbmFnZXIKICAgICAgICAgICAgLT5nZXRSZXBvc2l0b3J5KFByaWNlRW50aXR5OjpjbGFzcykKICAgICAgICAgICAgLT5maW5kT25lQnkoWwogICAgICAgICAgICAgICAgJ3ZlcnNpb25JZCcgPT4gJHZlcnNpb25JZCwKICAgICAgICAgICAgICAgICduZXdWZWhpY2xlRW50aXR5LmNsaWVudElkJyA9PiAkZGlyZWN0RGVhbGVySWQsCiAgICAgICAgICAgIF0pOwo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRNYWtlSWQoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+bWFrZUlkOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT4K</text>
+        <text encoding="base64">ICAgIHZlcnNpb25JZDoKICAgICAgdHlwZTogc3RyaW5nCiAgICAgIGNvbHVtbjogaWR2ZXJzaW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5pbm5lckpvaW4oJ3BlLm5ld1ZlaGljbGVFbnRpdHknLCAnbnYnKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogZ2V0IG9uZSAobm8gbGlzdCkK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
