@@ -524,7 +524,7 @@
         <mark key="^" line="19" column="20" />
         <mark key="." line="19" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/webuser/DoctrineWebUserRepository.php" timestamp="1524209848257">
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/webuser/DoctrineWebUserRepository.php" timestamp="1524218185845">
         <mark key="[" line="31" column="67" />
         <mark key="]" line="31" column="67" />
         <mark key="." line="31" column="67" />
@@ -596,7 +596,7 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/eurotax/DoctrineMakeRepositoryTest.php" timestamp="1524216772775">
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/eurotax/DoctrineMakeRepositoryTest.php" timestamp="1524217809221">
         <mark key="[" line="30" column="37" />
         <mark key="]" line="30" column="37" />
         <mark key="." line="30" column="37" />
@@ -686,7 +686,7 @@
         <mark key="^" line="24" column="6" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524214741901">
+      <file name="/Dummy.txt" timestamp="1524217200548">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/application/UseCases/requests/CreateRequestUsecaseTest.php" timestamp="1521560054294">
@@ -1866,12 +1866,12 @@
         <mark key="^" line="22" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/bootstrap.php" timestamp="1524216799162">
-        <mark key="[" line="12" column="48" />
-        <mark key="]" line="12" column="51" />
-        <mark key="." line="12" column="51" />
-        <mark key="^" line="12" column="51" />
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+        <mark key="^" line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/dependencies/test.php" timestamp="1524216833643">
+      <file name="$USER_HOME$/Projects/crmmigrations/application/dependencies/test.php" timestamp="1524218269265">
         <mark key="[" line="19" column="16" />
         <mark key="]" line="19" column="16" />
         <mark key="^" line="22" column="25" />
@@ -3085,12 +3085,12 @@
         <mark key="." line="9" column="49" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineTestCase.php" timestamp="1524216720420">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="24" column="33" />
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineTestCase.php" timestamp="1524217750359">
+        <mark key="'" line="19" column="13" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="20" column="3" />
       </file>
       <file name="$USER_HOME$/Code/phetris7/test/tetrimino/TetriminoOTest.php" timestamp="1484938913915">
         <mark key="[" line="47" column="49" />
@@ -3115,6 +3115,12 @@
         <mark key="]" line="12" column="20" />
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/TestCase.php" timestamp="1524218843935">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="5" />
+        <mark key="^" line="11" column="5" />
+        <mark key="." line="11" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/Payment/PaymentMethodFactory.php" timestamp="1513617133149">
         <mark key="[" line="8" column="14" />
@@ -3430,8 +3436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="21" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
-      <jump line="75" column="8" filename="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/helpers/SugarDateHelperTest.php" />
       <jump line="91" column="37" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
       <jump line="123" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" />
       <jump line="39" column="16" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/discounts/DoctrineDealerDiscountRepository.php" />
@@ -3530,46 +3534,48 @@
       <jump line="54" column="0" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineTestCase.php" />
       <jump line="28" column="30" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineTestCase.php" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineTestCase.php" />
+      <jump line="51" column="0" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineTestCase.php" />
+      <jump line="19" column="13" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineTestCase.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="-" type="4">
-        <text>nject</text>
+        <text>TestCase</text>
       </register>
       <register name="/" type="4">
         <text>particular</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NoZW1hVG9vbCA9IG5ldyBTY2hlbWFUb29sKCR0aGlzLT5lbnRpdHlNYW5hZ2VyKTsKICAgICAgICAkY2xhc3NlcyA9ICR0aGlzLT5lbnRpdHlNYW5hZ2VyLT5nZXRNZXRhZGF0YUZhY3RvcnkoKS0+Z2V0QWxsTWV0YWRhdGEoKTsKICAgICAgICAkc2NoZW1hVG9vbC0+Y3JlYXRlU2NoZW1hKCRjbGFzc2VzKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlIF9fRElSX18gLiAnLy4uLy4uLy4uLy4uLy4uL2FwcGxpY2F0aW9uL2RlcGVuZGVuY2llcy9jb21tb25zLnBocCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIEVudGl0eU1hbmFnZXIgKi8KKiBASW5qZWN0CiogQHZhciBGb3JtRmFjdG9yeUludGVyZmFjZQo=</text>
+        <text encoding="base64">dXNlIGNvY2hlc2NvbVxpbmZyYXN0cnVjdHVyZVxyZXBvc2l0b3JpZXNcZG9jdHJpbmVcRG9jdHJpbmVFbnRpdHlNYW5hZ2VyRmFjdG9yeTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNlIGNvY2hlc2NvbVxpbmZyYXN0cnVjdHVyZVxyZXBvc2l0b3JpZXNcZG9jdHJpbmVcRG9jdHJpbmVFbnRpdHlNYW5hZ2VyRmFjdG9yeTsKdXNlIERJXENvbnRhaW5lckJ1aWxkZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA7Cg==</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxPUk1FeGNlcHRpb247CnVzZSBEb2N0cmluZVxPUk1cRW50aXR5TWFuYWdlcjsKdXNlIERvY3RyaW5lXE9STVxUb29sc1xTY2hlbWFUb29sOwp1c2UgSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRzY2hlbWFUb29sLT5nZXRTY2hlbWFGcm9tTWV0YWRhdGEoJGNsYXNzZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIGNvY2hlc2NvbVxpbmZyYXN0cnVjdHVyZVxyZXBvc2l0b3JpZXNcZG9jdHJpbmVcdHlwZXNcZXVyb3RheFxNb2RlbERhdGVUeXBlOwo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZW50aXR5TWFuYWdlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIGNvY2hlc2NvbVxpbmZyYXN0cnVjdHVyZVxyZXBvc2l0b3JpZXNcZG9jdHJpbmVcdHlwZXNcZXVyb3RheFxNb2RlbElkVHlwZTsK</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIERJXENvbnRhaW5lcjsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQEluamVjdAogICAgICogQHZhciBFbnRpdHlNYW5hZ2VySW50ZXJmYWNlCiAgICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXERCQUxcVHlwZXNcVHlwZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
