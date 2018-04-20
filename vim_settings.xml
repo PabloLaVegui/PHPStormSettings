@@ -2151,8 +2151,8 @@
         <mark key="^" line="32" column="46" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" timestamp="1524207634589">
-        <mark key="'" line="111" column="13" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" timestamp="1524208688780">
+        <mark key="'" line="312" column="0" />
         <mark key="[" line="127" column="36" />
         <mark key="]" line="136" column="29" />
         <mark key="." line="136" column="29" />
@@ -2758,12 +2758,12 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/requests/RequestEntityTransformer.php" timestamp="1524206672213">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="43" column="44" />
-        <mark key="]" line="44" column="27" />
-        <mark key="^" line="44" column="27" />
-        <mark key="." line="44" column="27" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/requests/RequestEntityTransformer.php" timestamp="1524209247104">
+        <mark key="'" line="56" column="4" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="88" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/calendar-api/test/Infrastructure/Persistence/Doctrine/DoctrineTestCase.php" timestamp="1510758985046">
         <mark key="[" line="4" column="0" />
@@ -3053,11 +3053,11 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/crm/DoctrineVnRequestRepository.php" timestamp="1524206618929">
-        <mark key="[" line="37" column="24" />
-        <mark key="]" line="38" column="11" />
-        <mark key="^" line="38" column="11" />
-        <mark key="." line="38" column="11" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/crm/DoctrineVnRequestRepository.php" timestamp="1524209198833">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="55" column="22" />
+        <mark key="^" line="55" column="22" />
+        <mark key="." line="55" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/composer.json" timestamp="1523372612031">
         <mark key="[" line="23" column="42" />
@@ -3415,8 +3415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.requests.Request.dcm.yml" />
-      <jump line="94" column="30" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" />
       <jump line="48" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/helpers/SugarDateHelper.php" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/helpers/SugarDateHelper.php" />
       <jump line="225" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
@@ -3515,13 +3513,15 @@
       <jump line="210" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
       <jump line="54" column="19" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.requests.RequestEntity.dcm.yml" />
       <jump line="111" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
+      <jump line="312" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
+      <jump line="56" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/requests/RequestEntityTransformer.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>id_v</text>
@@ -3530,31 +3530,31 @@
         <text encoding="base64">ICAgICAgICAkZnVlbCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyICovCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gRGF0ZVRpbWUKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldERhdGUoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+ZGF0ZTsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gRGF0ZVRpbWUKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldE1vZGlmaWVkT24oKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+bW9kaWZpZWRPbjsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRPcmlnaW4oKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+b3JpZ2luOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdCA9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRPcmlnaW4oKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+b3JpZ2luOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlcXVlc3Q7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnlCdWlsZGVyID0gJHRoaXMtPmVudGl0eU1hbmFnZXIKICAgICAgICAgICAgLT5nZXRSZXBvc2l0b3J5KFJlcXVlc3RFbnRpdHk6OmNsYXNzKQogICAgICAgICAgICAtPmNyZWF0ZVF1ZXJ5QnVpbGRlcigncicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlcXVlc3QtPgo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
