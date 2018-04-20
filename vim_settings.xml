@@ -513,6 +513,10 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.requests.crm.VnRequest.dcm.yml" timestamp="1524206438793">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="75" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/exceptions/CannotSaveClassifiedException.php" timestamp="1513596317853">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="24" column="4" />
@@ -732,6 +736,13 @@
         <mark key="]" line="41" column="0" />
         <mark key="^" line="70" column="11" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.requests.RequestEntity.dcm.yml" timestamp="1524207161589">
+        <mark key="'" line="54" column="19" />
+        <mark key="[" line="41" column="12" />
+        <mark key="]" line="41" column="19" />
+        <mark key="." line="41" column="19" />
+        <mark key="^" line="41" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Classified/DeleteClassifiedUseCase.php" timestamp="1508836699885">
         <mark key="[" line="24" column="0" />
@@ -2140,6 +2151,13 @@
         <mark key="^" line="32" column="46" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" timestamp="1524207634589">
+        <mark key="'" line="111" column="13" />
+        <mark key="[" line="127" column="36" />
+        <mark key="]" line="136" column="29" />
+        <mark key="." line="136" column="29" />
+        <mark key="^" line="136" column="29" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Exception/Board/NotAllowedAddTetrominoException.php" timestamp="1499104667851">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="18" />
@@ -2740,11 +2758,12 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/requests/RequestEntityTransformer.php" timestamp="1523011992551">
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="35" column="21" />
-        <mark key="^" line="35" column="21" />
-        <mark key="." line="35" column="21" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/requests/RequestEntityTransformer.php" timestamp="1524206672213">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="43" column="44" />
+        <mark key="]" line="44" column="27" />
+        <mark key="^" line="44" column="27" />
+        <mark key="." line="44" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/calendar-api/test/Infrastructure/Persistence/Doctrine/DoctrineTestCase.php" timestamp="1510758985046">
         <mark key="[" line="4" column="0" />
@@ -3034,7 +3053,12 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/crm/DoctrineVnRequestRepository.php" timestamp="1524153637063" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/crm/DoctrineVnRequestRepository.php" timestamp="1524206618929">
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="38" column="11" />
+        <mark key="^" line="38" column="11" />
+        <mark key="." line="38" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/composer.json" timestamp="1523372612031">
         <mark key="[" line="23" column="42" />
         <mark key="]" line="23" column="64" />
@@ -3391,23 +3415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="6" filename="$USER_HOME$/Projects/crmmigrations/application/action/request/CreateRequestVNAction.php" />
-      <jump line="76" column="0" filename="$USER_HOME$/Projects/crmmigrations/vendor/cochescom/eventbus.coches.com/src/EBus/events/Requests/VNRequestCreatedByPrakton.php" />
-      <jump line="32" column="0" filename="$USER_HOME$/Projects/crmmigrations/vendor/cochescom/eventbus.coches.com/src/EBus/events/Requests/VNRequestCreatedByPrakton.php" />
-      <jump line="178" column="0" filename="$USER_HOME$/Projects/crmmigrations/vendor/cochescom/eventbus.coches.com/src/EBus/events/Requests/VNRequestCreatedByPrakton.php" />
-      <jump line="31" column="0" filename="$USER_HOME$/Projects/crmmigrations/vendor/cochescom/eventbus.coches.com/src/EBus/events/Requests/VNRequestCreatedByPrakton.php" />
-      <jump line="155" column="0" filename="$USER_HOME$/Projects/crmmigrations/vendor/cochescom/eventbus.coches.com/src/EBus/events/Requests/VNRequestCreatedByPrakton.php" />
-      <jump line="168" column="17" filename="$USER_HOME$/Projects/crmmigrations/vendor/cochescom/eventbus.coches.com/src/EBus/events/Requests/VNRequestCreatedByPrakton.php" />
-      <jump line="164" column="0" filename="$USER_HOME$/Projects/crmmigrations/vendor/cochescom/eventbus.coches.com/src/EBus/events/Requests/VNRequestCreatedByPrakton.php" />
-      <jump line="431" column="20" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" />
-      <jump line="28" column="43" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies/api.php" />
-      <jump line="644" column="23" filename="$USER_HOME$/Projects/crmmigrations/vendor/slim/slim/Slim/App.php" />
-      <jump line="371" column="20" filename="$USER_HOME$/Projects/crmmigrations/vendor/slim/slim/Slim/App.php" />
-      <jump line="28" column="19" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/DoctrineVNRequestsRepository.php" />
-      <jump line="130" column="16" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" />
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" />
-      <jump line="128" column="21" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" />
-      <jump line="215" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.requests.Request.dcm.yml" />
       <jump line="94" column="30" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" />
       <jump line="48" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/helpers/SugarDateHelper.php" />
@@ -3491,66 +3498,79 @@
       <jump line="2" column="44" filename="/rules.php" />
       <jump line="43" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" />
       <jump line="26" column="10" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" />
+      <jump line="45" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.requests.RequestEntity.dcm.yml" />
+      <jump line="42" column="24" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.requests.RequestEntity.dcm.yml" />
+      <jump line="58" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.requests.RequestEntity.dcm.yml" />
+      <jump line="39" column="14" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.requests.RequestEntity.dcm.yml" />
+      <jump line="53" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.requests.RequestEntity.dcm.yml" />
+      <jump line="62" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.requests.RequestEntity.dcm.yml" />
+      <jump line="18" column="14" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.requests.RequestEntity.dcm.yml" />
+      <jump line="12" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/requests/RequestEntityTransformer.php" />
+      <jump line="9" column="6" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
+      <jump line="72" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
+      <jump line="187" column="6" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
+      <jump line="186" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
+      <jump line="35" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
+      <jump line="210" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
+      <jump line="54" column="19" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.requests.RequestEntity.dcm.yml" />
+      <jump line="111" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>, $config</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFVVJPVEFYX0lOU1RBVVJBVElPTl9GSVJTVF9TT0xJQ0lUVURfSURcPg==</text>
+        <text>id_v</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3BvbnNlID0gJHRoaXMtPmJ1aWxkUmVzcG9uc2UoCiAgICAgICAgICAgICAgICBmYWxzZSwKICAgICAgICAgICAgICAgICdMbyBzZW50aW1vcywgaGVtb3MgZW5jb250cmFkbyB1biBlcnJvciwgcG9yIGZhdm9yIGludGVudGVsbyBkZSBudWV2byBtYXMgdGFyZGUnCiAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZnVlbCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnlCdWlsZGVyID0gJHRoaXMtPmVudGl0eU1hbmFnZXIKICAgICAgICAgICAgLT5nZXRSZXBvc2l0b3J5KFJlcXVlc3RFbnRpdHk6OmNsYXNzKQogICAgICAgICAgICAtPmNyZWF0ZVF1ZXJ5QnVpbGRlcigncicpOwo=</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIG1pem9uYVxBcHBsaWNhdGlvblxVc2VDYXNlc1xQb3NpdGlvbmluZ1xEZWxldGVDbGFzc2lmaWVkUG9zaXRpb25pbmdVc2VDYXNlOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0cmFuc2FjdGlvbk1pZGRsZXdhcmUgPSBuZXcgXG1pem9uYVxBcHBsaWNhdGlvblxNaWRkbGV3YXJlXFRyYW5zYWN0aW9uTWlkZGxld2FyZSgKLy8gICAgICAgICAgICBuZXcgXG1pem9uYVxBcHBsaWNhdGlvblxVc2VDYXNlc1xQb3NpdGlvbmluZ1xTYXZlQ2xhc3NpZmllZFBvc2l0aW9uaW5nVXNlQ2FzZSgpCi8vICAgICAgICApOwovLyAgICAgICAgJHRyYW5zYWN0aW9uTWlkZGxld2FyZS0+ZXhlY3V0ZSgpOwoK</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gRGF0ZVRpbWUKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldERhdGUoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+ZGF0ZTsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gRGF0ZVRpbWUKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldE1vZGlmaWVkT24oKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+bW9kaWZpZWRPbjsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRPcmlnaW4oKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+b3JpZ2luOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgVHJhbnNhY3Rpb25NaWRkbGV3YXJlICR1c2VDYXNlICovCg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRPcmlnaW4oKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+b3JpZ2luOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyYW1zTGlzdCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBUcmFuc2FjdGlvbk1pZGRsZXdhcmUgJHVzZUNhc2UgKi8K</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAkcXVlcnlCdWlsZGVyID0gJHRoaXMtPmVudGl0eU1hbmFnZXIKICAgICAgICAgICAgLT5nZXRSZXBvc2l0b3J5KFJlcXVlc3RFbnRpdHk6OmNsYXNzKQogICAgICAgICAgICAtPmNyZWF0ZVF1ZXJ5QnVpbGRlcigncicpOwo=</text>
+      </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFVVJPVEFYX0lOU1RBVVJBVElPTl9GSVJTVF9TT0xJQ0lUVURfSURcPg==</last-search>
+      <last-search>id_v</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFVVJPVEFYX0lOU1RBVVJBVElPTl9GSVJTVF9TT0xJQ0lUVURfSURcPg==</last-pattern>
+      <last-pattern>id_v</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxlcnJvcnNDb3VudFw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2NoZXNJZFw+</entry>
-        <entry>coches-nuevos-</entry>
-        <entry encoding="base64">XDxzZW5kUmVxdWVzdFNlbnRFdmVudFw+</entry>
-        <entry encoding="base64">XDxlcnJvcnNDb3VudFw+</entry>
         <entry encoding="base64">XDxMT0dfUEFUSFw+</entry>
         <entry encoding="base64">XDxnZXRUb3RhbEVsZW1lbnRzXD4=</entry>
         <entry encoding="base64">XDxpZFw+</entry>
@@ -3567,6 +3587,10 @@
         <entry encoding="base64">XDxnZXRVc2VyXD4=</entry>
         <entry encoding="base64">XDxEZWxldGVDbGFzc2lmaWVkUG9zaXRpb25pbmdVc2VDYXNlXD4=</entry>
         <entry encoding="base64">XDxFVVJPVEFYX0lOU1RBVVJBVElPTl9GSVJTVF9TT0xJQ0lUVURfSURcPg==</entry>
+        <entry>tipo</entry>
+        <entry>fecha</entry>
+        <entry>fuel</entry>
+        <entry>id_v</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
@@ -3585,10 +3609,10 @@
         <entry>313</entry>
         <entry>&quot;wa</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>88</entry>
         <entry>w</entry>
         <entry>vs</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
