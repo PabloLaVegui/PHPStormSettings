@@ -5,7 +5,12 @@
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
         <option name="certificatesPath" />
         <option name="pathMappings">
-          <list />
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4" />
+              <option name="virtualMachinePath" value="/usr/src/myapp" />
+            </DockerPathMappingImpl>
+          </list>
         </option>
       </configuration>
     </remote-server>
