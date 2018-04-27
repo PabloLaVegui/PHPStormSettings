@@ -1342,11 +1342,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Domain/Application/Map/CommandHandlerMap.php" timestamp="1524845733561">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="16" column="1" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Domain/Application/Map/CommandHandlerMap.php" timestamp="1524848142497">
+        <mark key="[" line="12" column="54" />
+        <mark key="]" line="12" column="54" />
+        <mark key="^" line="12" column="54" />
+        <mark key="." line="12" column="54" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris2D/Movement/Right.php" timestamp="1502472592637">
         <mark key="[" line="9" column="11" />
@@ -1469,6 +1469,12 @@
         <mark key="]" line="175" column="97" />
         <mark key="." line="175" column="97" />
         <mark key="^" line="175" column="97" />
+      </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/run.php" timestamp="1524848066287">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/Application/Support/CreateSupportRequest.php" timestamp="1508540780223">
         <mark key="[" line="32" column="0" />
@@ -2116,6 +2122,12 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/public/run.php" timestamp="1524848187379">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris/Tetromino/TetrominoFactory.php" timestamp="1501016750395">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="10" column="23" />
@@ -2424,7 +2436,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>: CommandHandler</text>
+        <text>: CommandHandler;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93U3VjY2Vzc0Zha2VGbGFzaFw+</text>
@@ -2436,31 +2448,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gQ29tbWFuZEhhbmRsZXIK</text>
+        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cQXBwbGljYXRpb25cSGFuZGxlclxDb21tYW5kSGFuZGxlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gQ29tbWFuZEhhbmRsZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cQXBwbGljYXRpb25cQ29tbWFuZFxIYW5kbGVyXENvbW1hbmRIYW5kbGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAqIEByZXR1cm4gQ29tbWFuZEhhbmRsZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICovCg==</text>
+        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cQXBwbGljYXRpb25cQ29tbWFuZFxIYW5kbGVyXENvbW1hbmRIYW5kbGVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBDb21tYW5kICRjb21tYW5kCiAgICAgKiBAcmV0dXJuIENvbW1hbmRIYW5kbGVyCg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gQ29tbWFuZEhhbmRsZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogSW50ZXJmYWNlIENvbW1hbmRIYW5kbGVyTG9jYXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -2512,10 +2524,10 @@
         <entry>wea</entry>
         <entry>q</entry>
         <entry>66</entry>
-        <entry>vs</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>wa</entry>
+        <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
