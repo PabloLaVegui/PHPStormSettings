@@ -912,11 +912,6 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/listClassified/ClassifiedFiltersForm.php" timestamp="1524755301598">
-        <mark key="'" line="153" column="26" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="62" column="4" />
-      </file>
       <file name="$USER_HOME$/Code/php-observer/src/Maquina.php" timestamp="1490723854098">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="8" />
@@ -1522,7 +1517,7 @@
         <mark key="." line="95" column="21" />
         <mark key="^" line="95" column="20" />
       </file>
-      <file name="/PHP Console" timestamp="1524831072788">
+      <file name="/PHP Console" timestamp="1524831237078">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -2276,11 +2271,6 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedListController.php" timestamp="1524753665823">
-        <mark key="'" line="64" column="8" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="56" column="37" />
-      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris/GeoMap/GeoMapTest.php" timestamp="1505771235784">
         <mark key="[" line="47" column="25" />
         <mark key="]" line="47" column="24" />
@@ -2582,9 +2572,9 @@
         <mark key="." line="48" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/PositioningListController.php" timestamp="1524815691515">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/core/Services/BoardChecker.php" timestamp="1499720281548">
         <mark key="[" line="1" column="40" />
@@ -3047,6 +3037,12 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/_rowPartActions.php" timestamp="1524831210095">
+        <mark key="[" line="51" column="63" />
+        <mark key="]" line="51" column="63" />
+        <mark key="^" line="51" column="63" />
+        <mark key="." line="51" column="63" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/types/eurotax/TransmissionType.php" timestamp="1519979874668">
         <mark key="[" line="9" column="9" />
         <mark key="]" line="9" column="20" />
@@ -3435,10 +3431,10 @@
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Renew/UpdateRenovationUseCase.php" timestamp="1524818603734" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" timestamp="1524476311026">
-        <mark key="[" line="430" column="4" />
-        <mark key="]" line="432" column="19" />
-        <mark key="^" line="432" column="19" />
-        <mark key="." line="432" column="19" />
+        <mark key="[" line="434" column="4" />
+        <mark key="]" line="436" column="19" />
+        <mark key="^" line="436" column="19" />
+        <mark key="." line="436" column="19" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-2d/test/Geo/GeoTest.php" timestamp="1500047694799">
         <mark key="[" line="32" column="35" />
@@ -3676,17 +3672,17 @@
       <jump line="23" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/authorizedDealer/home/home.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISRpc0ZyZWUpOiA/PgogICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSI8P3BocCBlY2hvICRwb3NpdGlvbkNsYXNzaWZpZWRzVXJsOyA/PiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPlBvc2ljaW9uYXIgYW51bmNpb3M8L3N0cm9uZz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgIDw/cGhwIGVuZGlmOyA/PgogICAgICAgICAgICAgICAgPC9saT4K</text>
+      <register name="&quot;" type="4">
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text>positioning-frequency</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3NpdGlvbkNsYXNzaWZpZWRzVXJsXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>PositioningForm[frequency]</text>
+        <text>$deletePositioningBaseUrl</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISRpc0ZyZWUpOiA/PgogICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSI8P3BocCBlY2hvICRwb3NpdGlvbkNsYXNzaWZpZWRzVXJsOyA/PiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPlBvc2ljaW9uYXIgYW51bmNpb3M8L3N0cm9uZz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgIDw/cGhwIGVuZGlmOyA/PgogICAgICAgICAgICAgICAgPC9saT4K</text>
