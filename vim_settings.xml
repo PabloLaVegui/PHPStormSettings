@@ -246,21 +246,11 @@
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Domain/Application/Command/Handler/CommandHandler.php" timestamp="1524839831892">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/domain/Model/User/User.php" timestamp="1507327602089">
         <mark key="[" line="1" column="34" />
         <mark key="]" line="1" column="39" />
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="39" />
-      </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Domain/Application/CommandBus/Bus/CommandBus.php" timestamp="1524906690060">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/Infrastructure/ObjectValues/Classified/DealerFilteredObjectValues.php" timestamp="1513070174912">
         <mark key="[" line="8" column="22" />
@@ -444,11 +434,6 @@
         <mark key="." line="17" column="37" />
         <mark key="^" line="17" column="37" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Application/FirstCommand.php" timestamp="1524844810904">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/crmmigrations/src/domain/infrastructure/providers/eurotax/VersionProvider.php" timestamp="1519892375064">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="21" />
@@ -503,7 +488,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524910859870">
+      <file name="/Dummy.txt" timestamp="1524923763242">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/enums/EurotaxCodesEnum.php" timestamp="1507544252977">
@@ -566,8 +551,17 @@
         <mark key="^" line="27" column="17" />
         <mark key="." line="10" column="41" />
       </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Domain/Application/CommandBus/PhetrisCommandBus/Map/ContainerCommandHandlerMap.php" timestamp="1524923873916">
+        <mark key="^" line="3" column="60" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/db/migrations/Version20171019181110.php" timestamp="1508436693127">
         <mark key="[" line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/dependencies/commandHandlerMap.php" timestamp="1524924454859">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Unit/Infrastructure/Persistence/Doctrine/Repository/DoctrineSupportRepositoryTest.php" timestamp="1513539283940">
         <mark key="[" line="146" column="0" />
@@ -1937,11 +1931,6 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/domain/Services/PositioningService.php" timestamp="1524663619500">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/App/Action/Support/CreateSupportRequestValidatorTest.php" timestamp="1512404388478">
         <mark key="[" line="1" column="34" />
         <mark key="]" line="1" column="37" />
@@ -2458,8 +2447,8 @@
       <jump line="16" column="0" filename="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/test/unit/Domain/Application/CommandBus/PhetrisCommandBus/Locator/ContainerCommandHandlerLocatorTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPmdldE1vY2tDbGFzcyhDb21tYW5kSGFuZGxlcjo6Y2xhc3MpOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0Q29tbWFuZEhhbmRsZXIoKSBtZXRob2QuCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHRoaXMtPmdldE1vY2tDbGFzcyhDb21tYW5kSGFuZGxlcjo6Y2xhc3MpOw==</text>
@@ -2471,34 +2460,34 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29udGFpbmVyTW9jay0+ZXhwZWN0cyhzZWxmOjpvbmNlKCkpCiAgICAgICAgICAgIC0+bWV0aG9kKCdoYXMnKQogICAgICAgICAgICAtPndpdGgoJGNvbW1hbmRIYW5kbGVyTmFtZSkKICAgICAgICAgICAgLT53aWxsUmV0dXJuKHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0Q29tbWFuZEhhbmRsZXIoKSBtZXRob2QuCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cQXBwbGljYXRpb25cQ29tbWFuZEJ1c1xIYW5kbGVyXENvbW1hbmRIYW5kbGVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhwZWN0RXhjZXB0aW9uKENvbW1hbmRIYW5kbGVyTm90Rm91bmRFeGNlcHRpb246OmNsYXNzKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoKENvbW1hbmQ6OmNsYXNzKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aWxsVGhyb3dFeGNlcHRpb24obmV3IENvbW1hbmRIYW5kbGVyTm90Rm91bmRFeGNlcHRpb24oKSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhwZWN0RXhjZXB0aW9uKENvbW1hbmRIYW5kbGVyTm90Rm91bmRFeGNlcHRpb246OmNsYXNzKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoKENvbW1hbmQ6OmNsYXNzKQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>56</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -2551,9 +2540,9 @@
         <entry>w</entry>
         <entry>vs</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>42</entry>
         <entry>56</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
