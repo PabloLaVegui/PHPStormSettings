@@ -97,11 +97,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/Dockerfile" timestamp="1525214223882">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="31" />
-        <mark key="^" line="3" column="31" />
-        <mark key="." line="3" column="31" />
+      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/Dockerfile" timestamp="1525215228354">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Domain/Exception/InvalidCommandException.php" timestamp="1524850546736">
         <mark key="[" line="9" column="38" />
@@ -804,11 +804,11 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Infrastructure/Board/Command/ApcBoardRecorder.php" timestamp="1525210575209">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="26" />
-        <mark key="^" line="13" column="26" />
+      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Infrastructure/Board/Command/ApcBoardRecorder.php" timestamp="1525215937825">
+        <mark key="[" line="13" column="44" />
+        <mark key="]" line="13" column="44" />
+        <mark key="^" line="13" column="44" />
+        <mark key="." line="13" column="44" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/test.php" timestamp="1524780598432">
         <mark key="[" line="2" column="25" />
@@ -2092,11 +2092,11 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Infrastructure/Board/Query/ApcBoardProvider.php" timestamp="1525211294252">
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="15" column="45" />
-        <mark key="^" line="15" column="45" />
-        <mark key="." line="15" column="45" />
+      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Infrastructure/Board/Query/ApcBoardProvider.php" timestamp="1525215624256">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="48" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Tetromino/TetrominoBuilder.php" timestamp="1499102370356">
         <mark key="[" line="8" column="1" />
@@ -2705,47 +2705,47 @@
       <jump line="18" column="24" filename="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Domain/Model/Board/RectangleBoard.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cQXBwbGljYXRpb25cQ29tbWFuZEJ1c1xIYW5kbGVyXEZpcnN0Q29tbWFuZEhhbmRsZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>apcu_add</text>
       </register>
       <register name="-" type="4">
-        <text>FirstCommandHandler</text>
+        <text>apcu_add</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93U3VjY2Vzc0Zha2VGbGFzaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JGNvbnRhaW5lci0+c2V0KEZpcnN0Q29tbWFuZEhhbmRsZXI6OmNsYXNzLCBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gbmV3IEZpcnN0Q29tbWFuZEhhbmRsZXIoKTsKfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcGN1X3N0b3JlKCR0aGlzLT5nZXRTdG9yZUtleSgkYm9hcmQpLCAkYm9hcmQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cQXBwbGljYXRpb25cQ29tbWFuZEJ1c1xIYW5kbGVyXEZpcnN0Q29tbWFuZEhhbmRsZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChhcGN1X2ZldGNoKCRib2FyZElkLT5nZXRIYXNoKCkpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cQXBwbGljYXRpb25cQ29tbWFuZEJ1c1xIYW5kbGVyXEZpcnN0Q29tbWFuZEhhbmRsZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JGNvbnRhaW5lci0+c2V0KEZpcnN0Q29tbWFuZEhhbmRsZXI6OmNsYXNzLCBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gbmV3IEZpcnN0Q29tbWFuZEhhbmRsZXIoKTsKfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JGNvCg==</text>
+        <text encoding="base64">JGNvbnRhaW5lci0+c2V0KEZpcnN0Q29tbWFuZEhhbmRsZXI6OmNsYXNzLCBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gbmV3IEZpcnN0Q29tbWFuZEhhbmRsZXIoKTsKfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEZpcnN0Q29tbWFuZDo6Y2xhc3MgPT4gRmlyc3RDb21tYW5kSGFuZGxlcjo6Y2xhc3MsCg==</text>
+        <text encoding="base64">JGNvCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIEZpcnN0Q29tbWFuZDo6Y2xhc3MgPT4gRmlyc3RDb21tYW5kSGFuZGxlcjo6Y2xhc3MsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZpcnN0Q29tbWFuZDo6Y2xhc3MgPT4gRmlyc3RDb21tYW5kSGFuZGxlcjo6Y2xhc3MsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cQXBwbGljYXRpb25cQ29tbWFuZEJ1c1xIYW5kbGVyXEZpcnN0Q29tbWFuZEhhbmRsZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cQXBwbGljYXRpb25cQ29tbWFuZEJ1c1xDb21tYW5kXEZpcnN0Q29tbWFuZDsK</text>
+        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cQXBwbGljYXRpb25cQ29tbWFuZEJ1c1xIYW5kbGVyXEZpcnN0Q29tbWFuZEhhbmRsZXI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -2799,8 +2799,8 @@
         <entry>vs</entry>
         <entry>wa\</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
