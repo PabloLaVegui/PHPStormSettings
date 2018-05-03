@@ -2431,6 +2431,12 @@
         <mark key="." line="26" column="33" />
         <mark key="^" line="26" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/vendor/bshaffer/oauth2-server-php/src/OAuth2/Server.php" timestamp="1525356631480">
+        <mark key="'" line="422" column="20" />
+        <mark key="[" line="424" column="0" />
+        <mark key="]" line="424" column="0" />
+        <mark key="." line="424" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/AuthorizedDealerAccessDataViewDTO.php" timestamp="1508318565584">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="9" column="18" />
@@ -3563,9 +3569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/PositioningListController.php" />
-      <jump line="30" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/PositioningListController.php" />
-      <jump line="101" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/PositioningListController.php" />
       <jump line="2" column="44" filename="/rules.php" />
       <jump line="43" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" />
       <jump line="26" column="10" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" />
@@ -3663,63 +3666,65 @@
       <jump line="86" column="23" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/listClassified.php" />
       <jump line="58" column="35" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/listClassified.php" />
       <jump line="73" column="62" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/listClassified.php" />
+      <jump line="47" column="6" filename="$USER_HOME$/Projects/crmmigrations/vendor/bshaffer/oauth2-server-php/src/OAuth2/Server.php" />
+      <jump line="148" column="87" filename="$USER_HOME$/Projects/crmmigrations/vendor/bshaffer/oauth2-server-php/src/OAuth2/Server.php" />
+      <jump line="422" column="20" filename="$USER_HOME$/Projects/crmmigrations/vendor/bshaffer/oauth2-server-php/src/OAuth2/Server.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGNsYXNzPSJwb3NpdGlvbmluZy1lbGVtZW50Ig==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzcG9uc2UtPl90b1N0cmluZygpKTtkaWU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGNsYXNzPSJwb3NpdGlvbmluZy1lbGVtZW50Ig==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaXN0Q2xhc3NpZmllZFw+</text>
+        <text>verify</text>
       </register>
       <register name="0" type="4">
         <text>.positioning-element</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICQoJyNvcGVuLXBvc2l0aW9uaW5nLW1vZGFsJykuc2hvdygpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzcG9uc2UtPl90b1N0cmluZygpKTtkaWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICQoJ3Bvc2l0aW9uaW5nX2FsbAo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICQoJyNvcGVuLXBvc2l0aW9uaW5nLW1vZGFsJykuc2hvdygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICQoJ3Bvc2l0aW9uaW5nX2FsbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ2V0TnVtYmVyT2ZDbGFzc2lmaWVkc1Bvc2l0aW9uYWJsZXMoKSA+IDApIHsKICAgICAgICAgICAgJCgnI29wZW4tcG9zaXRpb25pbmctbW9kYWwnKS5zaG93KCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgJCgnI29wZW4tcG9zaXRpb25pbmctbW9kYWwnKS5oaWRlKCk7CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChnZXROdW1iZXJPZkNsYXNzaWZpZWRzVG9Qb3NpdGlvbigpID4gMCkgewogICAgICAgICQoJyNvcGVuLXBvc2l0aW9uaW5nLW1vZGFsJykuc2hvdygpOwogICAgfSBlbHNlIHsKICAgICAgICAkKCcjb3Blbi1wb3NpdGlvbmluZy1tb2RhbCcpLmhpZGUoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZ2V0TnVtYmVyT2ZDbGFzc2lmaWVkc1Bvc2l0aW9uYWJsZXMoKSA+IDApIHsKICAgICAgICAgICAgJCgnI29wZW4tcG9zaXRpb25pbmctbW9kYWwnKS5zaG93KCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgJCgnI29wZW4tcG9zaXRpb25pbmctbW9kYWwnKS5oaWRlKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQHZhciBzdHJpbmcgJGJhbGFuY2VVcmwK</text>
+        <text encoding="base64">ICAgIGlmIChnZXROdW1iZXJPZkNsYXNzaWZpZWRzVG9Qb3NpdGlvbigpID4gMCkgewogICAgICAgICQoJyNvcGVuLXBvc2l0aW9uaW5nLW1vZGFsJykuc2hvdygpOwogICAgfSBlbHNlIHsKICAgICAgICAkKCcjb3Blbi1wb3NpdGlvbmluZy1tb2RhbCcpLmhpZGUoKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaXN0Q2xhc3NpZmllZFw+</last-search>
+      <last-search>verify</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaXN0Q2xhc3NpZmllZFw+</last-pattern>
+      <last-pattern>verify</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxlcnJvcnNDb3VudFw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRFbGVtZW50c1w+</entry>
         <entry encoding="base64">XDxnZXREYXRlVG9TZXJpYWxpemVcPg==</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry encoding="base64">XDxnZXRVc2VyXD4=</entry>
@@ -3739,6 +3744,7 @@
         <entry encoding="base64">XDxnZXRQb3NpdGlvbmluZ0NsYXNzaWZpZWRMaXN0XD4=</entry>
         <entry encoding="base64">XDxwb3NpdGlvbkNsYXNzaWZpZWRzVXJsXD4=</entry>
         <entry encoding="base64">XDxsaXN0Q2xhc3NpZmllZFw+</entry>
+        <entry>verify</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+1w</entry>
