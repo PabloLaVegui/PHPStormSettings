@@ -103,11 +103,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/Dockerfile" timestamp="1525216660051">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="79" />
-        <mark key="^" line="5" column="79" />
-        <mark key="." line="5" column="79" />
+      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/Dockerfile" timestamp="1525446910080">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Domain/Exception/InvalidCommandException.php" timestamp="1524850546736">
         <mark key="[" line="9" column="38" />
@@ -1690,12 +1690,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/README.md" timestamp="1525386319645">
+      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/README.md" timestamp="1525447303356">
         <mark key="'" line="18" column="22" />
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="12" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="95" />
         <mark key="^" line="2" column="12" />
-        <mark key="." line="2" column="12" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/generic/config/main.php" timestamp="1509625542348">
         <mark key="[" line="12" column="55" />
@@ -2377,11 +2377,10 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/composer.json" timestamp="1525386671411">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="13" column="46" />
-        <mark key="^" line="13" column="46" />
-        <mark key="." line="13" column="46" />
+      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/composer.json" timestamp="1525446092070">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/LICENSE" timestamp="1499506755163">
         <mark key="[" line="2" column="19" />
@@ -2830,43 +2829,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text>$ docker run --rm --interactive --tty --volume $PWD:/app --volume $COMPOSER_HOME:/tmp</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>$ docker run --rm --interactive --tty --volume $PWD:/app --volume $COMPOSER_HOME:/tmp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93U3VjY2Vzc0Zha2VGbGFzaFw+</text>
       </register>
       <register name="0" type="4">
-        <text>^7.2</text>
+        <text>$ docker run -it --rm --name phetris -v &quot;$PWD&quot;:/usr/src/myapp -w /usr/src/myapp phetris-php php</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KlRPRE8qOiBNb2RpZmljYXIgbGEgZG9jdSBjdWFuZG8gc2UgYcOxYWRhIGVsIERvY2tlcmZpbGUgYWwgcmVwbyBwYXJhIGNyZWFyIGxhIGltYWdlbiB5IGx1ZWdvIGxhcyBkaWZlcmVuY2lhcyBhbCBjb3JyZXJsYQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFJVTiBhcHQtZ2V0IHVwZGF0ZSAmJiBcCiAgICAgICAgIGFwdC1nZXQgaW5zdGFsbCAteSBcCiAgICAgICAgICAgICB6bGliMWctZGV2IFwKICAgICAgICAgICAgICYmIGRvY2tlci1waHAtZXh0LWluc3RhbGwgemlwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICYmIHBlY2wgaW5zdGFsbCB6aXAgXAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVjb3JkZXItPnNhdmUoJGJvYXJkKTsK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGFkZCBjb21wb3NlciB0byBEb2NrZXJmaWxlIHRvIHVzZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KlRPRE8qOiBNb2RpZmljYXIgbGEgZG9jdSBjdWFuZG8gc2UgYcOxYWRhIGVsIERvY2tlcmZpbGUgYWwgcmVwbyBwYXJhIGNyZWFyIGxhIGltYWdlbiB5IGx1ZWdvIGxhcyBkaWZlcmVuY2lhcyBhbCBjb3JyZXJsYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBTdGFuZGFyZEJvYXJkICRyZXN1bHRCb2FyZCAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0Qm9hcmQgPSBhcGN1X2ZldGNoKCRib2FyZEhhc2hJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBjdV9mZXRjaCgkYm9hcmRIYXNoSWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVjb3JkZXItPnNhdmUoJGJvYXJkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0U2FtZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
