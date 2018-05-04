@@ -15,12 +15,12 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Application/ClassicPhetris.php" timestamp="1525384146302">
-        <mark key="'" line="38" column="13" />
-        <mark key="[" line="40" column="10" />
-        <mark key="]" line="41" column="7" />
-        <mark key="." line="41" column="7" />
-        <mark key="^" line="41" column="7" />
+      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Application/ClassicPhetris.php" timestamp="1525450131998">
+        <mark key="'" line="32" column="13" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="35" column="7" />
       </file>
       <file name="/a.dummy" timestamp="1525209550688">
         <mark key="[" line="0" column="0" />
@@ -2828,8 +2828,8 @@
       <jump line="39" column="2" filename="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/dependencies/dependencies.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$ docker run --rm --interactive --tty --volume $PWD:/app --volume $COMPOSER_HOME:/tmp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cSW5mcmFzdHJ1Y3R1cmVcRXhjZXB0aW9uXFJlc291cmNlTm90Rm91bmRFeGNlcHRpb247CnVzZSBMYXZlZ3VpXFBoZXRyaXNcRG9tYWluXE1vZGVsXEJvYXJkXEJvYXJkOwp1c2UgTGF2ZWd1aVxQaGV0cmlzXERvbWFpblxNb2RlbFxCb2FyZFxTdGFuZGFyZEJvYXJkOwp1c2UgTGF2ZWd1aVxQaGV0cmlzXEluZnJhc3RydWN0dXJlXEJvYXJkXFF1ZXJ5XEFwY3VCb2FyZFByb3ZpZGVyOwo=</text>
       </register>
       <register name="-" type="4">
         <text>$ docker run --rm --interactive --tty --volume $PWD:/app --volume $COMPOSER_HOME:/tmp</text>
@@ -2841,31 +2841,31 @@
         <text>$ docker run -it --rm --name phetris -v &quot;$PWD&quot;:/usr/src/myapp -w /usr/src/myapp phetris-php php</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cSW5mcmFzdHJ1Y3R1cmVcRXhjZXB0aW9uXFJlc291cmNlTm90Rm91bmRFeGNlcHRpb247CnVzZSBMYXZlZ3VpXFBoZXRyaXNcRG9tYWluXE1vZGVsXEJvYXJkXEJvYXJkOwp1c2UgTGF2ZWd1aVxQaGV0cmlzXERvbWFpblxNb2RlbFxCb2FyZFxTdGFuZGFyZEJvYXJkOwp1c2UgTGF2ZWd1aVxQaGV0cmlzXEluZnJhc3RydWN0dXJlXEJvYXJkXFF1ZXJ5XEFwY3VCb2FyZFByb3ZpZGVyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFJVTiBhcHQtZ2V0IHVwZGF0ZSAmJiBcCiAgICAgICAgIGFwdC1nZXQgaW5zdGFsbCAteSBcCiAgICAgICAgICAgICB6bGliMWctZGV2IFwKICAgICAgICAgICAgICYmIGRvY2tlci1waHAtZXh0LWluc3RhbGwgemlwCg==</text>
+        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cQXBwbGljYXRpb25cQm9hcmRcUXVlcnlcQm9hcmRRdWVyeTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICYmIHBlY2wgaW5zdGFsbCB6aXAgXAo=</text>
+        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cQXBwbGljYXRpb25cQm9hcmRcQ29tbWFuZFxBZGRUZXRyb21pbm9Ub0JvYXJkQ29tbWFuZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGFkZCBjb21wb3NlciB0byBEb2NrZXJmaWxlIHRvIHVzZToK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KlRPRE8qOiBNb2RpZmljYXIgbGEgZG9jdSBjdWFuZG8gc2UgYcOxYWRhIGVsIERvY2tlcmZpbGUgYWwgcmVwbyBwYXJhIGNyZWFyIGxhIGltYWdlbiB5IGx1ZWdvIGxhcyBkaWZlcmVuY2lhcyBhbCBjb3JyZXJsYQo=</text>
+        <text encoding="base64">ICAgIFJVTiBhcHQtZ2V0IHVwZGF0ZSAmJiBcCiAgICAgICAgIGFwdC1nZXQgaW5zdGFsbCAteSBcCiAgICAgICAgICAgICB6bGliMWctZGV2IFwKICAgICAgICAgICAgICYmIGRvY2tlci1waHAtZXh0LWluc3RhbGwgemlwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICYmIHBlY2wgaW5zdGFsbCB6aXAgXAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGFkZCBjb21wb3NlciB0byBEb2NrZXJmaWxlIHRvIHVzZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVjb3JkZXItPnNhdmUoJGJvYXJkKTsK</text>
+        <text encoding="base64">KlRPRE8qOiBNb2RpZmljYXIgbGEgZG9jdSBjdWFuZG8gc2UgYcOxYWRhIGVsIERvY2tlcmZpbGUgYWwgcmVwbyBwYXJhIGNyZWFyIGxhIGltYWdlbiB5IGx1ZWdvIGxhcyBkaWZlcmVuY2lhcyBhbCBjb3JyZXJsYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
