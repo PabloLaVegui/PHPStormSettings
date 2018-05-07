@@ -132,10 +132,11 @@
         <mark key="." line="5" column="6" />
         <mark key="^" line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Domain/Model/Board/Board.php" timestamp="1525287752083">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Domain/Model/Board/Board.php" timestamp="1525715065776">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+        <mark key="^" line="29" column="20" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/repositories/LocationRepository.php" timestamp="1509640306308">
         <mark key="[" line="50" column="14" />
@@ -533,7 +534,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525647073155">
+      <file name="/Dummy.txt" timestamp="1525714971264">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/enums/EurotaxCodesEnum.php" timestamp="1507544252977">
@@ -1271,11 +1272,11 @@
         <mark key="^" line="27" column="39" />
         <mark key="." line="31" column="33" />
       </file>
-      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/test/unit/Domain/Infrastructure/Printer/ConsoleBoard2DPrinterTest.php" timestamp="1525648014616">
-        <mark key="[" line="24" column="52" />
-        <mark key="]" line="24" column="53" />
-        <mark key="^" line="24" column="54" />
-        <mark key="." line="24" column="53" />
+      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/test/unit/Domain/Infrastructure/Printer/ConsoleBoard2DPrinterTest.php" timestamp="1525715207223">
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="17" />
+        <mark key="^" line="22" column="17" />
+        <mark key="." line="22" column="17" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Application/FirstCommandApp.php" timestamp="1524927492749">
         <mark key="[" line="4" column="0" />
@@ -1642,6 +1643,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="3" column="40" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Domain/Model/Value/GeoMap.php" timestamp="1525715249787">
+        <mark key="[" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/test/Application/Support/CreateSupportUseCaseTest.php" timestamp="1509320335739">
         <mark key="[" line="18" column="51" />
@@ -2866,10 +2870,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFBvc2l0aW9uMkQoMCwgMCksIG5ldyBQb3NpdGlvbjJEKDAsIDQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>new Position2D(0, 0), new Position2D(0, 2),</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93U3VjY2Vzc0Zha2VGbGFzaFw+</text>
@@ -2878,34 +2882,34 @@
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFBvc2l0aW9uMkQoMCwgMCksIG5ldyBQb3NpdGlvbjJEKDAsIDQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgb2Jfc3RhcnQoKTsKCiAgICAgICAgJHBhaW50ZXItPnBhaW50KCRib2FyZEFycmF5KTsKCiAgICAgICAgJG91dHB1dCA9IG9iX2dldF9jb250ZW50cygpOwoKICAgICAgICBvYl9lbmRfY2xlYW4oKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkZXhwZWN0ZWQsICRvdXRwdXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkb3V0cHV0ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFBvc2l0aW9uMkQoMSwgMSksIG5ldyBQb3NpdGlvbjJEKDEsIDEpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OnNldFVwKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgXW5ldyBQb3NpdGlvbjJEKDAsIDApLCBuZXcgUG9zaXRpb24yRCgwLCAyKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgb2Jfc3RhcnQoKTsKCiAgICAgICAgJHBhaW50ZXItPnBhaW50KCRib2FyZEFycmF5KTsKCiAgICAgICAgJG91dHB1dCA9IG9iX2dldF9jb250ZW50cygpOwoKICAgICAgICBvYl9lbmRfY2xlYW4oKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkZXhwZWN0ZWQsICRvdXRwdXQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcHJpbnQoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICAkb3V0cHV0ID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OnNldFVwKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -2959,8 +2963,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>sp</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>vs</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
