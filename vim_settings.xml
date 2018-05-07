@@ -319,11 +319,11 @@
         <mark key="^" line="1" column="35" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/scripts/sitemap/sitemap_cron.sh" timestamp="1525702752217">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/scripts/sitemap/sitemap_cron.sh" timestamp="1525704706272">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
         <mark key="^" line="18" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/environments/env.devel" timestamp="1523955939607">
         <mark key="[" line="19" column="0" />
@@ -679,6 +679,7 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/scripts/sitemap/config.xml" timestamp="1525704669901" />
       <file name="$USER_HOME$/Code/php-observer/src/StatusChangeStorerService.php" timestamp="1490733840247">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="7" column="32" />
@@ -2111,6 +2112,9 @@
         <mark key="." line="67" column="25" />
         <mark key="^" line="67" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/scripts/sitemap/sitemap_gen.py" timestamp="1525703805676">
+        <mark key="'" line="2173" column="2" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Classic2DPhetris/Classic2DPhetris.php" timestamp="1505928266834">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -3463,7 +3467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="44" filename="/rules.php" />
       <jump line="43" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" />
       <jump line="26" column="10" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" />
       <jump line="45" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.requests.RequestEntity.dcm.yml" />
@@ -3563,46 +3566,47 @@
       <jump line="47" column="6" filename="$USER_HOME$/Projects/crmmigrations/vendor/bshaffer/oauth2-server-php/src/OAuth2/Server.php" />
       <jump line="148" column="87" filename="$USER_HOME$/Projects/crmmigrations/vendor/bshaffer/oauth2-server-php/src/OAuth2/Server.php" />
       <jump line="422" column="20" filename="$USER_HOME$/Projects/crmmigrations/vendor/bshaffer/oauth2-server-php/src/OAuth2/Server.php" />
+      <jump line="2173" column="2" filename="$USER_HOME$/Projects/coches.com/coches_yii/scripts/sitemap/sitemap_gen.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAiJHtCQVNIX1NPVVJDRSUvKn0iCg==</text>
+        <text encoding="base64">CgojcHl0aG9uIC4vJEJBU0hfU09VUkNFL3NpdGVtYXBfZ2VuLnB5IC0tY29uZmlnPWNvbmZpZy54bWwKI3B5dGhvbiAuL3NpdGVtYXBfZ2VuLnB5IC0tY29uZmlnPWNvbmZpZzIueG1sCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">X19ESVJfXyAuICcvJyAuIA==</text>
+        <text>&quot;${BASH_SOURCE%/*}&quot;/</text>
       </register>
       <register name="/" type="4">
         <text>verify</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZnAgPSBmb3BlbihfX0RJUl9fIC4gJy8nIC4gJHRoaXMtPmZpY2hlcm9fdm4sICJ3Iik7Cg==</text>
+        <text encoding="base64">cHl0aG9uICIke0JBU0hfU09VUkNFJS8qfSIvc2l0ZW1hcF9nZW4ucHkgLS1jb25maWc9Y29uZmlnMi54bWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAiJHtCQVNIX1NPVVJDRSUvKn0iCg==</text>
+        <text encoding="base64">CgojcHl0aG9uIC4vJEJBU0hfU09VUkNFL3NpdGVtYXBfZ2VuLnB5IC0tY29uZmlnPWNvbmZpZy54bWwKI3B5dGhvbiAuL3NpdGVtYXBfZ2VuLnB5IC0tY29uZmlnPWNvbmZpZzIueG1sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRmcCA9IGZvcGVuKF9fRElSX18gLiAnLycgLiAkdGhpcy0+ZmljaGVyb192biwgInciKTsKICAgICAgICAkZnAgPSBmb3BlbigkdGhpcy0+ZmljaGVyb192biwgInciKTsKICAgICAgICAkbGluZWEgPSAncXVlcGFjaGEnOwogICAgICAgIGZ3cml0ZSgkZnAsICRsaW5lYSk7CiAgICAgICAgZmNsb3NlKCRmcCk7Cgo=</text>
+        <text encoding="base64">I3B5dGhvbiAiJHtCQVNIX1NPVVJDRSUvKn0iL3NpdGVtYXBfZ2VuLnB5IC0tY29uZmlnPWNvbmZpZzIueG1sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIFBIUF9FT0wgLiAnZGlyX18nIC4gX19ESVJfXyAuIFBIUF9FT0w7Cg==</text>
+        <text encoding="base64">I3B5dGhvbiAiJHtCQVNIX1NPVVJDRSUvKn0iL3NpdGVtYXBfZ2VuLnB5IC0tY29uZmlnPWNvbmZpZy54bWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2QgIiR7QkFTSF9TT1VSQ0UlLyp9Igo=</text>
+        <text encoding="base64">IyIke0JBU0hfU09VUkNFJS8qfSIvLi4vLi4vcHJvdGVjdGVkL3lpaWMgY3JvbiBnZW5lcmFybGlzdGFkb3NzaXRlbWFwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Iy92YXIvd3d3L2NvY2hlcy5jb20vY29jaGVzX3lpaS9wcm90ZWN0ZWQvLi95aWljIGNyb24gZ2VuZXJhcmxpc3RhZG9zc2l0ZW1hcAoKIyBHZW5lcmF0ZSB1cmxzIGZpbGVzCiMuLyRCQVNIX1NPVVJDRS8uLi8uLi9wcm90ZWN0ZWQveWlpYyBjcm9uIGdlbmVyYXJsaXN0YWRvc3NpdGVtYXAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Iy4vLi4vLi4vcHJvdGVjdGVkL3lpaWMgY3JvbiBnZW5lcmFybGlzdGFkb3NzaXRlbWFwCg==</text>
+        <text encoding="base64">ZWNobyAiJHtCQVNIX1NPVVJDRSUvKn0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2NkICIke0JBU0hfU09VUkNFJS8qfSIgfHwgZXhpdAo=</text>
+        <text encoding="base64">ZWNobyAiJHtCQVNIX1NPVVJDRSUvKn0iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I3BocCAtZiBsaXN0YXNfc2l0ZW1hcC5waHAK</text>
+        <text encoding="base64">Ly8gICAgICAgICRmcCA9IGZvcGVuKF9fRElSX18gLiAnLycgLiAkdGhpcy0+ZmljaGVyb192biwgInciKTsKICAgICAgICAkZnAgPSBmb3BlbigkdGhpcy0+ZmljaGVyb192biwgInciKTsKICAgICAgICAkbGluZWEgPSAncXVlcGFjaGEnOwogICAgICAgIGZ3cml0ZSgkZnAsICRsaW5lYSk7CiAgICAgICAgZmNsb3NlKCRmcCk7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2QgL2hvbWUvYm9sZXJvL2Nyb25zLmNvY2hlcy5jb20vc2l0ZW1hcC8K</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIFBIUF9FT0wgLiAnZGlyX18nIC4gX19ESVJfXyAuIFBIUF9FT0w7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
