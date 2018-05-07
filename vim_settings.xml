@@ -319,11 +319,11 @@
         <mark key="^" line="1" column="35" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/scripts/sitemap/sitemap_cron.sh" timestamp="1525696551865">
-        <mark key="[" line="17" column="61" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/scripts/sitemap/sitemap_cron.sh" timestamp="1525697748255">
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="16" column="3" />
+        <mark key="^" line="16" column="2" />
+        <mark key="." line="16" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/environments/env.devel" timestamp="1523955939607">
         <mark key="[" line="19" column="0" />
@@ -1077,6 +1077,12 @@
         <mark key="]" line="65" column="32" />
         <mark key="^" line="65" column="32" />
         <mark key="." line="65" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronCommand.php" timestamp="1525697684469">
+        <mark key="[" line="31" column="45" />
+        <mark key="]" line="31" column="47" />
+        <mark key="^" line="31" column="47" />
+        <mark key="." line="31" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/eurotax/ModelTest.php" timestamp="1519741566690">
         <mark key="[" line="3" column="0" />
@@ -2717,6 +2723,12 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/models/Sitemap.php" timestamp="1525698073067">
+        <mark key="[" line="109" column="24" />
+        <mark key="]" line="109" column="30" />
+        <mark key="^" line="109" column="30" />
+        <mark key="." line="109" column="30" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris/Movement/MovementFactory.php" timestamp="1502318636620">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="11" column="22" />
@@ -3554,17 +3566,17 @@
       <jump line="422" column="20" filename="$USER_HOME$/Projects/crmmigrations/vendor/bshaffer/oauth2-server-php/src/OAuth2/Server.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAiR2VuZXJhdGluZyBzaXRlbWFwIHdpdGggY29uZmlnIGZpbGUgY29uZmlnLnhtbCIK</text>
+      <register name="&quot;" type="4">
+        <text>provincias</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>provincias</text>
       </register>
       <register name="/" type="4">
         <text>verify</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZWNobyAiR2VuZXJhdGluZyBzaXRlbWFwIHdpdGggY29uZmlnIGZpbGUgY29uZmlnLnhtbCIK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIFBIUF9FT0wgLiAicHJvdmluY2lhcy4uLiIgLiBQSFBfRU9MOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Iy4vLi4vLi4vcHJvdGVjdGVkL3lpaWMgY3JvbiBnZW5lcmFybGlzdGFkb3NzaXRlbWFwCg==</text>
@@ -3594,7 +3606,7 @@
         <text encoding="base64">ICAgIGlmICghVHlwZTo6aGFzVHlwZShUcmFuc21pc3Npb25UeXBlOjpOQU1FKSkgewogICAgICAgIFR5cGU6OmFkZFR5cGUoVHJhbnNtaXNzaW9uVHlwZTo6TkFNRSwgVHJhbnNtaXNzaW9uVHlwZTo6Y2xhc3MpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -3648,8 +3660,8 @@
         <entry>ws</entry>
         <entry>w</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>vs</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
