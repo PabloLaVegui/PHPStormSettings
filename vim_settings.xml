@@ -1617,12 +1617,12 @@
         <mark key="." line="17" column="39" />
         <mark key="^" line="17" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/crons.coches.com/README.md" timestamp="1525939316915">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="54" column="31" />
-        <mark key="]" line="56" column="27" />
-        <mark key="." line="56" column="27" />
-        <mark key="^" line="56" column="27" />
+      <file name="$USER_HOME$/Projects/crons.coches.com/README.md" timestamp="1525943410848">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="76" column="81" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="72" column="30" />
       </file>
       <file name="$USER_HOME$/Code/phetris7/src/tetrimino/TetriminoO.php" timestamp="1484939129778">
         <mark key="[" line="45" column="52" />
@@ -2428,6 +2428,7 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.eurotax.Make.dcm.yml" timestamp="1525942315599" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/UserAccessChecker.php" timestamp="1508253322607">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="8" column="56" />
@@ -2954,11 +2955,11 @@
         <mark key="." line="45" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/application/dependencies/commons.php" timestamp="1525429861155">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="45" column="38" />
-        <mark key="]" line="45" column="38" />
-        <mark key="^" line="45" column="80" />
-        <mark key="." line="45" column="38" />
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="6" column="80" />
+        <mark key="." line="6" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/hydrator/rules.php" timestamp="1508401161198">
         <mark key="[" line="3" column="14" />
@@ -3539,8 +3540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineTestCase.php" />
-      <jump line="19" column="13" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineTestCase.php" />
       <jump line="74" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/Formatter.php" />
       <jump line="79" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/Formatter.php" />
       <jump line="72" column="44" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
@@ -3639,10 +3638,12 @@
       <jump line="11" column="0" filename="$USER_HOME$/Projects/crons.coches.com/README.md" />
       <jump line="52" column="2" filename="$USER_HOME$/Projects/crons.coches.com/README.md" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/crons.coches.com/README.md" />
+      <jump line="59" column="0" filename="$USER_HOME$/Projects/crons.coches.com/README.md" />
+      <jump line="10" column="4" filename="$USER_HOME$/Projects/crons.coches.com/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiMgT3JkZW5hY2nDs24gZGUgbGEgdGFibGEgY29jaGVzLmNvY2hlX2J1c3F1ZWRhcwoKKipUT0RPOioqIFBlbmRpZW50ZSBkZSBjcmVhciB1biBzY3JpcHQgcXVlIHN1c3RpdHV5YSBlbCBwcm9jZWRpbWllbnRvIGFsbWFjZW5hZG8uCg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -3654,31 +3655,31 @@
         <text encoding="base64">IyMjIEVqZWN1dGFyIGNvbXBvc2VyIHBhcmEgY2FyZ2FyIGxhcyBkZXBlbmRlbmNpYXMgZGUgcGhwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SElTVE9SSUNBTF9QSE9UT1NfRk9MREVSX09XTkVSPXBhYmxvZ3V0aWVycmV6Cg==</text>
+        <text encoding="base64">CiMgT3JkZW5hY2nDs24gZGUgbGEgdGFibGEgY29jaGVzLmNvY2hlX2J1c3F1ZWRhcwoKKipUT0RPOioqIFBlbmRpZW50ZSBkZSBjcmVhciB1biBzY3JpcHQgcXVlIHN1c3RpdHV5YSBlbCBwcm9jZWRpbWllbnRvIGFsbWFjZW5hZG8uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SElTVE9SSUNBTF9QSE9UT1NfUEFUSD0vVXNlcnMvcGFibG9ndXRpZXJyZXovUHJvamVjdHMvZGF0b3MvZm90b3NfaGlzdG9yaWNhcy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KmRlbCBmaWNoZXJvIGh1bmdhcm9zL1JFQURNRS5tZDoqCg==</text>
+        <text encoding="base64">CiMjIEV4cG9ydGFyIGxhIHJ1dGEgZGVsIGZpY2hlcm8gZGUgY29uZmlndXJhY2nDs24gZGUgZW52aXJvbm1lbnQgKHBhcmEgcXVlIGxvcyBmaWNoZXJvcyBiYXNoIHB1ZWRhbiBjb2dlciBsYSBjb25maWd1cmFjacOzbiBkZSBlbnRvcm5vKQoKRW4gX18uYmFzaHByb2ZpbGVfXyBvIF9fLmJhc2hyY19fIG8gX18uenNocmNfXyBldGMuLi4KCmBleHBvcnQgYAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SElTVE9SSUNBTF9QSE9UT1NfRk9MREVSX09XTkVSPXBhYmxvZ3V0aWVycmV6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">SElTVE9SSUNBTF9QSE9UT1NfUEFUSD0vVXNlcnMvcGFibG9ndXRpZXJyZXovUHJvamVjdHMvZGF0b3MvZm90b3NfaGlzdG9yaWNhcy8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSRjb3VudFRvdGFsICA9IDA7Cg==</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSRjb3VudE51ZXZvcyA9IDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
