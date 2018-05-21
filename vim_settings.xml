@@ -489,12 +489,12 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Tetromino/TetrominoO.php" timestamp="1526937062424">
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Tetromino/TetrominoO.php" timestamp="1526937079047">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="68" column="47" />
-        <mark key="]" line="68" column="47" />
-        <mark key="." line="68" column="47" />
-        <mark key="^" line="68" column="47" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="74" column="43" />
       </file>
       <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/EventBus/InvalidEventException.php" timestamp="1526722031146">
         <mark key="[" line="1" column="0" />
@@ -2796,11 +2796,11 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Movement/Down.php" timestamp="1526936691968">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="21" />
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Movement/Down.php" timestamp="1526937248460">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
         <mark key="^" line="10" column="21" />
-        <mark key="." line="10" column="21" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/Tetromino/Tetromino.php" timestamp="1526498878339">
         <mark key="[" line="9" column="19" />
@@ -3255,7 +3255,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJyYXlPYmplY3QgPSAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgbW92ZSgpIG1ldGhvZC4K</text>
       </register>
       <register name="-" type="4">
         <text>$</text>
@@ -3267,31 +3267,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFBvc2l0aW9uMkQoMywgMyksIG5ldyBQb3NpdGlvbjJEKDMsIDQpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJyYXlPYmplY3QgPSAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgbW92ZSgpIG1ldGhvZC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b28K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXFNlYmFzdGlhbkJlcmdtYW5uXFJlY3Vyc2lvbkNvbnRleHRcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAkYXJyYXlPYmplY3QgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+        <text encoding="base64">b28K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXFNlYmFzdGlhbkJlcmdtYW5uXFJlY3Vyc2lvbkNvbnRleHRcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gUG9zaXRpb24yRAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gUG9zaXRpb24yRAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkdGhpcy0+Z2VvbWFwIGFzKQo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gUG9zaXRpb24yRAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgbW92ZSgpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gUG9zaXRpb24yRAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
