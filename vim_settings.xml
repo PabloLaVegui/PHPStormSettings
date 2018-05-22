@@ -1382,12 +1382,12 @@
         <mark key="^" line="47" column="114" />
         <mark key="." line="47" column="89" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/Phetris/Handler/NextStepHandler.php" timestamp="1526938758373">
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/Phetris/Handler/NextStepHandler.php" timestamp="1527008326254">
         <mark key="'" line="40" column="35" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="68" column="26" />
+        <mark key="[" line="63" column="24" />
+        <mark key="]" line="63" column="50" />
+        <mark key="." line="63" column="50" />
+        <mark key="^" line="63" column="50" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/enums/AuthDealerGaranteeOptionsEnum.php" timestamp="1515423490695">
         <mark key="[" line="7" column="10" />
@@ -3423,11 +3423,11 @@
       <jump line="84" column="30" filename="$USER_HOME$/Code/cochescom/crmmigrations/application/dependencies/dumps.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxUb29sc1xTY2hlbWFUb29sOwo=</text>
+      <register name="&quot;" type="4">
+        <text>defaultStep</text>
       </register>
       <register name="-" type="4">
-        <text>webUserId</text>
+        <text>defaultStep</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb3ZlRGVmYXVsdFw+</text>
@@ -3436,34 +3436,34 @@
         <text encoding="base64">ICAgICRzY2hlbWFUb29sID0gbmV3IFNjaGVtYVRvb2woJGVudGl0eU1hbmFnZXIpOwogICAgJGNsYXNzZXMgPSAkZW50aXR5TWFuYWdlci0+Z2V0TWV0YWRhdGFGYWN0b3J5KCktPmdldEFsbE1ldGFkYXRhKCk7CiAgICAkc2NoZW1hVG9vbC0+Y3JlYXRlU2NoZW1hKCRjbGFzc2VzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxUb29sc1xTY2hlbWFUb29sOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcWIgPSAkdGhpcy0+ZW50aXR5TWFuYWdlci0+Z2V0UmVwb3NpdG9yeShGaW5hbmNlUmVxdWVzdERhdGE6OmNsYXNzKQogICAgICAgICAgICAtPmNyZWF0ZVF1ZXJ5QnVpbGRlcignZmluYW5jZXJlcScpOwogICAgICAgICRxYi0+c2V0TWF4UmVzdWx0cygxMCk7CgogICAgICAgICRxID0gJHFiLT5nZXRRdWVyeSgpOwoKICAgICAgICByZXR1cm4gJHEtPmV4ZWN1dGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGJvYXJkLT5kZWZhdWx0U3RlcCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci8vICAgICRzY2hlbWFUb29sID0gbmV3IFNjaGVtYVRvb2woJGVudGl0eU1hbmFnZXIpOwogICAgJGNsYXNzZXMgPSAkZW50aXR5TWFuYWdlci0+Z2V0TWV0YWRhdGFGYWN0b3J5KCktPmdldEFsbE1ldGFkYXRhKCk7Ci8vICAgICRzY2hlbWFUb29sLT5jcmVhdGVTY2hlbWEoJGNsYXNzZXMpOwo=</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxUb29sc1xTY2hlbWFUb29sOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEZhaWxlZCBvcGVuaW5nIHJlcXVpcmVkIAo=</text>
+        <text encoding="base64">ICAgICAgICAkcWIgPSAkdGhpcy0+ZW50aXR5TWFuYWdlci0+Z2V0UmVwb3NpdG9yeShGaW5hbmNlUmVxdWVzdERhdGE6OmNsYXNzKQogICAgICAgICAgICAtPmNyZWF0ZVF1ZXJ5QnVpbGRlcignZmluYW5jZXJlcScpOwogICAgICAgICRxYi0+c2V0TWF4UmVzdWx0cygxMCk7CgogICAgICAgICRxID0gJHFiLT5nZXRRdWVyeSgpOwoKICAgICAgICByZXR1cm4gJHEtPmV4ZWN1dGUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlkOgo=</text>
+        <text encoding="base64">Ci8vICAgICRzY2hlbWFUb29sID0gbmV3IFNjaGVtYVRvb2woJGVudGl0eU1hbmFnZXIpOwogICAgJGNsYXNzZXMgPSAkZW50aXR5TWFuYWdlci0+Z2V0TWV0YWRhdGFGYWN0b3J5KCktPmdldEFsbE1ldGFkYXRhKCk7Ci8vICAgICRzY2hlbWFUb29sLT5jcmVhdGVTY2hlbWEoJGNsYXNzZXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEZhaWxlZCBvcGVuaW5nIHJlcXVpcmVkIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICQK</text>
+        <text encoding="base64">ICAgIGlkOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICQK</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -3517,8 +3517,8 @@
         <entry>w</entry>
         <entry>sp</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>vs</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
