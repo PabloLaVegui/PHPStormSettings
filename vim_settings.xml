@@ -638,7 +638,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526976493941">
+      <file name="/Dummy.txt" timestamp="1526988355385">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/enums/EurotaxCodesEnum.php" timestamp="1507544252977">
@@ -1005,7 +1005,13 @@
         <mark key="." line="53" column="49" />
         <mark key="^" line="55" column="54" />
       </file>
-      <file name="$USER_HOME$/Code/cochescom/crmmigrations/src/domain/models/finance/FinanceRequest.php" timestamp="1526975511452" />
+      <file name="$USER_HOME$/Code/cochescom/crmmigrations/src/domain/models/finance/FinanceRequest.php" timestamp="1526988824201">
+        <mark key="'" line="130" column="20" />
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="41" column="45" />
+        <mark key="^" line="41" column="45" />
+        <mark key="." line="41" column="45" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/dependencies/game.php" timestamp="1525383397962">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="13" column="2" />
@@ -1281,6 +1287,7 @@
         <mark key="^" line="16" column="36" />
         <mark key="." line="16" column="36" />
       </file>
+      <file name="$USER_HOME$/Code/cochescom/crmmigrations/src/infrastructure/repositories/doctrine/requests/crm/DoctrineVnRequestRepository.php" timestamp="1526987867531" />
       <file name="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/php-phpunit-xdebug-phpstorm-docker-phpunit5/src/Kata.php" timestamp="1498339337270">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -2178,6 +2185,12 @@
         <mark key="^" line="9" column="45" />
         <mark key="." line="9" column="45" />
       </file>
+      <file name="$USER_HOME$/Code/cochescom/crmmigrations/src/domain/models/finance/FinanceRequestData.php" timestamp="1526989005091">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="19" column="15" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+      </file>
       <file name="$USER_HOME$/Code/eventstracker/protected/modules/admin/views/default/index.php" timestamp="1425331976994">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -2412,6 +2425,7 @@
         <mark key="." line="22" column="12" />
         <mark key="^" line="22" column="18" />
       </file>
+      <file name="$USER_HOME$/Code/cochescom/crmmigrations/application/dependencies/api.php" timestamp="1526988012616" />
       <file name="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/kata-environment/composer.json" timestamp="1498342461224">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="7" column="31" />
@@ -2449,6 +2463,7 @@
         <mark key="." line="30" column="54" />
         <mark key="^" line="30" column="54" />
       </file>
+      <file name="$USER_HOME$/Code/cochescom/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" timestamp="1526987720400" />
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris2D/GeoMap2D.php" timestamp="1502046052216">
         <mark key="[" line="10" column="1" />
         <mark key="]" line="11" column="19" />
@@ -3168,7 +3183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="11" filename="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Infrastructure/Printer/ConsoleBoard2DPrinter.php" />
       <jump line="23" column="20" filename="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/test/unit/Domain/Infrastructure/Printer/ConsoleBoard2DPrinterTest.php" />
       <jump line="34" column="0" filename="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/test/unit/Domain/Infrastructure/Printer/ConsoleBoard2DPrinterTest.php" />
       <jump line="70" column="49" filename="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/dependencies/dependencies.php" />
@@ -3268,13 +3282,14 @@
       <jump line="37" column="0" filename="$USER_HOME$/Code/cochescom/crmmigrations/src/infrastructure/gateways/finance/FinanceRequestGatewayCommand.php" />
       <jump line="45" column="30" filename="$USER_HOME$/Code/cochescom/crmmigrations/tests/unit/infrastructure/gateways/finance/FinanceRequestGatewayCommandTest.php" />
       <jump line="5" column="3" filename="$USER_HOME$/Code/cochescom/crmmigrations/src/infrastructure/gateways/finance/FinanceRequestGatewayCommand.php" />
+      <jump line="122" column="20" filename="$USER_HOME$/Code/cochescom/crmmigrations/src/domain/models/finance/FinanceRequest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">ICAgICAgIC8vIGZyb20g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb3ZlRGVmYXVsdFw+</text>
@@ -3283,22 +3298,22 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2F0ZXdheS0+aW5zZXJ0QW5kUmVsYXRlV2ViVXNlcigkZmluYW5jZVJlcXVlc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlcXVlc3QtPmdldFdlYlVzZXJEYXRhKCktPmdldElkKCkK</text>
+        <text encoding="base64">ICAgIHByaXZhdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlcXVlc3QtPmdldFdlYlVzZXJEYXRhKCktPmdldElkKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBQSFBVbml0X0ZyYW1ld29ya19Nb2NrT2JqZWN0X01vY2tPYmplY3QgfCBGaW5hbmNlUmVxdWVzdCAkZmluYW5jZVJlcXVlc3QgKi8KICAgICAgICAkZmluYW5jZVJlcXVlc3QgPSAkdGhpcy0+Z2V0TW9ja0J1aWxkZXIoRmluYW5jZVJlcXVlc3Q6OmNsYXNzKQogICAgICAgICAgICAtPmRpc2FibGVPcmlnaW5hbENvbnN0cnVjdG9yKCkKICAgICAgICAgICAgLT5nZXRNb2NrKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBQSFBVbml0X0ZyYW1ld29ya19Nb2NrT2JqZWN0X01vY2tPYmplY3QgfCBGaW5hbmNlUmVxdWVzdCAkZmluYW5jZVJlcXVlc3QgKi8KICAgICAgICAkZmluYW5jZVJlcXVlc3QgPSAkdGhpcy0+Z2V0TW9ja0J1aWxkZXIoRmluYW5jZVJlcXVlc3Q6OmNsYXNzKQogICAgICAgICAgICAtPmRpc2FibGVPcmlnaW5hbENvbnN0cnVjdG9yKCkKICAgICAgICAgICAgLT5nZXRNb2NrKCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -3307,7 +3322,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
