@@ -1414,12 +1414,12 @@
         <mark key="^" line="7" column="72" />
         <mark key="." line="7" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" timestamp="1527109773972">
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" timestamp="1527111345435">
         <mark key="'" line="45" column="0" />
-        <mark key="[" line="179" column="10" />
-        <mark key="]" line="181" column="37" />
-        <mark key="^" line="181" column="37" />
-        <mark key="." line="181" column="37" />
+        <mark key="[" line="165" column="55" />
+        <mark key="]" line="165" column="55" />
+        <mark key="^" line="167" column="7" />
+        <mark key="." line="165" column="55" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/phpstorm-docker-xdebug-apache/phpunit.xml" timestamp="1518046749900">
         <mark key="[" line="0" column="0" />
@@ -3420,20 +3420,20 @@
       <jump line="45" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>exceed_floor_limit</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>exceed_floor_limit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRDb21tYW5kXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RmFsc2UoCiAgICAgICAgICAgICRib2FyZEdlb01hcC0+aGFzUG9zaXRpb24oMiwgMykKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHRlc3QKICAgICAqIEBleHBlY3RlZEV4Y2VwdGlvbiBcTGF2ZWd1aVxQaGV0cmlzXERvbWFpblxFeGNlcHRpb25cTW92ZW1lbnROb3RBbGxvd2VkRXhjZXB0aW9uCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzaG91bGRfdGhyb3dfZXhjZXB0aW9uX3doZW5fdHJ5X3RvX2V4Y2VlZF9mbG9vcl9saW1pdCgpOiB2b2lkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgJHRoaXMtPmFzc2VydEZhbHNlKAogICAgICAgICAgICAkYm9hcmRHZW9NYXAtPmhhc1Bvc2l0aW9uKDIsIDMpCiAgICAgICAgKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -3442,13 +3442,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkYm9hcmRHZW9NYXAgPSAkYm9hcmQtPmdldEdlb01hcCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RmFsc2UoCiAgICAgICAgICAgICRib2FyZEdlb01hcC0+aGFzUG9zaXRpb24oMiwgMykKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAkYm9hcmRHZW9NYXAgPSAkYm9hcmQtPmdldEdlb01hcCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RmFsc2UoCiAgICAgICAgICAgICRib2FyZEdlb01hcC0+aGFzUG9zaXRpb24oMiwgMykKICAgICAgICApOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -3457,7 +3457,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2VvCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
