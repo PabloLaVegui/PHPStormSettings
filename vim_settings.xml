@@ -1405,10 +1405,11 @@
         <mark key="^" line="16" column="36" />
         <mark key="." line="16" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Infrastructure/Movement/PlayerListener.php" timestamp="1527715863095">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Infrastructure/Movement/PlayerListener.php" timestamp="1527804708519">
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="21" column="43" />
+        <mark key="." line="21" column="43" />
+        <mark key="^" line="21" column="43" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/php-phpunit-xdebug-phpstorm-docker-phpunit5/src/Kata.php" timestamp="1498339337270">
         <mark key="[" line="14" column="0" />
@@ -1524,12 +1525,12 @@
         <mark key="^" line="3" column="51" />
         <mark key="." line="3" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Application/Phetris.php" timestamp="1527787547410">
-        <mark key="'" line="53" column="4" />
-        <mark key="[" line="46" column="13" />
-        <mark key="]" line="46" column="13" />
-        <mark key="^" line="46" column="13" />
-        <mark key="." line="46" column="13" />
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Application/Phetris.php" timestamp="1527871878791">
+        <mark key="'" line="53" column="13" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="62" />
+        <mark key="^" line="48" column="25" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Domain/Application/CommandBus/CommandFactory/ClassicPhetrisCommandFactory.php" timestamp="1525537185892">
         <mark key="[" line="21" column="0" />
@@ -2033,11 +2034,11 @@
         <mark key="." line="14" column="52" />
         <mark key="^" line="14" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Infrastructure/Movement/ConsolePlayerListener.php" timestamp="1527791680184">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="57" />
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Infrastructure/Movement/ConsolePlayerListener.php" timestamp="1527872116548">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="39" column="47" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Domain/Application/Map/CommandHandlerMap.php" timestamp="1524852477636">
         <mark key="[" line="3" column="0" />
@@ -3428,7 +3429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Infrastructure/Printer/ConsoleBoard2DPrinter.php" />
       <jump line="43" column="7" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/Board/Handler/CreateStandardBoardHandler.php" />
       <jump line="14" column="6" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Application/Board/Handler/CreateStandardBoardHandlerTest.php" />
       <jump line="50" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Application/Board/Handler/CreateStandardBoardHandlerTest.php" />
@@ -3528,46 +3528,47 @@
       <jump line="70" column="24" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Application/Movement/Handler/MoveTetrominoCommandHandlerTest.php" />
       <jump line="15" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Application/CommandBus/CommandFactory/ClassicPhetrisCommandFactoryTest.php" />
       <jump line="87" column="4" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Application/PhetrisTest.php" />
+      <jump line="53" column="13" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Application/Phetris.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRrZXkgPSBmcmVhZCgkdGhpcy0+c3RyZWFtLCAxKTsKLy8KLy8gICAgICAgIHJldHVybiBzZWxmOjpRVUlUX0tFWSA9PT0gJGtleTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$key</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRDb21tYW5kXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZnJlYWQoJHRoaXMtPnN0cmVhbSwgMSk7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoc2VsZjo6TEVGVF9LRVkgPT09ICRrZXkpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRrZXkgPSBmcmVhZCgkdGhpcy0+c3RyZWFtLCAxKTsKLy8KLy8gICAgICAgIHJldHVybiBzZWxmOjpRVUlUX0tFWSA9PT0gJGtleTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAka2V5ID0gZnJlYWQoJHRoaXMtPnN0cmVhbSwgMSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGtleVByZXNzZWQ7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+a2V5UHJlc3NlZCA9IGZyZWFkKCR0aGlzLT5zdHJlYW0sIDEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJlCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHdoaWxlIChmYWxzZSA9PT0gJHRoaXMtPnBsYXllckxpc3RlbmVyLT53YW50RW5kKCkpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoZmFsc2UgPT09ICR0aGlzLT5wbGF5ZXJMaXN0ZW5lci0+d2FudEVuZCgpKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgd2FudEVuZCgpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNvdW50ID0gMDsKICAgICAgICAgICAgd2hpbGUgKCRjb3VudCA8IDMpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cTW9kZWxcTW92ZW1lbnRcTW92ZW1lbnQyRDsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiA9PT0gPwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cTW9kZWxcTW92ZW1lbnRcTGVmdDsK</text>
+        <text encoding="base64">Ly8gICAgICAgICRrZXkgPSBmcmVhZCgkdGhpcy0+c3RyZWFtLCAxKTsKLy8KLy8gICAgICAgIHJldHVybiBzZWxmOjpRVUlUX0tFWSA9PT0gJGtleTsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -3622,9 +3623,9 @@
         <entry>Lwa</entry>
         <entry>sp</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>vs</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
