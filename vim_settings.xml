@@ -234,6 +234,9 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/LoggerConfigurationBean.php" timestamp="1528200375087">
+        <mark key="'" line="9" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/exceptions/PaymentException.php" timestamp="1513703788747">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="39" />
@@ -848,6 +851,7 @@
         <mark key="." line="17" column="45" />
         <mark key="^" line="17" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/Logger/Logger.php" timestamp="1528200414197" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Dto/AuthorisedDealer/LocationDTO.php" timestamp="1509098367369">
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="20" />
@@ -1521,10 +1525,6 @@
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/main.php" timestamp="1528193036304">
         <mark key="'" line="39" column="11" />
-        <mark key="[" line="168" column="52" />
-        <mark key="]" line="169" column="35" />
-        <mark key="." line="169" column="35" />
-        <mark key="^" line="169" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/domain/infrastructure/Exceptions/UnauthorizedException.php" timestamp="1519203277241">
         <mark key="[" line="7" column="27" />
@@ -2118,9 +2118,9 @@
         <mark key="^" line="38" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/environments/env.devel.mizona.http" timestamp="1528193054092">
-        <mark key="[" line="52" column="15" />
-        <mark key="]" line="52" column="15" />
-        <mark key="." line="52" column="15" />
+        <mark key="[" line="49" column="15" />
+        <mark key="]" line="49" column="15" />
+        <mark key="." line="49" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/eurotax/VersionDataTest.php" timestamp="1520237364501">
         <mark key="[" line="46" column="0" />
@@ -3414,11 +3414,9 @@
         <mark key="^" line="20" column="25" />
         <mark key="." line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1528192957333">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="14" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1528200347368">
         <mark key="^" line="48" column="18" />
-        <mark key="." line="51" column="15" />
+        <mark key="." line="48" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/domain/infrastructure/providers/eurotax/FakeModelRecoder.php" timestamp="1519749605558">
         <mark key="[" line="20" column="34" />
@@ -3606,7 +3604,6 @@
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/environments/env.devel.mizona" timestamp="1528192197307" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/exceptions/CannotSaveAccessDataException.php" timestamp="1509370795200">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -3645,7 +3642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/positioning/PositioningForm.php" />
       <jump line="181" column="25" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/FormFactory.php" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/FormFactory.php" />
       <jump line="66" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/PositioningListController.php" />
@@ -3745,6 +3741,7 @@
       <jump line="109" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/scripts/offline-table-update/offline-update.php" />
       <jump line="69" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/scripts/offline-table-update/offline-update.php" />
       <jump line="39" column="11" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/main.php" />
+      <jump line="9" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/LoggerConfigurationBean.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3754,7 +3751,7 @@
         <text>&quot;11211&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>crm</text>
+        <text encoding="base64">XDxsb2dGaWxlUGF0aFw+</text>
       </register>
       <register name="0" type="4">
         <text>MEMCACHED_CLASS</text>
@@ -3787,21 +3784,20 @@
         <text encoding="base64">bXlzcWxfY2xvc2UgKCAkbGluayApOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>crm</last-search>
+      <last-search encoding="base64">XDxsb2dGaWxlUGF0aFw+</last-search>
       <last-offset />
-      <last-pattern>crm</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dGaWxlUGF0aFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxlcnJvcnNDb3VudFw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>id_v</entry>
         <entry>particular</entry>
         <entry encoding="base64">XDxmcm9tRGF5c051bWJlclRvRnVsbFN0cmluZ1w+</entry>
         <entry encoding="base64">XDxnZXRTdHJpbmdCYWxhbmNlRHVyYXRpb25cPg==</entry>
@@ -3821,6 +3817,7 @@
         <entry encoding="base64">XDxfdXBkYXRlSW5kZXhDYXJkc0NhY2hlXD4=</entry>
         <entry encoding="base64">XDxnZXRWYWxpZFZOUmVxdWVzdHNRdWVyeUJ1aWxkZXJcPg==</entry>
         <entry>crm</entry>
+        <entry encoding="base64">XDxsb2dGaWxlUGF0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>256</entry>
@@ -3841,8 +3838,8 @@
         <entry>79</entry>
         <entry>x</entry>
         <entry>q</entry>
-        <entry>vs</entry>
         <entry>wa</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
