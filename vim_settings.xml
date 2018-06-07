@@ -1366,11 +1366,12 @@
         <mark key="^" line="7" column="72" />
         <mark key="." line="7" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" timestamp="1528396180547">
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" timestamp="1528407081955">
         <mark key="'" line="108" column="0" />
-        <mark key="[" line="268" column="38" />
-        <mark key="]" line="264" column="0" />
-        <mark key="." line="264" column="0" />
+        <mark key="[" line="277" column="21" />
+        <mark key="]" line="277" column="27" />
+        <mark key="." line="277" column="27" />
+        <mark key="^" line="277" column="27" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/phpstorm-docker-xdebug-apache/phpunit.xml" timestamp="1518046749900">
         <mark key="[" line="0" column="0" />
@@ -3357,44 +3358,44 @@
       <jump line="198" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Count</text>
       </register>
       <register name="-" type="4">
-        <text>clone $board</text>
+        <text>Count</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRQb3NpdGlvblRvQ29sbGVjdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGV0cm9taW5vR2VvTWFwID0gbmV3IEdlb01hcDJEKFsKICAgICAgICAgICAgbmV3IFBvc2l0aW9uMkQoMiwgMyksCiAgICAgICAgXSk7CgogICAgICAgICR0ZXRyb21pbm9Nb2NrID0gJHRoaXMtPmdldFRldHJvbWlub01vY2tXaXRoR2VvTWFwKCR0ZXRyb21pbm9HZW9NYXApOwoKICAgICAgICAkYm9hcmQgPSAkdGhpcy0+Z2V0Qm9hcmQoKTsKICAgICAgICAkYm9hcmQtPmFkZFRldHJvbWlubygkdGV0cm9taW5vTW9jayk7CiAgICAgICAgJGJvYXJkLT5maXhDdXJyZW50VGV0cm9taW5vKCk7CgogICAgICAgICRib2FyZEdlb01hcCA9ICRib2FyZC0+Z2V0R2VvTWFwKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSgkYm9hcmRHZW9NYXAtPmhhc1Bvc2l0aW9uKDIsIDMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYm9hcmQgPSAkdGhpcy0+Z2V0Qm9hcmQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkYm9hcmRHZW9NYXAgPSAkYm9hcmQtPmdldEdlb01hcCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBkYXRhRGVzY3JpcHRpb24oKTogc3RyaW5nCiAgICB7CiAgICAgICAgcmV0dXJuIHBhcmVudDo6ZGF0YURlc2NyaXB0aW9uKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkYm9hcmQgPSAkdGhpcy0+Z2V0Qm9hcmQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBkYXRhRGVzY3JpcHRpb24oKTogc3RyaW5nCiAgICB7CiAgICAgICAgcmV0dXJuIHBhcmVudDo6ZGF0YURlc2NyaXB0aW9uKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcmVtb3ZlUm93KCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
