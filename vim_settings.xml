@@ -229,11 +229,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Application/LineRemover/LineRemoverTest.php" timestamp="1528410817097">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="76" column="38" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Application/LineRemover/LineRemoverTest.php" timestamp="1528412084774">
+        <mark key="'" line="147" column="44" />
+        <mark key="[" line="181" column="43" />
+        <mark key="]" line="181" column="47" />
+        <mark key="^" line="181" column="47" />
+        <mark key="." line="181" column="47" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Green.php" timestamp="1524775635956">
         <mark key="[" line="8" column="1" />
@@ -1578,11 +1579,11 @@
         <mark key="^" line="27" column="39" />
         <mark key="." line="31" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/dependencies/event_handler_map.php" timestamp="1527200093297">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="22" column="74" />
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/dependencies/event_handler_map.php" timestamp="1528412184869">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="26" />
+        <mark key="." line="20" column="26" />
+        <mark key="^" line="20" column="26" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Application/FirstCommandApp.php" timestamp="1524927492749">
         <mark key="[" line="4" column="0" />
@@ -1934,12 +1935,12 @@
         <mark key="^" line="51" column="22" />
         <mark key="." line="36" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/LineRemover/LineRemover.php" timestamp="1528410359166">
-        <mark key="'" line="54" column="4" />
-        <mark key="[" line="42" column="39" />
-        <mark key="]" line="42" column="52" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="33" column="39" />
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/LineRemover/LineRemover.php" timestamp="1528411961506">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="69" column="78" />
+        <mark key="]" line="69" column="78" />
+        <mark key="." line="69" column="78" />
+        <mark key="^" line="69" column="78" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Domain/Application/Map/CommandHandlerMap.php" timestamp="1524852477636">
         <mark key="[" line="3" column="0" />
@@ -3258,10 +3259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="35" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/Phetris/Handler/NextStepHandler.php" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Application/CommandBus/CommandFactory/ClassicPhetrisCommandFactoryTest.php" />
-      <jump line="61" column="54" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Application/Phetris.php" />
-      <jump line="81" column="5" filename="$USER_HOME$/Code/phetris-ddd-v4/dependencies/dependencies.php" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/dependencies/dependencies.php" />
       <jump line="24" column="12" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Infrastructure/Printer/ConsoleBoard2DPrinter.php" />
       <jump line="73" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Infrastructure/Printer/ConsoleBoard2DPrinterTest.php" />
@@ -3358,10 +3355,14 @@
       <jump line="55" column="12" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/LineRemover/LineRemover.php" />
       <jump line="35" column="37" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/LineRemover/LineRemover.php" />
       <jump line="54" column="4" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/LineRemover/LineRemover.php" />
+      <jump line="84" column="54" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Application/LineRemover/LineRemoverTest.php" />
+      <jump line="41" column="33" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/LineRemover/LineRemover.php" />
+      <jump line="60" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/LineRemover/LineRemover.php" />
+      <jump line="147" column="44" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Application/LineRemover/LineRemoverTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cSW5mcmFzdHJ1Y3R1cmVcQm9hcmRcQ29tbWFuZFxCb2FyZFJlY29yZGVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>once</text>
       </register>
       <register name="-" type="4">
         <text>once</text>
@@ -3370,34 +3371,34 @@
         <text encoding="base64">XDxhZGRQb3NpdGlvblRvQ29sbGVjdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcm93VG9EZWxldGUgPSAxOwoKICAgICAgICAkYm9hcmRHZW9NYXBNb2NrID0gJHRoaXMtPmdldE1vY2tCdWlsZGVyKEdlb01hcDJEOjpjbGFzcykKICAgICAgICAgICAgLT5kaXNhYmxlT3JpZ2luYWxDb25zdHJ1Y3RvcigpCiAgICAgICAgICAgIC0+Z2V0TW9jaygpOwogICAgICAgICRib2FyZEdlb01hcE1vY2stPmV4cGVjdHMoc2VsZjo6ZXhhY3RseSgyKSkKICAgICAgICAgICAgLT5tZXRob2QoJ2lzRnVsbFJvdycpCiAgICAgICAgICAgIC0+d2l0aENvbnNlY3V0aXZlKFswXSwgWzFdKQogICAgICAgICAgICAtPndpbGxSZXR1cm5PbkNvbnNlY3V0aXZlQ2FsbHMoZmFsc2UsIHRydWUpOwoKICAgICAgICAkYm9hcmRNb2NrID0gJHRoaXMtPmdldEJvYXJkTW9jaygpOwogICAgICAgICRib2FyZE1vY2stPmV4cGVjdHMoc2VsZjo6b25jZSgpKQogICAgICAgICAgICAtPm1ldGhvZCgnZ2V0R2VvTWFwJykKICAgICAgICAgICAgLT53aWxsUmV0dXJuKCRib2FyZEdlb01hcE1vY2spOwogICAgICAgICRib2FyZE1vY2stPmV4cGVjdHMoc2VsZjo6b25jZSgpKQogICAgICAgICAgICAtPm1ldGhvZCgncm93Q291bnQnKQogICAgICAgICAgICAtPndpbGxSZXR1cm4oMik7CiAgICAgICAgJGJvYXJkTW9jay0+ZXhwZWN0cyhzZWxmOjpvbmNlKCkpCiAgICAgICAgICAgIC0+bWV0aG9kKCdyZW1vdmVSb3dDb250ZW50JykKICAgICAgICAgICAgLT53aXRoKCRyb3dUb0RlbGV0ZSk7CgogICAgICAgICR0aGlzLT5ib2FyZFByb3ZpZGVyTW9jay0+ZXhwZWN0cyhzZWxmOjpvbmNlKCkpCiAgICAgICAgICAgIC0+bWV0aG9kKCdmaW5kQnlJZE9yRmFpbCcpCiAgICAgICAgICAgIC0+d2lsbFJldHVybigkYm9hcmRNb2NrKTsKCiAgICAgICAgJHRoaXMtPmxpbmVSZW1vdmVyLT5oYW5kbGUoJHRoaXMtPmdldEV2ZW50KCkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXZlbnRCdXNNb2NrLT5leHBlY3RzKHNlbGY6Om9uY2UoKSkKICAgICAgICAgICAgLT5tZXRob2QoJ2Rpc3BhdGNoJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cSW5mcmFzdHJ1Y3R1cmVcQm9hcmRcQ29tbWFuZFxCb2FyZFJlY29yZGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Ym9hcmRSZWNvcmRlck1vY2stPmV4cGVjdHMoc2VsZjo6bmV2ZXIoKSkKICAgICAgICAgICAgLT5tZXRob2QoJ3VwZGF0ZScpCiAgICAgICAgICAgIC0+d2l0aCgkYm9hcmRNb2NrKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoKCRyb3dUb0RlbGV0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoKCRib2FyZE1vY2spOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcm93VG9EZWxldGUgPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aWxsUmV0dXJuKCRib2FyZE1vY2spOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPCiAgICAgICAgJHRoaXMtPmFzc2VydFRydWUodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPndpdGgoc2VsZjo6b25Db25zZWN1dGl2ZUNhbGxzKDAsIDEpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPndpbGwoc2VsZjo6b25Db25zZWN1dGl2ZUNhbGxzKGZhbHNlLCB0cnVlKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPndpdGhDb25zZWN1dGl2ZSgwLCAxKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -3408,7 +3409,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxhZGRQb3NpdGlvblRvQ29sbGVjdGlvblw+</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxtb3ZlRGVmYXVsdFw+</last-substitute>
+      <last-substitute encoding="base64">XDxhZGRQb3NpdGlvblRvQ29sbGVjdGlvblw+</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
