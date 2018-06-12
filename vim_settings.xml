@@ -750,7 +750,7 @@
         <mark key="^" line="24" column="6" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528808398708">
+      <file name="/Dummy.txt" timestamp="1528816805570">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/application/UseCases/requests/CreateRequestUsecaseTest.php" timestamp="1521560054294">
@@ -1145,12 +1145,12 @@
         <mark key="." line="14" column="67" />
         <mark key="^" line="14" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Balance/PositioningUser.php" timestamp="1528808329883">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Balance/PositioningUser.php" timestamp="1528817261892">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
+        <mark key="[" line="81" column="49" />
+        <mark key="]" line="81" column="51" />
+        <mark key="." line="81" column="51" />
+        <mark key="^" line="81" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/eurotax/DoctrineSegmentRepositoryTest.php" timestamp="1524210806119">
         <mark key="[" line="22" column="0" />
@@ -1383,6 +1383,12 @@
         <mark key="]" line="10" column="1" />
         <mark key="." line="10" column="1" />
         <mark key="^" line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Balance/DealerPositioningUser.php" timestamp="1528816793442">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="50" />
+        <mark key="^" line="7" column="50" />
+        <mark key="." line="7" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/helpers/PhoneHelperTest.php" timestamp="1517496337918">
         <mark key="[" line="32" column="21" />
@@ -1841,12 +1847,12 @@
         <mark key="^" line="31" column="39" />
         <mark key="." line="31" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/doctrine/Repositories/User/UserEntity.php" timestamp="1528811550321">
-        <mark key="'" line="19" column="33" />
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="18" column="33" />
-        <mark key="^" line="69" column="56" />
-        <mark key="." line="18" column="33" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/doctrine/Repositories/User/UserEntity.php" timestamp="1528817053134">
+        <mark key="'" line="23" column="35" />
+        <mark key="[" line="88" column="5" />
+        <mark key="]" line="89" column="3" />
+        <mark key="^" line="89" column="3" />
+        <mark key="." line="89" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/authorisedDealer/accessData/AccessDataForm.php" timestamp="1511796612437">
         <mark key="[" line="16" column="42" />
@@ -3154,12 +3160,6 @@
         <mark key="^" line="29" column="40" />
         <mark key="." line="22" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/composer.json" timestamp="1528727531971">
-        <mark key="[" line="11" column="48" />
-        <mark key="]" line="11" column="55" />
-        <mark key="." line="11" column="55" />
-        <mark key="^" line="11" column="55" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/authorizedDealer/authDealerInfoData/authDealerInfoDataIndex.php" timestamp="1509450506476">
         <mark key="[" line="45" column="18" />
         <mark key="]" line="45" column="43" />
@@ -3726,6 +3726,12 @@
         <mark key="." line="48" column="70" />
         <mark key="^" line="48" column="70" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Balance/ParticularPositioningUser.php" timestamp="1528816821901">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="54" />
+        <mark key="^" line="7" column="54" />
+        <mark key="." line="7" column="54" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/DeMierdaTest.php" timestamp="1523874880747">
         <mark key="[" line="10" column="1" />
         <mark key="]" line="9" column="34" />
@@ -3770,8 +3776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="12" filename="$USER_HOME$/Projects/crons.coches.com/coches-offline-update/offline-update.php" />
-      <jump line="85" column="9" filename="$USER_HOME$/Projects/crons.coches.com/coches-offline-update/offline-update.php" />
       <jump line="82" column="12" filename="$USER_HOME$/Projects/crons.coches.com/coches-offline-update/offline-update.php" />
       <jump line="80" column="12" filename="$USER_HOME$/Projects/crons.coches.com/coches-offline-update/offline-update.php" />
       <jump line="79" column="12" filename="$USER_HOME$/Projects/crons.coches.com/coches-offline-update/offline-update.php" />
@@ -3870,46 +3874,48 @@
       <jump line="15" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Balance/PositioningUser.php" />
       <jump line="36" column="22" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/doctrine/Repositories/Balance/DoctrinePositioningUserRepository.php" />
       <jump line="19" column="33" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/doctrine/Repositories/User/UserEntity.php" />
+      <jump line="103" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
+      <jump line="23" column="35" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/doctrine/Repositories/User/UserEntity.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">REJfRE9DVFJJTkVfTUFQUElOR1M6IEluZnJhc3RydWN0dXJlL2RvY3RyaW5lL21hcHBpbmdzCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cG9hcyA=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">cG9hcyA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc2VuZFB1c2hOb3RpZmljYXRpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5jcmVhdGVRdWVyeUJ1aWxkZXIoJ3BvcycpCg==</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIGJvb2wgKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">REJfRE9DVFJJTkVfTUFQUElOR1M6IEluZnJhc3RydWN0dXJlL2RvY3RyaW5lL21hcHBpbmdzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogdXNhciAkY29uZmlnCg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gYm9vbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gaXNQYXJ0aWN1bGFyKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmlzUGFydGljdWxhcjsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gYm9vbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gaXNEZWFsZXIoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+aXNEZWFsZXI7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFBlcnNpc3RlbnQK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGlkRGVhbGVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkY2FjaGVEcml2ZXIgPSBuZXcgXERvY3RyaW5lXENvbW1vblxDYWNoZVxBcnJheUNhY2hlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZGVsZXRlZCA9ICRjYWNoZURyaXZlci0+ZGVsZXRlQWxsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkcXVlcnlCdWlsZGVyLT5nZXRTY2FsYXJSZXN1bHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYmFsYW5jZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHBhcnRpY3VsYXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXJMaXN0Owo=</text>
+        <text encoding="base64">REJfRE9DVFJJTkVfTUFQUElOR1M6IEluZnJhc3RydWN0dXJlL2RvY3RyaW5lL21hcHBpbmdzCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
