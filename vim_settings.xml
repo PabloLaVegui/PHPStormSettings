@@ -935,6 +935,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="17" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" timestamp="1528983966879">
+        <mark key="[" line="103" column="52" />
+        <mark key="]" line="103" column="52" />
+        <mark key="^" line="103" column="51" />
+        <mark key="." line="103" column="52" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Positioning/PositioningUser.php" timestamp="1528730949534">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="12" />
@@ -1086,6 +1092,12 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateRemoteRequestUseCase.php" timestamp="1528984462272">
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
+        <mark key="^" line="215" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/BalanceOrderTransformer.php" timestamp="1513788406599">
         <mark key="[" line="26" column="20" />
         <mark key="]" line="26" column="46" />
@@ -1235,7 +1247,7 @@
         <mark key="]" line="53" column="21" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1528810463001">
+      <file name="/fragment.php" timestamp="1528983961504">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/domain/infrastructure/providers/eurotax/ModelDataProvider.php" timestamp="1521022981350">
@@ -1274,7 +1286,6 @@
         <mark key="^" line="32" column="41" />
         <mark key="." line="32" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/dependencies/commons.php" timestamp="1528804966941" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/twig/one.twig" timestamp="1505899678598">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="2" />
@@ -1648,7 +1659,7 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="12" column="56" />
       </file>
-      <file name="/PHP Console" timestamp="1528810809446">
+      <file name="/PHP Console" timestamp="1528983948070">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -2182,7 +2193,6 @@
         <mark key="^" line="10" column="51" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/dependencies/dumps.php" timestamp="1528804200442" />
       <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/DoctrineSegmentRepositoryTest.php" timestamp="1519229117258">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="12" />
@@ -3329,7 +3339,7 @@
         <mark key="^" line="16" column="64" />
         <mark key="." line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" timestamp="1528297951902">
+      <file name="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" timestamp="1528983426871">
         <mark key="'" line="68" column="9" />
         <mark key="[" line="155" column="35" />
         <mark key="]" line="155" column="34" />
@@ -3540,7 +3550,6 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1528804293435" />
       <file name="$USER_HOME$/Projects/crmmigrations/src/domain/infrastructure/providers/eurotax/FakeModelRecoder.php" timestamp="1519749605558">
         <mark key="[" line="20" column="34" />
         <mark key="]" line="20" column="59" />
@@ -3880,10 +3889,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRuYW1lLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGVycm9yTWVzc2FnZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>concesionario</text>
+        <text>$errorMessage =</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc2VuZFB1c2hOb3RpZmljYXRpb25cPg==</text>
@@ -3892,31 +3901,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRuYW1lLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXROYW1lKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPm5hbWU7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGVycm9yTWVzc2FnZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkbmFtZTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJG5hbWUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbmFtZSwK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXROYW1lKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPm5hbWU7CiAgICB9Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkbmFtZTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJG5hbWUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkbmFtZSwK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXROYW1lKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPm5hbWU7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFBvc2l0aW9uaW5nVXNlcigKICAgICAgICAgICAgJHVzZXJFbnRpdHktPmdldElkKCksCiAgICAgICAgICAgICR1c2VyRW50aXR5LT5nZXRCYWxhbmNlKCksCiAgICAgICAgICAgICR1c2VyRW50aXR5LT5nZXRFbWFpbCgpLAogICAgICAgICAgICAkdGhpcy0+Z2V0UG9zaXRpb25pbmdDbGFzc2lmaWVkKAogICAgICAgICAgICAgICAgJHVzZXJFbnRpdHktPmdldFBvc2l0aW9uaW5nQ2xhc3NpZmllZHMoKQogICAgICAgICAgICApCiAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -3955,7 +3964,6 @@
         <entry encoding="base64">XDxfc2VuZFB1c2hOb3RpZmljYXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>316</entry>
         <entry>299</entry>
         <entry>128</entry>
         <entry>313</entry>
@@ -3974,6 +3982,7 @@
         <entry>wwa</entry>
         <entry>vs</entry>
         <entry>sp</entry>
+        <entry>216</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
