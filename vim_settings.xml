@@ -1424,12 +1424,12 @@
         <mark key="^" line="7" column="72" />
         <mark key="." line="7" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" timestamp="1529083358510">
-        <mark key="'" line="294" column="1" />
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="218" column="0" />
-        <mark key="." line="218" column="0" />
-        <mark key="^" line="214" column="86" />
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" timestamp="1529085241450">
+        <mark key="'" line="154" column="20" />
+        <mark key="[" line="370" column="0" />
+        <mark key="]" line="370" column="0" />
+        <mark key="." line="370" column="0" />
+        <mark key="^" line="369" column="11" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/phpstorm-docker-xdebug-apache/phpunit.xml" timestamp="1518046749900">
         <mark key="[" line="0" column="0" />
@@ -1713,6 +1713,12 @@
         <mark key="]" line="31" column="39" />
         <mark key="^" line="31" column="39" />
         <mark key="." line="31" column="39" />
+      </file>
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/CommandBus/CommandFactory/ClassicPhetrisCommandFactory.php" timestamp="1529085303207">
+        <mark key="'" line="54" column="4" />
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/repositories/ClassifiedsRepository.php" timestamp="1505817957116">
         <mark key="[" line="17" column="20" />
@@ -2957,7 +2963,7 @@
         <mark key="^" line="26" column="41" />
         <mark key="." line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" timestamp="1529083143129">
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" timestamp="1529084332014">
         <mark key="'" line="214" column="0" />
         <mark key="[" line="86" column="17" />
         <mark key="]" line="86" column="17" />
@@ -3362,9 +3368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Application/Printer/ScreenCleanerTest.php" />
-      <jump line="27" column="4" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/Board.php" />
-      <jump line="76" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
       <jump line="12" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
       <jump line="113" column="4" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
       <jump line="13" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
@@ -3462,55 +3465,58 @@
       <jump line="16" column="0" filename="$USER_HOME$/Code/cochescom/mizona.coches.com/secure_yii/protected/domain/Models/Balance/PositioningClassified.php" />
       <jump line="48" column="51" filename="$USER_HOME$/Code/cochescom/mizona.coches.com/secure_yii/protected/Infrastructure/doctrine/Repositories/Balance/DoctrinePositioningUserRepository.php" />
       <jump line="129" column="9" filename="$USER_HOME$/Code/cochescom/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
+      <jump line="210" column="24" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" />
+      <jump line="154" column="20" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" />
+      <jump line="54" column="4" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/CommandBus/CommandFactory/ClassicPhetrisCommandFactory.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>nextTetrominoGeoMap</text>
+        <text encoding="base64">LT5oYXM=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRQb3NpdGlvblRvQ29sbGVjdGlvblw+</text>
+        <text encoding="base64">XDxvdXRzaWRlQm9hcmRHZW9NYXBEYXRhUHJvdmlkZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFBvc2l0aW9uMkQoMSwgMyksCg==</text>
+        <text encoding="base64">ICAgICAgICAkYm9hcmQgPSAkdGhpcy0+Z2V0Qm9hcmQoKTsKCiAgICAgICAgJHRldHJvbWlub1RvRml4R2VvTWFwID0gbmV3IEdlb01hcDJEKFsKICAgICAgICAgICAgbmV3IFBvc2l0aW9uMkQoMSwgMyksCiAgICAgICAgXSk7CiAgICAgICAgJHRldHJvbWlub1RvRml4TW9jayA9ICR0aGlzLT5nZXRUZXRyb21pbm9Nb2NrV2l0aEdlb01hcCgkdGV0cm9taW5vVG9GaXhHZW9NYXApOwogICAgICAgICRib2FyZC0+YWRkVGV0cm9taW5vKCR0ZXRyb21pbm9Ub0ZpeE1vY2spOwogICAgICAgICRib2FyZC0+Zml4Q3VycmVudFRldHJvbWlubygpOwoKICAgICAgICAkbm9GaXRUZXRyb21pbm9HZW9NYXAgPSBuZXcgR2VvTWFwMkQoWwogICAgICAgICAgICBuZXcgUG9zaXRpb24yRCgwLCAzKSwKICAgICAgICAgICAgbmV3IFBvc2l0aW9uMkQoMSwgMyksCiAgICAgICAgXSk7CiAgICAgICAgJG5vRml0VGV0cm9taW5vPSAkdGhpcy0+Z2V0VGV0cm9taW5vTW9ja1dpdGhHZW9NYXAoJG5vRml0VGV0cm9taW5vR2VvTWFwKTsKICAgICAgICAkYm9hcmQtPmFkZFRldHJvbWlubygkbm9GaXRUZXRyb21pbm8pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkYm9hcmQtPmFkZFRldHJvbWlubygkbm9GaXRUZXRyb21pbm8pOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbmV4dFRldHJvbWlub01vY2stPmV4cGVjdHMoc2VsZjo6b25jZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5tZXRob2QoJ21vdmUnKQo=</text>
+        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cTW9kZWxcTW92ZW1lbnRcRG93bjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICRtb3ZlbWVudC0+ZXhwZWN0cyhzZWxmOjpvbmNlKCkpCi8vICAgICAgICAgICAgLT5tZXRob2QoJ21vdmUnKQovLyAgICAgICAgICAgIC0+d2lsbFJldHVybihuZXcgUG9zaXRpb24yRCgxLCAyKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRtb3ZlbWVudC0+ZXhwZWN0cyhzZWxmOjpvbmNlKCkpCi8vICAgICAgICAgICAgLT5tZXRob2QoJ21vdmUnKQovLyAgICAgICAgICAgIC0+d2lsbFJldHVybihuZXcgUG9zaXRpb24yRCgxLDIpKTsKICAgICAgICAkbW92ZW1lbnQgPSBuZXcgRG93bigpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICRuZXh0VGV0cm9taW5vTW9jay0+ZXhwZWN0cyhzZWxmOjphdExlYXN0T25jZSgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5tZXRobwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRQb3NpdGlvblRvQ29sbGVjdGlvblw+</last-search>
+      <last-search encoding="base64">XDxvdXRzaWRlQm9hcmRHZW9NYXBEYXRhUHJvdmlkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRQb3NpdGlvblRvQ29sbGVjdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxvdXRzaWRlQm9hcmRHZW9NYXBEYXRhUHJvdmlkZXJcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZGRQb3NpdGlvblRvQ29sbGVjdGlvblw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -3518,7 +3524,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxWZXJzaW9uUmVjb3JkZXJcPg==</entry>
         <entry encoding="base64">XDxWZXJzaW9uRGF0YVByb3ZpZGVyXD4=</entry>
         <entry encoding="base64">XDxVcGRhdGVWZXJzaW9uVXNlQ2FzZVw+</entry>
         <entry encoding="base64">XDxzYXZlSW50b1NvbGljaXR1ZGVzVXNhZG9zXD4=</entry>
@@ -3538,6 +3543,7 @@
         <entry encoding="base64">XDxnZXRWYWxpZFZOUmVxdWVzdHNRdWVyeUJ1aWxkZXJcPg==</entry>
         <entry encoding="base64">XDxjb250YWN0TGlzdFw+</entry>
         <entry encoding="base64">XDxhZGRQb3NpdGlvblRvQ29sbGVjdGlvblw+</entry>
+        <entry encoding="base64">XDxvdXRzaWRlQm9hcmRHZW9NYXBEYXRhUHJvdmlkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>159</entry>
