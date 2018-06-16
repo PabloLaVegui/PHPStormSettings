@@ -2963,12 +2963,12 @@
         <mark key="^" line="26" column="41" />
         <mark key="." line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" timestamp="1529084332014">
-        <mark key="'" line="214" column="0" />
-        <mark key="[" line="86" column="17" />
-        <mark key="]" line="86" column="17" />
-        <mark key="." line="86" column="17" />
-        <mark key="^" line="86" column="17" />
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" timestamp="1529141278267">
+        <mark key="'" line="192" column="4" />
+        <mark key="[" line="96" column="37" />
+        <mark key="]" line="96" column="34" />
+        <mark key="." line="96" column="34" />
+        <mark key="^" line="96" column="34" />
       </file>
       <file name="$USER_HOME$/Code/phetris7/test/Phetris7TestCase.php" timestamp="1486849725521">
         <mark key="[" line="9" column="39" />
@@ -3368,7 +3368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
       <jump line="113" column="4" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
       <jump line="13" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
       <jump line="11" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Tetromino/TetrominoO.php" />
@@ -3468,6 +3467,7 @@
       <jump line="210" column="24" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" />
       <jump line="154" column="20" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" />
       <jump line="54" column="4" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/CommandBus/CommandFactory/ClassicPhetrisCommandFactory.php" />
+      <jump line="182" column="4" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3477,7 +3477,7 @@
         <text encoding="base64">LT5oYXM=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvdXRzaWRlQm9hcmRHZW9NYXBEYXRhUHJvdmlkZXJcPg==</text>
+        <text>addT</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkYm9hcmQgPSAkdGhpcy0+Z2V0Qm9hcmQoKTsKCiAgICAgICAgJHRldHJvbWlub1RvRml4R2VvTWFwID0gbmV3IEdlb01hcDJEKFsKICAgICAgICAgICAgbmV3IFBvc2l0aW9uMkQoMSwgMyksCiAgICAgICAgXSk7CiAgICAgICAgJHRldHJvbWlub1RvRml4TW9jayA9ICR0aGlzLT5nZXRUZXRyb21pbm9Nb2NrV2l0aEdlb01hcCgkdGV0cm9taW5vVG9GaXhHZW9NYXApOwogICAgICAgICRib2FyZC0+YWRkVGV0cm9taW5vKCR0ZXRyb21pbm9Ub0ZpeE1vY2spOwogICAgICAgICRib2FyZC0+Zml4Q3VycmVudFRldHJvbWlubygpOwoKICAgICAgICAkbm9GaXRUZXRyb21pbm9HZW9NYXAgPSBuZXcgR2VvTWFwMkQoWwogICAgICAgICAgICBuZXcgUG9zaXRpb24yRCgwLCAzKSwKICAgICAgICAgICAgbmV3IFBvc2l0aW9uMkQoMSwgMyksCiAgICAgICAgXSk7CiAgICAgICAgJG5vRml0VGV0cm9taW5vPSAkdGhpcy0+Z2V0VGV0cm9taW5vTW9ja1dpdGhHZW9NYXAoJG5vRml0VGV0cm9taW5vR2VvTWFwKTsKICAgICAgICAkYm9hcmQtPmFkZFRldHJvbWlubygkbm9GaXRUZXRyb21pbm8pOwo=</text>
@@ -3514,17 +3514,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvdXRzaWRlQm9hcmRHZW9NYXBEYXRhUHJvdmlkZXJcPg==</last-search>
+      <last-search>addT</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvdXRzaWRlQm9hcmRHZW9NYXBEYXRhUHJvdmlkZXJcPg==</last-pattern>
+      <last-pattern>addT</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZGRQb3NpdGlvblRvQ29sbGVjdGlvblw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxWZXJzaW9uRGF0YVByb3ZpZGVyXD4=</entry>
         <entry encoding="base64">XDxVcGRhdGVWZXJzaW9uVXNlQ2FzZVw+</entry>
         <entry encoding="base64">XDxzYXZlSW50b1NvbGljaXR1ZGVzVXNhZG9zXD4=</entry>
         <entry encoding="base64">XDxnZXRDdXJyZW50UG9zaXRpb25pbmdDbGFzc2lmaWVkXD4=</entry>
@@ -3544,6 +3543,7 @@
         <entry encoding="base64">XDxjb250YWN0TGlzdFw+</entry>
         <entry encoding="base64">XDxhZGRQb3NpdGlvblRvQ29sbGVjdGlvblw+</entry>
         <entry encoding="base64">XDxvdXRzaWRlQm9hcmRHZW9NYXBEYXRhUHJvdmlkZXJcPg==</entry>
+        <entry>addT</entry>
       </history-search>
       <history-cmd>
         <entry>159</entry>
