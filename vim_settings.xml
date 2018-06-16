@@ -1014,11 +1014,11 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/Board.php" timestamp="1527108163509">
-        <mark key="[" line="35" column="39" />
-        <mark key="]" line="35" column="40" />
-        <mark key="." line="35" column="40" />
-        <mark key="^" line="35" column="40" />
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/Board.php" timestamp="1529161526552">
+        <mark key="[" line="26" column="36" />
+        <mark key="]" line="27" column="45" />
+        <mark key="." line="27" column="45" />
+        <mark key="^" line="27" column="45" />
       </file>
       <file name="$USER_HOME$/Code/phetris7/src/event/FixedTetrimino.php" timestamp="1484388777601">
         <mark key="[" line="5" column="20" />
@@ -1166,6 +1166,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="27" column="27" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Application/Phetris/Handler/NextStepHandlerTest.php" timestamp="1529161473622">
+        <mark key="'" line="124" column="8" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="^" line="124" column="7" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/twig/one.twig" timestamp="1505899678598">
         <mark key="[" line="0" column="2" />
@@ -3380,7 +3387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="4" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
       <jump line="13" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
       <jump line="11" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Tetromino/TetrominoO.php" />
       <jump line="123" column="26" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" />
@@ -3480,49 +3486,50 @@
       <jump line="154" column="20" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" />
       <jump line="54" column="4" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/CommandBus/CommandFactory/ClassicPhetrisCommandFactory.php" />
       <jump line="182" column="4" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
+      <jump line="124" column="8" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Application/Phetris/Handler/NextStepHandlerTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>withOther</text>
+        <text>needTetromino</text>
       </register>
       <register name="/" type="4">
         <text>addT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkd2l0aE90aGVyWCA9IG5ldyBQb3NpdGlvbjJEKDQsIDUpOwogICAgICAgIAogICAgICAgICR0aGlzLT5hc3NlcnRGYWxzZSgkcG9zaXRpb24tPmVxdWFscygkd2l0aE90aGVyWCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkY29tbWFuZCA9ICR0aGlzLT5nZXRDb21tYW5kKCk7CgogICAgICAgICR0aGlzLT5oYW5kbGVyLT5oYW5kbGUoJGNvbW1hbmQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiByZWZhY3Rvcj8/LCBoYXkgZG9zIGZsZWNoYXMK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogcmVmYXRvciwgcXVpesOhcyBzYWNhciBkZSBhcXXDrSB5IGHDsWFkaXIgdW4gbcOpdG9kbyBlcXVhbHMKICAgICAgICAgICAgLy8gVE9ETzogbyB5YSB0aWVuZT8/Pwo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB8fCAkcG9zaXRpb25PbmUtPngoKSAhPT0gJHBvc2l0aW9uVHdvLT54KCk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiByZWZhY3Rvcj8/LCBoYXkgZG9zIGZsZWNoYXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkdGhpcy0+Z2VvTWFwLT5hZGQoCi8vICAgICAgICAgICAgICAgIGFycmF5X3VkaWZmKAovLyAgICAgICAgICAgICAgICAgICAgJHRldHJvbWlub1Bvc2l0aW9ucywKLy8gICAgICAgICAgICAgICAgICAgICRub3RGaXRQb3NpdGlvbnMsCi8vICAgICAgICAgICAgICAgICAgICAvLyBUT0RPOiByZWZhdG9yLCBxdWl6w6FzIHNhY2FyIGRlIGFxdcOtIHkgYcOxYWRpciB1biBtw6l0b2RvIGVxdWFscwovLyAgICAgICAgICAgICAgICAgICAgLy8gVE9ETzogbyB5YSB0aWVuZT8/PwovLyAgICAgICAgICAgICAgICAgICAgZnVuY3Rpb24gKFBvc2l0aW9uMkQgJHBvc2l0aW9uT25lLCBQb3NpdGlvbjJEICRwb3NpdGlvblR3bykgewovLyAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAkcG9zaXRpb25PbmUtPnkoKSAhPT0gJHBvc2l0aW9uVHdvLT55KCkKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgfHwgJHBvc2l0aW9uT25lLT54KCkgIT09ICRwb3NpdGlvblR3by0+eCgpOwovLyAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICApCi8vICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogcmVmYXRvciwgcXVpesOhcyBzYWNhciBkZSBhcXXDrSB5IGHDsWFkaXIgdW4gbcOpdG9kbyBlcXVhbHMKICAgICAgICAgICAgLy8gVE9ETzogbyB5YSB0aWVuZT8/Pwo=</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -3576,8 +3583,8 @@
         <entry>131</entry>
         <entry>q</entry>
         <entry>sp</entry>
-        <entry>wa</entry>
         <entry>vs</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
