@@ -2987,12 +2987,12 @@
         <mark key="^" line="26" column="41" />
         <mark key="." line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" timestamp="1529431011928">
-        <mark key="'" line="114" column="7" />
-        <mark key="[" line="79" column="5" />
-        <mark key="]" line="80" column="61" />
-        <mark key="^" line="80" column="61" />
-        <mark key="." line="80" column="61" />
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" timestamp="1529434311561">
+        <mark key="'" line="264" column="58" />
+        <mark key="[" line="114" column="11" />
+        <mark key="]" line="114" column="23" />
+        <mark key="^" line="114" column="23" />
+        <mark key="." line="114" column="23" />
       </file>
       <file name="$USER_HOME$/Code/phetris7/test/Phetris7TestCase.php" timestamp="1486849725521">
         <mark key="[" line="9" column="39" />
@@ -3392,9 +3392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="36" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Tetromino/TetrominoOTest.php" />
-      <jump line="37" column="0" filename="$USER_HOME$/Code/cochescom/crmmigrations/src/infrastructure/gateways/finance/FinanceRequestGatewayCommand.php" />
-      <jump line="45" column="30" filename="$USER_HOME$/Code/cochescom/crmmigrations/tests/unit/infrastructure/gateways/finance/FinanceRequestGatewayCommandTest.php" />
       <jump line="5" column="3" filename="$USER_HOME$/Code/cochescom/crmmigrations/src/infrastructure/gateways/finance/FinanceRequestGatewayCommand.php" />
       <jump line="122" column="20" filename="$USER_HOME$/Code/cochescom/crmmigrations/src/domain/models/finance/FinanceRequest.php" />
       <jump line="30" column="16" filename="$USER_HOME$/Code/cochescom/crmmigrations/src/domain/models/finance/FinanceRequestData.php" />
@@ -3492,34 +3489,37 @@
       <jump line="293" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
       <jump line="113" column="7" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
       <jump line="368" column="29" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" />
+      <jump line="135" column="21" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
+      <jump line="123" column="32" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
+      <jump line="261" column="58" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>entero</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>entero</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
-        <text>addT</text>
+        <text encoding="base64">XDxpc0luQnVzeVw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ISRub3RGaXRHZW9NYXAtPmhhc1Bvc2l0aW9uKCRwb3NpdGlvbi0+eCgpLCAkcG9zaXRpb24tPnkoKSk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmdlb01hcC0+aGFzUG9zaXRpb24oJHBvc2l0aW9uLT54KCksICRwb3NpdGlvbi0+eSgpKQogICAgICAgICAgICAmJiAhJHRoaXMtPmlzTGltaXRQb3NpdGlvbigkcG9zaXRpb24pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiByZWZhY3Rvcgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gJHRoaXMtPmdlb01hcC0+Z2V0Tm90Q29udGFpbkdlb01hcCgkZ2VvTWFwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmdldFBvc2l0aW9uc0luUm93cygkcG9zaXRpb25zLCAkcm93c0J1c3lJbmRleGVzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkZSB0b2RhcyBsYXMgcG9zaWNpb25lcyBxdWl0YSBsYXMgcXVlIG5vIGNhYmVuCi8vICAgICAgICBmb3JlYWNoICgkcG9zaXRpb25zIGFzICRrZXkgPT4gJHBvc2l0aW9uKSB7Ci8vICAgICAgICAgICAgZm9yZWFjaCAoJG5vdEZpdFBvc2l0aW9ucyBhcyAkbm90Rml0UG9zaXRpb24pIHsKLy8gICAgICAgICAgICAgICAgaWYgKCRwb3NpdGlvbi0+ZXF1YWxzKCRub3RGaXRQb3NpdGlvbikpIHsKLy8gICAgICAgICAgICAgICAgICAgIHVuc2V0KCRwb3NpdGlvbnNbJGtleV0pOwovLyAgICAgICAgICAgICAgICAgICAgYnJlYWs7Ci8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Ci8vCi8vICAgICAgICByZXR1cm4gJHBvc2l0aW9uczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiByZWZhY3RvcgogICAgICAgIC8vIGRlIHRvZGFzIGxhcyBwb3NpY2lvbmVzIHF1aXRhIGxhcyBxdWUgbm8gY2FiZW4KLy8gICAgICAgIGZvcmVhY2ggKCRwb3NpdGlvbnMgYXMgJGtleSA9PiAkcG9zaXRpb24pIHsKLy8gICAgICAgICAgICBmb3JlYWNoICgkbm90Rml0UG9zaXRpb25zIGFzICRub3RGaXRQb3NpdGlvbikgewovLyAgICAgICAgICAgICAgICBpZiAoJHBvc2l0aW9uLT5lcXVhbHMoJG5vdEZpdFBvc2l0aW9uKSkgewovLyAgICAgICAgICAgICAgICAgICAgdW5zZXQoJHBvc2l0aW9uc1ska2V5XSk7Ci8vICAgICAgICAgICAgICAgICAgICBicmVhazsKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0KLy8KLy8gICAgICAgIHJldHVybiAkcG9zaXRpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcm93c0J1c3lJbmRleGVzID0gJHRoaXMtPmdldFJvd0luZGV4ZXMoJGJ1c3lQb3NpdGlvbnMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRmaXRQb3NpdGlvbnMgPSBbXTsKLy8gICAgICAgIC8qKiBAdmFyIFBvc2l0aW9uMkQgJHBvc2l0aW9uICovCi8vICAgICAgICBmb3JlYWNoICgkcG9zaXRpb25zIGFzICRwb3NpdGlvbikgewovLyAgICAgICAgICAgIGlmICghJG5vdEZpdEdlb01hcC0+aGFzUG9zaXRpb24oJHBvc2l0aW9uLT54KCksICRwb3NpdGlvbi0+eSgpKSkgewovLyAgICAgICAgICAgICAgICAkZml0UG9zaXRpb25zW10gPSAkcG9zaXRpb247Ci8vICAgICAgICAgICAgfQovLyAgICAgICAgfQovLwovLyAgICAgICAgcmV0dXJuICRmaXRQb3NpdGlvbnM7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAkYnVzeVBvc2l0aW9ucyA9ICR0aGlzLT5nZXRCdXN5UG9zaXRpb25zKCRwb3NpdGlvbnMpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -3528,27 +3528,26 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHBvc2l0aW9uczsK</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBQb3NpdGlvbjJEICRwb3NpdGlvbgogICAgICogQHJldHVybiBib29sCiAgICAgKiBAdGhyb3dzIFBvc2l0aW9uTm90Rm91bmRFeGNlcHRpb24KICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBpc0luQnVzeShQb3NpdGlvbjJEICRwb3NpdGlvbik6IGJvb2wKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmdlb01hcC0+aGFzUG9zaXRpb24oJHBvc2l0aW9uLT54KCksICRwb3NpdGlvbi0+eSgpKQogICAgICAgICAgICAmJiAhJHRoaXMtPmlzTGltaXRQb3NpdGlvbigkcG9zaXRpb24pOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>addT</last-search>
+      <last-search encoding="base64">XDxpc0luQnVzeVw+</last-search>
       <last-offset />
-      <last-pattern>addT</last-pattern>
+      <last-pattern encoding="base64">XDxpc0luQnVzeVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZGRQb3NpdGlvblRvQ29sbGVjdGlvblw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVcGRhdGVWZXJzaW9uVXNlQ2FzZVw+</entry>
         <entry encoding="base64">XDxzYXZlSW50b1NvbGljaXR1ZGVzVXNhZG9zXD4=</entry>
         <entry encoding="base64">XDxnZXRDdXJyZW50UG9zaXRpb25pbmdDbGFzc2lmaWVkXD4=</entry>
         <entry encoding="base64">XDxnZXRQb3NpdGlvbmluZ0NsYXNzaWZpZWRGcm9tUmVxdWVzdFw+</entry>
@@ -3568,6 +3567,7 @@
         <entry encoding="base64">XDxhZGRQb3NpdGlvblRvQ29sbGVjdGlvblw+</entry>
         <entry encoding="base64">XDxvdXRzaWRlQm9hcmRHZW9NYXBEYXRhUHJvdmlkZXJcPg==</entry>
         <entry>addT</entry>
+        <entry encoding="base64">XDxpc0luQnVzeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>159</entry>
