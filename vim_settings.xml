@@ -680,7 +680,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529650422216">
+      <file name="/Dummy.txt" timestamp="1529661755468">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/enums/EurotaxCodesEnum.php" timestamp="1507544252977">
@@ -1124,6 +1124,12 @@
         <mark key="]" line="9" column="54" />
         <mark key="." line="9" column="54" />
         <mark key="^" line="9" column="54" />
+      </file>
+      <file name="$USER_HOME$/Code/cochescom/tpv.coches.com/src/domain/infrastructure/payment/PaymentRecorder.php" timestamp="1529661791322">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="14" column="38" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Position/CodeDictionary.php" timestamp="1498772697285">
         <mark key="[" line="6" column="0" />
@@ -2060,6 +2066,12 @@
         <mark key="^" line="1" column="55" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/cochescom/tpv.coches.com/src/domain/enum/PaymentStatus.php" timestamp="1529661595788">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris2D/Movement/Right.php" timestamp="1502472592637">
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="30" />
@@ -2107,6 +2119,12 @@
         <mark key="]" line="111" column="15" />
         <mark key="^" line="111" column="15" />
         <mark key="." line="111" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/cochescom/tpv.coches.com/src/domain/infrastructure/exceptions/PaymentRecorderException.php" timestamp="1529661781150">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="48" />
+        <mark key="^" line="3" column="48" />
+        <mark key="." line="3" column="48" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/test/unit/fixtures/test_command_handler_map.php" timestamp="1524929571111">
         <mark key="[" line="2" column="27" />
@@ -3365,6 +3383,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/cochescom/tpv.coches.com/src/application/usecases/payment/FinishPaymentUseCase.php" timestamp="1529661636874">
+        <mark key="[" line="9" column="46" />
+        <mark key="]" line="10" column="71" />
+        <mark key="^" line="10" column="71" />
+        <mark key="." line="10" column="71" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Domain/Factory/CommandFactory.php" timestamp="1525254453882">
         <mark key="[" line="7" column="43" />
         <mark key="]" line="7" column="60" />
@@ -3512,10 +3536,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gbWl4ZWQK</text>
       </register>
       <register name="-" type="4">
-        <text>paypalConfig</text>
+        <text encoding="base64">Y29ycmVjdG8g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQb3NpdGlvbnNJblJvd3NcPg==</text>
@@ -3524,31 +3548,31 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZigKICAgICAgICAgICAgUGF5cGFsUGF5bWVudE1ldGhvZDo6Y2xhc3MsCiAgICAgICAgICAgICRmYWN0b3J5LT5nZXRQYXlwYWwoJHBheXBhbENvbmZpZykKICAgICAgICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gbWl4ZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBpQ29udGV4dCA9IG5ldyBBcGlDb250ZXh0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -3604,8 +3628,8 @@
         <entry>131</entry>
         <entry>q</entry>
         <entry>sp</entry>
-        <entry>vs</entry>
         <entry>w</entry>
+        <entry>vs</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
