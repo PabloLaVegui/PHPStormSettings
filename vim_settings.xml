@@ -1450,12 +1450,12 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/cochescom/tpv.coches.com/src/infrastructure/paymentmethod/PaymentMethodFactory.php" timestamp="1529650648302">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="36" column="27" />
-        <mark key="]" line="36" column="26" />
-        <mark key="." line="36" column="26" />
-        <mark key="^" line="36" column="26" />
+      <file name="$USER_HOME$/Code/cochescom/tpv.coches.com/src/infrastructure/paymentmethod/PaymentMethodFactory.php" timestamp="1529653235328">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="54" column="54" />
+        <mark key="]" line="54" column="54" />
+        <mark key="." line="54" column="54" />
+        <mark key="^" line="54" column="54" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/phpstorm-docker-xdebug-apache/phpunit.xml" timestamp="1518046749900">
         <mark key="[" line="0" column="0" />
@@ -3409,7 +3409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="26" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Application/Phetris/Handler/NextStepHandlerTest.php" />
       <jump line="109" column="26" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Application/Phetris/Handler/NextStepHandlerTest.php" />
       <jump line="177" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Application/Phetris/Handler/NextStepHandlerTest.php" />
       <jump line="8" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" />
@@ -3509,10 +3508,11 @@
       <jump line="117" column="24" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
       <jump line="734" column="60" filename="$USER_HOME$/Code/cochescom/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
       <jump line="31" column="0" filename="$USER_HOME$/Code/cochescom/tpv.coches.com/src/infrastructure/paymentmethod/PaymentMethodFactory.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/cochescom/tpv.coches.com/src/infrastructure/paymentmethod/PaymentMethodFactory.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>paypalConfig</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>paypalConfig</text>
@@ -3524,10 +3524,10 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZigKICAgICAgICAgICAgUGF5cGFsUGF5bWVudE1ldGhvZDo6Y2xhc3MsCiAgICAgICAgICAgICRmYWN0b3J5LT5nZXRQYXlwYWwoJHBheXBhbENvbmZpZykKICAgICAgICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -3536,19 +3536,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBpQ29udGV4dCA9IG5ldyBBcGlDb250ZXh0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkYXBpQ29udGV4dCA9IG5ldyBBcGlDb250ZXh0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
