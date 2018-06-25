@@ -1449,8 +1449,8 @@
         <mark key="^" line="7" column="72" />
         <mark key="." line="7" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" timestamp="1529533499602">
-        <mark key="'" line="370" column="29" />
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" timestamp="1529947117146">
+        <mark key="'" line="344" column="20" />
         <mark key="[" line="15" column="29" />
         <mark key="]" line="15" column="29" />
         <mark key="." line="15" column="29" />
@@ -2958,12 +2958,12 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Value/GeoMap2D.php" timestamp="1529946678976">
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Value/GeoMap2D.php" timestamp="1529947277954">
         <mark key="'" line="23" column="4" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="8" />
-        <mark key="." line="19" column="8" />
-        <mark key="^" line="19" column="11" />
+        <mark key="[" line="207" column="23" />
+        <mark key="]" line="207" column="30" />
+        <mark key="." line="207" column="30" />
+        <mark key="^" line="207" column="30" />
       </file>
       <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Infrastructure/Movement/MovementListener.php" timestamp="1527715313472">
         <mark key="[" line="9" column="10" />
@@ -3019,12 +3019,12 @@
         <mark key="^" line="26" column="41" />
         <mark key="." line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" timestamp="1529946912056">
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" timestamp="1529947375779">
         <mark key="'" line="252" column="58" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="^" line="99" column="3" />
-        <mark key="." line="102" column="0" />
+        <mark key="[" line="83" column="24" />
+        <mark key="]" line="83" column="24" />
+        <mark key="^" line="83" column="24" />
+        <mark key="." line="83" column="24" />
       </file>
       <file name="$USER_HOME$/Code/phetris7/test/Phetris7TestCase.php" timestamp="1486849725521">
         <mark key="[" line="9" column="39" />
@@ -3433,7 +3433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="50" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" />
       <jump line="141" column="52" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" />
       <jump line="140" column="12" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" />
@@ -3533,13 +3532,14 @@
       <jump line="125" column="21" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
       <jump line="124" column="6" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
       <jump line="252" column="58" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
+      <jump line="344" column="20" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0Tm90Rml0R2VvTWFwKEdlb01hcDJEICRnZW9NYXApOiBHZW9NYXAyRAo=</text>
+      <register name="&quot;" type="4">
+        <text>Busy</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>Busy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0luQnVzeVw+</text>
@@ -3575,7 +3575,7 @@
         <text encoding="base64">ICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0ZXRyb21pbm9HZW9tYXAK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3629,8 +3629,8 @@
         <entry>q</entry>
         <entry>sp</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
