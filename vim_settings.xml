@@ -806,7 +806,7 @@
         <mark key="^" line="24" column="6" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529595431581">
+      <file name="/Dummy.txt" timestamp="1529913266807">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/application/UseCases/requests/CreateRequestUsecaseTest.php" timestamp="1521560054294">
@@ -1492,6 +1492,12 @@
         <mark key="]" line="77" column="20" />
         <mark key="." line="77" column="0" />
         <mark key="^" line="73" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/tpv.coches.com/tests/unit/application/usecases/FinishPaymentUseCaseTest.php" timestamp="1529913336359">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="17" column="51" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/README.md" timestamp="1521027101307">
         <mark key="[" line="4" column="5" />
@@ -4117,11 +4123,11 @@
       <jump line="58" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/tests/unit/infrastructure/paymentmethod/paypal/PaypalPaymentMethodTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUcmFuc2FjdGlvblw+</text>
@@ -4130,31 +4136,31 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+dHJhbnNmb3JtZXJNb2NrLT5leHBlY3RzKHNlbGY6Om9uY2UoKSkKICAgICAgICAgICAgLT5tZXRob2QoJ2Zyb21QYXlwYWxQYXltZW50UmVxdWVzdFRvUGF5cGFsUGF5bWVudCcpCiAgICAgICAgICAgIC0+d2lsbFJldHVybigkcGF5cGFsUGF5bWVudE1vY2spOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBydW5JblNlcGFyYXRlUHJvY2Vzcwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAqIEBydW5JblNlcGFyYXRlUHJvY2Vzcwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8qKgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIEBydW5JblNlcGFyYXRlUHJvY2Vzcwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcGF5cGFsUGF5bWVudE1vY2stPmV4cGVjdHMoc2VsZjo6b25jZSgpKQogICAgICAgICAgICAtPm1ldGhvZCgnZ2V0QXBwcm92YWxMaW5rJykKICAgICAgICAgICAgLT53aWxsUmV0dXJuKCRhcHByb3ZhbExpbmspOwo=</text>
+        <text encoding="base64">ICAgIC8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGF5cGFsUGF5bWVudE1vY2stPmV4cGVjdHMoc2VsZjo6b25jZSgpKQogICAgICAgICAgICAtPm1ldGhvZCgnZ2V0QXBwcm92YWxMaW5rJykKICAgICAgICAgICAgLT53aWxsUmV0dXJuKCRhcHByb3ZhbExpbmspOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
