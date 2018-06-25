@@ -806,7 +806,7 @@
         <mark key="^" line="24" column="6" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529918064225">
+      <file name="/Dummy.txt" timestamp="1529921627797">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/application/UseCases/requests/CreateRequestUsecaseTest.php" timestamp="1521560054294">
@@ -2076,7 +2076,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/Payment.php" timestamp="1529918755974">
+      <file name="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/Payment.php" timestamp="1529920487286">
         <mark key="'" line="47" column="3" />
         <mark key="[" line="46" column="5" />
         <mark key="]" line="47" column="3" />
@@ -3514,6 +3514,12 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/tpv.coches.com/src/application/usecases/payment/FinishPaymentUseCase.php" timestamp="1529920529766">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="9" column="72" />
+        <mark key="^" line="9" column="72" />
+        <mark key="." line="9" column="72" />
+      </file>
       <file name="$USER_HOME$/Projects/tpv.coches.com/src/infrastructure/paymentmethod/PaypalPaymentMethod.php" timestamp="1529575687839">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
@@ -3987,6 +3993,11 @@
         <mark key="^" line="7" column="64" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/tpv.coches.com/src/infrastructure/paymentmethod/paypal/PaypalStatusResolver.php" timestamp="1529921655428">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="33" column="5" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/OrderTransformer.php" timestamp="1513595848772">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="12" />
@@ -4129,10 +4140,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHJlc29sdmVycyA9IFsKICAgICAgICBQYXltZW50TWV0aG9kc0VudW06OlBBWVBBTCA9PiBQYXlwYWxTdGF0dXNSZXNvbHZlcjo6Y2xhc3MsCiAgICBdOwoKICAgIC8qKgogICAgICogQHBhcmFtIFBheW1lbnRNZXRob2RzRW51bSAkbWV0aG9kCiAgICAgKiBAcGFyYW0gJHBheW1lbnRNZXRob2RTdGF0dXMKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHJlc29sdmUoUGF5bWVudE1ldGhvZHNFbnVtICRtZXRob2QsICRwYXltZW50TWV0aG9kU3RhdHVzKQogICAgewogICAgICAgICR0aGlzLT5nZXRQYXltZW50TWV0aG9kUmVzb2x2ZXIoJG1ldGhvZCk7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gUGF5bWVudE1ldGhvZHNFbnVtICRtZXRob2QKICAgICAqIEByZXR1cm4gbWl4ZWQKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBnZXRQYXltZW50TWV0aG9kUmVzb2x2ZXIoUGF5bWVudE1ldGhvZHNFbnVtICRtZXRob2QpCiAgICB7CiAgICAgICAgJGNsYXNzTmFtZSA9ICR0aGlzLT5yZXNvbHZlcnNbJG1ldGhvZF07CgogICAgICAgIHJldHVybiBuZXcgJGNsYXNzTmFtZTsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUcmFuc2FjdGlvblw+</text>
@@ -4141,31 +4152,31 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+dHJhbnNmb3JtZXJNb2NrLT5leHBlY3RzKHNlbGY6Om9uY2UoKSkKICAgICAgICAgICAgLT5tZXRob2QoJ2Zyb21QYXlwYWxQYXltZW50UmVxdWVzdFRvUGF5cGFsUGF5bWVudCcpCiAgICAgICAgICAgIC0+d2lsbFJldHVybigkcGF5cGFsUGF5bWVudE1vY2spOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHJlc29sdmVycyA9IFsKICAgICAgICBQYXltZW50TWV0aG9kc0VudW06OlBBWVBBTCA9PiBQYXlwYWxTdGF0dXNSZXNvbHZlcjo6Y2xhc3MsCiAgICBdOwoKICAgIC8qKgogICAgICogQHBhcmFtIFBheW1lbnRNZXRob2RzRW51bSAkbWV0aG9kCiAgICAgKiBAcGFyYW0gJHBheW1lbnRNZXRob2RTdGF0dXMKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHJlc29sdmUoUGF5bWVudE1ldGhvZHNFbnVtICRtZXRob2QsICRwYXltZW50TWV0aG9kU3RhdHVzKQogICAgewogICAgICAgICR0aGlzLT5nZXRQYXltZW50TWV0aG9kUmVzb2x2ZXIoJG1ldGhvZCk7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gUGF5bWVudE1ldGhvZHNFbnVtICRtZXRob2QKICAgICAqIEByZXR1cm4gbWl4ZWQKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBnZXRQYXltZW50TWV0aG9kUmVzb2x2ZXIoUGF5bWVudE1ldGhvZHNFbnVtICRtZXRob2QpCiAgICB7CiAgICAgICAgJGNsYXNzTmFtZSA9ICR0aGlzLT5yZXNvbHZlcnNbJG1ldGhvZF07CgogICAgICAgIHJldHVybiBuZXcgJGNsYXNzTmFtZTsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBydW5JblNlcGFyYXRlUHJvY2Vzcwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAqIEBydW5JblNlcGFyYXRlUHJvY2Vzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+        <text encoding="base64">ICAgICAqIEBydW5JblNlcGFyYXRlUHJvY2Vzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
