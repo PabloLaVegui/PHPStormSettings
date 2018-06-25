@@ -102,6 +102,12 @@
         <mark key="." line="62" column="69" />
         <mark key="^" line="62" column="69" />
       </file>
+      <file name="$USER_HOME$/Projects/tpv.coches.com/src/domain/infrastructure/user/UserProvider.php" timestamp="1529933125462">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/calendar-api/test/Config/YamlConfigTest.php" timestamp="1510741932286">
         <mark key="[" line="16" column="49" />
         <mark key="]" line="16" column="51" />
@@ -434,6 +440,12 @@
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="17" />
         <mark key="^" line="20" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/tpv.coches.com/src/domain/infrastructure/user/PaymentUserRecorder.php" timestamp="1529933786785">
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+        <mark key="." line="10" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/logs/Log.php" timestamp="1521560611287">
         <mark key="[" line="3" column="10" />
@@ -812,7 +824,7 @@
         <mark key="^" line="24" column="6" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529932564155">
+      <file name="/Dummy.txt" timestamp="1529933741499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/application/UseCases/requests/CreateRequestUsecaseTest.php" timestamp="1521560054294">
@@ -1473,6 +1485,13 @@
         <mark key="]" line="11" column="45" />
         <mark key="^" line="11" column="45" />
         <mark key="." line="11" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/PaymentUser.php" timestamp="1529933484762">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="45" column="5" />
+        <mark key="]" line="46" column="34" />
+        <mark key="^" line="46" column="34" />
+        <mark key="." line="46" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/helpers/PhoneHelperTest.php" timestamp="1517496337918">
         <mark key="[" line="32" column="21" />
@@ -2607,6 +2626,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="18" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/tpv.coches.com/src/domain/infrastructure/user/PaymentUserProvider.php" timestamp="1529933171196">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="11" column="39" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="11" column="39" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris/GeoMap/GeoMapTest.php" timestamp="1505771235784">
         <mark key="[" line="47" column="25" />
         <mark key="]" line="47" column="24" />
@@ -3039,12 +3064,12 @@
         <mark key="." line="19" column="7" />
         <mark key="^" line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/tpv.coches.com/src/application/usecases/payment/FinishPaymentRequest.php" timestamp="1529932430585">
+      <file name="$USER_HOME$/Projects/tpv.coches.com/src/application/usecases/payment/FinishPaymentRequest.php" timestamp="1529934385094">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-        <mark key="^" line="17" column="3" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="52" column="5" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/kata-environment/composer.json" timestamp="1498342461224">
         <mark key="[" line="7" column="30" />
@@ -3546,12 +3571,11 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/tpv.coches.com/src/application/usecases/payment/FinishPaymentUseCase.php" timestamp="1529932779518">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="46" column="52" />
-        <mark key="]" line="46" column="52" />
-        <mark key="^" line="46" column="52" />
-        <mark key="." line="46" column="52" />
+      <file name="$USER_HOME$/Projects/tpv.coches.com/src/application/usecases/payment/FinishPaymentUseCase.php" timestamp="1529934579563">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="74" column="58" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tpv.coches.com/src/infrastructure/paymentmethod/PaypalPaymentMethod.php" timestamp="1529575687839">
         <mark key="[" line="73" column="0" />
@@ -4081,8 +4105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/AllRequestDumpCommand.php" />
-      <jump line="27" column="23" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/AllRequestDumpCommand.php" />
       <jump line="68" column="9" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/RequestsDumpCommand.php" />
       <jump line="34" column="9" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/IdListRequestDumpCommand.php" />
       <jump line="26" column="71" filename="$USER_HOME$/Projects/crmmigrations/application/commands/dumps/IdListRequestDumpCommand.php" />
@@ -4181,46 +4203,48 @@
       <jump line="58" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/tests/unit/infrastructure/paymentmethod/paypal/PaypalPaymentMethodTest.php" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/src/application/usecases/payment/FinishPaymentRequest.php" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/src/application/usecases/payment/FinishPaymentUseCase.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/PaymentUser.php" />
+      <jump line="54" column="63" filename="$USER_HOME$/Projects/tpv.coches.com/src/application/usecases/payment/FinishPaymentUseCase.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSW52YWxpZFBheW1lbnRTdGF0dXNFeGNlcHRpb24K</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBGaW5pc2hQYXltZW50UmVxdWVzdCAkcmVxdWVzdAogICAgICogQHJldHVybiBib29sCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gaXNPa1BheW1lbnQoRmluaXNoUGF5bWVudFJlcXVlc3QgJHJlcXVlc3QpCiAgICB7CiAgICAgICAgcmV0dXJuIDsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>getPayment($request)</text>
+        <text encoding="base64">JHRoaXMtPmlzT2tQYXltZW50KCRyZXF1ZXN0LT5nZXRQYXltZW50U3RhdHVzKCkp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUcmFuc2FjdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIGNvY2hlc2NvbVx0cHZcZG9tYWluXHNlcnZpY2VzXGV4Y2VwdGlvbnM7Cg==</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIGZsb2F0ICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSW52YWxpZFBheW1lbnRTdGF0dXNFeGNlcHRpb24K</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBGaW5pc2hQYXltZW50UmVxdWVzdCAkcmVxdWVzdAogICAgICogQHJldHVybiBib29sCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gaXNPa1BheW1lbnQoRmluaXNoUGF5bWVudFJlcXVlc3QgJHJlcXVlc3QpCiAgICB7CiAgICAgICAgcmV0dXJuIDsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIGNvY2hlc2NvbVx0cHZcZG9tYWluXG1vZGVsc1xQYXltZW50Owo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkcmVxdWVzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgVFlQRV9OQU1FICR0aGlzICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBGaW5pc2hQYXltZW50UmVxdWVzdCAkcmVxdWVzdAogICAgICogQHJldHVybiBQYXltZW50CiAgICAgKiBAdGhyb3dzIEludmFsaWRQYXltZW50U3RhdHVzRXhjZXB0aW9uCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0UGF5bWVudChGaW5pc2hQYXltZW50UmVxdWVzdCAkcmVxdWVzdCkKICAgIHsKICAgIH0KCiAgICAvKioKICAgICAqIEBwYXJhbSBzdHJpbmcgJHBheW1lbnRNZXRoZG9QYXltZW50U3RhdHVzCiAgICAgKiBAcmV0dXJuIGludAogICAgICogQHRocm93cyBJbnZhbGlkUGF5bWVudFN0YXR1c0V4Y2VwdGlvbgogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldFBheW1lbnRTdGF0dXMoJHBheW1lbnRNZXRoZG9QYXltZW50U3RhdHVzKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+c3RhdHVzUmVzb2x2ZXItPnJlc29sdmUoJHBheW1lbnRNZXRoZG9QYXltZW50U3RhdHVzKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogRXhjZXB0aW9ucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFBheW1lbnQoCiAgICAgICAgICAgICdpZCcsICAgICAgICAgICAgICAgICAgICAgICAvLyBUT0RPKFBhYmxvKTogaGFjZSBmYWx0YT8/Pz8KICAgICAgICAgICAgJHJlcXVlc3QtPmdldFVzZXJJZCgpLAogICAgICAgICAgICAkcmVxdWVzdC0+Z2V0UGF5bWVudFN0YXR1cygpLAogICAgICAgICAgICBuZXcgXERhdGVUaW1lKCksCiAgICAgICAgICAgIG5ldyBcRGF0ZVRpbWUsCiAgICAgICAgICAgICRyZXF1ZXN0LT5nZXRBbW91bnQoKSwKICAgICAgICAgICAgJHJlcXVlc3QtPmdldERlc2NyaXB0aW9uKCkKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmlzT2tQYXltZW50KCRyZXF1ZXN0KSkgewogICAgICAgICAgICAkdXNlciA9ICR0aGlzLT51c2VyUHJvdmlkZXItPmZpbmRCeUlkT3JGYWlsKCRyZXF1ZXN0LT5nZXRVc2VySWQoKSk7CiAgICAgICAgICAgICR1c2VyLT5hZGRCYWxhbmNlKCRyZXF1ZXN0LT5nZXRCYWxhbmNlVG9BZGQoKSk7CgogICAgICAgICAgICAkdGhpcy0+dXNlclJlY29yZGVyLT5zYXZlT3JGYWlsKCR1c2VyKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IAo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGFkZEJhbGFuY2VUb1VzZXIoJHJlcXVlc3QpCiAgICB7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIGNvY2hlc2NvbVx0cHZcZG9tYWluXHNlcnZpY2VzXFN0YXR1c1Jlc29sdmVyOwo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBGaW5pc2hQYXltZW50UmVxdWVzdCAkcmVxdWVzdAogICAgICogQHJldHVybiBmbG9hdAogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldEJhbGFuY2VUb0FkZChGaW5pc2hQYXltZW50UmVxdWVzdCAkcmVxdWVzdCkKICAgIHsKICAgICAgICAvLyBUT0RPKFBhYmxvKToKICAgICAgICByZXR1cm4gMDsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogRmluaXNoUGF5bWVudFVzZUNhc2UgY29uc3RydWN0b3IuCiAgICAgKiBAcGFyYW0gU3RhdHVzUmVzb2x2ZXIgJHN0YXR1c1Jlc29sdmVyCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChTdGF0dXNSZXNvbHZlciAkc3RhdHVzUmVzb2x2ZXIpCiAgICB7CiAgICAgICAgJHRoaXMtPnN0YXR1c1Jlc29sdmVyID0gJHN0YXR1c1Jlc29sdmVyOwogICAgfQo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gZmxvYXQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEJhbGFuY2VUb0FkZCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5iYWxhbmNlVG9BZGQ7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyhQYWJsbyk6IE9qbywgYQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
