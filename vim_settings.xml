@@ -1524,10 +1524,11 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="73" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/tpv.coches.com/tests/unit/application/usecases/FinishPaymentUseCaseTest.php" timestamp="1529942681849">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/Projects/tpv.coches.com/tests/unit/application/usecases/FinishPaymentUseCaseTest.php" timestamp="1529998513129">
+        <mark key="[" line="88" column="69" />
+        <mark key="]" line="88" column="83" />
+        <mark key="." line="88" column="83" />
+        <mark key="^" line="88" column="83" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/README.md" timestamp="1521027101307">
         <mark key="[" line="4" column="5" />
@@ -4206,11 +4207,11 @@
       <jump line="54" column="63" filename="$USER_HOME$/Projects/tpv.coches.com/src/application/usecases/payment/FinishPaymentUseCase.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>request, $initBalance</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>request, $initBalance</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUcmFuc2FjdGlvblw+</text>
@@ -4219,19 +4220,19 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlY2FzZS0+ZXhlY3V0ZSgkcmVxdWVzdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRleHBlY3RlZEJhbGFuY2UgPSAkcmVxdWVzdC0+Z2V0QmFsYW5jZVRvQWRkKCkgKyAkaW5pdEJhbGFuY2U7Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlck1vY2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoKHNlbGY6OmNhbGxiYWNrKGZ1bmN0aW9uIChQYXltZW50VXNlciAkdXNlcikgdXNlICgkcmVxdWVzdCwgJGluaXRCYWxhbmNlKSB7CiAgICAgICAgICAgICAgICAkaSA9ICRyZXF1ZXN0LT5nZXRCYWxhbmNlVG9BZGQoKSArICRpbml0QmFsYW5jZTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5nZXRNb2NrKCk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">cXVlc3QtPmdldEJhbGFuY2VUb0FkZCgpICsgJGluaXRCYWxhbmNlOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlck1vY2sgPSAkdGhpcy0+Z2V0TW9ja0J1aWxkZXIoUGF5bWVudFVzZXI6OmNsYXNzKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICByZXR1cm4gJCA9PT0=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -4240,10 +4241,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmJgo=</text>
+        <text encoding="base64">ICAgICAgICAkdXNlck1vY2sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmJiAkcmVxdWVzdC0+Z2V0UGF5ZWRBbW91bnQoKSA9PT0gJHBheW1lbnQtPmdldEFtb3VudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5nZXRNb2NrKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
