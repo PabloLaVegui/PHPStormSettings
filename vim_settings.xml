@@ -423,12 +423,12 @@
         <mark key="^" line="76" column="3" />
         <mark key="." line="76" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/tpv.coches.com/tests/unit/domain/models/PaymentTest.php" timestamp="1530523524545">
-        <mark key="'" line="24" column="32" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="^" line="94" column="7" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Projects/tpv.coches.com/tests/unit/domain/models/PaymentTest.php" timestamp="1530525924911">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="15" column="13" />
+        <mark key="^" line="15" column="13" />
+        <mark key="." line="15" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/autoload.php" timestamp="1514977122342">
         <mark key="[" line="10" column="42" />
@@ -2202,12 +2202,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/Payment.php" timestamp="1530523234133">
-        <mark key="'" line="114" column="6" />
-        <mark key="[" line="120" column="35" />
-        <mark key="]" line="120" column="40" />
-        <mark key="." line="120" column="40" />
-        <mark key="^" line="120" column="40" />
+      <file name="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/Payment.php" timestamp="1530525963909">
+        <mark key="'" line="159" column="4" />
+        <mark key="[" line="162" column="17" />
+        <mark key="]" line="162" column="47" />
+        <mark key="." line="162" column="47" />
+        <mark key="^" line="162" column="47" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Movemet/PositionChecker.php" timestamp="1499119918084">
         <mark key="[" line="18" column="0" />
@@ -4248,11 +4248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="4" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/package/Package.php" />
-      <jump line="38" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/package/Package.php" />
-      <jump line="66" column="24" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/enum/Enum.php" />
-      <jump line="53" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/enum/Enum.php" />
-      <jump line="20" column="28" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/package/BasicPackage.php" />
       <jump line="20" column="28" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/package/StandardPackage.php" />
       <jump line="55" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/src/application/usecases/draft/CreateDraftRequest.php" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/package/Package.php" />
@@ -4348,49 +4343,54 @@
       <jump line="17" column="55" filename="$USER_HOME$/Projects/tpv.coches.com/tests/unit/domain/models/PaymentTest.php" />
       <jump line="114" column="6" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/Payment.php" />
       <jump line="24" column="32" filename="$USER_HOME$/Projects/tpv.coches.com/tests/unit/domain/models/PaymentTest.php" />
+      <jump line="138" column="13" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/Payment.php" />
+      <jump line="42" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/tests/unit/domain/models/PaymentTest.php" />
+      <jump line="28" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/Payment.php" />
+      <jump line="150" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/Payment.php" />
+      <jump line="159" column="4" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/Payment.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIEBleHBlY3RlZEV4Y2VwdGlvbk1lc3NhZ2UgVGhlIHVzZXIgaWQgaXMgcmVxdWlyZWQK</text>
       </register>
       <register name="-" type="4">
-        <text>has_a_positive_amount</text>
+        <text encoding="base64">ICBzZWxmOjo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUcmFuc2FjdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgUGF5bWVudCgKICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgJ3VzZXJfaWQnLAogICAgICAgICAgICAkaW52YWxpZFN0YXR1cywKICAgICAgICAgICAgbmV3IFxEYXRlVGltZSgpLAogICAgICAgICAgICAxMDAsCiAgICAgICAgICAgIFBheW1lbnRNZXRob2RzRW51bTo6UEFZUEFMCiAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRQYXltZW50RXhjZXB0aW9uKAogICAgICAgICAgICAgICAgJ0ludmFsaWQgcGF5bWVudCBhbW91bnQnCiAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIEBleHBlY3RlZEV4Y2VwdGlvbk1lc3NhZ2UgVGhlIHVzZXIgaWQgaXMgcmVxdWlyZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBleHBlY3RlZEV4Y2VwdGlvbiBcY29jaGVzY29tXHRwdlxkb21haW5cZXhjZXB0aW9uXEludmFsaWRQYXltZW50RXhjZXB0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkaW52YWxpZEFtb3VudAo=</text>
+        <text encoding="base64">ICAgICAqIEBleHBlY3RlZEV4Y2VwdGlvbiBcY29jaGVzY29tXHRwdlxkb21haW5cZXhjZXB0aW9uXEludmFsaWRQYXltZW50RXhjZXB0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAqIEBleHBlY3RlZEV4Y2VwdGlvbk1lc3NhZ2UgVGhlIHBheW1lbnQgc3RhdHVzIGlzIG5vdCB2YWxpZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3RhdHVzID0gJHN0YXR1czsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGF5bWVudFN0YXR1c0VudW06OktPLAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0Uwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhwZWN0RXhjZXB0aW9uKEludmFsaWRQYXltZW50RXhjZXB0aW9uOjpjbGFzcyk7CiAgICAgICAgJHRoaXMtPmV4cGVjdEV4Y2VwdGlvbk1lc3NhZ2UoJ1RoZSBwYXltZW50IG1ldGhvZCBpcyBub3QgdmFsaWQnKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgOTk5OTk5OTk5OTk5OTk5OTkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAqIEBleHBlY3RlZEV4Y2VwdGlvbk1lc3NhZ2UgVGhlIHBheW1lbnQgbWV0aG9kIGlzIG5vdCB2YWxpZAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAqIEBleHBlY3RlZEV4Y2VwdGlvbiBcY29jaGVzY29tXHRwdlxkb21haW5cZXhjZXB0aW9uXEludmFsaWRQYXltZW50RXhjZXB0aW9uCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -4444,8 +4444,8 @@
         <entry>w</entry>
         <entry>x</entry>
         <entry>vs</entry>
-        <entry>q</entry>
         <entry>wa</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
