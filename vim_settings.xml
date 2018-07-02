@@ -423,12 +423,12 @@
         <mark key="^" line="76" column="3" />
         <mark key="." line="76" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/tpv.coches.com/tests/unit/domain/models/PaymentTest.php" timestamp="1530523099191">
-        <mark key="'" line="17" column="55" />
-        <mark key="[" line="45" column="33" />
-        <mark key="]" line="45" column="64" />
-        <mark key="^" line="17" column="32" />
-        <mark key="." line="45" column="33" />
+      <file name="$USER_HOME$/Projects/tpv.coches.com/tests/unit/domain/models/PaymentTest.php" timestamp="1530523524545">
+        <mark key="'" line="24" column="32" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="94" column="7" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/autoload.php" timestamp="1514977122342">
         <mark key="[" line="10" column="42" />
@@ -2202,12 +2202,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/Payment.php" timestamp="1530523095076">
-        <mark key="'" line="43" column="19" />
-        <mark key="[" line="122" column="17" />
-        <mark key="]" line="122" column="47" />
-        <mark key="." line="115" column="17" />
-        <mark key="^" line="115" column="17" />
+      <file name="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/Payment.php" timestamp="1530523234133">
+        <mark key="'" line="114" column="6" />
+        <mark key="[" line="120" column="35" />
+        <mark key="]" line="120" column="40" />
+        <mark key="." line="120" column="40" />
+        <mark key="^" line="120" column="40" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Movemet/PositionChecker.php" timestamp="1499119918084">
         <mark key="[" line="18" column="0" />
@@ -4248,8 +4248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="4" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/package/Package.php" />
-      <jump line="31" column="3" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/package/Package.php" />
       <jump line="68" column="4" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/package/Package.php" />
       <jump line="38" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/package/Package.php" />
       <jump line="66" column="24" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/enum/Enum.php" />
@@ -4348,46 +4346,48 @@
       <jump line="86" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/Payment.php" />
       <jump line="42" column="19" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/Payment.php" />
       <jump line="17" column="55" filename="$USER_HOME$/Projects/tpv.coches.com/tests/unit/domain/models/PaymentTest.php" />
+      <jump line="114" column="6" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/Payment.php" />
+      <jump line="24" column="32" filename="$USER_HOME$/Projects/tpv.coches.com/tests/unit/domain/models/PaymentTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>The user id is required</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>The user id is required</text>
+        <text>has_a_positive_amount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUcmFuc2FjdGlvblw+</text>
       </register>
-      <register name="0" type="4">
-        <text>The payment status is not valid</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgUGF5bWVudCgKICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgJ3VzZXJfaWQnLAogICAgICAgICAgICAkaW52YWxpZFN0YXR1cywKICAgICAgICAgICAgbmV3IFxEYXRlVGltZSgpLAogICAgICAgICAgICAxMDAsCiAgICAgICAgICAgIFBheW1lbnRNZXRob2RzRW51bTo6UEFZUEFMCiAgICAgICAgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3RhdHVzID0gJHN0YXR1czsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGF5bWVudFN0YXR1c0VudW06OktPLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0Uwo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkaW52YWxpZEFtb3VudAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3RhdHVzID0gJHN0YXR1czsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdhcHBsaWNhdGlvbi5jb250cm9sbGVycy5DcmlzLionLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGF5bWVudFN0YXR1c0VudW06OktPLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdhcHBsaWNhdGlvbi52YWxpZGF0b3JzLionLAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0Uwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NsYXNzaWZpZWREVE8nID0+ICRjbGFzc2lmaWVkVmlld0RUTywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
