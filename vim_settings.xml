@@ -193,11 +193,11 @@
         <mark key="^" line="35" column="23" />
         <mark key="." line="28" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/cochescom/tpv.coches.com/src/infrastructure/paymentmethod/paypal/PaypalFinisher.php" timestamp="1530624953651">
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="30" />
-        <mark key="^" line="19" column="30" />
-        <mark key="." line="19" column="30" />
+      <file name="$USER_HOME$/Code/cochescom/tpv.coches.com/src/infrastructure/paymentmethod/paypal/PaypalFinisher.php" timestamp="1530625933533">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="29" column="70" />
+        <mark key="^" line="29" column="70" />
+        <mark key="." line="29" column="70" />
       </file>
       <file name="$USER_HOME$/Code/php-observer/src/Base.php" timestamp="1490723693702">
         <mark key="[" line="9" column="0" />
@@ -626,10 +626,11 @@
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/dto/PositioningClassifiedRequest.php" timestamp="1524044109199">
         <mark key="[" line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/Code/cochescom/tpv.coches.com/src/infrastructure/paymentmethod/paypal/PaypalFinishRequest.php" timestamp="1530624698930">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Code/cochescom/tpv.coches.com/src/infrastructure/paymentmethod/paypal/PaypalFinishRequest.php" timestamp="1530625745986">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="27" column="57" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/composer.json" timestamp="1507591340664">
         <mark key="[" line="17" column="36" />
@@ -1487,10 +1488,10 @@
         <mark key="^" line="413" column="23" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/cochescom/tpv.coches.com/src/infrastructure/paymentmethod/PaymentMethodFactory.php" timestamp="1529653235328">
+      <file name="$USER_HOME$/Code/cochescom/tpv.coches.com/src/infrastructure/paymentmethod/PaymentMethodFactory.php" timestamp="1530625928629">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="54" column="54" />
-        <mark key="]" line="54" column="54" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="46" column="9" />
         <mark key="." line="54" column="54" />
         <mark key="^" line="54" column="54" />
       </file>
@@ -1986,11 +1987,6 @@
         <mark key="]" line="3" column="7" />
         <mark key="^" line="3" column="52" />
         <mark key="." line="3" column="7" />
-      </file>
-      <file name="$USER_HOME$/Code/cochescom/tpv.coches.com/src/infrastructure/paymentmethod/paypal/PaypalApiContextBuilder.php" timestamp="1529650287130">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="23" column="9" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Infrastructure/Printer/BoardErarser.php" timestamp="1526808783921">
         <mark key="[" line="11" column="26" />
@@ -3038,6 +3034,10 @@
         <mark key="^" line="15" column="27" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/cochescom/tpv.coches.com/src/application/usecases/payment/FinishPaymentRequest.php" timestamp="1530625465821">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="37" column="4" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/composer.json" timestamp="1500055108911">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="18" />
@@ -3498,7 +3498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Application/PhetrisTest.php" />
       <jump line="34" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Infrastructure/Movement/ConsolePlayerEventListener.php" />
       <jump line="90" column="16" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Application/Phetris.php" />
       <jump line="54" column="48" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Application/Phetris.php" />
@@ -3598,46 +3597,47 @@
       <jump line="19" column="6" filename="$USER_HOME$/Code/cochescom/tpv.coches.com/src/domain/models/PaymentDraft.php" />
       <jump line="34" column="31" filename="$USER_HOME$/Code/cochescom/mizona.coches.com/secure_yii/protected/config/dependencies/rules.php" />
       <jump line="84" column="4" filename="$USER_HOME$/Code/cochescom/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/PaymentController.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/cochescom/tpv.coches.com/src/infrastructure/paymentmethod/paypal/PaypalFinishRequest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getPaypalConfiguration</text>
       </register>
       <register name="-" type="4">
-        <text>getPapym</text>
+        <text>getPaypalConfiguration</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUZXRyb21pbm9Nb2NrXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>(Pablo)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEFwaUNvbnRleHQoCiAgICAgICAgICAgIG5ldyBPQXV0aFRva2VuQ3JlZGVudGlhbCgKICAgICAgICAgICAgICAgICRjb25maWd1cmF0aW9uLT5nZXRDbGllbnRJZCgpLAogICAgICAgICAgICAgICAgJGNvbmZpZ3VyYXRpb24tPmdldENsaWVudFNlY3JldCgpCiAgICAgICAgICAgICkKICAgICAgICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGtqCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gbWl4ZWQK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0QXBpQ29udGV4dCgkcmVxdWVzdCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHJlcXVlc3QtKQo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRDbGllbnRJZCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5jbGllbnRJZDsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRDbGllbnRTZWNyZXQoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+Y2xpZW50U2VjcmV0OwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50U2VjcmV0ID0gJGNsaWVudFNlY3JldDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50SWQgPSAkY2xpZW50SWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TVlTUUxfQkRfQ09DSEVTX1BBU1NXT1JEPSJkYW1lYXJnb3ByaW1vIgo=</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50SWQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -3693,8 +3693,8 @@
         <entry>131</entry>
         <entry>sp</entry>
         <entry>w</entry>
-        <entry>q</entry>
         <entry>vs</entry>
+        <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
