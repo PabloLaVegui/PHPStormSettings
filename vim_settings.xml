@@ -875,10 +875,10 @@
         <mark key="^" line="45" column="16" />
         <mark key="." line="45" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/FinishPaymentController.php" timestamp="1531148245681">
-        <mark key="'" line="86" column="16" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="150" column="4" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/FinishPaymentController.php" timestamp="1531149222062">
+        <mark key="'" line="30" column="21" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="127" column="4" />
         <mark key="^" line="162" column="13" />
         <mark key="." line="163" column="0" />
       </file>
@@ -3803,12 +3803,12 @@
         <mark key="^" line="31" column="35" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Payment/FinishPaymentOkUseCase.php" timestamp="1531148608603">
-        <mark key="'" line="41" column="43" />
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="13" />
-        <mark key="^" line="23" column="27" />
-        <mark key="." line="23" column="13" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Payment/FinishPaymentOkUseCase.php" timestamp="1531149558081">
+        <mark key="'" line="81" column="7" />
+        <mark key="[" line="107" column="15" />
+        <mark key="]" line="107" column="38" />
+        <mark key="^" line="107" column="38" />
+        <mark key="." line="107" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/repositories/AuthDealerFacilitiesPhotoRepository.php" timestamp="1515078382212">
         <mark key="[" line="6" column="1" />
@@ -3828,12 +3828,12 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/Payment/FinishPaymentOkUseCaseTest.php" timestamp="1531148590754">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="39" column="46" />
-        <mark key="]" line="40" column="34" />
-        <mark key="^" line="40" column="34" />
-        <mark key="." line="40" column="34" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/Payment/FinishPaymentOkUseCaseTest.php" timestamp="1531149660112">
+        <mark key="'" line="127" column="12" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="149" column="12" />
+        <mark key="^" line="149" column="12" />
+        <mark key="." line="149" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/balance/OrderFrom.php" timestamp="1513259078694">
         <mark key="[" line="5" column="6" />
@@ -4141,10 +4141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/src/infrastructure/paymentmethod/paypal/PaypalPaymentMethod.php" />
-      <jump line="36" column="41" filename="$USER_HOME$/Projects/tpv.coches.com/src/infrastructure/paymentmethod/paypal/PaypalPaymentMethod.php" />
-      <jump line="58" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/tests/unit/infrastructure/paymentmethod/paypal/PaypalPaymentMethodTest.php" />
-      <jump line="40" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/src/application/usecases/payment/FinishPaymentRequest.php" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/src/application/usecases/payment/FinishPaymentUseCase.php" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/PaymentUser.php" />
       <jump line="54" column="63" filename="$USER_HOME$/Projects/tpv.coches.com/src/application/usecases/payment/FinishPaymentUseCase.php" />
@@ -4241,46 +4237,50 @@
       <jump line="86" column="16" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/FinishPaymentController.php" />
       <jump line="98" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/Payment/FinishPaymentOkUseCaseTest.php" />
       <jump line="38" column="43" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Payment/FinishPaymentOkUseCase.php" />
+      <jump line="60" column="7" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Payment/FinishPaymentOkUseCase.php" />
+      <jump line="30" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/FinishPaymentController.php" />
+      <jump line="72" column="7" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Payment/FinishPaymentOkUseCase.php" />
+      <jump line="121" column="12" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/Payment/FinishPaymentOkUseCaseTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkZXhwZWN0ZWRVc2VyID0gJHRoaXMtPmdldE1vY2tCdWlsZGVyKFxVc2VyOjpjbGFzcykKICAgICAgICAgICAgLT5kaXNhYmxlT3JpZ2luYWxDb25zdHJ1Y3RvcigpCiAgICAgICAgICAgIC0+Z2V0TW9jaygpOwogICAgICAgICR0aGlzLT51c2VyUHJvdmlkZXJNb2NrLT5leHBlY3RzKHNlbGY6Om9uY2UoKSkKICAgICAgICAgICAgLT5tZXRob2QoJ29mSWRPckZhaWwnKQogICAgICAgICAgICAtPndpdGgoJGRyYWZ0LT5nZXRVc2VySWQoKSkKICAgICAgICAgICAgLT53aWxsUmV0dXJuKCRleHBlY3RlZFVzZXIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>::class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGaW5pc2hQYXltZW50VXNlQ2FzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdCA9IG5ldyBGaW5pc2hQYXltZW50UmVxdWVzdCgKICAgICAgICAgICAgbmV3IElkKCd1c2VyaWRpJyksCiAgICAgICAgICAgIFBheW1lbnRTdGF0dXNFbnVtOjpPSywKICAgICAgICAgICAgUGF5bWVudE1ldGhvZHNFbnVtOjpQQVlQQUwsCiAgICAgICAgICAgIDIwCiAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAkZXhwZWN0ZWRVc2VyID0gJHRoaXMtPmdldE1vY2tCdWlsZGVyKFxVc2VyOjpjbGFzcykKICAgICAgICAgICAgLT5kaXNhYmxlT3JpZ2luYWxDb25zdHJ1Y3RvcigpCiAgICAgICAgICAgIC0+Z2V0TW9jaygpOwogICAgICAgICR0aGlzLT51c2VyUHJvdmlkZXJNb2NrLT5leHBlY3RzKHNlbGY6Om9uY2UoKSkKICAgICAgICAgICAgLT5tZXRob2QoJ29mSWRPckZhaWwnKQogICAgICAgICAgICAtPndpdGgoJGRyYWZ0LT5nZXRVc2VySWQoKSkKICAgICAgICAgICAgLT53aWxsUmV0dXJuKCRleHBlY3RlZFVzZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5kcmFmdFByb3ZpZGVyTW9jayA9ICR0aGlzLT5nZXRNb2NrQnVpbGRlcihEcmFmdFByb3ZpZGVyOjpjbGFzcykKLy8gICAgICAgICAgICAtPmdldE1vY2soKTsK</text>
+        <text encoding="base64">dXNlIFVzZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIGNvY2hlc2NvbVx0cHZcZG9tYWluXGluZnJhc3RydWN0dXJlXHBheW1lbnRtZXRob2RcUGF5bWVudFJlcXVlc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dHB2RmluaXNoUGF5bWVudFVzZUNhc2VNb2NrLT5leHBlY3RzKHNlbGY6Om9uY2UoKSkKICAgICAgICAgICAgLT5tZXRob2QoJ2V4ZWN1dGUnKQogICAgICAgICAgICAtPndpdGgoJHJlcXVlc3QpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdCA9IG5ldyBQYXltZW50UmVxdWVzdCgnZGVzY3JpcHRpb24nLCA5MCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJywgOTAK</text>
+        <text encoding="base64">dXNlIGNvY2hlc2NvbVx0cHZcZG9tYWluXGluZnJhc3RydWN0dXJlXHBheW1lbnRtZXRob2RcUGF5bWVudFJlcXVlc3Q7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmdldEZpbmlzaFBheW1lbnRSZXF1ZXN0RnJvbURyYWZ0KCRkcmFmdCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAkdGhpcy0+ZHJhZnRQcm92aWRlck1vY2ssCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgUGF5bWVudE1ldGhvZHNFbnVtOjpQQVlQQUwsCiAgICAgICAgICAgICRkcmFmdFN0YXR1cwo=</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIFVzZXJSZXBvc2l0b3J5ICovCiAgICBwcml2YXRlICR1c2VyUHJvdmlkZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR1c2VySWQgPSAndXNlcmlkaSc7Ci8vICAgICAgICAkZHJhZnRJZCA9ICdkcmFmdGlkaSc7Ci8vCi8vICAgICAgICAkZXhwZWN0ZWREcmFmdCA9IG5ldyBQYXltZW50RHJhZnQoCi8vICAgICAgICAgICAgJHVzZXJJZCwKLy8gICAgICAgICAgICAyMAovLyAgICAgICAgKTsKLy8KLy8gICAgICAgICR0aGlzLT5kcmFmdFByb3ZpZGVyTW9jay0+ZXhwZWN0cyhzZWxmOjpvbmNlKCkpCi8vICAgICAgICAgICAgLT5tZXRob2QoJ2ZpbmRCeVVzZXJJZEFuZERyYWZ0SWQnKQovLyAgICAgICAgICAgIC0+d2l0aCgkdXNlcklkLCAkZHJhZnRJZCkKLy8gICAgICAgICAgICAtPndpbGxSZXR1cm4oJGV4cGVjdGVkRHJhZnQpOwovLwovLyAgICAgICAgJHRoaXMtPnRwdkZpbmlzaFBheW1lbnRVc2VDYXNlTW9jay0+ZXhwZWN0cyhzZWxmOjpvbmNlKCkpCi8vICAgICAgICAgICAgLT5tZXRob2QoJ2V4ZWN1dGUnKQovLyAgICAgICAgICAgIC0+d2l0aCgkZHJhZnRJZCwgJHVzZXJJZCk7Ci8vCi8vICAgICAgICAkdGhpcy0+dXNlQ2FzZS0+ZXhlY3V0ZSgkZHJhZnRJZCwgJHVzZXJJZCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5kcmFmdFByb3ZpZGVyTW9jayA9ICR0aGlzLT5nZXRNb2NrQnVpbGRlcihEcmFmdFByb3ZpZGVyOjpjbGFzcykKLy8gICAgICAgICAgICAtPmdldE1vY2soKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIGNvY2hlc2NvbVx0cHZcZG9tYWluXGluZnJhc3RydWN0dXJlXGRyYWZ0XERyYWZ0UHJvdmlkZXI7Cg==</text>
+        <text encoding="base64">dXNlIGNvY2hlc2NvbVx0cHZcZG9tYWluXGluZnJhc3RydWN0dXJlXHBheW1lbnRtZXRob2RcUGF5bWVudFJlcXVlc3Q7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIGNvY2hlc2NvbVx0cHZcZG9tYWluXGluZnJhc3RydWN0dXJlXGV4Y2VwdGlvbnNcUmVzb3VyY2VOb3RGb3VuZEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdCA9IG5ldyBQYXltZW50UmVxdWVzdCgnZGVzY3JpcHRpb24nLCA5MCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
