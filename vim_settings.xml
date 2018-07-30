@@ -2298,6 +2298,9 @@
         <mark key="^" line="458" column="82" />
         <mark key="." line="458" column="82" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" timestamp="1532942279484">
+        <mark key="'" line="609" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/eurotax/ModelEntityTransformer.php" timestamp="1526457602460">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -4374,9 +4377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/PaymentRequestController.php" />
-      <jump line="153" column="33" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/PaymentRequestController.php" />
-      <jump line="216" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/dependencies/rules.php" />
       <jump line="60" column="65" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/PaymentRequestController.php" />
       <jump line="71" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/PaymentRequestController.php" />
       <jump line="72" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/PaymentRequestController.php" />
@@ -4474,6 +4474,9 @@
       <jump line="69" column="28" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/package/PremiumPackage.php" />
       <jump line="59" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/package/BasicPackage.php" />
       <jump line="63" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/package/StandardPackage.php" />
+      <jump line="108" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
+      <jump line="201" column="19" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
+      <jump line="609" column="16" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4483,7 +4486,7 @@
         <text>https://</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQVlBfV0lUSE9VVF9ESVNDT1VOVFw+</text>
+        <text>actionDel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QVBJX0VVUk9UQVhfQVBJX0tFWT0iMTIzNDU2Igo=</text>
@@ -4520,18 +4523,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQVlBfV0lUSE9VVF9ESVNDT1VOVFw+</last-search>
+      <last-search>actionDel</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQVlBfV0lUSE9VVF9ESVNDT1VOVFw+</last-pattern>
+      <last-pattern>actionDel</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZURyYWZ0XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaW5pc2hQYXltZW50VXNlQ2FzZVw+</entry>
-        <entry encoding="base64">XDxwYXltZW50UmVjb3JkZXJcPg==</entry>
         <entry encoding="base64">XDxnZXRQYXltZW50TWV0aG9kXD4=</entry>
         <entry encoding="base64">XDxnZXRQYXltZW50UmVxdWVzdFw+</entry>
         <entry>grey</entry>
@@ -4550,6 +4551,8 @@
         <entry encoding="base64">XDxzYXZlQ2xhc3NpZmllZFBvc2l0aW9uaW5nVXNlQ2FzZVw+</entry>
         <entry encoding="base64">XDxQVlBfV0lUSF9ESVNDT1VOVFw+</entry>
         <entry encoding="base64">XDxQVlBfV0lUSE9VVF9ESVNDT1VOVFw+</entry>
+        <entry>actionDis</entry>
+        <entry>actionDel</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
