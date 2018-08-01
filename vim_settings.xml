@@ -597,6 +597,7 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classified/empty_classified.twig" timestamp="1533118945250" />
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Board/Board.php" timestamp="1500411944283">
         <mark key="[" line="32" column="33" />
         <mark key="]" line="32" column="33" />
@@ -1270,6 +1271,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="17" column="13" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" timestamp="1533119674812">
+        <mark key="'" line="19" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.php" timestamp="1508400676530">
         <mark key="[" line="5" column="4" />
@@ -3987,6 +3991,9 @@
         <mark key="." line="9" column="49" />
         <mark key="^" line="9" column="49" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyZoneController.php" timestamp="1533119345461">
+        <mark key="'" line="357" column="23" />
+      </file>
       <file name="$USER_HOME$/Code/phetris7/test/tetrimino/TetriminoOTest.php" timestamp="1484938913915">
         <mark key="[" line="47" column="49" />
         <mark key="]" line="47" column="50" />
@@ -4492,12 +4499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/src/infrastructure/paymentmethod/redsys/RedSysPaymentMethod.php" />
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/src/domain/infrastructure/paymentmethod/PaymentRequest.php" />
-      <jump line="52" column="6" filename="$USER_HOME$/Projects/tpv.coches.com/src/application/usecases/payment/FinishPaymentRequest.php" />
-      <jump line="8" column="6" filename="$USER_HOME$/Projects/tpv.coches.com/src/infrastructure/paymentmethod/paypal/PaypalFinishRequest.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/package/Package.php" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/package/BasicPackage.php" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/package/PremiumPackage.php" />
       <jump line="21" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/Payment/FinishPaymentOkUseCaseTest.php" />
       <jump line="92" column="0" filename="$USER_HOME$/Projects/tpv.coches.com/tests/unit/infrastructure/paymentmethod/redsys/RedSysPaymentMethodTest.php" />
@@ -4592,6 +4593,12 @@
       <jump line="36" column="16" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/home/home.php" />
       <jump line="899" column="47" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
       <jump line="64" column="19" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
+      <jump line="76" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" />
+      <jump line="357" column="23" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyZoneController.php" />
+      <jump line="38" column="41" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" />
+      <jump line="166" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" />
+      <jump line="27" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" />
+      <jump line="19" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4601,7 +4608,7 @@
         <text encoding="base64">KyAgICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBQ0NFU1NcPg==</text>
+        <text encoding="base64">XDxmb3JtRmFjdG9yeVw+</text>
       </register>
       <register name="0" type="4">
         <text>coches_qa2</text>
@@ -4638,9 +4645,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBQ0NFU1NcPg==</last-search>
+      <last-search encoding="base64">XDxmb3JtRmFjdG9yeVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBQ0NFU1NcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmb3JtRmFjdG9yeVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZURyYWZ0XD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -4648,8 +4655,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWxpZGF0ZUVkaXRGb3Jtc1w+</entry>
-        <entry encoding="base64">XDxnZXRQb3NpdGlvbmluZ0luZm9cPg==</entry>
         <entry encoding="base64">XDxTSUdOVVBfQ09ORklSTV9BQ1RJVkVfQ0FSXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVEcmFmdFw+</entry>
         <entry encoding="base64">XDxGUkVRVUVOQ1lcPg==</entry>
@@ -4668,6 +4673,8 @@
         <entry encoding="base64">XDxnZXRVc2VyVHlwZVN0cmluZ1w+</entry>
         <entry encoding="base64">XDxpc0FmdGVyTG9naW5cPg==</entry>
         <entry encoding="base64">XDxBQ0NFU1NcPg==</entry>
+        <entry encoding="base64">XDxyZWdpc3RlckZvcm1WYWxpZGF0aW9uSlNcPg==</entry>
+        <entry encoding="base64">XDxmb3JtRmFjdG9yeVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">d2Eg</entry>
