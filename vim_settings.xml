@@ -216,6 +216,12 @@
         <mark key="^" line="35" column="39" />
         <mark key="." line="35" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/src/infrastructure/exception/FileAlreadySavedException.php" timestamp="1535989086127">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/calendar-api/src/Application/UseCase/Support/CreateSupportUseCase.php" timestamp="1510760426747">
         <mark key="[" line="34" column="15" />
         <mark key="]" line="34" column="15" />
@@ -1225,12 +1231,12 @@
         <mark key="^" line="45" column="32" />
         <mark key="." line="45" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/application/commands/ScraperCommand.php" timestamp="1535988822010">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="144" column="45" />
-        <mark key="]" line="144" column="46" />
-        <mark key="^" line="144" column="71" />
-        <mark key="." line="144" column="46" />
+      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/application/commands/ScraperCommand.php" timestamp="1535991059717">
+        <mark key="'" line="160" column="0" />
+        <mark key="[" line="226" column="35" />
+        <mark key="]" line="226" column="49" />
+        <mark key="." line="226" column="49" />
+        <mark key="^" line="226" column="49" />
       </file>
       <file name="$USER_HOME$/Code/php-observer/src/MachineABS.php" timestamp="1490724024363">
         <mark key="[" line="7" column="36" />
@@ -1766,9 +1772,9 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" timestamp="1523951272168">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
+      <file name="$USER_HOME$/Projects/crmmigrations/application/commands/eurotax/EurotaxCommand.php" timestamp="1535989298895">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="59" />
         <mark key="." line="58" column="0" />
         <mark key="^" line="58" column="48" />
       </file>
@@ -1965,7 +1971,7 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="12" column="56" />
       </file>
-      <file name="/PHP Console" timestamp="1535988017541">
+      <file name="/PHP Console" timestamp="1535991062582">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -2301,11 +2307,6 @@
         <mark key="]" line="7" column="23" />
         <mark key="^" line="10" column="25" />
         <mark key="." line="7" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/test/unit/domain/services/crawler/IndexCrawlerTest.php" timestamp="1535615220478">
-        <mark key="]" line="11" column="11" />
-        <mark key="^" line="11" column="11" />
-        <mark key="." line="11" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/infrastructure/gateways/filter/FilterTestCase.php" timestamp="1521466574422">
         <mark key="[" line="21" column="25" />
@@ -3200,6 +3201,12 @@
         <mark key="]" line="16" column="43" />
         <mark key="^" line="16" column="55" />
         <mark key="." line="16" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/src/infrastructure/exception/StoreException.php" timestamp="1535989092325">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+        <mark key="^" line="3" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/Fixtures/RequestFixtures.php" timestamp="1523529592511">
         <mark key="[" line="35" column="31" />
@@ -4473,44 +4480,44 @@
       <jump line="143" column="0" filename="$USER_HOME$/Projects/hungariansucker.coches.com/application/commands/ScraperCommand.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Url</text>
       </register>
       <register name="-" type="4">
-        <text>File</text>
+        <text>Url</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYW1lY29va2llc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNvb2tpZXMgPSBhcnJheV9tZXJnZSgkY29va2llcywgJGNvb2tpZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50LT5yZXF1ZXN0KCdHRVQnLCAkaW1hZ2VVcmwsIFsKICAgICAgICAgICAgJ2Nvb2tpZXMnID0+ICRqYXIKICAgICAgICBdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAkdGhpcy0+Y2xpZW50LT5nZXQoJGltYWdlU3JjKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnNhdmVJbWFnZSgkZ2FsbGVyeS0+Z2V0Rm9sZGVyTmFtZSgpLCAkZmlsZU5hbWUsICRpbWFnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmF3ID0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogYm9ycmFyCiAgICAgICAgJGdhbGxlcmllcyA9IFskZ2FsbGVyaWVzWzBdXTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRmaWxlTmFtZSA9ICR0aGlzLT5nZXRGaWxlTmFtZSgkaW1hZ2VTcmMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SFlUU19ETF9DT09LSUVfVkFMVUU6IDExYjAwMzQwYmI0YTk5MTNiNjM3MWZiOTJlMTlmMDE5Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkbWF0Y2hlc1sxXTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRpbWFnZVVybCA9ICR0aGlzLT5iYXNlVXJsIC4gJy8nIC4gJGltYWdlSHJlZjsKICAgICAgICAgICAgICAgICRpbWFnZVBhZ2VIdG1sID0gZmlsZV9nZXRfY29udGVudHMoJGltYWdlVXJsKTsKCiAgICAgICAgICAgICAgICAkaW1hZ2VTcmMgPSAkdGhpcy0+YmFzZVVybAogICAgICAgICAgICAgICAgICAgIC4gJy8nCiAgICAgICAgICAgICAgICAgICAgLiAkaW1hZ2VQYWdlU2NyYXBlci0+Z2V0SW1hZ2VTb3VyY2UoJGltYWdlUGFnZUh0bWwpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByZWdfbWF0Y2goJy8mbD0oW14iXSspLycsICRjb25jcmV0ZUltYWdlVXJsLCAkbWF0Y2hlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogYm9ycmFyCiAgICAgICAgJGdhbGxlcmllcyA9IFskZ2FsbGVyaWVzWzBdXTsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAnYXV0b2svYWxmYS9zdGVsdmlvLXF1YWRyaWZvZ2xpby1ucmluZy0yMDE4L2FsZmFfc3RlbHZpby1xdWFkcmlmb2dsaW8tbnJpbmctMjAxOF9yMTIuanBnJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8oUGFibG8pOiBsb2cK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZmlsZU5hbWUgPSAkdGhpcy0+Z2V0RmlsZU5hbWUoJGltYWdlU3JjKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8oUGFibG8pOiBzYWx0YQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -4566,8 +4573,8 @@
         <entry>vs</entry>
         <entry>sp</entry>
         <entry>x</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
