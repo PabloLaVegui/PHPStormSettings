@@ -911,7 +911,7 @@
         <mark key="^" line="24" column="6" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536063685986">
+      <file name="/Dummy.txt" timestamp="1536066111902">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/application/UseCases/requests/CreateRequestUsecaseTest.php" timestamp="1521560054294">
@@ -1243,12 +1243,12 @@
         <mark key="^" line="45" column="32" />
         <mark key="." line="45" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/application/commands/ScraperCommand.php" timestamp="1536064952141">
+      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/application/commands/ScraperCommand.php" timestamp="1536065868461">
         <mark key="'" line="56" column="4" />
-        <mark key="[" line="151" column="79" />
-        <mark key="]" line="153" column="15" />
-        <mark key="^" line="153" column="15" />
-        <mark key="." line="153" column="15" />
+        <mark key="[" line="161" column="66" />
+        <mark key="]" line="162" column="53" />
+        <mark key="^" line="162" column="53" />
+        <mark key="." line="162" column="53" />
       </file>
       <file name="$USER_HOME$/Code/php-observer/src/MachineABS.php" timestamp="1490724024363">
         <mark key="[" line="7" column="36" />
@@ -1418,12 +1418,12 @@
         <mark key="^" line="65" column="32" />
         <mark key="." line="65" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/src/domain/model/Gallery.php" timestamp="1536065019258">
-        <mark key="'" line="107" column="6" />
-        <mark key="[" line="137" column="5" />
-        <mark key="]" line="139" column="28" />
-        <mark key="^" line="139" column="28" />
-        <mark key="." line="139" column="28" />
+      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/src/domain/model/Gallery.php" timestamp="1536065905749">
+        <mark key="'" line="21" column="23" />
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="25" />
+        <mark key="^" line="22" column="25" />
+        <mark key="." line="22" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/eurotax/ModelTest.php" timestamp="1519741566690">
         <mark key="[" line="3" column="0" />
@@ -2631,6 +2631,12 @@
         <mark key="]" line="15" column="19" />
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/test/unit/domain/model/GalleryTest.php" timestamp="1536065827667">
+        <mark key="[" line="26" column="49" />
+        <mark key="]" line="26" column="49" />
+        <mark key="^" line="26" column="49" />
+        <mark key="." line="26" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/calendar-api/README.md" timestamp="1510820015395">
         <mark key="[" line="6" column="19" />
@@ -4119,6 +4125,11 @@
         <mark key="." line="33" column="24" />
         <mark key="^" line="33" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/src/infrastructure/store/GalleryDataStore.php" timestamp="1536066177832">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/CrisController.php" timestamp="1530520779982">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="54" />
@@ -4428,11 +4439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" />
-      <jump line="357" column="23" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyZoneController.php" />
-      <jump line="38" column="41" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" />
-      <jump line="166" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" />
-      <jump line="27" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" />
       <jump line="50" column="44" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" />
       <jump line="26" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" />
       <jump line="168" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" />
@@ -4528,46 +4534,51 @@
       <jump line="57" column="4" filename="$USER_HOME$/Projects/hungariansucker.coches.com/application/commands/ScraperCommand.php" />
       <jump line="112" column="0" filename="$USER_HOME$/Projects/hungariansucker.coches.com/src/domain/model/Gallery.php" />
       <jump line="107" column="6" filename="$USER_HOME$/Projects/hungariansucker.coches.com/src/domain/model/Gallery.php" />
+      <jump line="115" column="0" filename="$USER_HOME$/Projects/hungariansucker.coches.com/src/domain/model/Gallery.php" />
+      <jump line="138" column="0" filename="$USER_HOME$/Projects/hungariansucker.coches.com/src/domain/model/Gallery.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/hungariansucker.coches.com/src/domain/model/Gallery.php" />
+      <jump line="135" column="4" filename="$USER_HOME$/Projects/hungariansucker.coches.com/src/domain/model/Gallery.php" />
+      <jump line="21" column="23" filename="$USER_HOME$/Projects/hungariansucker.coches.com/src/domain/model/Gallery.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZ1tdICovCg==</text>
+        <text encoding="base64">ICAgICAqIEB0aAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>ImageD</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZ1tdICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21ha2VfaWQvbW9kZWxfaWQvZmlsZTEuanBnJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqIEB0aAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGltYWdlOwo=</text>
+        <text encoding="base64">LyoqCiAqIENsYXNzIEdhbGxlcnlEYXRhU3RvcmUKICogQHBhY2thZ2UgY29jaGVzY29tXGh1bmdhcmlhbnNcaW5mcmFzdHJ1Y3R1cmVcc3RvcmUKICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIGNvY2hlc2NvbVxodW5nYXJpYW5zXGluc2ZyYXN0cnVjdHVyZVxEaXNjRmlsZVN0b3JlOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmdldEZvbGRlck5hbWUoKSAuICcvJyAuICR0aGlzLT5pbWFnZUZpbGVzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIGNvY2hlc2NvbVxodW5nYXJpYW5zXGluc2ZyYXN0cnVjdHVyZVxnYXRld2F5XEd1enpsZUltYWdlRG93bmxvYWRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIGNvY2hlc2NvbVxodW5nYXJpYW5zXGluc2ZyYXN0cnVjdHVyZVxEaXNjRmlsZVN0b3JlOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogUG9zdCBjb24gbGEgaW5mbyBkZSBsYSBnYWxlcmlhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIGNvY2hlc2NvbVxodW5nYXJpYW5zXGRvbWFpblxzZXJ2aWNlc1xkb3dubG9hZFxJbWFnZURvd25sb2FkZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIGNvY2hlc2NvbVxodW5nYXJpYW5zXGRvbWFpblxzZXJ2aWNlc1xkb3dubG9hZFxJbWFnZURvd25sb2FkZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
