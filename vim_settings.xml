@@ -1228,12 +1228,12 @@
         <mark key="^" line="45" column="32" />
         <mark key="." line="45" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/application/commands/ScraperCommand.php" timestamp="1536149603047">
+      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/application/commands/ScraperCommand.php" timestamp="1536150164536">
         <mark key="'" line="104" column="0" />
-        <mark key="[" line="143" column="30" />
-        <mark key="]" line="143" column="37" />
-        <mark key="^" line="143" column="37" />
-        <mark key="." line="143" column="37" />
+        <mark key="[" line="148" column="9" />
+        <mark key="]" line="148" column="9" />
+        <mark key="^" line="148" column="9" />
+        <mark key="." line="148" column="9" />
       </file>
       <file name="$USER_HOME$/Code/php-observer/src/MachineABS.php" timestamp="1490724024363">
         <mark key="[" line="7" column="36" />
@@ -3584,12 +3584,12 @@
         <mark key="^" line="38" column="92" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/infrastructure/gateway/GuzzleGalleryDataStore.php" timestamp="1536149663666">
-        <mark key="'" line="50" column="38" />
-        <mark key="[" line="54" column="36" />
-        <mark key="]" line="54" column="38" />
-        <mark key="." line="54" column="38" />
-        <mark key="^" line="54" column="38" />
+      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/infrastructure/gateway/GuzzleGalleryDataStore.php" timestamp="1536150271935">
+        <mark key="'" line="90" column="4" />
+        <mark key="[" line="87" column="19" />
+        <mark key="]" line="87" column="19" />
+        <mark key="." line="87" column="19" />
+        <mark key="^" line="91" column="4" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris2D/Movement/Down.php" timestamp="1502472554872">
         <mark key="[" line="0" column="31" />
@@ -4440,8 +4440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/Forms/LoginForm.php" />
-      <jump line="42" column="16" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" />
       <jump line="18" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" />
       <jump line="20" column="40" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" />
       <jump line="142" column="43" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" />
@@ -4540,13 +4538,15 @@
       <jump line="104" column="0" filename="$USER_HOME$/Projects/hungariansucker.coches.com/application/commands/ScraperCommand.php" />
       <jump line="40" column="4" filename="$USER_HOME$/Projects/hungariansucker.coches.com/test/unit/infrastructure/gateway/GuzzleGalleryDataStoreTest.php" />
       <jump line="50" column="38" filename="$USER_HOME$/Projects/hungariansucker.coches.com/infrastructure/gateway/GuzzleGalleryDataStore.php" />
+      <jump line="14" column="42" filename="$USER_HOME$/Projects/hungariansucker.coches.com/infrastructure/gateway/GuzzleGalleryDataStore.php" />
+      <jump line="90" column="4" filename="$USER_HOME$/Projects/hungariansucker.coches.com/infrastructure/gateway/GuzzleGalleryDataStore.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mixed</text>
+        <text>|void</text>
       </register>
       <register name="-" type="4">
-        <text>mixed</text>
+        <text>|void</text>
       </register>
       <register name="/" type="4">
         <text>ImageD</text>
@@ -4555,31 +4555,31 @@
         <text encoding="base64">Ly8gICAgICAgICAgICAkdGhpcy0+Z2FsbGVyeURhdGFTdG9yZS0+c2F2ZSgkZ2FsbGVyeURhdGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZXhpc3RzQnlNYWtlTmFtZUFuZE1vZGVsTmFtZSgpIG1ldGhvZC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGlzU3RvcmVkKCRnYWxsZXJ5KQogICAgewogICAgfQo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGlzU3RvcmVkKCRnYWxsZXJ5KQogICAgewogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSAkZ2FsbGVyaWVzRGF0YQogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBnZXRHYWxsZXJpZXNEYXRhSnNvbigkZ2FsbGVyaWVzRGF0YSkKICAgIHsKICAgICAgICAkZGF0YUpzb24gPSBqc29uX2VuY29kZShhcnJheV9tYXAoZnVuY3Rpb24gKEdhbGxlcnlEYXRhICRnYWxsZXJ5RGF0YSkgewogICAgICAgICAgICByZXR1cm4gJGdhbGxlcnlEYXRhLT5zZXJpYWxpemUoKTsKICAgICAgICB9LCAkZ2FsbGVyaWVzRGF0YSkpOwoKICAgICAgICByZXR1cm4gJGRhdGFKc29uOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkdGhpcy0+Z2FsbGVyeURhdGFTdG9yZS0+c2F2ZSgkZ2FsbGVyeURhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
