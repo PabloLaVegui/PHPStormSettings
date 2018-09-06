@@ -151,11 +151,11 @@
         <mark key="^" line="9" column="47" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/cochescom/hungarians/application/commands/PruebaCommand.php" timestamp="1536224631799">
-        <mark key="[" line="47" column="59" />
-        <mark key="]" line="46" column="118" />
-        <mark key="." line="46" column="118" />
-        <mark key="^" line="46" column="118" />
+      <file name="$USER_HOME$/Code/cochescom/hungarians/application/commands/PruebaCommand.php" timestamp="1536225623756">
+        <mark key="[" line="49" column="38" />
+        <mark key="]" line="49" column="38" />
+        <mark key="." line="49" column="38" />
+        <mark key="^" line="49" column="38" />
       </file>
       <file name="$USER_HOME$/Code/phetris7/src/observer/EndOfMovementObserver.php" timestamp="1484936938273">
         <mark key="[" line="5" column="6" />
@@ -2350,8 +2350,8 @@
         <mark key="^" line="28" column="58" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/cochescom/crons.coches.com/hungaros/hungaros.py" timestamp="1535720149662">
-        <mark key="'" line="257" column="0" />
+      <file name="$USER_HOME$/Code/cochescom/crons.coches.com/hungaros/hungaros.py" timestamp="1536225500303">
+        <mark key="'" line="9" column="4" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-2d/src/Geo/GeoMap.php" timestamp="1500068623652">
         <mark key="[" line="28" column="0" />
@@ -3607,7 +3607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="21" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Value/GeoMap2D.php" />
       <jump line="122" column="35" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Value/GeoMap2D.php" />
       <jump line="12" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Value/GeoMap2D.php" />
       <jump line="98" column="39" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Value/GeoMap2DTest.php" />
@@ -3707,6 +3706,7 @@
       <jump line="71" column="26" filename="$USER_HOME$/Code/cochescom/hungarians/infrastructure/gateway/GuzzleGalleryDataStore.php" />
       <jump line="190" column="6" filename="$USER_HOME$/Code/cochescom/hungarians/application/commands/ScraperCommand.php" />
       <jump line="262" column="0" filename="$USER_HOME$/Code/cochescom/hungarians/application/commands/ScraperCommand.php" />
+      <jump line="9" column="4" filename="$USER_HOME$/Code/cochescom/crons.coches.com/hungaros/hungaros.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3716,7 +3716,7 @@
         <text>storeUrl, $checkUrl</text>
       </register>
       <register name="/" type="4">
-        <text>stream_open</text>
+        <text encoding="base64">XDxQb25lcldhdGVybWFya1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+aW1hZ2VQYWdlU2NyYXBlciA9ICRjb250YWluZXItPmdldChJbWFnZVBhZ2VTY3JhcGVyOjpjbGFzcyk7CiAgICAgICAgJHRoaXMtPmltYWdlRG93bmxvYWRlciA9ICRjb250YWluZXItPmdldChJbWFnZURvd25sb2FkZXI6OmNsYXNzKTsK</text>
@@ -3753,17 +3753,16 @@
       </register>
     </registers>
     <search>
-      <last-search>stream_open</last-search>
+      <last-search encoding="base64">XDxQb25lcldhdGVybWFya1w+</last-search>
       <last-offset />
-      <last-pattern>stream_open</last-pattern>
+      <last-pattern encoding="base64">XDxQb25lcldhdGVybWFya1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRSb3dJbmRleGVzXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0VuZEdhbWVFdmVudFw+</entry>
         <entry encoding="base64">XDwqXD4=</entry>
         <entry encoding="base64">XDxmaW5kQWxsUGFnaW5hdGVkRnJvbVJlcXVlc3RJZFw+</entry>
         <entry encoding="base64">XDxnZXRWYWxpZFZOUmVxdWVzdHNRdWVyeUJ1aWxkZXJcPg==</entry>
@@ -3783,6 +3782,7 @@
         <entry encoding="base64">XDxnZXRUZXRyb21pbm9Nb2NrXD4=</entry>
         <entry encoding="base64">XDx3aXRoR2FsbGVyeVBhZ2VEYXRhXD4=</entry>
         <entry>stream_open</entry>
+        <entry encoding="base64">XDxQb25lcldhdGVybWFya1w+</entry>
       </history-search>
       <history-cmd>
         <entry>159</entry>
