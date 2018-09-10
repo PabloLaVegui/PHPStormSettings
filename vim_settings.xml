@@ -1614,11 +1614,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/environment/.env" timestamp="1536585251767">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/environment/.env" timestamp="1536595991847">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/php-phpunit-xdebug-phpstorm-docker/composer.json" timestamp="1498296103178">
         <mark key="[" line="10" column="1" />
@@ -1996,7 +1997,7 @@
         <mark key="." line="38" column="9" />
         <mark key="^" line="38" column="9" />
       </file>
-      <file name="/PHP Console" timestamp="1536586150853">
+      <file name="/PHP Console" timestamp="1536595931401">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -3621,11 +3622,11 @@
         <mark key="^" line="38" column="92" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/infrastructure/gateway/GuzzleGalleryDataStore.php" timestamp="1536585911668">
-        <mark key="[" line="100" column="17" />
-        <mark key="]" line="100" column="20" />
-        <mark key="." line="100" column="20" />
-        <mark key="^" line="100" column="20" />
+      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/infrastructure/gateway/GuzzleGalleryDataStore.php" timestamp="1536595985622">
+        <mark key="[" line="104" column="72" />
+        <mark key="]" line="104" column="79" />
+        <mark key="." line="104" column="79" />
+        <mark key="^" line="104" column="79" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris2D/Movement/Down.php" timestamp="1502472554872">
         <mark key="[" line="0" column="31" />
@@ -4471,7 +4472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="7" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/views/wProfessionalUserLoggedMenu.php" />
       <jump line="21" column="17" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/views/wProfessionalUserLoggedMenu.php" />
       <jump line="82" column="29" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/views/wProfessionalUserLoggedMenu.php" />
       <jump line="89" column="29" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/views/wProfessionalUserLoggedMenu.php" />
@@ -4571,55 +4571,56 @@
       <jump line="6" column="52" filename="$USER_HOME$/Projects/backoffice.coches.com/modules/api/controllers/GalleryController.php" />
       <jump line="63" column="5" filename="$USER_HOME$/Projects/backoffice.coches.com/README.md" />
       <jump line="200" column="24" filename="$USER_HOME$/Projects/hungariansucker.coches.com/application/commands/ScraperCommand.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/hungariansucker.coches.com/environment/.env" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GET</text>
+        <text>URL</text>
       </register>
       <register name="-" type="4">
-        <text>GET</text>
+        <text>URL</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvdXRwdXRQcm9jZXNzaW5nR2FsbGVyeVw+</text>
+        <text encoding="base64">XDxHQUxMRVJZX0VYSVNUU19DSEVDS19VUkxcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmdhbGxlcnlEYXRhU3RvcmUtPmV4aXN0c0J5TWFrZU5hbWVBbmRNb2RlbE5hbWUoCg==</text>
+      <register name="0" type="4">
+        <text>GALLERIES_BASE_URL</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW1snc2VnbWVudG9faWQnXSwgJ2V4aXN0JywgJ3NraXBPbkVycm9yJyA9PiB0cnVlLCAndGFyZ2V0Q2xhc3MnID0+IFNlZ21lbnRvc0hpc3Rvcmljb3M6OmNsYXNzTmFtZSgpLCAndGFyZ2V0QXR0cmlidXRlJyA9PiBbJ3NlZ21lbnRvX2lkJyA9PiAnaWQnXV0sCg==</text>
+        <text encoding="base64">YXBpL2dhbGxlcnkvZXhpc3RzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gXHlpaVxkYlxBY3RpdmVRdWVyeQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0U2VnbWVudG8oKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+aGFzT25lKFNlZ21lbnRvc0hpc3Rvcmljb3M6OmNsYXNzTmFtZSgpLCBbJ2lkJyA9PiAnc2VnbWVudG9faWQnXSk7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIFx5aWlcZGJcQWN0aXZlUXVlcnkKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEdhbGVyaWFzTW9kZWxvc0V1cm90YXhlcygpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5oYXNNYW55KEdhbGVyaWFzTW9kZWxvc0V1cm90YXg6OmNsYXNzTmFtZSgpLCBbJ3ByaW5jaXBhbCcgPT4gJ2lkJ10pOwogICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmdhbGxlcnlEYXRhU3RvcmUtPmV4aXN0c0J5TWFrZU5hbWVBbmRNb2RlbE5hbWUoCiAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">R0FMTEVSWV9EQVRBX1VSTD1odHRwOi8vbG9jYWxob3N0OjgwODAvaW5kZXgucGhwP3I9YXBpL2dhbGxlcnkvZXhpc3RzJm1ha2U9bGFkYSZtb2RlbD1WZXN0YSUyMENyb3NzJTIwMjAxOCZYREVCVUdfU0VTU0lPTl9TVEFSVD1QSFBTVE9STQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgW1snc2VnbWVudG9faWQnXSwgJ2V4aXN0JywgJ3NraXBPbkVycm9yJyA9PiB0cnVlLCAndGFyZ2V0Q2xhc3MnID0+IFNlZ21lbnRvc0hpc3Rvcmljb3M6OmNsYXNzTmFtZSgpLCAndGFyZ2V0QXR0cmlidXRlJyA9PiBbJ3NlZ21lbnRvX2lkJyA9PiAnaWQnXV0sCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gXHlpaVxkYlxBY3RpdmVRdWVyeQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0U2VnbWVudG8oKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+aGFzT25lKFNlZ21lbnRvc0hpc3Rvcmljb3M6OmNsYXNzTmFtZSgpLCBbJ2lkJyA9PiAnc2VnbWVudG9faWQnXSk7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIFx5aWlcZGJcQWN0aXZlUXVlcnkKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEdhbGVyaWFzTW9kZWxvc0V1cm90YXhlcygpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5oYXNNYW55KEdhbGVyaWFzTW9kZWxvc0V1cm90YXg6OmNsYXNzTmFtZSgpLCBbJ3ByaW5jaXBhbCcgPT4gJ2lkJ10pOwogICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmdhbGxlcnlEYXRhU3RvcmUtPmV4aXN0c0J5TWFrZU5hbWVBbmRNb2RlbE5hbWUoCiAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">UmVzcG9uc2U6Cg==</text>
+        <text encoding="base64">R0FMTEVSWV9EQVRBX1VSTD1odHRwOi8vbG9jYWxob3N0OjgwODAvaW5kZXgucGhwP3I9YXBpL2dhbGxlcnkvZXhpc3RzJm1ha2U9bGFkYSZtb2RlbD1WZXN0YSUyMENyb3NzJTIwMjAxOCZYREVCVUdfU0VTU0lPTl9TVEFSVD1QSFBTVE9STQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">UmVzcG9uc2U6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Qm9keToK</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvdXRwdXRQcm9jZXNzaW5nR2FsbGVyeVw+</last-search>
+      <last-search encoding="base64">XDxHQUxMRVJZX0VYSVNUU19DSEVDS19VUkxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvdXRwdXRQcm9jZXNzaW5nR2FsbGVyeVw+</last-pattern>
+      <last-pattern encoding="base64">XDxHQUxMRVJZX0VYSVNUU19DSEVDS19VUkxcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
       <last-dir>-1</last-dir>
@@ -4627,7 +4628,6 @@
     </search>
     <history>
       <history-search>
-        <entry>acceso</entry>
         <entry encoding="base64">XDxyZW5kZXJNYWludGVuYW5jZUluQ2FzZVw+</entry>
         <entry encoding="base64">XDxnZXRBdXRoRGVhbGVyRGF0YVw+</entry>
         <entry encoding="base64">XDxBVVRIT1JJU0VEX0RFQUxFUlw+</entry>
@@ -4647,6 +4647,7 @@
         <entry>ImageD</entry>
         <entry encoding="base64">XDxpc1N0b3JlZFw+</entry>
         <entry encoding="base64">XDxvdXRwdXRQcm9jZXNzaW5nR2FsbGVyeVw+</entry>
+        <entry encoding="base64">XDxHQUxMRVJZX0VYSVNUU19DSEVDS19VUkxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5x</entry>
