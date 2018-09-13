@@ -919,7 +919,7 @@
         <mark key="^" line="24" column="6" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536662701816">
+      <file name="/Dummy.txt" timestamp="1536831358717">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/application/UseCases/requests/CreateRequestUsecaseTest.php" timestamp="1521560054294">
@@ -1246,12 +1246,12 @@
         <mark key="^" line="45" column="32" />
         <mark key="." line="45" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/application/commands/ScraperCommand.php" timestamp="1536661550662">
-        <mark key="'" line="201" column="24" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="^" line="355" column="45" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/application/commands/ScraperCommand.php" timestamp="1536831529506">
+        <mark key="'" line="202" column="24" />
+        <mark key="[" line="258" column="55" />
+        <mark key="]" line="259" column="15" />
+        <mark key="^" line="259" column="15" />
+        <mark key="." line="259" column="15" />
       </file>
       <file name="$USER_HOME$/Code/php-observer/src/MachineABS.php" timestamp="1490724024363">
         <mark key="[" line="7" column="36" />
@@ -2578,6 +2578,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/src/infrastructure/exception/FileAlreadyStoredException.php" timestamp="1536831383616">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="54" />
+        <mark key="^" line="7" column="54" />
+        <mark key="." line="7" column="54" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Services/ValidationAttemptServiceTest.php" timestamp="1517846136850">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="16" column="29" />
@@ -3023,6 +3029,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="8" column="54" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/hungariansucker.coches.com/infrastructure/store/ImageDiscFileStore.php" timestamp="1536831398070">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="48" />
+        <mark key="." line="20" column="48" />
+        <mark key="^" line="20" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/application/transformers/client/CreateClientTransformerTest.php" timestamp="1520850297876">
         <mark key="[" line="9" column="46" />
@@ -4570,16 +4582,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ5aWlzb2Z0L3lpaTIiOiAiPj0yLjAuNSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdG9yZWRGaWxlTmFtZXNbXSA9ICRvcmlnaW5hbEZpbGVOYW1lOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>\Exception</text>
       </register>
       <register name="/" type="4">
         <text>bower</text>
       </register>
-      <register name="0" type="4">
-        <text>DB_RESOURCE_GALLERY_MANAGER</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdG9yZWRGaWxlTmFtZXNbXSA9ICRvcmlnaW5hbEZpbGVOYW1lOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJ5aWlzb2Z0L3lpaTIiOiAiPj0yLjAuNSIsCg==</text>
@@ -4661,9 +4673,9 @@
         <entry>x</entry>
         <entry encoding="base64">JzwsJz52cw==</entry>
         <entry>w</entry>
-        <entry>q</entry>
         <entry>vs</entry>
         <entry>qa</entry>
+        <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
