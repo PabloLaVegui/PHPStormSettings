@@ -684,6 +684,9 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" timestamp="1537373230114">
+        <mark key="'" line="41" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/eurotax/ModelGatewayQuery.php" timestamp="1521022859715">
         <mark key="[" line="17" column="52" />
         <mark key="]" line="17" column="72" />
@@ -4499,7 +4502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="81" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies/dumps.php" />
       <jump line="38" column="9" filename="$USER_HOME$/Projects/hungariansucker.coches.com/test/unit/domain/services/crawler/IndexMakeModelCrawlerTest.php" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/hungariansucker.coches.com/application/commands/ScraperCommand.php" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/hungariansucker.coches.com/src/domain/model/Gallery.php" />
@@ -4599,6 +4601,7 @@
       <jump line="73" column="29" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/AuthorizedDealerAccessDataController.php" />
       <jump line="238" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyDataController.php" />
       <jump line="80" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyDataController.php" />
+      <jump line="41" column="18" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4608,7 +4611,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxpZGF0ZUVkaXRGb3Jtc1w+</text>
+        <text>confirmacion-sms</text>
       </register>
       <register name="0" type="4">
         <text>ChangePasswordForm</text>
@@ -4645,17 +4648,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxpZGF0ZUVkaXRGb3Jtc1w+</last-search>
+      <last-search>confirmacion-sms</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxpZGF0ZUVkaXRGb3Jtc1w+</last-pattern>
+      <last-pattern>confirmacion-sms</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>function save</entry>
         <entry encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzSW1hZ2VcPg==</entry>
         <entry encoding="base64">XDxkYW1lY29va2llc1w+</entry>
@@ -4675,6 +4677,7 @@
         <entry>actionUpda</entry>
         <entry>actionEd</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZUVkaXRGb3Jtc1w+</entry>
+        <entry>confirmacion-sms</entry>
       </history-search>
       <history-cmd>
         <entry>Lwa</entry>
