@@ -564,6 +564,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/exception/UnserializableException.php" timestamp="1537794832661">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="47" />
+        <mark key="^" line="7" column="47" />
+        <mark key="." line="7" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/UserClassifiedStatisticsDTOBuilder.php" timestamp="1533115498592">
         <mark key="[" line="19" column="12" />
         <mark key="]" line="19" column="11" />
@@ -576,11 +582,12 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" timestamp="1537785337636">
-        <mark key="[" line="136" column="73" />
-        <mark key="]" line="136" column="73" />
-        <mark key="^" line="136" column="74" />
-        <mark key="." line="136" column="73" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" timestamp="1537794931472">
+        <mark key="'" line="344" column="6" />
+        <mark key="[" line="354" column="0" />
+        <mark key="]" line="354" column="0" />
+        <mark key="^" line="353" column="21" />
+        <mark key="." line="354" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Positioning/PositioningUser.php" timestamp="1528730949534">
         <mark key="[" line="13" column="13" />
@@ -2605,12 +2612,12 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/requests/RequestTest.php" timestamp="1537785710607">
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/requests/RequestTest.php" timestamp="1537795042618">
         <mark key="'" line="140" column="21" />
-        <mark key="[" line="86" column="45" />
-        <mark key="]" line="86" column="45" />
-        <mark key="." line="86" column="45" />
-        <mark key="^" line="86" column="45" />
+        <mark key="[" line="64" column="18" />
+        <mark key="]" line="64" column="18" />
+        <mark key="." line="64" column="18" />
+        <mark key="^" line="64" column="18" />
       </file>
       <file name="$USER_HOME$/Code/phetris7/src/Domain/Model/Board.php" timestamp="1489531839299">
         <mark key="[" line="20" column="33" />
@@ -2742,7 +2749,7 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537521926425">
+      <file name="/Dummy.txt" timestamp="1537794811248">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/favorite/favorite.php" timestamp="1506609511259">
@@ -4551,8 +4558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="23" filename="$USER_HOME$/Projects/hungariansucker.coches.com/src/domain/model/Gallery.php" />
-      <jump line="161" column="53" filename="$USER_HOME$/Projects/hungariansucker.coches.com/application/commands/ScraperCommand.php" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/hungariansucker.coches.com/infrastructure/gateway/GuzzleGalleryDataStore.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/hungariansucker.coches.com/infrastructure/gateway/GuzzleGalleryDataStore.php" />
       <jump line="140" column="0" filename="$USER_HOME$/Projects/hungariansucker.coches.com/application/commands/ScraperCommand.php" />
@@ -4651,13 +4656,15 @@
       <jump line="45" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronOfflineUpdateCommand.php" />
       <jump line="56" column="21" filename="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/requests/RequestTest.php" />
       <jump line="132" column="21" filename="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/requests/RequestTest.php" />
+      <jump line="136" column="50" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
+      <jump line="344" column="6" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>mixed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRSZXF1ZXN0Rml4dHVyZVw+</text>
@@ -4666,31 +4673,31 @@
         <text>ABS,EBD,ESP,MSR,ASR, HBA</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgJHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">ICAgICAgICAkdW5zZXJpYWxpemVkRXh0cmFzID0gJHRoaXMtPnVuc2VyaWFsaXplRXh0cmFzKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldExpc3RGcm9tRXh0cmFzQXJyYXkoKQogICAgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkge30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoISR1KQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIHJldHVybiAnJzsKICAgICAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYSA9IE9mZmxpbmU6Om1vZGVsKCktPgo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVuc2VyaWFsaXplZEV4dHJhczsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
