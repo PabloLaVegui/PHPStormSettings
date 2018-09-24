@@ -576,7 +576,12 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" timestamp="1537781485159" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" timestamp="1537785337636">
+        <mark key="[" line="136" column="73" />
+        <mark key="]" line="136" column="73" />
+        <mark key="^" line="136" column="74" />
+        <mark key="." line="136" column="73" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Positioning/PositioningUser.php" timestamp="1528730949534">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="12" />
@@ -2600,11 +2605,12 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/requests/RequestTest.php" timestamp="1537783895223">
-        <mark key="[" line="39" column="57" />
-        <mark key="]" line="39" column="55" />
-        <mark key="." line="39" column="55" />
-        <mark key="^" line="39" column="55" />
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/requests/RequestTest.php" timestamp="1537785710607">
+        <mark key="'" line="140" column="21" />
+        <mark key="[" line="86" column="45" />
+        <mark key="]" line="86" column="45" />
+        <mark key="." line="86" column="45" />
+        <mark key="^" line="86" column="45" />
       </file>
       <file name="$USER_HOME$/Code/phetris7/src/Domain/Model/Board.php" timestamp="1489531839299">
         <mark key="[" line="20" column="33" />
@@ -3015,7 +3021,7 @@
         <mark key="." line="33" column="34" />
         <mark key="^" line="33" column="34" />
       </file>
-      <file name="/fragment.php" timestamp="1537527332069">
+      <file name="/fragment.php" timestamp="1537785355112">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
@@ -4545,8 +4551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/hungariansucker.coches.com/src/domain/model/Gallery.php" />
-      <jump line="135" column="4" filename="$USER_HOME$/Projects/hungariansucker.coches.com/src/domain/model/Gallery.php" />
       <jump line="21" column="23" filename="$USER_HOME$/Projects/hungariansucker.coches.com/src/domain/model/Gallery.php" />
       <jump line="161" column="53" filename="$USER_HOME$/Projects/hungariansucker.coches.com/application/commands/ScraperCommand.php" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/hungariansucker.coches.com/infrastructure/gateway/GuzzleGalleryDataStore.php" />
@@ -4645,55 +4649,57 @@
       <jump line="23" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronOfflineUpdateCommand.php" />
       <jump line="87" column="15" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronOfflineUpdateCommand.php" />
       <jump line="45" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronOfflineUpdateCommand.php" />
+      <jump line="56" column="21" filename="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/requests/RequestTest.php" />
+      <jump line="132" column="21" filename="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/requests/RequestTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxieVByb3ZpbmNpYVw+</text>
+        <text encoding="base64">XDxnZXRSZXF1ZXN0Rml4dHVyZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm92aW5jZVZPJyA9PiAkdGhpcy0+Z2V0Vk9Db3VudCgkcHJvdmluY2VJZCksCiAgICAgICAgICAgICAgICAncHJvdmluY2VOZXcnID0+IDE0MDAwICsgMjAwMCwgIC8vIFRPRE8oUGFibG8pOiBjb25zdHMK</text>
+      <register name="0" type="4">
+        <text>ABS,EBD,ESP,MSR,ASR, HBA</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgJHJlc3VsdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkYSA9IE9mZmxpbmU6Om1vZGVsKCktPgo=</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldExpc3RGcm9tRXh0cmFzQXJyYXkoKQogICAgewogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoKCR0aGlzLT4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYSA9IE9mZmxpbmU6Om1vZGVsKCktPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxieVByb3ZpbmNpYVw+</last-search>
+      <last-search encoding="base64">XDxnZXRSZXF1ZXN0Rml4dHVyZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxieVByb3ZpbmNpYVw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRSZXF1ZXN0Rml4dHVyZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
       <last-dir>-1</last-dir>
@@ -4701,8 +4707,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ImageD</entry>
-        <entry encoding="base64">XDxpc1N0b3JlZFw+</entry>
         <entry encoding="base64">XDxvdXRwdXRQcm9jZXNzaW5nR2FsbGVyeVw+</entry>
         <entry encoding="base64">XDxHQUxMRVJZX0VYSVNUU19DSEVDS19VUkxcPg==</entry>
         <entry>bower</entry>
@@ -4721,6 +4725,8 @@
         <entry encoding="base64">XDxsb2NhbGlkYWRfaWRcPg==</entry>
         <entry>print</entry>
         <entry encoding="base64">XDxieVByb3ZpbmNpYVw+</entry>
+        <entry encoding="base64">XDxleHRyYXNPcmlnaW5EYXRhUHJvdmlkZXJcPg==</entry>
+        <entry encoding="base64">XDxnZXRSZXF1ZXN0Rml4dHVyZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>Lwa</entry>
@@ -4739,9 +4745,9 @@
         <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry>qa</entry>
         <entry encoding="base64">JzwsJz52cw==</entry>
-        <entry>vs</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>vs</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
