@@ -3541,6 +3541,9 @@
         <mark key="^" line="14" column="63" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" timestamp="1538482141380">
+        <mark key="'" line="11" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/eurotax/ModelEntityTransformer.php" timestamp="1526457602460">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -4641,7 +4644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="6" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/user/RemoveUserUseCase.php" />
       <jump line="14" column="20" filename="$USER_HOME$/Projects/crmmigrations/src/application/dtos/user/RemoveUserRequest.php" />
       <jump line="338" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
       <jump line="360" column="35" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
@@ -4741,6 +4743,7 @@
       <jump line="47" column="80" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/doctrine/Repositories/Favorites/DoctrineFavoriteRepository.php" />
       <jump line="56" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/doctrine/Repositories/Favorites/DoctrineFavoriteRepository.php" />
       <jump line="38" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Favorite/Favorite.php" />
+      <jump line="11" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4750,7 +4753,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWZhdWx0SW1hZ2VcPg==</text>
+        <text>actionShow</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICBKb2luOjpXSVRILCAncmVxLmNsaWVudElkID0gOnVzZXJJZCc=</text>
@@ -4787,17 +4790,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWZhdWx0SW1hZ2VcPg==</last-search>
+      <last-search>actionShow</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWZhdWx0SW1hZ2VcPg==</last-pattern>
+      <last-pattern>actionShow</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>number-of</entry>
         <entry>Controller</entry>
         <entry>action</entry>
         <entry>Action</entry>
@@ -4817,6 +4819,7 @@
         <entry encoding="base64">XDxnZXRBZGRGYXZvcml0ZVVybFw+</entry>
         <entry encoding="base64">XDxmYXZvcml0ZXNMaXN0XD4=</entry>
         <entry encoding="base64">XDxkZWZhdWx0SW1hZ2VcPg==</entry>
+        <entry>actionShow</entry>
       </history-search>
       <history-cmd>
         <entry>105</entry>
