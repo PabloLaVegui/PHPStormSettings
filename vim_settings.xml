@@ -1328,6 +1328,11 @@
         <mark key="[" line="2281" column="0" />
         <mark key="]" line="2281" column="113" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Infrastructure/favorites/FavoriteRepository.php" timestamp="1538578389216">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/coches.com/models/WebUser/UnsubscribeWebUserService.php" timestamp="1538397334134">
         <mark key="[" line="457" column="36" />
         <mark key="]" line="457" column="39" />
@@ -4659,11 +4664,11 @@
       <jump line="38" column="58" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/twig/CochesComTwigExtension.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>contactUrl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGdldFVzZXJJZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>$this</text>
+        <text>, $getUserId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRJbWdzSG9zdFw+</text>
@@ -4672,31 +4677,31 @@
         <text>contactUrl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGdldFVzZXJJZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgovLyAgICAgICAgaWYgKCR0aGlzLT5wcmV2aW91c051bWJlciA9PT0gJHRoaXMtPm5vd051bWJlcikgewovLyAgICAgICAgICAgIHJldHVybiBudWxsOwovLyAgICAgICAgfQovLwovLyAgICAgICAgJGtleXdvcmQgPSAkdGhpcy0+cHJldmlvdXNOdW1iZXIgPiAkdGhpcy0+bm93TnVtYmVyID8KLy8gICAgICAgICAgICAnYmFqYWRhJwovLyAgICAgICAgICAgIDogJ3N1YmlkYSc7Ci8vCi8vICAgICAgICByZXR1cm4gJGtleXdvcmQgLiAnIGRlIHByZWNpbyAoZGUgJyAuICR0aGlzLT5nZXRQcmV2aW91c051bWJlcigpIC4gJ+KCrCBhICcgLiAkdGhpcy0+Z2V0Tm93TnVtYmVyKCkgLiAn4oKsKSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOiBudWxsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHByaW50UHJpY2VDYXIK</text>
+        <text encoding="base64">CgovLyAgICAgICAgaWYgKCR0aGlzLT5wcmV2aW91c051bWJlciA9PT0gJHRoaXMtPm5vd051bWJlcikgewovLyAgICAgICAgICAgIHJldHVybiBudWxsOwovLyAgICAgICAgfQovLwovLyAgICAgICAgJGtleXdvcmQgPSAkdGhpcy0+cHJldmlvdXNOdW1iZXIgPiAkdGhpcy0+bm93TnVtYmVyID8KLy8gICAgICAgICAgICAnYmFqYWRhJwovLyAgICAgICAgICAgIDogJ3N1YmlkYSc7Ci8vCi8vICAgICAgICByZXR1cm4gJGtleXdvcmQgLiAnIGRlIHByZWNpbyAoZGUgJyAuICR0aGlzLT5nZXRQcmV2aW91c051bWJlcigpIC4gJ+KCrCBhICcgLiAkdGhpcy0+Z2V0Tm93TnVtYmVyKCkgLiAn4oKsKSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHByaW50UHJpY2VDYXJTYXZlZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHByaW50UHJpY2VDYXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG51bWJlck9mUGhvdG9zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHByaW50UHJpY2VDYXJTYXZlZCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG51bWJlck9mUGhvdG9zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkaXY+Y29yYXrDs248L2Rpdj4KICAgIDxkaXY+e3sgZmF2b3JpdGUuZ2V0UHJpY2UoKSB8IG51bWJlcl9mb3JtYXQoMCwgJywnLCAnLicpIHwgZXVybyB9fTwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxkaXY+Y29yYXrDs248L2Rpdj4KICAgIDxkaXY+e3sgZmF2b3JpdGUuZ2V0UHJpY2UoKSB8IG51bWJlcl9mb3JtYXQoMCwgJywnLCAnLicpIHwgZXVybyB9fTwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
