@@ -658,6 +658,9 @@
         <mark key="^" line="45" column="32" />
         <mark key="." line="45" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/User/User.php" timestamp="1538407875667">
+        <mark key="'" line="2422" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/repositories/ClassifiedInteractionsRepository.php" timestamp="1511438563493">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="41" />
@@ -1228,12 +1231,12 @@
         <mark key="^" line="13" column="30" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronOfflineUpdateCommand.php" timestamp="1538722267470">
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronOfflineUpdateCommand.php" timestamp="1538724236983">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="103" column="45" />
+        <mark key="[" line="97" column="26" />
+        <mark key="]" line="97" column="26" />
+        <mark key="." line="97" column="26" />
+        <mark key="^" line="127" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/crons.coches.com/coches-offline-update/ProvinceRepository.php" timestamp="1526629950749">
         <mark key="[" line="20" column="0" />
@@ -2147,6 +2150,9 @@
         <mark key="]" line="8" column="8" />
         <mark key="^" line="43" column="16" />
         <mark key="." line="43" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/scripts/offline-table-update/offline-update.php" timestamp="1538724256177">
+        <mark key="'" line="84" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/CrisController.php" timestamp="1530520779982">
         <mark key="[" line="27" column="0" />
@@ -3499,6 +3505,9 @@
         <mark key="^" line="14" column="63" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" timestamp="1538482141380">
+        <mark key="'" line="11" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/eurotax/ModelEntityTransformer.php" timestamp="1526457602460">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -4601,12 +4610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="413" column="30" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
-      <jump line="423" column="30" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
-      <jump line="433" column="30" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
-      <jump line="36" column="49" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/modals/_positioning.php" />
-      <jump line="39" column="98" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/modals/_positioning.php" />
-      <jump line="124" column="47" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/listClassified.php" />
       <jump line="387" column="43" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
       <jump line="66" column="9" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/mizonaDesign/ClassifiedList/positioning.js" />
       <jump line="94" column="9" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/mizonaDesign/ClassifiedList/positioning.js" />
@@ -4701,16 +4704,22 @@
       <jump line="11" column="0" filename="$USER_HOME$/Projects/coches.com/models/CRM/CrmUser.php" />
       <jump line="134" column="20" filename="$USER_HOME$/Projects/coches.com/models/CRM/CrmUser.php" />
       <jump line="178" column="39" filename="$USER_HOME$/Projects/coches.com/models/CRM/CrmUser.php" />
+      <jump line="63" column="9" filename="$USER_HOME$/Projects/coches.com/coches_yii/scripts/offline-table-update/offline-update.php" />
+      <jump line="81" column="12" filename="$USER_HOME$/Projects/coches.com/coches_yii/scripts/offline-table-update/offline-update.php" />
+      <jump line="79" column="12" filename="$USER_HOME$/Projects/coches.com/coches_yii/scripts/offline-table-update/offline-update.php" />
+      <jump line="78" column="12" filename="$USER_HOME$/Projects/coches.com/coches_yii/scripts/offline-table-update/offline-update.php" />
+      <jump line="77" column="12" filename="$USER_HOME$/Projects/coches.com/coches_yii/scripts/offline-table-update/offline-update.php" />
+      <jump line="84" column="9" filename="$USER_HOME$/Projects/coches.com/coches_yii/scripts/offline-table-update/offline-update.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_qa1</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>_qa1</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>getTable</text>
+        <text encoding="base64">XDxzYXZlUmVzdWx0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TVlTUUxfQkRfQ09DSEVTX1BBU1NXT1JEPSJjb2NoZXNfcWExIgo=</text>
@@ -4747,17 +4756,16 @@
       </register>
     </registers>
     <search>
-      <last-search>getTable</last-search>
+      <last-search encoding="base64">XDxzYXZlUmVzdWx0XD4=</last-search>
       <last-offset />
-      <last-pattern>getTable</last-pattern>
+      <last-pattern encoding="base64">XDxzYXZlUmVzdWx0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVcmxIYW5kbGVyTWl6b25hXD4=</entry>
         <entry>getHomeUrl</entry>
         <entry encoding="base64">XDxjbGFzc2lmaWVkUmVwb3NpdG9yeVw+</entry>
         <entry>authdealer</entry>
@@ -4777,6 +4785,7 @@
         <entry encoding="base64">XDxTRUFSQ0hfRklMVEVSXD4=</entry>
         <entry>relationsToDele</entry>
         <entry>getTable</entry>
+        <entry encoding="base64">XDxzYXZlUmVzdWx0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>105</entry>
@@ -4794,10 +4803,10 @@
         <entry>280</entry>
         <entry>413</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>q</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz52cw==</entry>
         <entry>vs</entry>
+        <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
