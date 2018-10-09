@@ -481,10 +481,6 @@
         <mark key="^" line="36" column="24" />
         <mark key="." line="36" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/models/Province.php" timestamp="1538728965003">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="25" column="4" />
-      </file>
       <file name="$USER_HOME$/Code/php-observer/src/StatusChangeStorerService.php" timestamp="1490733840247">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="7" column="32" />
@@ -658,6 +654,9 @@
         <mark key="]" line="17" column="29" />
         <mark key="^" line="17" column="29" />
         <mark key="." line="17" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/Car/CarVOPrinter.php" timestamp="1539076668684">
+        <mark key="'" line="742" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Transformers/AuthorisedDealerAccessDataTransformer.php" timestamp="1509022044439">
         <mark key="[" line="5" column="23" />
@@ -1076,10 +1075,6 @@
         <mark key="]" line="19" column="77" />
         <mark key="^" line="19" column="77" />
         <mark key="." line="19" column="77" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/thereAreChanges/WThereAreChanges.php" timestamp="1538571096197">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="56" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/enums/routes/PositioningRoutesEnum.php" timestamp="1524476044346">
         <mark key="[" line="11" column="36" />
@@ -3186,6 +3181,9 @@
         <mark key="^" line="32" column="27" />
         <mark key="." line="32" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/FavoriteController.php" timestamp="1539076556784">
+        <mark key="'" line="152" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/ClamCardKata-Behat/behat.yml" timestamp="1538657028276">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="15" />
@@ -4634,9 +4632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="41" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedListController.php" />
-      <jump line="105" column="41" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedListController.php" />
-      <jump line="244" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedListController.php" />
       <jump line="321" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedListController.php" />
       <jump line="261" column="22" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedListController.php" />
       <jump line="221" column="22" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedListController.php" />
@@ -4734,6 +4729,9 @@
       <jump line="4" column="51" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/imgs/svg/spinner-coches.svg" />
       <jump line="0" column="248" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/imgs/svg/spinner-coches.svg" />
       <jump line="55" column="5" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/imgs/svg/spinner-coches.svg" />
+      <jump line="152" column="1" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/FavoriteController.php" />
+      <jump line="254" column="5" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/Car/CarVOPrinter.php" />
+      <jump line="742" column="26" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/Car/CarVOPrinter.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4743,7 +4741,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>#</text>
+        <text>actionVis</text>
       </register>
       <register name="0" type="4">
         <text>{{ getImage('svg/spinner-coches.svg') }}</text>
@@ -4776,13 +4774,13 @@
         <text encoding="base64">ICAgICAgICBzbGVlcCgyMDAwKTsgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>#</last-search>
+      <last-search>actionVis</last-search>
       <last-offset />
-      <last-pattern>#</last-pattern>
+      <last-pattern>actionVis</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -4790,7 +4788,6 @@
     </search>
     <history>
       <history-search>
-        <entry>actionSh</entry>
         <entry encoding="base64">XDxnZXRBZGRGYXZvcml0ZVVybFw+</entry>
         <entry encoding="base64">XDxmYXZvcml0ZXNMaXN0XD4=</entry>
         <entry encoding="base64">XDxkZWZhdWx0SW1hZ2VcPg==</entry>
@@ -4810,6 +4807,7 @@
         <entry encoding="base64">XDxkb0NvdW50XD4=</entry>
         <entry>actionSho</entry>
         <entry>#</entry>
+        <entry>actionVis</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>
@@ -4826,12 +4824,12 @@
         <entry>413</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry encoding="base64">JzwsJz52cw==</entry>
-        <entry>vs</entry>
         <entry>168</entry>
         <entry>1943</entry>
-        <entry>q</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
