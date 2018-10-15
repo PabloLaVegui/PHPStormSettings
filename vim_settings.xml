@@ -195,6 +195,12 @@
         <mark key="^" line="67" column="38" />
         <mark key="." line="67" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/enums/HelpBackendEmail.php" timestamp="1539618970644">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="7" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/tpv.coches.com/src/infrastructure/paymentmethod/paypal/PaypalPaymentRequestTransformer.php" timestamp="1529594446360">
         <mark key="[" line="72" column="36" />
         <mark key="]" line="72" column="36" />
@@ -2755,6 +2761,7 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/HelpController.php" timestamp="1539618888097" />
       <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/eurotax/Version.php" timestamp="1523882290975">
         <mark key="[" line="107" column="5" />
         <mark key="]" line="108" column="3" />
@@ -4256,6 +4263,7 @@
         <mark key="^" line="19" column="18" />
         <mark key="." line="19" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/MessageTransformer.php" timestamp="1539618865418" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Infrastructure/favorites/MyFavoritesRepository.php" timestamp="1537456900404">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="20" />
@@ -4799,10 +4807,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgJCgnI21vZGFsLXNhdmUtc2VhcmNoLWlkJykub24oJ3Nob3duJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAkKCdbbmFtZT0ibW9kYWwtc2F2ZS1zZWFyY2gtbmFtZS1pbnB1dCJdJykuZm9jdXMoKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>attr(&quot;id&quot;, $(this).attr('data-id'));</text>
+        <text>producto</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm92aW5jZUlkXD4=</text>
@@ -4811,34 +4819,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJCgnW25hbWU9Im1vZGFsLXNhdmUtc2VhcmNoLW5hbWUtaW5wdXQiXScpLmF0dHIoImlkIiwgJCh0aGlzKS5hdHRyKCdkYXRhLWlkJykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgJCgnI21vZGFsLXNhdmUtc2VhcmNoLWlkJykub24oJ3Nob3duJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAkKCdbbmFtZT0ibW9kYWwtc2F2ZS1zZWFyY2gtbmFtZS1pbnB1dCJdJykuZm9jdXMoKTsKICAgICAgICB9KTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnI21vZGFsLXNhdmUtc2VhcmNoLWlkJykub24oKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnW25hbWU9Im1vZGFsLXNhdmUtc2VhcmNoLW5hbWUtaW5wdXQiXScpLmZvY3VzKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHsjPHNwYW4gaWQ9InNhdmVkLXNlYXJjaC1uYW1lLXt7IHNhdmVkU2VhcmNoSWQgfX0iPiN9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gJCgnI3NhdmVkLXNlYXJjaC1jaGFuZ2UtbmFtZS0nICsgaWQpLmRhdGEoJ25hbWUnLCBuYW1lKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJCgnYVtkYXRhLW5hbWU9JyArICQoIiNtb2RhbC1zYXZlLXNlYXJjaC1uYW1lIikudGV4dCgpICsgJ10nKS5hdHRyKCdkYXRhLW5hbWUnLCBuYW1lKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgJCgnI21vZGFsLXNhdmUtc2VhcmNoLWlkJykub24oJ3Nob3duJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAkKCdbbmFtZT0ibW9kYWwtc2F2ZS1zZWFyY2gtbmFtZS1pbnB1dCJdJykuZm9jdXMoKTsKICAgICAgICB9KTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI21vZGFsLXNhdmUtc2VhcmNoLWlkJykub24oKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJCgnW25hbWU9Im1vZGFsLXNhdmUtc2VhcmNoLW5hbWUtaW5wdXQiXScpLmZvY3VzKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHsjPHNwYW4gaWQ9InNhdmVkLXNlYXJjaC1uYW1lLXt7IHNhdmVkU2VhcmNoSWQgfX0iPiN9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gJCgnI3NhdmVkLXNlYXJjaC1jaGFuZ2UtbmFtZS0nICsgaWQpLmRhdGEoJ25hbWUnLCBuYW1lKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJCgnYVtkYXRhLW5hbWU9JyArICQoIiNtb2RhbC1zYXZlLXNlYXJjaC1uYW1lIikudGV4dCgpICsgJ10nKS5hdHRyKCdkYXRhLW5hbWUnLCBuYW1lKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -4891,9 +4899,9 @@
         <entry>w</entry>
         <entry>145</entry>
         <entry>396</entry>
-        <entry>vs</entry>
         <entry>q</entry>
         <entry>wa</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
