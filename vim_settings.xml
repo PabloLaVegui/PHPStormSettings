@@ -207,11 +207,11 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/partials/pill.twig" timestamp="1539600670974">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/partials/pill.twig" timestamp="1539607927835">
         <mark key="'" line="20" column="21" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="8" />
-        <mark key="." line="25" column="8" />
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="22" column="48" />
+        <mark key="." line="22" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/Ecommerce/Order.php" timestamp="1513678274957">
         <mark key="[" line="380" column="37" />
@@ -404,6 +404,12 @@
         <mark key="]" line="9" column="50" />
         <mark key="^" line="38" column="56" />
         <mark key="." line="9" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/partials/change_name_modal.twig" timestamp="1539608902778">
+        <mark key="[" line="43" column="86" />
+        <mark key="]" line="43" column="85" />
+        <mark key="." line="43" column="85" />
+        <mark key="^" line="43" column="85" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/exceptions/CannotSaveClassifiedException.php" timestamp="1513596317853">
         <mark key="[" line="7" column="0" />
@@ -778,10 +784,10 @@
         <mark key="." line="13" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/SavedSearchSecureController.php" timestamp="1539607152988">
-        <mark key="[" line="252" column="39" />
-        <mark key="]" line="253" column="33" />
-        <mark key="^" line="253" column="33" />
-        <mark key="." line="253" column="33" />
+        <mark key="[" line="250" column="39" />
+        <mark key="]" line="251" column="33" />
+        <mark key="^" line="251" column="33" />
+        <mark key="." line="251" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/eurotax/ModelTest.php" timestamp="1519741566690">
         <mark key="[" line="3" column="0" />
@@ -4603,9 +4609,9 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/saved_search.twig" timestamp="1539606116753">
-        <mark key="[" line="61" column="40" />
-        <mark key="]" line="61" column="44" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/saved_search.twig" timestamp="1539607755037">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="65" />
         <mark key="." line="61" column="44" />
         <mark key="^" line="61" column="44" />
       </file>
@@ -4798,43 +4804,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Saved</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Saved</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm92aW5jZUlkXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gJGUpIHsK</text>
+      <register name="0" type="4">
+        <text>$(&quot;#modal-save-search-name&quot;).text</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJCgnYVtkYXRhLW5hbWU9JyArICQoIiNtb2RhbC1zYXZlLXNlYXJjaC1uYW1lIikudGV4dCgpICsgJ10nKS5hdHRyKCdkYXRhLW5hbWUnLCBuYW1lKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkc2F2ZWRTZWFyY2ggPSAkdGhpcy0+cmVwb3NpdG9yeS0+Z2V0VXNlclNhdmVkU2VhcmNoQnlVcmwoCi8vICAgICAgICAgICAgICAgICR0aGlzLT5nZXRVc2VySWQoKSwKLy8gICAgICAgICAgICAgICAgJHNhdmVkU2VhcmNoVXJsCi8vICAgICAgICAgICAgKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNoZWNrSXNOb3RBbHJlYWR5U2F2ZWQoJHNhdmVkU2VhcmNoVXJsKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChTYXZlZFNlYXJjaEFscmVhZHlTYXZlZEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICBra2trCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAkc2F2ZWRTZWFyY2ggPSAkdGhpcy0+cmVwb3NpdG9yeS0+Z2V0VXNlclNhdmVkU2VhcmNoQnlVcmwoCi8vICAgICAgICAgICAgICAgICR0aGlzLT5nZXRVc2VySWQoKSwKLy8gICAgICAgICAgICAgICAgJHNhdmVkU2VhcmNoVXJsCi8vICAgICAgICAgICAgKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNoZWNrSXNOb3RBbHJlYWR5U2F2ZWQoJHNhdmVkU2VhcmNoVXJsKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChTYXZlZFNlYXJjaEFscmVhZHlTYXZlZEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICBra2trCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmF0dHIoJ2lkJywgJ3Jlc290b3JlLWxpbmsnICsgbmV3SWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
