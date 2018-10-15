@@ -207,7 +207,7 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/partials/pill.twig" timestamp="1539607927835">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/partials/pill.twig" timestamp="1539610071291">
         <mark key="'" line="20" column="21" />
         <mark key="[" line="22" column="48" />
         <mark key="]" line="22" column="48" />
@@ -405,11 +405,11 @@
         <mark key="^" line="38" column="56" />
         <mark key="." line="9" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/partials/change_name_modal.twig" timestamp="1539608902778">
-        <mark key="[" line="43" column="86" />
-        <mark key="]" line="43" column="85" />
-        <mark key="." line="43" column="85" />
-        <mark key="^" line="43" column="85" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/partials/change_name_modal.twig" timestamp="1539611778627">
+        <mark key="[" line="28" column="80" />
+        <mark key="]" line="28" column="84" />
+        <mark key="." line="28" column="84" />
+        <mark key="^" line="28" column="84" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/exceptions/CannotSaveClassifiedException.php" timestamp="1513596317853">
         <mark key="[" line="7" column="0" />
@@ -4804,16 +4804,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm92aW5jZUlkXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>$(&quot;#modal-save-search-name&quot;).text</text>
+        <text>$(&quot;#saved-search-name-&quot; + id)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJCgnYVtkYXRhLW5hbWU9JyArICQoIiNtb2RhbC1zYXZlLXNlYXJjaC1uYW1lIikudGV4dCgpICsgJ10nKS5hdHRyKCdkYXRhLW5hbWUnLCBuYW1lKTsK</text>
