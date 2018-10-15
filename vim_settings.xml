@@ -207,6 +207,12 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/partials/pill.twig" timestamp="1539592604235">
+        <mark key="[" line="41" column="91" />
+        <mark key="]" line="41" column="94" />
+        <mark key="^" line="41" column="94" />
+        <mark key="." line="41" column="94" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/Ecommerce/Order.php" timestamp="1513678274957">
         <mark key="[" line="380" column="37" />
         <mark key="]" line="380" column="78" />
@@ -219,7 +225,6 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/repositories/MyFavoritesRepository.php" timestamp="1539180167812" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/Access/SendRecoverPasswordEmailUseCaseTest.php" timestamp="1517841847520">
         <mark key="[" line="24" column="85" />
         <mark key="]" line="24" column="85" />
@@ -670,7 +675,6 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" timestamp="1539002668097" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.php" timestamp="1508400676530">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="4" column="16" />
@@ -772,11 +776,6 @@
         <mark key="]" line="13" column="20" />
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/SavedSearchSecureController.php" timestamp="1539186850724">
-        <mark key="[" line="144" column="27" />
-        <mark key="]" line="144" column="27" />
-        <mark key="." line="144" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/eurotax/ModelTest.php" timestamp="1519741566690">
         <mark key="[" line="3" column="0" />
@@ -1054,7 +1053,7 @@
         <mark key="." line="38" column="9" />
         <mark key="^" line="38" column="9" />
       </file>
-      <file name="/PHP Console" timestamp="1539187050366">
+      <file name="/PHP Console" timestamp="1539592156782">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1144,7 +1143,6 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/FavoritesModifiedStatisticService.php" timestamp="1539183074532" />
       <file name="$USER_HOME$/Code/php-observer/composer.json" timestamp="1490723646242">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="35" />
@@ -3554,7 +3552,6 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/DeprecatedModels/Url.php" timestamp="1539092516348" />
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/eurotax/MakeGatewayCommand.php" timestamp="1521026708733">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -3573,7 +3570,6 @@
         <mark key="." line="7" column="45" />
         <mark key="^" line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" timestamp="1539180195157" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/balance/payment/directDebitAddAccount.php" timestamp="1513768886414">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="2" column="0" />
@@ -4601,6 +4597,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/saved_search.twig" timestamp="1539592319780" />
       <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/discounts/DoctrineDealerDiscountRepositoryTest.php" timestamp="1524576461591">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="94" column="4" />
@@ -4790,10 +4787,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NOTIFY</text>
+        <text>savedSearchDTO.getAlarm().getName()</text>
       </register>
       <register name="-" type="4">
-        <text>NOTIFY</text>
+        <text>savedSearchDTO.getAlarm().getName()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm92aW5jZUlkXD4=</text>
