@@ -207,11 +207,11 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/partials/pill.twig" timestamp="1539600370601">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/partials/pill.twig" timestamp="1539600670974">
         <mark key="'" line="20" column="21" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="8" />
+        <mark key="." line="25" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/Ecommerce/Order.php" timestamp="1513678274957">
         <mark key="[" line="380" column="37" />
@@ -4598,11 +4598,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/saved_search.twig" timestamp="1539600408970">
-        <mark key="[" line="68" column="30" />
-        <mark key="]" line="68" column="30" />
-        <mark key="." line="68" column="30" />
-        <mark key="^" line="68" column="30" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/saved_search.twig" timestamp="1539600963459">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="61" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/discounts/DoctrineDealerDiscountRepositoryTest.php" timestamp="1524576461591">
         <mark key="[" line="62" column="0" />
@@ -4792,11 +4792,11 @@
       <jump line="21" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/partials/pill.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#restore-link' + currentId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>#restore-link' + currentId</text>
+        <text>searchId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm92aW5jZUlkXD4=</text>
@@ -4805,31 +4805,31 @@
         <text>link.getAttribute('data-url'),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpZD0icmVzdG9yZS1saW5rLXt7IHNhdmVkU2VhcmNoSWQgfX0iCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmF0dHIoJ2lkJywgJ3Jlc290b3JlLWxpbmsnICsgbmV3SWQpCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGZ1bmN0aW9uIGRlbGV0ZVNlYXJjaChzZWFyY2hJZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICBpZD0icmVzdG9yZS1saW5rLXt7IHNhdmVkU2VhcmNoSWQgfX0iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGZ1bmN0aW9uIHJlc3RvcmVTZWFyY2goc2VhcmNoVXJsU3RyaW5nLCBzZWFyY2hOYW1lLCBzZWFyY2hJZCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICdzYXZlZF9zZWFyY2hfdXJsJzogc2VhcmNoVXJsU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgIC8vIGZ1bmN0aW9uIGRlbGV0ZVNlYXJjaChzZWFyY2hJZCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIGZ1bmN0aW9uIHJlc3RvcmVTZWFyY2goc2VhcmNoVXJsU3RyaW5nLCBzZWFyY2hOYW1lLCBzZWFyY2hJZCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICdzYXZlZF9zZWFyY2hfdXJsJzogc2VhcmNoVXJsU3RyaW5nLAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdkYXRhJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ2FkZF9zZWFyY2hfdXJsJyA9PiAnJywKICAgICAgICAgICAgICAgICAgICAnc2VhcmNoX3VybCcgPT4KICAgICAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
