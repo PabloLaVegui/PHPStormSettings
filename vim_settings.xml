@@ -635,7 +635,7 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" timestamp="1539704752993">
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" timestamp="1539944767272">
         <mark key="'" line="113" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Positioning/PositioningUser.php" timestamp="1528730949534">
@@ -1433,6 +1433,12 @@
         <mark key="]" line="110" column="38" />
         <mark key="." line="110" column="26" />
         <mark key="^" line="110" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/requests/DoctrineVNRequestRepositoryTest.php" timestamp="1539946178461">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="88" />
+        <mark key="^" line="108" column="133" />
+        <mark key="." line="108" column="133" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/eurotax/VersionDataTest.php" timestamp="1520237364501">
         <mark key="[" line="46" column="0" />
@@ -2791,6 +2797,12 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/requests/RequestTest.php" timestamp="1539944802537">
+        <mark key="[" line="181" column="13" />
+        <mark key="]" line="181" column="13" />
+        <mark key="." line="181" column="13" />
+        <mark key="^" line="180" column="25" />
+      </file>
       <file name="$USER_HOME$/Code/phetris7/src/Domain/Model/Board.php" timestamp="1489531839299">
         <mark key="[" line="20" column="33" />
         <mark key="]" line="20" column="47" />
@@ -2957,11 +2969,11 @@
         <mark key="^" line="16" column="17" />
         <mark key="." line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/webuser/DoctrineWebUserRepositoryTest.php" timestamp="1524563674433">
-        <mark key="[" line="46" column="54" />
-        <mark key="]" line="46" column="54" />
-        <mark key="^" line="46" column="54" />
-        <mark key="." line="46" column="54" />
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/webuser/DoctrineWebUserRepositoryTest.php" timestamp="1539946180772">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="88" />
+        <mark key="^" line="43" column="37" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/authorisedDealer/contact/ContactForm.php" timestamp="1511970149571">
         <mark key="[" line="5" column="6" />
@@ -4604,6 +4616,12 @@
         <mark key="^" line="63" column="40" />
         <mark key="." line="63" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/services/DispatcherRequestVnServiceFixtures.php" timestamp="1539944901290">
+        <mark key="[" line="156" column="17" />
+        <mark key="]" line="156" column="17" />
+        <mark key="^" line="155" column="24" />
+        <mark key="." line="156" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateRequestUseCase.php" timestamp="1521638079230">
         <mark key="[" line="139" column="13" />
         <mark key="]" line="139" column="25" />
@@ -4925,44 +4943,44 @@
       <jump line="17" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/webuser/WebUser.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'test@coches.com'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogQWwgY2FtYmlhciBlbCBpZCBhIHN0cmF0ZWd5OiBBVVRPIG5vIHNlIHB1ZWRlIHNldGVhciBtYW51YWxtZW50ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>'test@coches.com'</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0Vk5Vc2VDYXNlVHJhbnNmb3JtZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNob3VsZF9zZXJpYWxpemVfdGhlX2VtYWlsX2xpc3QoKQogICAgewogICAgICAgICR3ZWJ1c2VyID0gbmV3IFdlYlVzZXIoCiAgICAgICAgICAgICdpZCcsCiAgICAgICAgICAgICdmaXJzdCcsCiAgICAgICAgICAgICdsYXN0JywKICAgICAgICAgICAgJ3Byb3ZpbmNlJywKICAgICAgICAgICAgJ3Bvc3RhbCcsCiAgICAgICAgICAgIFtdLAogICAgICAgICAgICBbbmV3IEVtYWlsKCdlbWFpbEB0ZXN0LmNvY2hlcy50ZXN0JyldCiAgICAgICAgKTsKCiAgICAgICAgJHJlc3VsdCA9ICR3ZWJ1c2VyLT5zZXJpYWxpemUoKTsKCiAgICAgICAgc2VsZjo6YXNzZXJ0QXJyYXlIYXNLZXkoJ2VtYWlsJywgJHJlc3VsdCk7CiAgICAgICAgc2VsZjo6YXNzZXJ0Tm90RW1wdHkoJHJlc3VsdFsnZW1haWwnXSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogQWwgY2FtYmlhciBlbCBpZCBhIHN0cmF0ZWd5OiBBVVRPIG5vIHNlIHB1ZWRlIHNldGVhciBtYW51YWxtZW50ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkd2VidXNlciA9ICR0aGlzLT5nZXRXZWJVc2VyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjphc3NlcnRra2tra2trCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2V4dHJhcycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdleHRyYXMnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDAsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBhcnJheQogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdleHRyYXMnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIGNvY2hlc2NvbVxkb21haW5cbW9kZWxzXHZhbHVlc1xQaG9uZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2V4dHJhcycK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -5018,8 +5036,8 @@
         <entry>93</entry>
         <entry>138</entry>
         <entry>w</entry>
-        <entry>vs</entry>
         <entry>q</entry>
+        <entry>vs</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
