@@ -1907,6 +1907,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="90" column="29" />
       </file>
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/CommandBus/CommandFactory/ClassicPhetrisCommandFactory.php" timestamp="1540242758177">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+        <mark key="^" line="15" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/repositories/ClassifiedsRepository.php" timestamp="1505817957116">
         <mark key="[" line="17" column="20" />
         <mark key="]" line="17" column="20" />
@@ -3228,12 +3234,12 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Value/GeoMap2D.php" timestamp="1540241101639">
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Value/GeoMap2D.php" timestamp="1540241793475">
         <mark key="'" line="191" column="21" />
-        <mark key="[" line="343" column="51" />
-        <mark key="]" line="344" column="23" />
-        <mark key="." line="344" column="23" />
-        <mark key="^" line="344" column="23" />
+        <mark key="[" line="347" column="0" />
+        <mark key="]" line="347" column="16" />
+        <mark key="." line="347" column="16" />
+        <mark key="^" line="347" column="96" />
       </file>
       <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Infrastructure/Movement/MovementListener.php" timestamp="1527715313472">
         <mark key="[" line="9" column="10" />
@@ -3875,47 +3881,47 @@
       <jump line="163" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text>$rowIndex</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>removeRow</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIGluaXQ6IHhXMDBXeCAgIGV4cGVjdGVkOiB4MDAwMHgKICAgICAqICAgICAgIHgwMDBXeCAgICAgICAgICAgICB4VzAwV3gKICAgICAqICAgICAgIHgwMDAweCAgICAgICAgICAgICB4MDAwV3gKICAgICAqICAgICAgIHgwMDBXeCAgICAgICAgICAgICB4MDAwV3gKICAgICAqICAgICAgIHh4eHh4eCAgICAgICAgICAgICB4eHh4eHgK</text>
+      <register name="0" type="4">
+        <text encoding="base64">JHRoaXMtPnBvc2l0aW9uc01hcFskcm93SW5kZXhd</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZm9yZWFjaCAoJHJvd1Bvc2l0aW9ucyBhcyAka2V5ID0+ICRwb3NpdGlvbikgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBrc29ydCgkcG9zaXRpb25zKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVuc2V0KCR0aGlzLT5wb3NpdGlvbnNNYXBbJHBvc2l0aW9uLT54KCldWyRwb3NpdGlvbi0+eSgpXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVuc2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5yZW0K</text>
+        <text encoding="base64">ICAgICAgICBrc29ydCgkcG9zaXRpb25zKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfHwgJHRoaXMtPmhhc0J1c3lQb3NpdGlvbnMoJG5leHRUZXRyb21pbm9HZW9NYXApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVuc2V0KCR0aGlzLT5wb3NpdGlvbnNNYXBbJHBvc2l0aW9uLT54KCldWyRwb3NpdGlvbi0+eSgpXSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3968,9 +3974,9 @@
         <entry>123</entry>
         <entry>q</entry>
         <entry>53</entry>
-        <entry>w</entry>
         <entry>vs</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
