@@ -2014,6 +2014,9 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" timestamp="1540377303539">
+        <mark key="'" line="6" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/payment/ko.twig" timestamp="1531236820662">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="29" />
@@ -2510,6 +2513,7 @@
         <mark key="." line="5" column="6" />
         <mark key="^" line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/Constant/Constant.php" timestamp="1540377535547" />
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessageDto.php" timestamp="1540224293054">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="22" />
@@ -2534,11 +2538,11 @@
         <mark key="^" line="54" column="61" />
         <mark key="." line="54" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/config/config.yaml" timestamp="1533131642348">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-        <mark key="^" line="0" column="16" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/config/config.yaml" timestamp="1540377201889">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+        <mark key="^" line="8" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/finance/FinanceRequestTransformer.php" timestamp="1527772265626">
         <mark key="[" line="34" column="12" />
@@ -2951,6 +2955,7 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/myTrafficReports/emptyMyTrafficReports.php" timestamp="1540377697452" />
       <file name="/Dummy.txt" timestamp="1540221550283">
         <mark key="[" line="0" column="0" />
       </file>
@@ -3467,6 +3472,9 @@
         <mark key="]" line="18" column="77" />
         <mark key="." line="18" column="77" />
         <mark key="^" line="18" column="77" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/myTrafficReports/_trafficReportInstruction.php" timestamp="1540377721957">
+        <mark key="'" line="6" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/models/UrlHandler/UrlHandlerMyZone.php" timestamp="1532517613492">
         <mark key="[" line="7" column="43" />
@@ -4881,9 +4889,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/HelpController.php" />
-      <jump line="51" column="16" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/dependencies/commons.php" />
-      <jump line="68" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/HelpController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/environments/env.devel.mizona" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/environments/env.devel.mizona.http" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/environments/env.devel.mizona.qa1.http" />
@@ -4981,6 +4986,9 @@
       <jump line="58" column="34" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="43" column="42" filename="$USER_HOME$/Projects/coches.com/models/Manhattan/TrafficReportRenderer/TrafficReportRendererService.php" />
       <jump line="49" column="9" filename="$USER_HOME$/Projects/coches.com/models/Manhattan/TrafficReportRenderer/TrafficReportRendererService.php" />
+      <jump line="67" column="32" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
+      <jump line="6" column="10" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
+      <jump line="6" column="17" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/myTrafficReports/_trafficReportInstruction.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4990,7 +4998,7 @@
         <text>, 'req'</text>
       </register>
       <register name="/" type="4">
-        <text>vehicleWithoutCharge</text>
+        <text encoding="base64">XDx0cmFmZmljUmVwb3J0UHJpY2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgaWYgKCR2ZWhpY2xlV2l0aG91dENoYXJnZSkgeyA/PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iPD9waHAgZWNobyBVcmxHZW5lcmF0b3JJbWFnZXM6OmdldEZyb250SW1hZ2VzVVJMKCkgPz5pY29uX3dlbGwucG5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3BocCB9IGVsc2UgeyA/PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iPD9waHAgZWNobyBVcmxHZW5lcmF0b3JJbWFnZXM6OmdldEZyb250SW1hZ2VzVVJMKCkgPz5pY29uX3dhcm5pbmcucG5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3BocCB9ID8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJyPgo=</text>
@@ -5027,18 +5035,16 @@
       </register>
     </registers>
     <search>
-      <last-search>vehicleWithoutCharge</last-search>
+      <last-search encoding="base64">XDx0cmFmZmljUmVwb3J0UHJpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern>vehicleWithoutCharge</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFmZmljUmVwb3J0UHJpY2VcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfYmNjQWRkcmVzc1w+</entry>
-        <entry>addGlobalMergeVar</entry>
         <entry encoding="base64">XDxnZXRCb2R5Q29udGVudFw+</entry>
         <entry encoding="base64">XDxfYm9keUNvbnRlbnRcPg==</entry>
         <entry encoding="base64">XDxfYXR0YWNobWVudExpc3RcPg==</entry>
@@ -5057,6 +5063,8 @@
         <entry>Down</entry>
         <entry>actionDown</entry>
         <entry>vehicleWithoutCharge</entry>
+        <entry encoding="base64">XDxFTVBUWV9UUkFGRklDX1JFUE9SVFNfVklFV1w+</entry>
+        <entry encoding="base64">XDx0cmFmZmljUmVwb3J0UHJpY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
