@@ -575,8 +575,9 @@
         <mark key="^" line="27" column="17" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1540367652577">
-        <mark key="'" line="58" column="34" />
+      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1540464732737">
+        <mark key="a" line="140" column="8" />
+        <mark key="'" line="17" column="30" />
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="21" />
         <mark key="." line="4" column="21" />
@@ -917,6 +918,12 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="3" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/config/main.php" timestamp="1540464820538">
+        <mark key="'" line="96" column="1" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="74" />
+        <mark key="." line="155" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/eurotax/ModelGatewayTransformer.php" timestamp="1519813759705">
         <mark key="[" line="31" column="12" />
         <mark key="]" line="31" column="19" />
@@ -1097,7 +1104,7 @@
         <mark key="." line="38" column="9" />
         <mark key="^" line="38" column="9" />
       </file>
-      <file name="/PHP Console" timestamp="1540462292756">
+      <file name="/PHP Console" timestamp="1540464379382">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -4560,7 +4567,7 @@
         <mark key="^" line="28" column="36" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/commands/PruebaCommand.php" timestamp="1540462986426">
+      <file name="$USER_HOME$/Projects/crmmigrations/application/commands/PruebaCommand.php" timestamp="1540464689621">
         <mark key="[" line="56" column="40" />
         <mark key="]" line="56" column="40" />
         <mark key="." line="56" column="40" />
@@ -4937,11 +4944,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="5" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="93" column="9" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="2" column="7" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="483" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="102" column="23" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
       <jump line="18" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
       <jump line="350" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
       <jump line="62" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
@@ -5037,19 +5039,24 @@
       <jump line="19" column="10" filename="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Solicitud.php" />
       <jump line="74" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
       <jump line="73" column="15" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
+      <jump line="140" column="8" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="59" column="23" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="13" column="51" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="17" column="30" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="96" column="1" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/config/main.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>handlebars</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkYXJyYXlbJ3BhcmFtcyddWydtYW5kcmlsbCddWydhcGlrZXknXSA9ICc4WExxNkhJNk5IZGE2THBVV2ZJMUpRJzsK</text>
       </register>
       <register name="-" type="4">
         <text>handlebars</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbWVyZ2VMYW5ndWFnZVw+</text>
+        <text>mandrill</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJF9tZXJnZUxhbmd1YWdlID0gJ2hhbmRsZWJhcnMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAkYXJyYXlbJ3BhcmFtcyddWydtYW5kcmlsbCddWydhcGlrZXknXSA9ICc4WExxNkhJNk5IZGE2THBVV2ZJMUpRJzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -5079,22 +5086,20 @@
         <text encoding="base64">ICAgIC8qKiBAdmFyIENvbmZpZyAqLwogICAgcHJpdmF0ZSAkY29uZmlnOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfbWVyZ2VMYW5ndWFnZVw+</last-search>
+      <last-search>mandrill</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbWVyZ2VMYW5ndWFnZVw+</last-pattern>
+      <last-pattern>mandrill</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWxldGVQb3NpdGlvbmluZ0Jhc2VVcmxcPg==</entry>
-        <entry>TrafficReportRequestManager</entry>
         <entry>Downl</entry>
         <entry>Down</entry>
         <entry>actionDown</entry>
@@ -5110,9 +5115,11 @@
         <entry encoding="base64">XDxfdGVtcGxhdGVDb250ZW50XD4=</entry>
         <entry encoding="base64">XDxnZXRSZWNvdmVyUGFzc3dvcmRNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxfdGVtcGxhdGVOYW1lXD4=</entry>
-        <entry>mandrill</entry>
         <entry encoding="base64">XDxURU1QTEFURV9SRVFVRVNUX1ZOX1VTRVJcPg==</entry>
         <entry encoding="base64">XDxfbWVyZ2VMYW5ndWFnZVw+</entry>
+        <entry>man</entry>
+        <entry>email</entry>
+        <entry>mandrill</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
@@ -5133,8 +5140,8 @@
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>vs</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
