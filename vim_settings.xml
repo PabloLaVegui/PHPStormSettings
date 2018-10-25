@@ -111,6 +111,12 @@
         <mark key="." line="19" column="44" />
         <mark key="^" line="19" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/crm_yii/protected/controllers/TrafficReportRequestManager/TrafficReportRequestManagerController.php" timestamp="1540373754613">
+        <mark key="'" line="72" column="25" />
+        <mark key="[" line="344" column="0" />
+        <mark key="]" line="344" column="0" />
+        <mark key="." line="344" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/User/UpdateBankAccountUseCase.php" timestamp="1513777300690">
         <mark key="[" line="26" column="31" />
         <mark key="]" line="26" column="43" />
@@ -595,12 +601,11 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" timestamp="1540463391307">
-        <mark key="'" line="73" column="15" />
-        <mark key="[" line="74" column="31" />
-        <mark key="]" line="74" column="30" />
-        <mark key="." line="74" column="30" />
-        <mark key="^" line="74" column="30" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" timestamp="1540474049827">
+        <mark key="'" line="209" column="39" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/myTrafficReports/_trafficReportInstruction.twig" timestamp="1540395019319">
         <mark key="'" line="105" column="20" />
@@ -3119,12 +3124,12 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" timestamp="1540463237906">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="84" column="4" />
-        <mark key="]" line="84" column="4" />
-        <mark key="." line="84" column="10" />
-        <mark key="^" line="31" column="10" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" timestamp="1540474000412">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+        <mark key="^" line="13" column="39" />
       </file>
       <file name="$USER_HOME$/Code/php-observer/src/Maquina.php" timestamp="1490723854098">
         <mark key="[" line="3" column="8" />
@@ -4567,7 +4572,7 @@
         <mark key="^" line="28" column="36" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/commands/PruebaCommand.php" timestamp="1540464689621">
+      <file name="$USER_HOME$/Projects/crmmigrations/application/commands/PruebaCommand.php" timestamp="1540473882686">
         <mark key="[" line="56" column="40" />
         <mark key="]" line="56" column="40" />
         <mark key="." line="56" column="40" />
@@ -4944,8 +4949,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="350" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
       <jump line="62" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
       <jump line="469" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
       <jump line="142" column="6" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
@@ -5044,10 +5047,12 @@
       <jump line="13" column="51" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="17" column="30" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="96" column="1" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/config/main.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" />
+      <jump line="210" column="39" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJyYXlbJ3BhcmFtcyddWydtYW5kcmlsbCddWydhcGlrZXknXSA9ICc4WExxNkhJNk5IZGE2THBVV2ZJMUpRJzsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJF9tZXJnZUxhbmd1YWdlID0gJyc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>handlebars</text>
@@ -5059,31 +5064,31 @@
         <text encoding="base64">ICAgICAgICAkYXJyYXlbJ3BhcmFtcyddWydtYW5kcmlsbCddWydhcGlrZXknXSA9ICc4WExxNkhJNk5IZGE2THBVV2ZJMUpRJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJF9tZXJnZUxhbmd1YWdlID0gJyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdG9rZW4gPSAnZDQ2MzNiNDYtZjQ4Yi00YTFkLTg3NDQtYWQ5ZDYyZTA5YWUyJzsKCiAgICAgICAgJHN1Z2FyQ29ubmVjdGlvbiA9ICR0aGlzLT5jb250YWluZXItPmdldChTdWdhckNvbm5lY3Rpb246OmNsYXNzKTsKICAgICAgICAkc3VnYXJDb25uZWN0aW9uLT5zZXRPQXV0aFRva2VuKCR0b2tlbik7CgogICAgICAgICRnYXRld2F5ID0gbmV3IE1ha2VHYXRld2F5UXVlcnkoJHN1Z2FyQ29ubmVjdGlvbiwgbmV3IE1ha2VHYXRld2F5VHJhbnNmb3JtZXIoKSk7CgogICAgICAgICRnYXRld2F5LT5maW5kQnlJZE9yRmFpbCgnNDU0NicpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gbnVsbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0VGVtcGxhdGVDb250ZW50KCkKICAgIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkdG9rZW4gPSAnZDQ2MzNiNDYtZjQ4Yi00YTFkLTg3NDQtYWQ5ZDYyZTA5YWUyJzsKCiAgICAgICAgJHN1Z2FyQ29ubmVjdGlvbiA9ICR0aGlzLT5jb250YWluZXItPmdldChTdWdhckNvbm5lY3Rpb246OmNsYXNzKTsKICAgICAgICAkc3VnYXJDb25uZWN0aW9uLT5zZXRPQXV0aFRva2VuKCR0b2tlbik7CgogICAgICAgICRnYXRld2F5ID0gbmV3IE1ha2VHYXRld2F5UXVlcnkoJHN1Z2FyQ29ubmVjdGlvbiwgbmV3IE1ha2VHYXRld2F5VHJhbnNmb3JtZXIoKSk7CgogICAgICAgICRnYXRld2F5LT5maW5kQnlJZE9yRmFpbCgnNDU0NicpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gbnVsbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0VGVtcGxhdGVDb250ZW50KCkKICAgIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIGNjb21cY29uZmlnXGNvbmZpZ1xDb25maWc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29uZmlnID0gJHRoaXMtPgo=</text>
+        <text encoding="base64">dXNlIGNjb21cY29uZmlnXGNvbmZpZ1xDb25maWc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIENvbmZpZyAqLwogICAgcHJpdmF0ZSAkY29uZmlnOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29uZmlnID0gJHRoaXMtPgo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
