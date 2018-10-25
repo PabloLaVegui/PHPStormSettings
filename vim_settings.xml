@@ -1,7 +1,9 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks />
+    <globalmarks>
+      <mark key="G" line="37" column="14" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.clients.ClientEntity.dcm.yml" protocol="file" />
+    </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Code/eventstracker/protected/modules/admin/views/user/_view.php" timestamp="1425420974660">
         <mark key="[" line="28" column="36" />
@@ -110,12 +112,6 @@
         <mark key="]" line="15" column="47" />
         <mark key="." line="19" column="44" />
         <mark key="^" line="19" column="44" />
-      </file>
-      <file name="$USER_HOME$/Projects/coches.com/crm_yii/protected/controllers/TrafficReportRequestManager/TrafficReportRequestManagerController.php" timestamp="1540373754613">
-        <mark key="'" line="72" column="25" />
-        <mark key="[" line="344" column="0" />
-        <mark key="]" line="344" column="0" />
-        <mark key="." line="344" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/User/UpdateBankAccountUseCase.php" timestamp="1513777300690">
         <mark key="[" line="26" column="31" />
@@ -503,9 +499,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" timestamp="1540477608227">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="20" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" timestamp="1540483019954">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="485" column="0" />
+        <mark key="]" line="500" column="5" />
+        <mark key="^" line="38" column="20" />
+        <mark key="." line="485" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/eurotax/ModelDataTest.php" timestamp="1519818239270">
         <mark key="[" line="30" column="12" />
@@ -585,14 +584,6 @@
         <mark key="^" line="27" column="17" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1540464732737">
-        <mark key="a" line="140" column="8" />
-        <mark key="'" line="17" column="30" />
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-        <mark key="^" line="4" column="21" />
-      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/application/action/request/CreateRequestVNRequestValidator.php" timestamp="1522942412715">
         <mark key="[" line="9" column="37" />
         <mark key="]" line="22" column="9" />
@@ -604,12 +595,6 @@
         <mark key="]" line="7" column="46" />
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" timestamp="1540474049827">
-        <mark key="'" line="209" column="39" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/myTrafficReports/_trafficReportInstruction.twig" timestamp="1540395019319">
         <mark key="'" line="105" column="20" />
@@ -767,9 +752,6 @@
         <mark key="]" line="9" column="6" />
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" timestamp="1540299218810">
-        <mark key="'" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/eurotax/ModelGatewayQuery.php" timestamp="1521022859715">
         <mark key="[" line="17" column="52" />
@@ -993,6 +975,12 @@
         <mark key="^" line="32" column="7" />
         <mark key="." line="32" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Province.php" timestamp="1540482218824">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/LocationController.php" timestamp="1518176719497">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="48" />
@@ -1113,7 +1101,7 @@
         <mark key="." line="38" column="9" />
         <mark key="^" line="38" column="9" />
       </file>
-      <file name="/PHP Console" timestamp="1540478383422">
+      <file name="/PHP Console" timestamp="1540482809446">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1408,9 +1396,10 @@
         <mark key="^" line="12" column="86" />
         <mark key="." line="12" column="86" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.discounts.PriceEntity.dcm.yml" timestamp="1530200480790">
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="19" column="33" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.discounts.PriceEntity.dcm.yml" timestamp="1540482782623">
+        <mark key="'" line="26" column="30" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="26" column="36" />
         <mark key="." line="19" column="33" />
         <mark key="^" line="19" column="33" />
       </file>
@@ -1625,9 +1614,6 @@
         <mark key="]" line="12" column="20" />
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/listClassified.php" timestamp="1540299939811">
-        <mark key="'" line="11" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/app/action/ErrorResponseMiddlewareTest.php" timestamp="1523438917719">
         <mark key="[" line="24" column="8" />
@@ -1924,9 +1910,6 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/dependencies/rules.php" timestamp="1540291136520">
-        <mark key="'" line="243" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/AuthorizedDealerAccessDataRequest.php" timestamp="1508856314039">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="9" column="18" />
@@ -2217,9 +2200,6 @@
         <mark key="]" line="23" column="14" />
         <mark key="^" line="23" column="14" />
         <mark key="." line="23" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/coches.com/models/Manhattan/TrafficReportRenderer/TrafficReportRendererService.php" timestamp="1540374360100">
-        <mark key="'" line="49" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/tpv.coches.com/src/application/usecases/payment/FinishPaymentRequestTranformer.php" timestamp="1530025489009">
         <mark key="[" line="21" column="0" />
@@ -3021,7 +3001,7 @@
         <mark key="^" line="31" column="89" />
         <mark key="." line="31" column="89" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540461696828">
+      <file name="/Dummy.txt" timestamp="1540480402168">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/cris/cris.twig" timestamp="1530717713171">
@@ -3042,14 +3022,17 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.clients.Province.dcm.yml" timestamp="1540482320411">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-2d/vendor/pablolavegui/phetris/composer.json" timestamp="1499619030777">
         <mark key="[" line="15" column="16" />
         <mark key="]" line="16" column="17" />
         <mark key="^" line="16" column="17" />
         <mark key="." line="16" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/webuser/DoctrineWebUserRepositoryTest.php" timestamp="1540198161648">
-        <mark key="'" line="66" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillEmailGateway.php" timestamp="1540453810437">
         <mark key="[" line="46" column="56" />
@@ -3135,12 +3118,12 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" timestamp="1540479073664">
-        <mark key="'" line="79" column="56" />
-        <mark key="[" line="75" column="33" />
-        <mark key="]" line="75" column="56" />
-        <mark key="^" line="75" column="56" />
-        <mark key="." line="75" column="56" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" timestamp="1540483225529">
+        <mark key="'" line="81" column="56" />
+        <mark key="[" line="79" column="32" />
+        <mark key="]" line="79" column="32" />
+        <mark key="^" line="79" column="32" />
+        <mark key="." line="79" column="32" />
       </file>
       <file name="$USER_HOME$/Code/php-observer/src/Maquina.php" timestamp="1490723854098">
         <mark key="[" line="3" column="8" />
@@ -3331,9 +3314,6 @@
         <mark key="]" line="27" column="38" />
         <mark key="^" line="27" column="38" />
         <mark key="." line="27" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/CCMailer/CCMailerMandrill.php" timestamp="1540223824246">
-        <mark key="'" line="36" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/domain/infrastructure/repositories/eurotax/SegmentRepository.php" timestamp="1519230828054">
         <mark key="[" line="9" column="17" />
@@ -3547,9 +3527,6 @@
         <mark key="." line="18" column="77" />
         <mark key="^" line="18" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/myTrafficReports/_trafficReportInstruction.php" timestamp="1540377721957">
-        <mark key="'" line="6" column="17" />
-      </file>
       <file name="$USER_HOME$/Projects/coches.com/models/UrlHandler/UrlHandlerMyZone.php" timestamp="1532517613492">
         <mark key="[" line="7" column="43" />
         <mark key="]" line="7" column="43" />
@@ -3622,8 +3599,8 @@
         <mark key="." line="34" column="32" />
         <mark key="^" line="34" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Solicitud.php" timestamp="1540462829158">
-        <mark key="'" line="19" column="10" />
+      <file name="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Solicitud.php" timestamp="1540479212335">
+        <mark key="'" line="1499" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.webuser.WebUser.dcm.yml" timestamp="1523010206824">
         <mark key="[" line="8" column="0" />
@@ -3679,7 +3656,7 @@
         <mark key="." line="17" column="39" />
         <mark key="^" line="17" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/clients/DoctrineClientProvider.php" timestamp="1540476761487">
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/clients/DoctrineClientProvider.php" timestamp="1540482596266">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="67" column="44" />
         <mark key="^" line="69" column="28" />
@@ -3962,6 +3939,13 @@
         <mark key="." line="38" column="17" />
         <mark key="^" line="38" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/province/ProvinceEntity.php" timestamp="1540480319101">
+        <mark key="'" line="25" column="3" />
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="24" column="3" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Event/EventFactory.php" timestamp="1500411994364">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="15" column="19" />
@@ -4021,6 +4005,13 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.clients.ClientEntity.dcm.yml" timestamp="1540482800302">
+        <mark key="'" line="35" column="7" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="6" />
+        <mark key="^" line="130" column="25" />
+        <mark key="." line="128" column="6" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Classic2DPhetris/Classic2DPhetris.php" timestamp="1505928266834">
         <mark key="[" line="14" column="0" />
@@ -4163,11 +4154,11 @@
         <mark key="^" line="14" column="69" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/Client/ClientTransformer.php" timestamp="1522919816457">
-        <mark key="[" line="21" column="69" />
-        <mark key="]" line="21" column="106" />
-        <mark key="^" line="21" column="106" />
-        <mark key="." line="21" column="106" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/Client/ClientTransformer.php" timestamp="1540483056646">
+        <mark key="[" line="43" column="52" />
+        <mark key="]" line="43" column="52" />
+        <mark key="^" line="43" column="52" />
+        <mark key="." line="43" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.eurotax.ModelEntity.dcm.yml" timestamp="1526457766306">
         <mark key="[" line="23" column="0" />
@@ -4548,12 +4539,12 @@
         <mark key="^" line="45" column="43" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/dependencies/commons.php" timestamp="1540477096568">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="36" column="39" />
-        <mark key="]" line="36" column="39" />
-        <mark key="." line="36" column="39" />
-        <mark key="^" line="54" column="61" />
+      <file name="$USER_HOME$/Projects/crmmigrations/application/dependencies/commons.php" timestamp="1540482336505">
+        <mark key="'" line="136" column="36" />
+        <mark key="[" line="37" column="42" />
+        <mark key="]" line="39" column="18" />
+        <mark key="." line="39" column="18" />
+        <mark key="^" line="39" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/hydrator/rules.php" timestamp="1508401161198">
         <mark key="[" line="3" column="14" />
@@ -4585,12 +4576,18 @@
         <mark key="^" line="28" column="36" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/commands/PruebaCommand.php" timestamp="1540478184545">
+      <file name="$USER_HOME$/Projects/crmmigrations/application/commands/PruebaCommand.php" timestamp="1540482421700">
         <mark key="'" line="46" column="30" />
-        <mark key="[" line="51" column="25" />
-        <mark key="]" line="52" column="22" />
-        <mark key="." line="52" column="22" />
-        <mark key="^" line="52" column="22" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/clients/ClientEntity.php" timestamp="1540481403598">
+        <mark key="'" line="449" column="0" />
+        <mark key="[" line="449" column="0" />
+        <mark key="]" line="456" column="5" />
+        <mark key="." line="449" column="0" />
+        <mark key="^" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/access/RecoverPasswordForm.php" timestamp="1515514761844">
         <mark key="[" line="11" column="4" />
@@ -4717,9 +4714,6 @@
         <mark key="]" line="11" column="5" />
         <mark key="^" line="11" column="5" />
         <mark key="." line="11" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/DeprecatedModels/Solicitud.php" timestamp="1540222082441">
-        <mark key="'" line="16" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/Payment/PaymentMethodFactory.php" timestamp="1513617133149">
         <mark key="[" line="8" column="14" />
@@ -4958,22 +4952,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="15" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="105" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="259" column="42" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="56" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="242" column="6" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="182" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="236" column="31" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="184" column="24" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="264" column="15" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="251" column="36" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="125" column="15" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="115" column="15" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="77" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="99" column="5" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="187" column="16" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="55" column="6" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" />
       <jump line="1600" column="43" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/DeprecatedModels/Solicitud.php" />
       <jump line="1599" column="23" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/DeprecatedModels/Solicitud.php" />
@@ -5058,66 +5036,78 @@
       <jump line="46" column="30" filename="$USER_HOME$/Projects/crmmigrations/application/commands/PruebaCommand.php" />
       <jump line="38" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies/commons.php" />
       <jump line="73" column="56" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" />
+      <jump line="1499" column="23" filename="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Solicitud.php" />
+      <jump line="25" column="3" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/province/ProvinceEntity.php" />
+      <jump line="40" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.clients.ClientEntity.dcm.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.clients.ClientEntity.dcm.yml" />
+      <jump line="134" column="36" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies/commons.php" />
+      <jump line="369" column="20" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/clients/ClientEntity.php" />
+      <jump line="38" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/clients/ClientEntity.php" />
+      <jump line="449" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/clients/ClientEntity.php" />
+      <jump line="25" column="14" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.discounts.PriceEntity.dcm.yml" />
+      <jump line="26" column="30" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.discounts.PriceEntity.dcm.yml" />
+      <jump line="127" column="6" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.clients.ClientEntity.dcm.yml" />
+      <jump line="37" column="14" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.clients.ClientEntity.dcm.yml" />
+      <jump line="130" column="30" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.clients.ClientEntity.dcm.yml" />
+      <jump line="129" column="14" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.clients.ClientEntity.dcm.yml" />
+      <jump line="35" column="7" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.clients.ClientEntity.dcm.yml" />
+      <jump line="40" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/Client.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>db_por</text>
+        <text encoding="base64">XDxpZHByb3ZpbmNpYVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkY2xpZW50SWQKICAgICAqIEByZXR1cm4gQ2xpZW50CiAgICAgKiBAdGhyb3dzIFJlc291cmNlTm90Rm91bmRFeGNlcHRpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGZpbmRCeUlkT3JGYWlsKCRjbGllbnRJZCkK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdUaGUgQ2xpZW50ZWxsZScK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0FEU19TUkNfSU1HX1RPUCcgPT4gJ1RPRE8oUGFibG8pJywK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0FEU19MSU5LJyA9PiAnVE9ETyhQYWJsbyknLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwo=</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gUHJvdmluY2UKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldFByb3ZpbmNlKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnByb3ZpbmNlOwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtIFByb3ZpbmNlICRwcm92aW5jZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0UHJvdmluY2UoJHByb3ZpbmNlKQogICAgewogICAgICAgICR0aGlzLT5wcm92aW5jZSA9ICRwcm92aW5jZTsKICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmZXRjaDogRUFHRVIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyAgb25lVG9PbmU6Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">YXBjdV9jbGVhcl9jYWNoZSgpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBvbmVUb09uZToKICAgIDoKICAgICAgdGFyZ2V0RW50aXR5OiBjb2NoZXNjb21cZG9tYWluXG1vZGVsc1xjbGllbnRzXFByb3ZpbmNlCiAgICAgIGpvaW5Db2x1bW46CiAgICAgICAgbmFtZTogcHJvdmluY2VJZAogICAgICAgIHJlZmVyZW5jZWRDb2x1bW5OYW1lOiBpZAoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBvbmUK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gUHJvdmluY2UKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldFByb3ZpbmNlKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnByb3ZpbmNlOwogICAgfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJF9tZXJnZUxhbmd1YWdlID0gJyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcGN1X2NsZWFyX2NhY2hlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>db_por</last-search>
+      <last-search encoding="base64">XDxpZHByb3ZpbmNpYVw+</last-search>
       <last-offset />
-      <last-pattern>db_por</last-pattern>
+      <last-pattern encoding="base64">XDxpZHByb3ZpbmNpYVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>actionDown</entry>
-        <entry>vehicleWithoutCharge</entry>
-        <entry encoding="base64">XDxFTVBUWV9UUkFGRklDX1JFUE9SVFNfVklFV1w+</entry>
-        <entry encoding="base64">XDx0cmFmZmljUmVwb3J0UHJpY2VcPg==</entry>
         <entry>getTem</entry>
         <entry>getsub</entry>
         <entry>getSub</entry>
@@ -5134,6 +5124,10 @@
         <entry>mandrill</entry>
         <entry encoding="base64">XDxjbGllbnRcPg==</entry>
         <entry>db_por</entry>
+        <entry encoding="base64">XDxfc2V0Q2xpZW50RGF0YU1haWxWYWx1ZXNcPg==</entry>
+        <entry encoding="base64">XDxwcm92aW5jZUlkXD4=</entry>
+        <entry encoding="base64">XDxpZG51ZXZvXD4=</entry>
+        <entry encoding="base64">XDxpZHByb3ZpbmNpYVw+</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
