@@ -600,12 +600,11 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" timestamp="1540220733216">
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" timestamp="1540454319310">
         <mark key="'" line="187" column="16" />
-        <mark key="[" line="282" column="4" />
-        <mark key="]" line="284" column="20" />
-        <mark key="." line="284" column="20" />
-        <mark key="^" line="284" column="20" />
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="259" column="5" />
+        <mark key="." line="252" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/myTrafficReports/_trafficReportInstruction.twig" timestamp="1540395019319">
         <mark key="'" line="105" column="20" />
@@ -2294,8 +2293,8 @@
         <mark key="^" line="14" column="85" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" timestamp="1540214452463">
-        <mark key="'" line="469" column="8" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" timestamp="1540453999634">
+        <mark key="'" line="11" column="13" />
         <mark key="[" line="487" column="0" />
         <mark key="]" line="487" column="0" />
         <mark key="^" line="487" column="3" />
@@ -3038,7 +3037,7 @@
       <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/webuser/DoctrineWebUserRepositoryTest.php" timestamp="1540198161648">
         <mark key="'" line="66" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillEmailGateway.php" timestamp="1540219550344">
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillEmailGateway.php" timestamp="1540453810437">
         <mark key="[" line="46" column="56" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
@@ -3122,8 +3121,8 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" timestamp="1540452783449">
-        <mark key="'" line="41" column="27" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" timestamp="1540453411520">
+        <mark key="'" line="63" column="8" />
         <mark key="[" line="69" column="40" />
         <mark key="]" line="69" column="43" />
         <mark key="." line="69" column="43" />
@@ -4660,7 +4659,8 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Access/SendRecoverPasswordEmailUseCase.php" timestamp="1540219364633">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Access/SendRecoverPasswordEmailUseCase.php" timestamp="1540453884040">
+        <mark key="'" line="78" column="21" />
         <mark key="[" line="80" column="0" />
         <mark key="]" line="92" column="23" />
       </file>
@@ -4934,13 +4934,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/values/Email.php" />
-      <jump line="12" column="19" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/values/Phone.php" />
-      <jump line="170" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/webuser/WebUser.php" />
-      <jump line="14" column="21" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/webuser/WebUser.php" />
-      <jump line="64" column="0" filename="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/webuser/WebUserTest.php" />
-      <jump line="172" column="15" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/webuser/WebUser.php" />
-      <jump line="17" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/webuser/WebUser.php" />
       <jump line="60" column="0" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/webuser/DoctrineWebUserRepositoryTest.php" />
       <jump line="28" column="0" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineCrmMiddlewareTestCase.php" />
       <jump line="22" column="44" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/webuser/DoctrineWebUserRepositoryTest.php" />
@@ -5020,7 +5013,6 @@
       <jump line="39" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
       <jump line="70" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
       <jump line="70" column="9" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" />
-      <jump line="63" column="20" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" />
       <jump line="84" column="20" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" />
       <jump line="30" column="6" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" />
       <jump line="31" column="20" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" />
@@ -5034,65 +5026,70 @@
       <jump line="25" column="40" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" />
       <jump line="39" column="20" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" />
       <jump line="41" column="27" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" />
+      <jump line="63" column="8" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" />
+      <jump line="135" column="22" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="128" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="7" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="78" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Access/SendRecoverPasswordEmailUseCase.php" />
+      <jump line="150" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="142" column="22" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="11" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gbnVsbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0VGVtcGxhdGVDb250ZW50KCkKICAgIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>getREci</text>
+        <text encoding="base64">XDxfdGVtcGxhdGVOYW1lXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHwgbnVtYmVyX2Zvcm1hdCgyLCAnLCcsICcuJyk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gbnVsbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0VGVtcGxhdGVDb250ZW50KCkKICAgIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIGNjb21cY29uZmlnXGNvbmZpZ1xDb25maWc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29uZmlnID0gJHRoaXMtPgo=</text>
+        <text encoding="base64">dXNlIGNjb21cY29uZmlnXGNvbmZpZ1xDb25maWc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIENvbmZpZyAqLwogICAgcHJpdmF0ZSAkY29uZmlnOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29uZmlnID0gJHRoaXMtPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRyYWZmaWNSZXBvcnRQYXJzZWRQcmljZSA9ICR0cmFmZmljUmVwb3J0UHJpY2VTZXJ2aWNlLT5nZXRQYXJzZWRUcmFmZmljUmVwb3J0UHJpY2UoKTsK</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIENvbmZpZyAqLwogICAgcHJpdmF0ZSAkY29uZmlnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRyYWZmaWNSZXBvcnRQcmljZVNlcnZpY2UgPSBuZXcgVHJhZmZpY1JlcG9ydFByaWNlU2VydmljZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRyYWZmaWNSZXBvcnRQYXJzZWRQcmljZSA9ICR0cmFmZmljUmVwb3J0UHJpY2VTZXJ2aWNlLT5nZXRQYXJzZWRUcmFmZmljUmVwb3J0UHJpY2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRyYWZmaWNSZXBvcnRQcmljZVNlcnZpY2UgPSBuZXcgVHJhZmZpY1JlcG9ydFByaWNlU2VydmljZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkc3lzdGVtTG9nID0gJHRoaXMtPmdldFN5c3RlbUxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc3lzdGVtTG9nID0gJHRoaXMtPmdldFN5c3RlbUxvZygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>getREci</last-search>
+      <last-search encoding="base64">XDxfdGVtcGxhdGVOYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern>getREci</last-pattern>
+      <last-pattern encoding="base64">XDxfdGVtcGxhdGVOYW1lXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YXJpYWJsZXNcPg==</entry>
-        <entry>rabbit</entry>
-        <entry>mi-coche</entry>
         <entry>actionDele</entry>
         <entry>actionDel</entry>
         <entry>actionRe</entry>
@@ -5110,6 +5107,9 @@
         <entry>sprint</entry>
         <entry>dto</entry>
         <entry>getREci</entry>
+        <entry encoding="base64">XDxfdGVtcGxhdGVDb250ZW50XD4=</entry>
+        <entry encoding="base64">XDxnZXRSZWNvdmVyUGFzc3dvcmRNZXNzYWdlXD4=</entry>
+        <entry encoding="base64">XDxfdGVtcGxhdGVOYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
