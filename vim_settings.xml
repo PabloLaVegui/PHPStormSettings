@@ -181,12 +181,6 @@
         <mark key="." line="5" column="6" />
         <mark key="^" line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/BoardModify/LineRemover.php" timestamp="1540637718058">
-        <mark key="'" line="10" column="26" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/repositories/LocationRepository.php" timestamp="1509640306308">
         <mark key="[" line="50" column="14" />
         <mark key="]" line="50" column="20" />
@@ -489,9 +483,9 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/Board/Handler/CreateStandardBoardHandler.php" timestamp="1526737626192">
-        <mark key="[" line="51" column="51" />
-        <mark key="]" line="51" column="71" />
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/Board/Handler/CreateStandardBoardHandler.php" timestamp="1540847047874">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="47" column="10" />
         <mark key="^" line="51" column="71" />
         <mark key="." line="51" column="71" />
       </file>
@@ -769,7 +763,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540675405498">
+      <file name="/Dummy.txt" timestamp="1540846958333">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/enums/EurotaxCodesEnum.php" timestamp="1507544252977">
@@ -1885,6 +1879,12 @@
         <mark key="]" line="31" column="39" />
         <mark key="^" line="31" column="39" />
         <mark key="." line="31" column="39" />
+      </file>
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/Board/Service/BoardBuilder.php" timestamp="1540846906014">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="33" />
+        <mark key="^" line="11" column="33" />
+        <mark key="." line="11" column="33" />
       </file>
       <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/CommandBus/CommandFactory/ClassicPhetrisCommandFactory.php" timestamp="1540242758177">
         <mark key="[" line="15" column="34" />
@@ -3337,6 +3337,12 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/Board/Service/StandardBoardBuilder.php" timestamp="1540847081615">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="13" column="13" />
+        <mark key="." line="9" column="20" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/Environment/env.devel.calendar" timestamp="1507584134606">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="56" />
@@ -3820,34 +3826,34 @@
         <text encoding="base64">XDxzZXRCb2FyZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkYm9hcmRJZCA9IG5ldyBJZCgnYm9hcmRfaWQnKTsKICAgICAgICAkcm93c1RvRGVsZXRlID0gWzIsIDNdOwogICAgICAgICRldmVudCA9ICR0aGlzLT5nZXRFdmVudCgkYm9hcmRJZCwgJHJvd3NUb0RlbGV0ZSk7CgogICAgICAgICRib2FyZE1vY2sgPSAkdGhpcy0+Z2V0Qm9hcmRNb2NrKCk7CiAgICAgICAgJHRoaXMtPnNldEJvYXJkKCRib2FyZE1vY2spOwoKICAgICAgICAkdGhpcy0+Ym9hcmRSZWNvcmRlck1vY2stPmV4cGVjdHMoc2VsZjo6b25jZSgpKQogICAgICAgICAgICAtPm1ldGhvZCgndXBkYXRlJykKICAgICAgICAgICAgLT53aXRoKCRib2FyZE1vY2spOwoKICAgICAgICAkdGhpcy0+bGluZU1vdmVyLT5oYW5kbGUoJGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAkYm9hcmQgPSBuZXcgU3RhbmRhcmRCb2FyZCgKICAgICAgICAgICAgJGNvbW1hbmQtPmdldEJvYXJkSWQoKSwKICAgICAgICAgICAgJGNvbW1hbmQtPmdldFdpZHRoKCksCiAgICAgICAgICAgICRjb21tYW5kLT5nZXRIZWlnaHQoKQogICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgYnVpbGQoKSBtZXRob2QuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cTW9kZWxcTW92ZW1lbnRcRG93bjsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Ym9hcmRSZWNvcmRlck1vY2stPmV4cGVjdHMoc2VsZjo6b25jZSgpKQogICAgICAgICAgICAtPm1ldGhvZCgndXBkYXRlJykKICAgICAgICAgICAgLT53aXRoKCRib2FyZE1vY2spOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8KICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSh0cnVlKTsK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZXZlbnQgPSAkdGhpcy0+Z2V0RXZlbnQoJGJvYXJkSWQsICRyb3dzVG9EZWxldGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cTW9kZWxcTW92ZW1lbnRcRG93bjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Ym9hcmRSZWNvcmRlck1vY2stPmV4cGVjdHMoc2VsZjo6b25jZSgpKQogICAgICAgICAgICAtPm1ldGhvZCgndXBkYXRlJykKICAgICAgICAgICAgLT53aXRoKCRib2FyZE1vY2spOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8K</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE8KICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSh0cnVlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkZXZlbnQgPSAkdGhpcy0+Z2V0RXZlbnQoJGJvYXJkSWQsICRyb3dzVG9EZWxldGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
