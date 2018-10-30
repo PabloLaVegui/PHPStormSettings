@@ -1125,7 +1125,7 @@
         <mark key="." line="38" column="9" />
         <mark key="^" line="38" column="9" />
       </file>
-      <file name="/PHP Console" timestamp="1540821142171">
+      <file name="/PHP Console" timestamp="1540890455349">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1202,13 +1202,6 @@
         <mark key="]" line="54" column="22" />
         <mark key="." line="54" column="0" />
         <mark key="^" line="42" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/twig/CochesComTwigExtension.php" timestamp="1540831661917">
-        <mark key="'" line="10" column="19" />
-        <mark key="[" line="152" column="28" />
-        <mark key="]" line="153" column="24" />
-        <mark key="^" line="153" column="24" />
-        <mark key="." line="153" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/eurotax/MakeGateway.php" timestamp="1519137183702">
         <mark key="[" line="33" column="51" />
@@ -2081,8 +2074,8 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" timestamp="1540395109169">
-        <mark key="'" line="68" column="0" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" timestamp="1540890375770">
+        <mark key="'" line="417" column="21" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="415" column="20" />
@@ -5031,9 +5024,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="30" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
-      <jump line="39" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
-      <jump line="70" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
       <jump line="70" column="9" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" />
       <jump line="84" column="20" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" />
       <jump line="30" column="6" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessage.php" />
@@ -5131,6 +5121,9 @@
       <jump line="87" column="76" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/SavedSearch/ImgSavedSearchService.php" />
       <jump line="85" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/value/SearchUrl.php" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/SavedSearch/ImgSavedSearchService.php" />
+      <jump line="290" column="56" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
+      <jump line="70" column="41" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
+      <jump line="417" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -5140,7 +5133,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRQYXJzZWREYXRhXD4=</text>
+        <text encoding="base64">XDxnZXRUcmFmZmljUmVwb3J0UHJpY2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNob3VsZF9zZXRfbG9jYXRpb25fY2xhc3MoKQogICAgewogICAgICAgICRzZWFyY2hVcmwgPSBuZXcgU2VhcmNoVXJsKCcvY29jaGVzLXNlZ3VuZGEtbWFuby9tYWRyaWQtZW4tYnVyZ29zLmh0bScpOwoKICAgICAgICAkcmVzdWx0ID0gJHRoaXMtPnR3aWdFeHRlbnNpb24tPmZvcm1hdFNhdmVkU2VhcmNoSW1nQ2xhc3Nlcygkc2VhcmNoVXJsKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydFNhbWUoJ2xvY2F0aW9uJywgJHJlc3VsdCk7CiAgICB9Cg==</text>
@@ -5177,9 +5170,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRQYXJzZWREYXRhXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRUcmFmZmljUmVwb3J0UHJpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRQYXJzZWREYXRhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRUcmFmZmljUmVwb3J0UHJpY2VcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
       <last-dir>-1</last-dir>
@@ -5187,7 +5180,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dto</entry>
         <entry>getREci</entry>
         <entry encoding="base64">XDxfdGVtcGxhdGVDb250ZW50XD4=</entry>
         <entry encoding="base64">XDxnZXRSZWNvdmVyUGFzc3dvcmRNZXNzYWdlXD4=</entry>
@@ -5207,6 +5199,7 @@
         <entry encoding="base64">XDxDYXJJbmZvUHJvdmlkZXJcPg==</entry>
         <entry encoding="base64">XDx3ZWJVc2VyTmFtZVw+</entry>
         <entry encoding="base64">XDxzZXRQYXJzZWREYXRhXD4=</entry>
+        <entry encoding="base64">XDxnZXRUcmFmZmljUmVwb3J0UHJpY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
