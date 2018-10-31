@@ -2004,12 +2004,12 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineCrmMiddlewareTestCase.php" timestamp="1540194770490">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="34" column="59" />
-        <mark key="]" line="34" column="69" />
-        <mark key="." line="34" column="69" />
-        <mark key="^" line="34" column="69" />
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineCrmMiddlewareTestCase.php" timestamp="1540985411550">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="36" column="4" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris2D/Board/Frame/Frame.php" timestamp="1503065240715">
         <mark key="[" line="10" column="1" />
@@ -3154,7 +3154,8 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.requests.RequestEntity.dcm.yml" timestamp="1540977801559">
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.requests.RequestEntity.dcm.yml" timestamp="1540985243504">
+        <mark key="'" line="41" column="0" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="^" line="39" column="17" />
@@ -3165,6 +3166,12 @@
         <mark key="]" line="16" column="17" />
         <mark key="^" line="16" column="17" />
         <mark key="." line="16" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/webuser/DoctrineWebUserRepositoryTest.php" timestamp="1540985330016">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="8" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="22" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillEmailGateway.php" timestamp="1540553075800">
         <mark key="[" line="35" column="13" />
@@ -3329,11 +3336,6 @@
         <mark key="]" line="48" column="63" />
         <mark key="^" line="48" column="63" />
         <mark key="." line="48" column="63" />
-      </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateRemoteRequestUseCase.php" timestamp="1540915754687">
-        <mark key="]" line="163" column="11" />
-        <mark key="^" line="163" column="11" />
-        <mark key="." line="163" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/BalanceOrderTransformer.php" timestamp="1513788406599">
         <mark key="[" line="26" column="20" />
@@ -5133,10 +5135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="10" filename="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Solicitud.php" />
-      <jump line="74" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillMessage.php" />
-      <jump line="140" column="8" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
-      <jump line="59" column="23" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="13" column="51" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="17" column="30" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="96" column="1" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/config/main.php" />
@@ -5233,55 +5231,59 @@
       <jump line="417" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
       <jump line="18" column="55" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/myTrafficReports/dgtTrafficReportFooter.php" />
       <jump line="428" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
+      <jump line="41" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.requests.RequestEntity.dcm.yml" />
+      <jump line="12" column="0" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineCrmMiddlewareTestCase.php" />
+      <jump line="35" column="38" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineCrmMiddlewareTestCase.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/DoctrineCrmMiddlewareTestCase.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxQZXJzaXN0ZW5jZVxNYXBwaW5nXENsYXNzTWV0YWRhdGE7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">KyAgICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRUcmFmZmljUmVwb3J0VGF4UHJpY2VcPg==</text>
+        <text encoding="base64">XDxDbGFzc01ldGFkYXRhXD4=</text>
       </register>
       <register name="0" type="4">
         <text>TRAFFIC_REPORT_VAT</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">KyAgICAgICAgICAgIAorICAgICAgICAgICAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxQZXJzaXN0ZW5jZVxNYXBwaW5nXENsYXNzTWV0YWRhdGE7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAgICAgICAgICAgICJHYXNvbGluYSIsCg==</text>
-      </register>
-      <register name="3" type="8">
-        <text encoding="base64">KyAgICAgICAgICAgIAorICAgICAgICAgICAg</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImV4dHJhcyIsCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkY29uZmlnID0gJHRoaXMtPmdldENvbmZpZygpOwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="8">
+        <text encoding="base64">KyAgICAgICAgICAgIAorICAgICAgICAgICAg</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKyAgICAgICAgICAgICJHYXNvbGluYSIsCg==</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">KyAgICAgICAgICAgIAorICAgICAgICAgICAg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNvbmZpZy0+Z2V0KCdUUkFGRklDX1JFUE9SVF9QUklDRScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImV4dHJhcyIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAkY29uZmlnID0gJHRoaXMtPmdldENvbmZpZygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRUcmFmZmljUmVwb3J0VGF4UHJpY2VcPg==</last-search>
+      <last-search encoding="base64">XDxDbGFzc01ldGFkYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRUcmFmZmljUmVwb3J0VGF4UHJpY2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDbGFzc01ldGFkYXRhXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
       <last-dir>-1</last-dir>
@@ -5289,7 +5291,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGllbnRcPg==</entry>
         <entry>db_por</entry>
         <entry encoding="base64">XDxfc2V0Q2xpZW50RGF0YU1haWxWYWx1ZXNcPg==</entry>
         <entry encoding="base64">XDxwcm92aW5jZUlkXD4=</entry>
@@ -5309,6 +5310,7 @@
         <entry encoding="base64">XDxlbWFpbExpc3RcPg==</entry>
         <entry encoding="base64">XDxnZXRUcmFmZmljUmVwb3J0UHJpY2VcPg==</entry>
         <entry encoding="base64">XDxnZXRUcmFmZmljUmVwb3J0VGF4UHJpY2VcPg==</entry>
+        <entry encoding="base64">XDxDbGFzc01ldGFkYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1943</entry>
