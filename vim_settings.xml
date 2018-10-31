@@ -79,6 +79,12 @@
         <mark key="^" line="3" column="46" />
         <mark key="." line="3" column="46" />
       </file>
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/GeoMap/StandardBoardGeoMapBuilder.php" timestamp="1541010770291">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="5" column="48" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/views/mizonaDesign/editTelephone/validation_method.twig" timestamp="1518090449966">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="7" column="0" />
@@ -768,7 +774,7 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540937256066">
+      <file name="/Dummy.txt" timestamp="1541010590889">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/enums/EurotaxCodesEnum.php" timestamp="1507544252977">
@@ -938,11 +944,11 @@
         <mark key="." line="8" column="10" />
         <mark key="^" line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Application/Board/Handler/CreateStandardBoardHandlerTest.php" timestamp="1540939281240">
-        <mark key="[" line="38" column="31" />
-        <mark key="]" line="39" column="34" />
-        <mark key="^" line="39" column="34" />
-        <mark key="." line="39" column="34" />
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Application/Board/Handler/CreateStandardBoardHandlerTest.php" timestamp="1540942613185">
+        <mark key="[" line="73" column="44" />
+        <mark key="]" line="73" column="70" />
+        <mark key="." line="73" column="70" />
+        <mark key="^" line="73" column="70" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/src/infrastructure/doctrine/config/Lavegui.Calendar.Domain.Model.User.User.dcm.xml" timestamp="1507331137618">
         <mark key="[" line="0" column="0" />
@@ -3394,11 +3400,11 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="42" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/Board/Service/BoardBuilder/StandardBoardBuilder.php" timestamp="1540937973659">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="59" />
-        <mark key="^" line="16" column="59" />
-        <mark key="." line="16" column="59" />
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/Board/Service/BoardBuilder/StandardBoardBuilder.php" timestamp="1540943211905">
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="23" column="42" />
+        <mark key="^" line="23" column="42" />
+        <mark key="." line="23" column="42" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/test/unit/Domain/Model/Value/Board2DGeoMapTest.php" timestamp="1525716588969">
         <mark key="[" line="8" column="29" />
@@ -3861,11 +3867,11 @@
       <jump line="93" column="47" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Application/Phetris.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>EventBus</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>EventBus</text>
+        <text>rectangle_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRCb2FyZFw+</text>
@@ -3874,31 +3880,31 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXZlbnRCdXNNb2NrID0gJHRoaXMtPmdldE1vY2tCdWlsZGVyKEV2ZW50QnVzOjpjbGFzcykKICAgICAgICAgICAgLT5nZXRNb2NrKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYm9hcmQgPSAkdGhpcy0+Z2V0Qm9hcmQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoKCRjb21tYW5kKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IElkKCRib2FyZElkKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">JHRoaXMtPmNhbGxiYWNrKGZ1bmN0aW9uICgkc3ViamVjdCkgdXNlICgkYm9hcmRJZCwgJHdpZHRoLCAkaGVpZ2h0KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJHN1YmplY3QgaW5zdGFuY2VvZiBTdGFuZGFyZEJvYXJkCiAgICAgICAgICAgICAgICAgICAgJiYgJGJvYXJkSWQgPT09ICRzdWJqZWN0LT5nZXRJZCgpCiAgICAgICAgICAgICAgICAgICAgJiYgJHdpZHRoID09PSAkc3ViamVjdC0+Z2V0V2lkdGgoKQogICAgICAgICAgICAgICAgICAgICYmICRoZWlnaHQgPT09ICRzdWJqZWN0LT5nZXRIZWlnaHQoKTsKICAgICAgICAgICAgfSk=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYnVpbGRlciArIAo=</text>
+        <text encoding="base64">ICAgICAgICAkYm9hcmQgPSAkdGhpcy0+Z2V0Qm9hcmQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IElkKCRib2FyZElkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
