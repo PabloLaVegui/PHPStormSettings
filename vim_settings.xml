@@ -675,11 +675,6 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" timestamp="1540915336811">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Positioning/PositioningUser.php" timestamp="1528730949534">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="12" />
@@ -2576,6 +2571,12 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/application/UseCases/requests/CreateLocalRequestUseCaseTest.php" timestamp="1540984318433">
+        <mark key="[" line="71" column="43" />
+        <mark key="]" line="71" column="43" />
+        <mark key="^" line="71" column="56" />
+        <mark key="." line="71" column="43" />
+      </file>
       <file name="$USER_HOME$/Projects/coches.com/crm_yii/protected/commands/scriptResendTrafficReportCommand.php" timestamp="1527584744329">
         <mark key="[" line="272" column="15" />
         <mark key="]" line="272" column="15" />
@@ -3036,6 +3037,12 @@
         <mark key="]" line="28" column="12" />
         <mark key="." line="28" column="12" />
         <mark key="^" line="14" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/Fixtures/requests/RequestVNFixtures.php" timestamp="1540984415327">
+        <mark key="[" line="1054" column="22" />
+        <mark key="]" line="1054" column="22" />
+        <mark key="^" line="1054" column="22" />
+        <mark key="." line="1054" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/HelpController.php" timestamp="1539687110318">
         <mark key="'" line="68" column="0" />
@@ -5229,10 +5236,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUcmFmZmljUmVwb3J0VGF4UHJpY2VcPg==</text>
@@ -5240,32 +5247,32 @@
       <register name="0" type="4">
         <text>TRAFFIC_REPORT_VAT</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">KyAgICAgICAgICAgIAorICAgICAgICAgICAg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkY29uZmlnID0gJHRoaXMtPmdldENvbmZpZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAgICAgICAgICAgICJHYXNvbGluYSIsCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNvbmZpZy0+Z2V0KCdUUkFGRklDX1JFUE9SVF9QUklDRScpOwo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">KyAgICAgICAgICAgIAorICAgICAgICAgICAg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImV4dHJhcyIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdHJ1ZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJ3sKLy8gICAgICAgICAgICAgICAgICAgICAgICAibmV4dF9vZmZzZXQiOjEsCi8vICAgICAgICAgICAgICAgICAgICAgICAgInJlY29yZHMiOlsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAiaWQiOiInLiR3ZWJVc2VySWQuJyIsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICJmaXJzdF9uYW1lIjoiJy4kZmlyc3ROYW1lLiciLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAibGFzdF9uYW1lIjoiJy4kbGFzdE5hbWUuJyIsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICJwcm92aW5jZV9jIjoiJy4kcHJvdmluY2VJZC4nIiwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgInBob25lX2hvbWUiOiInLiRwaG9uZS4nIiwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgImVtYWlsIjoiWyJlbWFpbF9hZGRyZXNzIjoiJy4kZW1haWwuJyIsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICJwb3N0YWxfY29kZV9jIjoiJy4kcG9zdGFsY29kZS4nIgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICAgICAgXQovLyAgICAgICAgICAgICAgICAgICAgICB9JywK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPndpbGxSZXR1cm4oanNvbl9kZWNvZGUoCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkY29uZmlnID0gJHRoaXMtPmdldENvbmZpZygpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNvbmZpZy0+Z2V0KCdUUkFGRklDX1JFUE9SVF9QUklDRScpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIH0nLAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
