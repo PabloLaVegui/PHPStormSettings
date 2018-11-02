@@ -1520,6 +1520,9 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="110" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/requests/DoctrineVNRequestRepositoryTest.php" timestamp="1541143673616">
+        <mark key="'" line="63" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/eurotax/VersionDataTest.php" timestamp="1520237364501">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="47" column="12" />
@@ -3162,11 +3165,11 @@
         <mark key="^" line="16" column="17" />
         <mark key="." line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/webuser/DoctrineWebUserRepositoryTest.php" timestamp="1540987121118">
-        <mark key="[" line="45" column="37" />
-        <mark key="]" line="45" column="37" />
-        <mark key="^" line="45" column="37" />
-        <mark key="." line="45" column="37" />
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/webuser/DoctrineWebUserRepositoryTest.php" timestamp="1541143572086">
+        <mark key="[" line="72" column="12" />
+        <mark key="]" line="72" column="24" />
+        <mark key="^" line="73" column="11" />
+        <mark key="." line="72" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/MandrillEmailGateway.php" timestamp="1540553075800">
         <mark key="[" line="35" column="13" />
@@ -5127,7 +5130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessageDto.php" />
       <jump line="3" column="36" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/email/NewRequestMandrillMessageDto.php" />
       <jump line="46" column="30" filename="$USER_HOME$/Projects/crmmigrations/application/commands/PruebaCommand.php" />
       <jump line="38" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies/commons.php" />
@@ -5227,19 +5229,20 @@
       <jump line="76" column="36" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/Manhattan/Order/MhtOrderDAO.php" />
       <jump line="184" column="32" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/Manhattan/Order/MhtOrderDAO.php" />
       <jump line="8" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/Manhattan/Order/MhtOrderDAO.php" />
+      <jump line="63" column="4" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/requests/DoctrineVNRequestRepositoryTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkbWh0T3JkZXJEQU8tPnNldENoYXJnZSgkbWh0T3JkZXJEb21haW4tPmdldENoYXJnZSgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>new \DateTime()</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>new \DateTime()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZ3RfcHJpY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbWh0T3JkZXJEQU8tPnNldENoYXJnZSgkbWh0T3JkZXJEb21haW4tPmdldENoYXJnZSgpKTsK</text>
+      <register name="0" type="4">
+        <text>'2018-11-01'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
