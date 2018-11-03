@@ -346,6 +346,13 @@
         <mark key="^" line="1" column="35" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/dependencies/dependencies.php" timestamp="1541264557818">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="73" column="36" />
+        <mark key="]" line="73" column="49" />
+        <mark key="^" line="73" column="49" />
+        <mark key="." line="73" column="49" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/Code/Code.php" timestamp="1498774249582">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -734,11 +741,6 @@
         <mark key="." line="25" column="30" />
         <mark key="^" line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/Board/Service/BoardBuilder/BuildStandandBoardRequest.php" timestamp="1540933472260">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="72" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/models/myData/SmsValidationForm.php" timestamp="1517310307953">
         <mark key="[" line="37" column="32" />
         <mark key="]" line="37" column="32" />
@@ -810,11 +812,6 @@
         <mark key="]" line="1" column="56" />
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="38" />
-      </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/Board/Service/BoardBuilder/BoardBuilder.php" timestamp="1540933485121">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/infrastructure/Persistence/Doctrine/Mapping/Cochescom.Calendar.Domain.Model.Support.Support.dcm.yml" timestamp="1512243981149">
         <mark key="[" line="11" column="22" />
@@ -1767,10 +1764,11 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/functional/dependencies/DependenciesTest.php" timestamp="1541262786884">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/functional/dependencies/DependenciesTest.php" timestamp="1541264206911">
+        <mark key="[" line="24" column="56" />
+        <mark key="]" line="24" column="56" />
+        <mark key="." line="24" column="56" />
+        <mark key="^" line="24" column="56" />
       </file>
       <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/GameEnd/GameEnd.php" timestamp="1528908153292">
         <mark key="[" line="14" column="27" />
@@ -1813,11 +1811,6 @@
         <mark key="]" line="31" column="8" />
         <mark key="^" line="27" column="39" />
         <mark key="." line="31" column="33" />
-      </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/dependencies/event_handler_map.php" timestamp="1540675107523">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Code/photo-catalog-php/.gitignore" timestamp="1538689681741">
         <mark key="[" line="1" column="0" />
@@ -3156,11 +3149,6 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/Board/Service/BoardBuilder/BuildBoardRequest.php" timestamp="1540933480471">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="72" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris/PhetrisTest.php" timestamp="1501711749345">
         <mark key="[" line="45" column="78" />
         <mark key="]" line="46" column="23" />
@@ -3836,11 +3824,11 @@
       <jump line="330" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Board/StandardBoardTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGFpbmVyLT4K</text>
+      <register name="&quot;" type="4">
+        <text>ContainerInterface $container</text>
       </register>
       <register name="-" type="4">
-        <text>kkkkkkkkk</text>
+        <text>ContainerInterface $container</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRCb2FyZFw+</text>
@@ -3849,31 +3837,31 @@
         <text>moveContentUntilLimitFromRow</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGFpbmVyLT4K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSh0cnVlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkZW50cnlOYW1lcyBhcyAkZW50cnkpIHsKICAgICAgICAgICAgJGEgPSAkY29udGFpbmVyLT5nZXQoJGVudHJ5KTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNvbnRhaW5lci0+Z2V0KFBoZXRyaXM6OmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGhldHJpczo6Y2xhc3MsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZigK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xBcHBsaWNhdGlvblxQaGV0cmlzOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPISEhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiByZWZhY3RvciwgZXN0w6EgZW4gZ2VvbWFwMmQK</text>
+        <text encoding="base64">ICAgICAgICAkY29udGFpbmVyLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBxdWl6w6FzIGdlb21hcCBkZWJlcsOtYSBkZXZvbHZlcnNlIGEgc2kgbWlzbW8geSBhcXXDrSBoYWJyw61hIHF1ZSBhc2lnbmFybG8K</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNvbnRhaW5lci0+Z2V0KFBoZXRyaXM6OmNsYXNzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
