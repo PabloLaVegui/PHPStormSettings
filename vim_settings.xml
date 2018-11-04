@@ -36,6 +36,12 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="7" column="6" />
       </file>
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Position/LeftLimit.php" timestamp="1541362930868">
+        <mark key="[" line="1" column="39" />
+        <mark key="]" line="1" column="46" />
+        <mark key="." line="1" column="46" />
+        <mark key="^" line="1" column="46" />
+      </file>
       <file name="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Application/Movement/Handler/MoveTetrominoCommandHandlerTest.php" timestamp="1528151631524">
         <mark key="[" line="107" column="40" />
         <mark key="]" line="107" column="40" />
@@ -222,6 +228,12 @@
         <mark key="]" line="29" column="18" />
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Position/Position2D.php" timestamp="1541362909045">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="48" />
+        <mark key="." line="1" column="46" />
+        <mark key="^" line="1" column="46" />
       </file>
       <file name="$USER_HOME$/Code/cochescom/crmmigrations/public/index.php" timestamp="1539862954186">
         <mark key="[" line="4" column="44" />
@@ -467,6 +479,12 @@
         <mark key="." line="29" column="21" />
         <mark key="^" line="29" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Position/RightLimit.php" timestamp="1541362950606">
+        <mark key="[" line="1" column="39" />
+        <mark key="]" line="1" column="46" />
+        <mark key="." line="1" column="46" />
+        <mark key="^" line="1" column="46" />
+      </file>
       <file name="$USER_HOME$/Code/phetris7/public/phetris7.php" timestamp="1489603038476">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="33" />
@@ -653,7 +671,7 @@
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/functional/Domain/Model/Board/StandardBoardTest.php" timestamp="1541281729083">
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/functional/Domain/Model/Board/StandardBoardTest.php" timestamp="1541363462310">
         <mark key="'" line="13" column="60" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -3845,17 +3863,17 @@
       <jump line="44" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Tetromino/TetrominoI.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cTW9kZWxcTW92ZW1lbnRcTW92ZW1lbnQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Value</text>
       </register>
       <register name="-" type="4">
-        <text>self::NUM_COORDS_TO_MOVE</text>
+        <text>Value</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0FsbG93ZWRNb3ZlbWVudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBOVU1fQ09PUkRTX1RPX01PVkUgPSAxOwo=</text>
+        <text encoding="base64">bmFtZXNwYWNlIExhdmVndWlcUGhldHJpc1xEb21haW5cTW9kZWxcUG9zaXRpb247Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cTW9kZWxcTW92ZW1lbnRcTW92ZW1lbnQ7Cg==</text>
