@@ -73,6 +73,13 @@
         <mark key="." line="1" column="43" />
         <mark key="^" line="1" column="43" />
       </file>
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Tetromino/TetrominoOTest.php" timestamp="1541371339651">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="7" column="45" />
+      </file>
       <file name="$USER_HOME$/Code/phetris-ddd-v4/test/functional/Domain/Model/Board/StandardBoardTest.php" timestamp="1541363462310">
         <mark key="'" line="13" column="60" />
         <mark key="[" line="65" column="0" />
@@ -82,7 +89,7 @@
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/mizona.coches.com/secure_yii/protected/dto/PositioningClassifiedRequest.php" timestamp="1524044109199">
         <mark key="[" line="5" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541361638201">
+      <file name="/Dummy.txt" timestamp="1541371238474">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Domain/Application/Board/Command/AddTetrominoToBoard.php" timestamp="1525279177046">
@@ -196,6 +203,12 @@
         <mark key="^" line="14" column="53" />
         <mark key="." line="14" column="53" />
       </file>
+      <file name="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Tetromino/TetrominoTestCase.php" timestamp="1541371345659">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="11" />
+        <mark key="^" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+      </file>
       <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Movement/Movement2D.php" timestamp="1541362123965">
         <mark key="[" line="7" column="40" />
         <mark key="]" line="14" column="39" />
@@ -204,8 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="21" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
-      <jump line="38" column="15" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
       <jump line="146" column="21" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
       <jump line="43" column="34" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
       <jump line="276" column="4" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Value/GeoMap2D.php" />
@@ -304,13 +315,15 @@
       <jump line="14" column="17" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Infrastructure/Printer/ConsoleBoard2DPrinter.php" />
       <jump line="32" column="13" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/Board/Handler/CreateStandardBoardHandler.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/GeoMap/GeoMap2D.php" />
+      <jump line="17" column="6" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Tetromino/TetrominoOTest.php" />
+      <jump line="50" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Tetromino/TetrominoOTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIFNvZGl1bVxjcnlwdG9fYm94X3B1YmxpY2tleV9mcm9tX3NlY3JldGtleTsK</text>
+        <text encoding="base64">dXNlIFBIUFVuaXRcRnJhbWV3b3JrXFRlc3RDYXNlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Value</text>
+        <text>TestCase</text>
       </register>
       <register name="/" type="4">
         <text>positions(</text>
@@ -319,31 +332,31 @@
         <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIFNvZGl1bVxjcnlwdG9fYm94X3B1YmxpY2tleV9mcm9tX3NlY3JldGtleTsK</text>
+        <text encoding="base64">dXNlIFBIUFVuaXRcRnJhbWV3b3JrXFRlc3RDYXNlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIFNvZGl1bVxjcnlwdG9fYm94X3B1YmxpY2tleV9mcm9tX3NlY3JldGtleTsK</text>
+        <text encoding="base64">dXNlIFNlYmFzdGlhbkJlcmdtYW5uXFJlY3Vyc2lvbkNvbnRleHRcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIG5ldyBUZXRyb21pbm9JKCR0aGlzLT5nZXRJbml0UG9zaXRpb24oKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cTW9kZWxcR2VvTWFwXEdlb01hcDJEOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cTW9kZWxcVGV0cm9taW5vXFRldHJvbWlub0k7Cg==</text>
+        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cTW9kZWxcUG9zaXRpb25cUG9zaXRpb24yRDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cTW9kZWxcQm9hcmRcU3RhbmRhcmRCb2FyZDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiMjIFJ1biBQaGV0cmlzCgpgYGAKJCAuL2Jpbi9ydW4gcHVibGljL3J1bi5waHAKYGBgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcUGhldHJpc1xEb21haW5cTW9kZWxcTW92ZW1lbnRcTW92ZW1lbnQ7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBhcnJheSAkZXhwZWN0ZWRQb3NpdGlvbnMKICAgICAqIEBwYXJhbSBHZW9NYXAyRCAkZ2VvTWFwCiAgICAgKiBAdGhyb3dzIEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbgogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIGFzc2VydEdlb01hcFBvc2l0aW9ucyhhcnJheSAkZXhwZWN0ZWRQb3NpdGlvbnMsIEdlb01hcDJEICRnZW9NYXApOiB2b2lkCiAgICB7CiAgICAgICAgJHRoaXMtPmFzc2VydENvdW50KGNvdW50KCRleHBlY3RlZFBvc2l0aW9ucyksICRnZW9NYXAtPnBvc2l0aW9ucygpKTsKCiAgICAgICAgLyoqIEB2YXIgUG9zaXRpb24yRCAkZXhwZWN0ZWRQb3NpdGlvbiAqLwogICAgICAgIGZvcmVhY2ggKCRleHBlY3RlZFBvc2l0aW9ucyBhcyAkZXhwZWN0ZWRQb3NpdGlvbikgewogICAgICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSgkZ2VvTWFwLT5oYXNQb3NpdGlvbigKICAgICAgICAgICAgICAgICRleHBlY3RlZFBvc2l0aW9uLT54KCksCiAgICAgICAgICAgICAgICAkZXhwZWN0ZWRQb3NpdGlvbi0+eSgpCiAgICAgICAgICAgICkpOwogICAgICAgIH0KICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIFNvZGl1bVxjcnlwdG9fYm94X3B1YmxpY2tleV9mcm9tX3NlY3JldGtleTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIFNvZGl1bVxjcnlwdG9fYm94X3B1YmxpY2tleV9mcm9tX3NlY3JldGtleTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgTlVNX0NPT1JEU19UT19NT1ZFID0gMTsK</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIG5ldyBUZXRyb21pbm9JKCR0aGlzLT5nZXRJbml0UG9zaXRpb24oKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
