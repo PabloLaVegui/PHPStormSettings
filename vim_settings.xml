@@ -789,6 +789,11 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" timestamp="1540997614904">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/eurotax/ModelGatewayQuery.php" timestamp="1521022859715">
         <mark key="[" line="17" column="52" />
         <mark key="]" line="17" column="72" />
@@ -1233,12 +1238,6 @@
         <mark key="]" line="54" column="22" />
         <mark key="." line="54" column="0" />
         <mark key="^" line="42" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/twig/CochesComTwigExtension.php" timestamp="1541411531434">
-        <mark key="[" line="103" column="33" />
-        <mark key="]" line="103" column="45" />
-        <mark key="^" line="103" column="45" />
-        <mark key="." line="103" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/eurotax/MakeGateway.php" timestamp="1519137183702">
         <mark key="[" line="33" column="51" />
@@ -2136,6 +2135,11 @@
         <mark key="^" line="11" column="57" />
         <mark key="." line="11" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" timestamp="1541001139482">
+        <mark key="[" line="403" column="0" />
+        <mark key="]" line="403" column="0" />
+        <mark key="." line="403" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/payment/ko.twig" timestamp="1531236820662">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="29" />
@@ -2894,6 +2898,11 @@
         <mark key="^" line="136" column="33" />
         <mark key="." line="136" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/sass/newStructure/components/_glob.scss" timestamp="1541413853344">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris/Board/Checker/ScoreChecker.php" timestamp="1502708621397">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="31" />
@@ -3180,6 +3189,11 @@
         <mark key="]" line="12" column="19" />
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.domain.models.clients.Province.dcm.yml" timestamp="1540813259708">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.requests.RequestEntity.dcm.yml" timestamp="1540985243504">
         <mark key="'" line="41" column="0" />
@@ -5270,8 +5284,8 @@
       <jump line="219" column="50" filename="$USER_HOME$/Projects/coches.com/models/Request/FormRequest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(isset($_SERVER['HTTP_X_FORWARDED_FOR'])) ? $_SERVER['HTTP_X_FORWARDED_FOR'] : $_SERVER['REMOTE_ADDR'];</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(isset($_SERVER['HTTP_X_FORWARDED_FOR'])) ? $_SERVER['HTTP_X_FORWARDED_FOR'] : $_SERVER['REMOTE_ADDR'];</text>
@@ -5283,28 +5297,28 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdC0+aXBhZGRyZXNzID0gKGlzc2V0KCRfU0VSVkVSWydIVFRQX1hfRk9SV0FSREVEX0ZPUiddKSkgPyAkX1NFUlZFUlsnSFRUUF9YX0ZPUldBUkRFRF9GT1InXSA6ICRfU0VSVkVSWydSRU1PVEVfQUREUiddOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG5qRUVZcEpFaEdqS0lKUzRrdnlLU2cK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG5qRUVZcEpFaEdqS0lKUzRrdnlLU2cK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBmbG9hdAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0RGd0UHJpY2UoJGRndFApCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5kZ3RfcHJpY2U7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBmbG9hdAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0RGd0UHJpY2UoJGRndFApCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5kZ3RfcHJpY2U7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
