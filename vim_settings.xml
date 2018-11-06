@@ -3844,12 +3844,12 @@
         <mark key="^" line="161" column="5" />
         <mark key="." line="161" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/discounts/DoctrineDiscountClientRepositoryTest.php" timestamp="1541503601029">
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/discounts/DoctrineDiscountClientRepositoryTest.php" timestamp="1541516831463">
         <mark key="'" line="9" column="23" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="49" column="78" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="119" column="43" />
+        <mark key="]" line="119" column="22" />
+        <mark key="^" line="119" column="22" />
+        <mark key="." line="119" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/hungariansucker.coches.com/infrastructure/gateway/GuzzleImageDownloader.php" timestamp="1536063859773">
         <mark key="[" line="13" column="27" />
@@ -4772,12 +4772,12 @@
         <mark key="^" line="28" column="36" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/clients/ClientEntity.php" timestamp="1540481403598">
-        <mark key="'" line="449" column="0" />
-        <mark key="[" line="449" column="0" />
-        <mark key="]" line="456" column="5" />
-        <mark key="." line="449" column="0" />
-        <mark key="^" line="36" column="20" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/clients/ClientEntity.php" timestamp="1541516977101">
+        <mark key="'" line="14" column="13" />
+        <mark key="[" line="108" column="23" />
+        <mark key="]" line="108" column="34" />
+        <mark key="." line="108" column="34" />
+        <mark key="^" line="108" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/access/RecoverPasswordForm.php" timestamp="1515514761844">
         <mark key="[" line="11" column="4" />
@@ -5142,8 +5142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/SavedSearch/ImgSavedSearchService.php" />
-      <jump line="87" column="76" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/SavedSearch/ImgSavedSearchService.php" />
       <jump line="85" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/value/SearchUrl.php" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/SavedSearch/ImgSavedSearchService.php" />
       <jump line="290" column="56" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
@@ -5242,55 +5240,57 @@
       <jump line="9" column="23" filename="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/discounts/DoctrineDiscountClientRepositoryTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/mappings/cochescom.infrastructure.repositories.doctrine.clients.ClientEntity.dcm.yml" />
       <jump line="11" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/application/dtos/Client/GetDiscountRequest.php" />
+      <jump line="107" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/clients/ClientEntity.php" />
+      <jump line="14" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/clients/ClientEntity.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdHlwZS0+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>clientId</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2ZXJzaW9uSWRcPg==</text>
+        <text encoding="base64">XDxjb2NoZXNJZFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>idconcesionario</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldENvY2hlc0lkKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmNvY2hlc0lkOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdHlwZS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkdHlwZS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW50aXR5TWFuYWdlci0+Y2xvc2UoKTsKICAgICAgICAkdGhpcy0+ZW50aXR5TWFuYWdlciA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW50aXR5TWFuYWdlciA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW50aXR5TWFuYWdlci0+Y2xvc2UoKTsKICAgICAgICAkdGhpcy0+ZW50aXR5TWFuYWdlciA9IG51bGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW50aXR5TWFuYWdlci0+Y2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW50aXR5TWFuYWdlciA9IG51bGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIGNvY2hlc2NvbVxpbmZyYXN0cnVjdHVyZVxyZXBvc2l0b3JpZXNcZG9jdHJpbmVcY2xpZW50c1xDbGllbnRFbnRpdHk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW50aXR5TWFuYWdlci0+Y2xvc2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKToK</text>
+        <text encoding="base64">dXNlIGNvY2hlc2NvbVxpbmZyYXN0cnVjdHVyZVxyZXBvc2l0b3JpZXNcZG9jdHJpbmVcY2xpZW50c1xDbGllbnRFbnRpdHk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVsbAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2ZXJzaW9uSWRcPg==</last-search>
+      <last-search encoding="base64">XDxjb2NoZXNJZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2ZXJzaW9uSWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb2NoZXNJZFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
       <last-dir>-1</last-dir>
@@ -5298,7 +5298,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3ZWJVc2VyTmFtZVw+</entry>
         <entry encoding="base64">XDxzZXRQYXJzZWREYXRhXD4=</entry>
         <entry encoding="base64">XDxkZ3RUcmFmZmljUmVwb3J0Rm9vdGVyXD4=</entry>
         <entry encoding="base64">XDxER1RfVFJBRkZJQ19SRVBPUlRfRk9PVEVSXD4=</entry>
@@ -5318,6 +5317,7 @@
         <entry encoding="base64">XDxpcGFkZHJlc3NcPg==</entry>
         <entry>mandrill</entry>
         <entry encoding="base64">XDx2ZXJzaW9uSWRcPg==</entry>
+        <entry encoding="base64">XDxjb2NoZXNJZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>396</entry>
