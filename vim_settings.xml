@@ -1407,6 +1407,7 @@
         <mark key="^" line="24" column="24" />
         <mark key="." line="24" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/discounts/NewVehicleEntity.php" timestamp="1541499510992" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Dto/Access/ResetPasswordRequest.php" timestamp="1515660717543">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="28" />
@@ -1467,12 +1468,6 @@
         <mark key="]" line="13" column="33" />
         <mark key="." line="13" column="33" />
         <mark key="^" line="13" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/discounts/DiscountClientTransformer.php" timestamp="1541430238712">
-        <mark key="[" line="39" column="9" />
-        <mark key="]" line="40" column="7" />
-        <mark key="." line="40" column="7" />
-        <mark key="^" line="40" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/tpv.coches.com/src/infrastructure/doctrine/MemcachedConfig.php" timestamp="1530179045082">
         <mark key="[" line="11" column="0" />
@@ -2705,6 +2700,10 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="20" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/clients/DiscountClient.php" timestamp="1541499281041">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="21" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/enums/routes/ClassifiedRoutesEnum.php" timestamp="1538128214404">
         <mark key="[" line="14" column="41" />
         <mark key="]" line="14" column="41" />
@@ -3134,7 +3133,7 @@
         <mark key="^" line="17" column="13" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/application/dtos/Client/GetDiscountRequest.php" timestamp="1541494257369">
+      <file name="$USER_HOME$/Projects/crmmigrations/src/application/dtos/Client/GetDiscountRequest.php" timestamp="1541499915649">
         <mark key="'" line="11" column="13" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="17" column="21" />
@@ -3651,12 +3650,12 @@
         <mark key="^" line="161" column="5" />
         <mark key="." line="161" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/discounts/DoctrineDiscountClientRepositoryTest.php" timestamp="1541435876328">
+      <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/doctrine/discounts/DoctrineDiscountClientRepositoryTest.php" timestamp="1541499235704">
         <mark key="'" line="9" column="23" />
-        <mark key="[" line="42" column="37" />
-        <mark key="]" line="42" column="35" />
-        <mark key="^" line="42" column="35" />
-        <mark key="." line="42" column="35" />
+        <mark key="[" line="37" column="47" />
+        <mark key="]" line="37" column="63" />
+        <mark key="^" line="37" column="63" />
+        <mark key="." line="37" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/hungariansucker.coches.com/infrastructure/gateway/GuzzleImageDownloader.php" timestamp="1536063859773">
         <mark key="[" line="13" column="27" />
@@ -4599,23 +4598,17 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/discounts/DoctrineDiscountClientRepository.php" timestamp="1541494000481">
-        <mark key="[" line="38" column="5" />
-        <mark key="]" line="39" column="23" />
-        <mark key="." line="39" column="23" />
-        <mark key="^" line="39" column="23" />
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/discounts/DoctrineDiscountClientRepository.php" timestamp="1541499322239">
+        <mark key="[" line="36" column="31" />
+        <mark key="]" line="37" column="6" />
+        <mark key="." line="37" column="6" />
+        <mark key="^" line="37" column="6" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/LICENSE" timestamp="1499506755163">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="31" />
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/application/action/clients/GetDiscountClientsAction.php" timestamp="1541494414076">
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="43" column="9" />
-        <mark key="." line="43" column="9" />
-        <mark key="^" line="43" column="9" />
       </file>
       <file name="$USER_HOME$/Code/phetris7/test/Phetris7TestCase.php" timestamp="1486849725521">
         <mark key="[" line="9" column="39" />
@@ -5004,31 +4997,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>TODO(Pablo): borrar</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>TODO(Pablo): borrar</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJzaW9uSWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gVmVyc2lvbltdCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGNsaWVudElkCiAgICAgKiBAcGFyYW0gc3RyaW5nICRwcmljZQogICAgICogQHBhcmFtIHN0cmluZyAkdmVyc2lvbklkCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="1" type="8">
+        <text encoding="base64">QHBhcmFtIApAcGFyYW0gCkBwYXJhbSA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVsbCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gbmV3IENsaWVudEVudGl0eSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50LT5zZXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gbWl4ZWQK</text>
+        <text encoding="base64">ICAgICAqIE5vIGRlYmVuIGFwYXJlY2VyIG3DoXMgZGUgdW4gZGVzY3VlbnRvIHBvciBzZWdtZW50byB5IGNvbmNlc2lvbmFyaW8K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
@@ -5040,7 +5033,7 @@
         <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBHZXREaXNjb3VudFJlcXVlc3QgJGR0byAqLwogICAgICAgICRkdG8gPSAkdGhpcy0+YWN0aW9uVHJhbnNmb3JtZXIKICAgICAgICAgICAgLT5idWlsZER0b0Zyb21SZXF1ZXN0KGFycmF5X21lcmdlKCRhcmdzLCAkcmVxdWVzdC0+Z2V0UGFyYW1zKCkpKTsKCiAgICAgICAgJGRpc2NvdW50Q2xpZW50TGlzdCA9ICR0aGlzLT5kaXNjb3VudENsaWVudFByb3ZpZGVyLT5maW5kRGlzY291bnRDbGllbnRMaXN0KCRkdG8pOwogICAgICAgICRzZXJpYWxpemVkQ2xpZW50TGlzdCA9IFtdOwogICAgICAgIGZvcmVhY2ggKCRkaXNjb3VudENsaWVudExpc3QgYXMgJGRpc2NvdW50Q2xpZW50KSB7CiAgICAgICAgICAgICRzZXJpYWxpemVkQ2xpZW50TGlzdFtdID0gJGRpc2NvdW50Q2xpZW50LT5zZXJpYWxpemUoKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiAkcmVzcG9uc2UtPndpdGhTdGF0dXMoMjAwKS0+d2l0aEpzb24oWwogICAgICAgICAgICAnY2xpZW50X2lkcycgPT4gJHNlcmlhbGl6ZWRDbGllbnRMaXN0CiAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
