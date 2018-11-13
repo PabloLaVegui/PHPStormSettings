@@ -213,7 +213,7 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/partials/pill.twig" timestamp="1539614248575">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/partials/pill.twig" timestamp="1542097082722">
         <mark key="'" line="20" column="21" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="57" />
@@ -857,6 +857,12 @@
         <mark key="]" line="13" column="20" />
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/SavedSearchSecureController.php" timestamp="1542097418882">
+        <mark key="[" line="286" column="34" />
+        <mark key="]" line="286" column="42" />
+        <mark key="." line="286" column="42" />
+        <mark key="^" line="286" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/domain/models/eurotax/ModelTest.php" timestamp="1519741566690">
         <mark key="[" line="3" column="0" />
@@ -1695,6 +1701,7 @@
         <mark key="." line="65" column="53" />
         <mark key="^" line="65" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/mizonaDesign/saved_search/saved_search.js" timestamp="1542096881079" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/jsUtils/assets/utils.js" timestamp="1530697765034">
         <mark key="[" line="151" column="29" />
         <mark key="]" line="151" column="29" />
@@ -2026,11 +2033,6 @@
         <mark key="]" line="10" column="23" />
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/requests/RequestEntityTransformer.php" timestamp="1541688747770">
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="5" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Transformers/PaymentMethodViewDTOBuilder.php" timestamp="1531922611444">
         <mark key="[" line="57" column="0" />
@@ -2885,6 +2887,10 @@
         <mark key="^" line="136" column="33" />
         <mark key="." line="136" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/SavedSearchesTransformer.php" timestamp="1542097354143">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="91" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/sass/newStructure/components/_glob.scss" timestamp="1542040454980">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="16" />
@@ -3157,9 +3163,6 @@
         <mark key="]" line="31" column="89" />
         <mark key="^" line="31" column="89" />
         <mark key="." line="31" column="89" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1541692059313">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/cris/cris.twig" timestamp="1530717713171">
         <mark key="[" line="1" column="68" />
@@ -5065,7 +5068,7 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/saved_search.twig" timestamp="1539614317174">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/saved_search.twig" timestamp="1542097268315">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
@@ -5267,17 +5270,17 @@
       <jump line="242" column="21" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateRemoteRequestUseCase.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QGltcG9ydCAiaWNvbnMiOwo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>hasToUpdateLocalVnRequest</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYXNUb1VwZGF0ZUJ5UHJha3RvblN0YXR1c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlcXVlc3QtPmdldFByYWt0b24oKSA9PT0gUmVxdWVzdFZuQ3JtT3JpZ2luRW51bTo6SEFTX1RPX0RJU1BBVENIOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVXJsSGFuZGxlck1pem9uYTo6dGFrZSgpCiAgICAgICAgICAgIC0+d2l0aEFic29sdXRlVXJsKCkKICAgICAgICAgICAgLT5zYXZlZFNlYXJjaCgpCiAgICAgICAgICAgIC0+c2VlKCkKICAgICAgICAgICAgLT53aXRoSWRQYXRoUGFyYW0oJGFsYXJtSWQpCiAgICAgICAgICAgIC0+Z2V0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QGltcG9ydCAiaWNvbnMiOwo=</text>
@@ -5307,7 +5310,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -5359,10 +5362,10 @@
         <entry>100</entry>
         <entry>qa</entry>
         <entry>51</entry>
+        <entry>w</entry>
         <entry>vs</entry>
         <entry>q</entry>
         <entry>wa</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
