@@ -377,7 +377,7 @@
         <mark key="^" line="16" column="53" />
         <mark key="." line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/Code/cochescom/coches.com/coches_yii/protected/Helpers/RabbitMqPublisher.php" timestamp="1542187135298" />
+      <file name="$USER_HOME$/Code/cochescom/coches.com/coches_yii/protected/Helpers/RabbitMqPublisher.php" timestamp="1542194815761" />
       <file name="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Application/Tetromino/Tetromino2D.php" timestamp="1526498884979">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -921,11 +921,12 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/cochescom/eventbus.coches.com/src/EBus/publisher/RabbitPublisherConnection.php" timestamp="1542191763845">
-        <mark key="[" line="101" column="17" />
-        <mark key="]" line="101" column="26" />
-        <mark key="." line="101" column="26" />
-        <mark key="^" line="101" column="26" />
+      <file name="$USER_HOME$/Code/cochescom/eventbus.coches.com/src/EBus/publisher/RabbitPublisherConnection.php" timestamp="1542195268518">
+        <mark key="'" line="85" column="31" />
+        <mark key="[" line="76" column="12" />
+        <mark key="]" line="76" column="32" />
+        <mark key="." line="76" column="32" />
+        <mark key="^" line="76" column="32" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cochescom/calendar-api.coches.com/test/Unit/Infrastructure/Persistence/Doctrine/Repository/DoctrineSupportRepositoryTest.php" timestamp="1513539283940">
         <mark key="[" line="146" column="0" />
@@ -1313,6 +1314,13 @@
         <mark key="]" line="41" column="5" />
         <mark key="." line="41" column="5" />
         <mark key="^" line="41" column="5" />
+      </file>
+      <file name="$USER_HOME$/Code/cochescom/coches.com/vendor/cochescom/eventbus.coches.com/src/EBus/events/Requests/VNRequestWasSended.php" timestamp="1542195030967">
+        <mark key="'" line="6" column="28" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="46" column="32" />
       </file>
       <file name="/fragment.php" timestamp="1540636827894">
         <mark key="[" line="0" column="0" />
@@ -2567,6 +2575,13 @@
         <mark key="]" line="22" column="37" />
         <mark key="^" line="22" column="37" />
         <mark key="." line="22" column="37" />
+      </file>
+      <file name="$USER_HOME$/Code/cochescom/eventbus.coches.com/src/EBus/receiver/RabbitReceiverConnection.php" timestamp="1542195232349">
+        <mark key="'" line="60" column="6" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="51" column="10" />
+        <mark key="^" line="56" column="48" />
+        <mark key="." line="56" column="48" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris/GeoMap/GeoMapTest.php" timestamp="1505771235784">
         <mark key="[" line="47" column="25" />
@@ -3830,10 +3845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="25" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Value/GeoMap2D.php" />
-      <jump line="191" column="21" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Value/GeoMap2D.php" />
-      <jump line="163" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
-      <jump line="311" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/test/unit/Domain/Model/Value/GeoMap2DTest.php" />
       <jump line="55" column="20" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Tetromino/TetrominoO.php" />
       <jump line="228" column="6" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
       <jump line="15" column="6" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Board/StandardBoard.php" />
@@ -3930,46 +3941,50 @@
       <jump line="23" column="0" filename="$USER_HOME$/Code/cochescom/eventbus.coches.com/src/EBus/events/Event.php" />
       <jump line="60" column="40" filename="$USER_HOME$/Code/cochescom/eventbus.coches.com/src/EBus/publisher/RabbitPublisherConnection.php" />
       <jump line="64" column="24" filename="$USER_HOME$/Code/cochescom/eventbus.coches.com/src/EBus/publisher/RabbitPublisherConnection.php" />
+      <jump line="56" column="27" filename="$USER_HOME$/Code/cochescom/eventbus.coches.com/src/EBus/publisher/RabbitPublisherConnection.php" />
+      <jump line="76" column="31" filename="$USER_HOME$/Code/cochescom/eventbus.coches.com/src/EBus/publisher/RabbitPublisherConnection.php" />
+      <jump line="60" column="6" filename="$USER_HOME$/Code/cochescom/eventbus.coches.com/src/EBus/receiver/RabbitReceiverConnection.php" />
+      <jump line="6" column="28" filename="$USER_HOME$/Code/cochescom/coches.com/vendor/cochescom/eventbus.coches.com/src/EBus/events/Requests/VNRequestWasSended.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>queueName</text>
+        <text encoding="base64">JHRoaXMtPnF1ZXVlTmFtZSw=</text>
       </register>
       <register name="-" type="4">
-        <text>queueName</text>
+        <text encoding="base64">JHRoaXMtPnF1ZXVlTmFtZSw=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXNoVG9RdWV1ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVldWVOYW1lID0gJGV2ZW50LT5nZXRRdWV1ZU5hbWUoKTsKICAgICAgICAkcXVldWVNZXNzYWdlID0gbmV3IEFNUVBNZXNzYWdlKHNlcmlhbGl6ZSgkZXZlbnQpKTsKCiAgICAgICAgaWYgKG51bGwgPT09ICRxdWV1ZU5hbWUpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24oJ1F1ZXVlIG5hbWUgY2Fubm90IGJlIG51bGwnKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2hhbm5lbC0+cXVldWVfZGVjbGFyZSgKICAgICAgICAgICAgJHRoaXMtPnF1ZXVlTmFtZSwKICAgICAgICAgICAgc2VsZjo6UEFTU0lWRSwKICAgICAgICAgICAgc2VsZjo6RFVSQUJMRSwKICAgICAgICAgICAgc2VsZjo6RVhDTFVTSVZFLAogICAgICAgICAgICBzZWxmOjpBVVRPX0RFTEVURQogICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8vICAgICAgICByZXR1cm4gJHRoaXMtPnB1c2hUb1F1ZXVlKCRldmVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJHJlcXVlc3RJZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0Um91dGluZ0tleSgpIG1ldGhvZC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ci8vICAgICAgICByZXR1cm4gJHRoaXMtPnB1c2hUb1F1ZXVlKCRldmVudCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgewovLyAgICAidXJsIjogImdpdEBiaXRidWNrZXQub3JnOmNvY2hlc2NvbS9ldmVudGJ1cy5jb2NoZXMuY29tLmdpdCIsCi8vICAgICAgInR5cGUiOiAidmNzIgovLyAgICB9LAo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge30K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgUgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAkdGhpcy0+YXNzZXJ0U2FtZSgKICAgICAgICAgICAgVGV0cm9taW5vSTo6Uk9UQVRJT05fU1RBVEVfU1BBV04sCiAgICAgICAgICAgICR0ZXRyb21pbm8tPgogICAgICAgICk7Cg==</text>
+        <text encoding="base64">Ly8gICAgewovLyAgICAidXJsIjogImdpdEBiaXRidWNrZXQub3JnOmNvY2hlc2NvbS9ldmVudGJ1cy5jb2NoZXMuY29tLmdpdCIsCi8vICAgICAgInR5cGUiOiAidmNzIgovLyAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
