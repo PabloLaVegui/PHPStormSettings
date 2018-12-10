@@ -1418,9 +1418,6 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/domain/Models/value/SearchUrlTest.php" timestamp="1543838930635">
-        <mark key="'" line="109" column="49" />
-      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/PhetrisImpl.php" timestamp="1499114795382">
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="13" />
@@ -2234,6 +2231,12 @@
         <mark key="]" line="12" column="25" />
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/Classified/ClassfiedStatusMessageService.php" timestamp="1544458046745">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/composer.json" timestamp="1541414922237">
         <mark key="[" line="28" column="45" />
@@ -3053,7 +3056,7 @@
         <mark key="^" line="31" column="89" />
         <mark key="." line="31" column="89" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544441521035">
+      <file name="/Dummy.txt" timestamp="1544457791542">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/cris/cris.twig" timestamp="1530717713171">
@@ -3205,6 +3208,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="17" column="13" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/classified/StatusMessageDTO.php" timestamp="1544458066305">
+        <mark key="[" line="8" column="1" />
       </file>
       <file name="$USER_HOME$/Code/php-observer/src/MachineABS.php" timestamp="1490724024363">
         <mark key="[" line="7" column="36" />
@@ -3806,17 +3812,18 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/HiddenController.php" timestamp="1544439825545">
-        <mark key="[" line="89" column="9" />
-        <mark key="]" line="90" column="7" />
-        <mark key="^" line="90" column="7" />
-        <mark key="." line="90" column="7" />
-      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/eurotax/MakeGatewayCommand.php" timestamp="1521026708733">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="14" column="63" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" timestamp="1544458039204">
+        <mark key="'" line="64" column="13" />
+        <mark key="[" line="154" column="64" />
+        <mark key="]" line="154" column="64" />
+        <mark key="^" line="154" column="64" />
+        <mark key="." line="154" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/eurotax/ModelEntityTransformer.php" timestamp="1526457602460">
         <mark key="[" line="63" column="0" />
@@ -4592,9 +4599,6 @@
         <mark key="^" line="45" column="43" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/helpers/ModelIdHelper.php" timestamp="1543940906519">
-        <mark key="'" line="0" column="4" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/hydrator/rules.php" timestamp="1508401161198">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="14" />
@@ -4975,9 +4979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="12" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateRemoteRequestUseCase.php" />
-      <jump line="250" column="21" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateRemoteRequestUseCase.php" />
-      <jump line="186" column="19" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateRemoteRequestUseCase.php" />
       <jump line="65" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateRemoteRequestUseCase.php" />
       <jump line="98" column="15" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateRemoteRequestUseCase.php" />
       <jump line="88" column="9" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateRemoteRequestUseCase.php" />
@@ -5075,55 +5076,58 @@
       <jump line="22" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/twig/CochesComTwigExtension.php" />
       <jump line="18" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Infrastructure/ChangeMessage/NumberOfPhotosChangeMessage.php" />
       <jump line="229" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/twig/CochesComTwigExtension.php" />
+      <jump line="128" column="7" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
+      <jump line="131" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
+      <jump line="64" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIG1pem9uYVxkb21haW5cSW5mcmFzdHJ1Y3R1cmVcQ2hhbmdlTWVzc2FnZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Messagestat</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoaWRkZW5SZXBvc2l0b3J5XD4=</text>
+        <text encoding="base64">XDxzdGF0dXNNZXNzYWdlU2VydmljZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bmFtZXNwYWNlIG1pem9uYVxkb21haW5cSW5mcmFzdHJ1Y3R1cmVcQ2hhbmdlTWVzc2FnZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIG1pem9uYVxkb21haW5cTW9kZWxzXHZhbHVlXENsYXNzaWZpZWRGdWxsTmFtZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIG1pem9uYVxkb21haW5cTW9kZWxzXHZhbHVlXENsYXNzaWZpZWRGdWxsTmFtZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbGFzdFBhZ2UgPSBjZWlsKCR0b3RhbEl0ZW1zIC8gc2VsZjo6SVRFTVNfUEVSX1BBR0UpOwo=</text>
+        <text encoding="base64">dXNlIG1pem9uYVxkb21haW5cTW9kZWxzXHZhbHVlXENsYXNzaWZpZWRGdWxsTmFtZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">dXNlIG1pem9uYVxkb21haW5cTW9kZWxzXHZhbHVlXENsYXNzaWZpZWRGdWxsTmFtZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChSZXNvdXJjZW5vdEZvdW5kRXhjZXB0aW9uICRlKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkbGFzdFBhZ2UgPSBjZWlsKCR0b3RhbEl0ZW1zIC8gc2VsZjo6SVRFTVNfUEVSX1BBR0UpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnNldFN1YnRpdGxlKCdUb2RhdsOtYSBubyB0aWVuZXMgYW51bmNpb3MgcXVlIG5vIHF1aWVyYXMgdm9sdmVyIGEgdmVyLicpOwogICAgICAgICAgICAkdGhpcy0+cmVuZGVyKCcvL21pem9uYURlc2lnbi9oaWRkZW4vZW1wdHlfaGlkZGVuJywgW10pOwoKICAgICAgICAgICAgJHRoaXMtPmVuZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChSZXNvdXJjZW5vdEZvdW5kRXhjZXB0aW9uICRlKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBUWVBFX05BTUUgJHVzZXJJZCAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoaWRkZW5SZXBvc2l0b3J5XD4=</last-search>
+      <last-search encoding="base64">XDxzdGF0dXNNZXNzYWdlU2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoaWRkZW5SZXBvc2l0b3J5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0dXNNZXNzYWdlU2VydmljZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
       <last-dir>-1</last-dir>
@@ -5131,7 +5135,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXNwYXRjaEV4aXN0aW5nUmVxdWVzdFZuXD4=</entry>
         <entry encoding="base64">XDxmaW5kUmVxdWVzdE9mVXNlckluVGltZUludGVydmFsXD4=</entry>
         <entry>get_</entry>
         <entry encoding="base64">XDxnZXRDbGFzc05hbWVcPg==</entry>
@@ -5151,6 +5154,7 @@
         <entry encoding="base64">XDxnZXRBdXRoRGVhbGVyRGF0YVw+</entry>
         <entry encoding="base64">XDxoYXNIaWRkZW5zXD4=</entry>
         <entry encoding="base64">XDxoaWRkZW5SZXBvc2l0b3J5XD4=</entry>
+        <entry encoding="base64">XDxzdGF0dXNNZXNzYWdlU2VydmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>396</entry>
