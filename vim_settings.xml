@@ -1322,6 +1322,11 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="11" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/messages/partials/messageDetails.twig" timestamp="1545233411344">
+        <mark key="'" line="11" column="82" />
+        <mark key="[" line="37" column="27" />
+        <mark key="]" line="37" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/ClassifiedInteractionsDTOBuilder.php" timestamp="1511438459495">
         <mark key="[" line="14" column="9" />
         <mark key="]" line="14" column="23" />
@@ -1704,12 +1709,12 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/mizonaDesign/requests.js" timestamp="1545230761901">
-        <mark key="'" line="211" column="6" />
-        <mark key="[" line="114" column="63" />
-        <mark key="]" line="114" column="63" />
-        <mark key="." line="114" column="63" />
-        <mark key="^" line="281" column="7" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/mizonaDesign/requests.js" timestamp="1545233817430">
+        <mark key="'" line="23" column="8" />
+        <mark key="[" line="48" column="48" />
+        <mark key="]" line="48" column="48" />
+        <mark key="." line="48" column="48" />
+        <mark key="^" line="47" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/app/action/ErrorResponseMiddlewareTest.php" timestamp="1523438917719">
         <mark key="[" line="24" column="8" />
@@ -2878,12 +2883,6 @@
         <mark key="]" line="16" column="35" />
         <mark key="^" line="16" column="35" />
         <mark key="." line="16" column="35" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/pagination/pagination.twig" timestamp="1545213864003">
-        <mark key="[" line="74" column="51" />
-        <mark key="]" line="74" column="70" />
-        <mark key="^" line="74" column="70" />
-        <mark key="." line="74" column="70" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris/NewPhetrisTest.php" timestamp="1501015916871">
         <mark key="[" line="21" column="8" />
@@ -5043,11 +5042,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/ClassifiedViewDTO.php" />
-      <jump line="136" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/ClassifiedViewDTO.php" />
-      <jump line="11" column="10" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/value/Image.php" />
-      <jump line="46" column="64" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classified/classified.php" />
-      <jump line="84" column="40" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
       <jump line="288" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/ClassifiedViewDTO.php" />
       <jump line="517" column="9" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
       <jump line="44" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
@@ -5143,19 +5137,24 @@
       <jump line="8" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/mizonaDesign/requests.js" />
       <jump line="226" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/mizonaDesign/requests.js" />
       <jump line="211" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/mizonaDesign/requests.js" />
+      <jump line="11" column="82" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/messages/partials/messageDetails.twig" />
+      <jump line="100" column="48" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/mizonaDesign/requests.js" />
+      <jump line="61" column="56" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/mizonaDesign/requests.js" />
+      <jump line="48" column="49" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/mizonaDesign/requests.js" />
+      <jump line="23" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/mizonaDesign/requests.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>response</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhTGF5ZXJcPg==</text>
+        <text>detail_mark</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB2YXIgcmVwYWludExpc3QgPSBmdW5jdGlvbigpIHsKICAgICAgbGV0IGFsbFJlcXVlc3RzRGl2ID0gJCgiI2FsbC1yZXF1ZXN0cyIpOwogICAgICBhbGxSZXF1ZXN0c0Rpdi5odG1sKCIiKTsKCiAgICAgIGxldCBkYXRhID0gewogICAgICAgICAgU29saWNpdHVkZXNVc2Fkb3NfcGFnZTogJCgiI2FjdGl2ZS1wYWdlLWxpbmsiKS5kYXRhKCJwYWdlLW51bWJlciIpLAogICAgICAgICAgdHlwZTogJCgiI2ZpbHRlci10eXBlLW1lc3NhZ2VzIikudmFsKCksCiAgICAgICAgICBzZWFyY2g6ICQoIiNsYXN0LXNlYXJjaCIpLnZhbCgpCiAgICAgIH07CgogICAgICBjb250cm9sbGVyLnNlbmQoImdldFJlcXVlc3RzTGlzdCIsIGRhdGEsIGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgICAgYWxsUmVxdWVzdHNEaXYuaHRtbChyZXNwb25zZSk7CiAgICAgICAgICAkKGRvY3VtZW50KS50cmlnZ2VyKCdyZWFkeScpOwogICAgICAgICAgZm9ybSA9ICQoIiNyZXF1ZXN0cy1mb3JtIik7CiAgICAgIH0pOwogIH07Cg==</text>
+      <register name="0" type="4">
+        <text>detail_mark_as_not_read</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -5189,18 +5188,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhTGF5ZXJcPg==</last-search>
+      <last-search>detail_mark</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhTGF5ZXJcPg==</last-pattern>
+      <last-pattern>detail_mark</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTVEFUVVNfVVNFUl9OT1RfQUNUSVZFXD4=</entry>
-        <entry encoding="base64">XDxnZXRVc2VyTm90QWN0aXZlRGF0YVw+</entry>
         <entry encoding="base64">XDxnZXRWYWxpZGF0aW9uVXJsXD4=</entry>
         <entry encoding="base64">XDxjbGFzc2lmaWVkVXJsc1NlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxmZWNoYVw+</entry>
@@ -5219,6 +5216,8 @@
         <entry>requestlis</entry>
         <entry encoding="base64">XDxyZXBhaW50TGlzdFw+</entry>
         <entry encoding="base64">XDxkYXRhTGF5ZXJcPg==</entry>
+        <entry encoding="base64">XDxwcm9jZXNzQ2FsbGJhY2tcPg==</entry>
+        <entry>detail_mark</entry>
       </history-search>
       <history-cmd>
         <entry>wwa</entry>
