@@ -1096,12 +1096,6 @@
         <mark key="^" line="20" column="29" />
         <mark key="." line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/messages/partials/MessageDetails.twig" timestamp="1545061620670">
-        <mark key="'" line="32" column="38" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/_infoSavedSearch.php" timestamp="1511887085288">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="15" column="42" />
@@ -2096,11 +2090,12 @@
         <mark key="^" line="29" column="40" />
         <mark key="." line="22" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" timestamp="1545299921770">
-        <mark key="[" line="93" column="9" />
-        <mark key="]" line="94" column="56" />
-        <mark key="^" line="94" column="56" />
-        <mark key="." line="94" column="56" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" timestamp="1545302829272">
+        <mark key="'" line="106" column="27" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="42" column="47" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/payment/ko.twig" timestamp="1531236820662">
         <mark key="[" line="2" column="9" />
@@ -3088,7 +3083,7 @@
         <mark key="^" line="31" column="89" />
         <mark key="." line="31" column="89" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545301355934">
+      <file name="/Dummy.txt" timestamp="1545302266213">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/cris/cris.twig" timestamp="1530717713171">
@@ -4651,8 +4646,8 @@
         <mark key="^" line="27" column="46" />
         <mark key="." line="27" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/TrafficReport/TrafficReport.php" timestamp="1545301773111">
-        <mark key="'" line="82" column="0" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/TrafficReport/TrafficReport.php" timestamp="1545302186997">
+        <mark key="'" line="38" column="26" />
         <mark key="[" line="86" column="16" />
         <mark key="]" line="86" column="26" />
         <mark key="." line="86" column="26" />
@@ -4723,6 +4718,12 @@
         <mark key="]" line="41" column="48" />
         <mark key="^" line="41" column="48" />
         <mark key="." line="41" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/trafficReport/TrafficReportTranformer.php" timestamp="1545302750601">
+        <mark key="[" line="31" column="46" />
+        <mark key="]" line="32" column="11" />
+        <mark key="^" line="32" column="11" />
+        <mark key="." line="32" column="11" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/composer.json" timestamp="1500055108911">
         <mark key="[" line="4" column="14" />
@@ -5027,8 +5028,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="10" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" />
-      <jump line="254" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/ClassifiedViewDTO.php" />
       <jump line="73" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
       <jump line="44" column="50" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/ClassifiedTransformer.php" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/twig/CochesComTwigExtension.php" />
@@ -5127,13 +5126,15 @@
       <jump line="102" column="12" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/Hidden/FinderHiddenUseCaseTest.php" />
       <jump line="43" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/TrafficReport/TrafficReport.php" />
       <jump line="81" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/TrafficReport/TrafficReport.php" />
+      <jump line="38" column="26" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/TrafficReport/TrafficReport.php" />
+      <jump line="101" column="27" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>detail_mark</text>
@@ -5142,31 +5143,31 @@
         <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRJZCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5pZDsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQbGF0ZSgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5wbGF0ZTsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gRGF0ZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0RGF0ZSgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5kYXRlOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldFBheW1lbnRNZXRob2QoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+cGF5bWVudE1ldGhvZDsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRTdGF0dXMoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+c3RhdHVzOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJAo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBDbGFzc2lmaWVkUmVwb3NpdG9yeSB8IFBIUFVuaXRfRnJhbWV3b3JrX01vY2tPYmplY3RfTW9ja09iamVjdCAqLwo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRJZCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5pZDsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQbGF0ZSgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5wbGF0ZTsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gRGF0ZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0RGF0ZSgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5kYXRlOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldFBheW1lbnRNZXRob2QoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+cGF5bWVudE1ldGhvZDsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRTdGF0dXMoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+c3RhdHVzOwogICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIENsYXNzaWZpZWRSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xhc3NmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT4K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
