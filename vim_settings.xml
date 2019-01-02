@@ -39,10 +39,10 @@
         <mark key="." line="5" column="55" />
         <mark key="^" line="5" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" timestamp="1546446129230">
-        <mark key="'" line="106" column="19" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" timestamp="1546446527298">
+        <mark key="'" line="192" column="20" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="50" />
         <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/config/config.yaml" timestamp="1542023670818">
@@ -150,6 +150,12 @@
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/DirectDebitController.php" timestamp="1546446780138">
+        <mark key="'" line="112" column="44" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/balance/error/add_balance_error.twig" timestamp="1546445437215">
         <mark key="[" line="1" column="1" />
         <mark key="]" line="1" column="1" />
@@ -178,24 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Requests/Request.php" />
-      <jump line="218" column="36" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Requests/Request.php" />
-      <jump line="220" column="51" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Requests/Request.php" />
-      <jump line="232" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Requests/Request.php" />
-      <jump line="234" column="30" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Requests/Request.php" />
-      <jump line="236" column="29" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Requests/Request.php" />
-      <jump line="62" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/twig/CochesComTwigExtension.php" />
-      <jump line="102" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/twig/CochesComTwigExtension.php" />
-      <jump line="13" column="10" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/twig/CochesComTwigExtension.php" />
-      <jump line="103" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/twig/CochesComTwigExtension.php" />
-      <jump line="64" column="50" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/messages/index.php" />
-      <jump line="266" column="44" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/ExtendedCActiveRecord.php" />
-      <jump line="99" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
-      <jump line="33" column="38" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/messages/partials/MessageDetails.twig" />
-      <jump line="48" column="30" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/messages/messages.twig" />
-      <jump line="62" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/mizonaDesign/requests.js" />
-      <jump line="215" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MessagesController.php" />
-      <jump line="16" column="24" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/mizonaDesign/requests.js" />
       <jump line="59" column="32" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MessagesController.php" />
       <jump line="240" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MessagesController.php" />
       <jump line="131" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MessagesController.php" />
@@ -278,55 +266,73 @@
       <jump line="76" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
       <jump line="201" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
       <jump line="106" column="19" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
+      <jump line="147" column="16" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
+      <jump line="79" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/DirectDebitController.php" />
+      <jump line="72" column="43" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/DirectDebitController.php" />
+      <jump line="192" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
+      <jump line="107" column="12" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/DirectDebitController.php" />
+      <jump line="84" column="12" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/DirectDebitController.php" />
+      <jump line="135" column="12" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/DirectDebitController.php" />
+      <jump line="158" column="30" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/DirectDebitController.php" />
+      <jump line="10" column="10" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/DirectDebitController.php" />
+      <jump line="156" column="53" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/DirectDebitController.php" />
+      <jump line="29" column="14" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/DirectDebitController.php" />
+      <jump line="12" column="10" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/DirectDebitController.php" />
+      <jump line="106" column="58" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/DirectDebitController.php" />
+      <jump line="81" column="58" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/DirectDebitController.php" />
+      <jump line="60" column="58" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/DirectDebitController.php" />
+      <jump line="13" column="10" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/DirectDebitController.php" />
+      <jump line="113" column="77" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/DirectDebitController.php" />
+      <jump line="112" column="44" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/DirectDebitController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbignZXJycm9yIHBheW1lbnQgYWN0aW9uJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IEdFTkVSSUNfRVJST1IgPSAnZ2VuZXJpY0Vycm9yJzsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWRpcmVjUGF5TWV0aG9kXD4=</text>
+        <text encoding="base64">XDxCQU5LX0FDQ09VTlRfUkVRVUVTVF9BUkdVTUVOVFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnJlZGlyZWN0KCR0aGlzLT5nZXRFcnJvclVybCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbignZXJycm9yIHBheW1lbnQgYWN0aW9uJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IEdFTkVSSUNfRVJST1IgPSAnZ2VuZXJpY0Vycm9yJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmxhc2hNZXNzYWdlOjp0YWtlQXNTdGF0ZShGbGFzaE1lc3NhZ2VTdGF0ZUVudW06OkVSUk9SKQogICAgICAgICAgICAgICAgLT5zZXQoJ0FsZ28gaGEgaWRvIG1hbC4gUG9yIGZhdm9yLCB2dWVsdmUgYSBpbnRlbnRhcmxvIGVuIHVub3MgbWludXRvcy4nKTsKCiAgICAgICAgICAgICR0aGlzLT5yZWRpcmVjdCgkdGhpcy0+YmFsYW5jZUNvbmZCZWFuLT5nZXRNeUJhbGFuY2VVcmwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjpHRU5FUklDX0VSUk9SID0+ICdBbGdvIGhhIG9jdXJyaWRvLCBwb3IgZmF2b3IgaW50ZW50ZWxvIGRlIG51ZXZvIGRlbnRybyBkZSB1bm9zIG1pbnV0b3MuJywK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1lc2FnZSA9ICdBbGdvIGhhIGlkbyBtYWwsIHBvciBmYXZvciBpbnRlbnRlbG8gZGVudHJvIGRlIHVub3MgbWludXRvcyc7CiAgICAgICAgICAgIEZsYXNoTWVzc2FnZTo6dGFrZUFzU3RhdGUoRmxhc2hNZXNzYWdlU3RhdGVFbnVtOjpFUlJPUikKICAgICAgICAgICAgICAgIC0+c2V0KCRtZXNhZ2UpOwoKICAgICAgICAgICAgJHRoaXMtPnJlZGlyZWN0KFVybEhhbmRsZXJNaXpvbmE6OnRha2UoKS0+d2l0aEFic29sdXRlVXJsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1lc3NhZ2UgPSAkdGhpcy0+cmVzcG9uc2VNZXNzYWdlc1tzZWxmOjpHRU5FUklDX0VSUk9SXTsKICAgICAgICAgICAgRmxhc2hNZXNzYWdlOjp0YWtlQXNTdGF0ZShGbGFzaE1lc3NhZ2VTdGF0ZUVudW06OkVSUk9SKQogICAgICAgICAgICAgICAgLT5zZXQoJG1lc3NhZ2UpOwoKICAgICAgICAgICAgJG15QmFsYW5jZVVybCA9ICR0aGlzLT5iYWxhbmNlQ29uZkJlYW4tPmdldE15QmFsYW5jZVVybCgpOwogICAgICAgICAgICAkdGhpcy0+cmVkaXJlY3QoJG15QmFsYW5jZVVybCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkbWVzYWdlID0gJ0FsZ28gaGEgaWRvIG1hbCwgcG9yIGZhdm9yIGludGVudGVsbyBkZW50cm8gZGUgdW5vcyBtaW51dG9zJzsKLy8gICAgICAgICAgICBGbGFzaE1lc3NhZ2U6OnRha2VBc1N0YXRlKEZsYXNoTWVzc2FnZVN0YXRlRW51bTo6RVJST1IpCi8vICAgICAgICAgICAgICAgIC0+c2V0KCRtZXNhZ2UpOwovLwovLyAgICAgICAgICAgICR0aGlzLT5yZWRpcmVjdChVcmxIYW5kbGVyTWl6b25hOjp0YWtlKCktPndpdGhBYnNvbHV0ZVVybCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1lc3NhZ2UgPSAkdGhpcy0+cmVzcG9uc2VNZXNzYWdlc1tzZWxmOjpHRU5FUklDX0VSUk9SXTsKICAgICAgICAgICAgRmxhc2hNZXNzYWdlOjp0YWtlQXNTdGF0ZShGbGFzaE1lc3NhZ2VTdGF0ZUVudW06OkVSUk9SKQogICAgICAgICAgICAgICAgLT5zZXQoJG1lc3NhZ2UpOwoKICAgICAgICAgICAgJHRoaXMtPnJlZGlyZWN0KCR0aGlzLT5iYWxhbmNlQ29uZkJlYW4tPmdldE15QmFsYW5jZVVybCgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigncXVlIHBhY2hhIGVycm9yJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1lc3NhZ2UgPSAkdGhpcy0+cmVzcG9uc2VNZXNzYWdlc1tzZWxmOjpHRU5FUklDX0VSUk9SXTsKICAgICAgICAgICAgRmxhc2hNZXNzYWdlOjp0YWtlQXNTdGF0ZShGbGFzaE1lc3NhZ2VTdGF0ZUVudW06OkVSUk9SKQogICAgICAgICAgICAgICAgLT5zZXQoJG1lc3NhZ2UpOwoKICAgICAgICAgICAgJG15QmFsYW5jZVVybCA9ICR0aGlzLT5iYWxhbmNlQ29uZkJlYW4tPmdldE15QmFsYW5jZVVybCgpOwogICAgICAgICAgICAkdGhpcy0+cmVkaXJlY3QoJG15QmFsYW5jZVVybCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Nob3dCYWxhbmNlVmlld0RUTycgPT4gJHNob3dCYWxhbmNlVmlld0RUTywKICAgICAgICAgICAgJ3VzZXJIYXZlQmFsYW5jZScgPT4gJHVzZXJIYXZlQmFsYW5jZSwKICAgICAgICAgICAgJ2JhbGFuY2VEdXJhdGlvbicgPT4gRm9ybWF0dGVyOjp0YWtlKCktPmZyb21EYXlzTnVtYmVyVG9GdWxsU3RyaW5nKCRkYXlzQmFsYW5jZUR1cmF0aW9uKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbignZXJycm9yIHBheW1lbnQgYWN0aW9uJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbignZXJyb3IgbmVuJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmxhc2hNZXNzYWdlOjp0YWtlQXNTdGF0ZShGbGFzaE1lc3NhZ2VTdGF0ZUVudW06OkVSUk9SKQogICAgICAgICAgICAgICAgLT5zZXQoJ0FsZ28gaGEgaWRvIG1hbC4gUG9yIGZhdm9yLCB2dWVsdmUgYSBpbnRlbnRhcmxvIGVuIHVub3MgbWludXRvcy4nKTsKCiAgICAgICAgICAgICR0aGlzLT5yZWRpcmVjdCgkdGhpcy0+YmFsYW5jZUNvbmZCZWFuLT5nZXRNeUJhbGFuY2VVcmwoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWRpcmVjUGF5TWV0aG9kXD4=</last-search>
+      <last-search encoding="base64">XDxCQU5LX0FDQ09VTlRfUkVRVUVTVF9BUkdVTUVOVFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWRpcmVjUGF5TWV0aG9kXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxCQU5LX0FDQ09VTlRfUkVRVUVTVF9BUkdVTUVOVFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
       <last-dir>-1</last-dir>
@@ -334,13 +340,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmcm9tRm90b0NvY2hlVG9JbWFnZVw+</entry>
-        <entry encoding="base64">XDxnZXRJbWdzSG9zdFw+</entry>
-        <entry>subti</entry>
-        <entry>execute</entry>
-        <entry>date</entry>
-        <entry encoding="base64">XDxERUZBVUxUX0lNQUdFX1dIRU5fTk9UX0ZPVU5EX0lNQUdFXD4=</entry>
-        <entry>requestlis</entry>
         <entry encoding="base64">XDxyZXBhaW50TGlzdFw+</entry>
         <entry encoding="base64">XDxkYXRhTGF5ZXJcPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzQ2FsbGJhY2tcPg==</entry>
@@ -354,9 +353,15 @@
         <entry>add</entry>
         <entry encoding="base64">XDxteUJhbGFuY2VcPg==</entry>
         <entry encoding="base64">XDxyZWRpcmVjUGF5TWV0aG9kXD4=</entry>
+        <entry encoding="base64">XDxnZXRQYXltZW50VXJsXD4=</entry>
+        <entry encoding="base64">XDxhY3Rpb25FcnJvclw+</entry>
+        <entry encoding="base64">XDxyZXNwb25zZU1lc3NhZ2VzXD4=</entry>
+        <entry encoding="base64">XDxHRU5FUklDX0VSUk9SXD4=</entry>
+        <entry encoding="base64">XDxJTlZBTElEX0FDQ09VTlRfTlVNQkVSX01FU1NBR0VcPg==</entry>
+        <entry encoding="base64">XDxPUkRFUl9JRF9SRVFVRVNUX0FSR1VNRU5UXD4=</entry>
+        <entry encoding="base64">XDxCQU5LX0FDQ09VTlRfUkVRVUVTVF9BUkdVTUVOVFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>98</entry>
         <entry>89</entry>
         <entry>86</entry>
         <entry>54</entry>
@@ -373,9 +378,10 @@
         <entry>90</entry>
         <entry>738</entry>
         <entry>w</entry>
-        <entry>wa</entry>
         <entry>vs</entry>
+        <entry>177</entry>
         <entry>q</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
