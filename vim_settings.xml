@@ -910,11 +910,11 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/authorizedDealer/authDealerInfoData/_info_dealer_edit.twig" timestamp="1546957066978">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="52" column="44" />
-        <mark key="^" line="178" column="60" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/authorizedDealer/authDealerInfoData/_info_dealer_edit.twig" timestamp="1547119564845">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="55" />
+        <mark key="^" line="18" column="55" />
+        <mark key="." line="18" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/enums/routes/ControllersRoutesEnum.php" timestamp="1539185891232">
         <mark key="[" line="19" column="43" />
@@ -3589,6 +3589,9 @@
         <mark key="^" line="32" column="27" />
         <mark key="." line="32" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" timestamp="1547119225156">
+        <mark key="'" line="97" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/FavoriteController.php" timestamp="1546424541319">
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
@@ -5180,14 +5183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BankTransferController.php" />
-      <jump line="76" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BankTransferController.php" />
-      <jump line="58" column="12" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/PaypalController.php" />
-      <jump line="133" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/BalanceController.php" />
-      <jump line="216" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/ClassifiedTransformer.php" />
-      <jump line="112" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/ClassifiedViewDTO.php" />
-      <jump line="53" column="58" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/twig/CochesComTwigExtension.php" />
-      <jump line="61" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Images/Image.php" />
       <jump line="14" column="33" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/Images/Image.php" />
       <jump line="134" column="45" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedListController.php" />
       <jump line="158" column="9" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedListController.php" />
@@ -5280,6 +5275,14 @@
       <jump line="284" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ClassifiedList/Classified.php" />
       <jump line="49" column="39" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/_rowPartCarInfo.twig" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/_rowPartCarInfo.twig" />
+      <jump line="46" column="12" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
+      <jump line="17" column="41" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
+      <jump line="392" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
+      <jump line="390" column="36" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
+      <jump line="388" column="22" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
+      <jump line="384" column="22" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
+      <jump line="175" column="17" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
+      <jump line="97" column="17" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/authorisedDealer/infoData/AuthDealerInfoDataForm.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5289,7 +5292,7 @@
         <text encoding="base64">IGNhclByaW50ZXI=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3YXJyYW50eVw+</text>
+        <text encoding="base64">XDxkZXNjcmlwdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGRlZmF1bHRQaG90bwo=</text>
@@ -5326,9 +5329,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3YXJyYW50eVw+</last-search>
+      <last-search encoding="base64">XDxkZXNjcmlwdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3YXJyYW50eVw+</last-pattern>
+      <last-pattern encoding="base64">XDxkZXNjcmlwdGlvblw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
       <last-dir>-1</last-dir>
@@ -5336,7 +5339,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRTdmdJY29uXD4=</entry>
         <entry encoding="base64">XDxnZXRQb3NpdGlvbkNsYXNzaWZpZWRzVXJsXD4=</entry>
         <entry>mybalance</entry>
         <entry encoding="base64">XDxnZXRNeUJhbGFuY2VVcmxcPg==</entry>
@@ -5356,6 +5358,7 @@
         <entry encoding="base64">XDxwb3NpdGlvbmVkXD4=</entry>
         <entry encoding="base64">XDxjbGllbnRTY3JpcHRcPg==</entry>
         <entry encoding="base64">XDx3YXJyYW50eVw+</entry>
+        <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>71</entry>
