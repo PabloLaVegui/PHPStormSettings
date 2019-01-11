@@ -1805,9 +1805,6 @@
         <mark key="^" line="54" column="13" />
         <mark key="." line="54" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Dto/AuthorisedDealer/ClassifiedListItemDto.php" timestamp="1547044345458">
-        <mark key="'" line="20" column="13" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classified/partials/_nameAndPhoto.php" timestamp="1544529532547">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -3969,8 +3966,8 @@
         <mark key="." line="7" column="45" />
         <mark key="^" line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" timestamp="1547197067702">
-        <mark key="'" line="312" column="21" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" timestamp="1547197675713">
+        <mark key="'" line="72" column="21" />
         <mark key="[" line="544" column="0" />
         <mark key="]" line="547" column="19" />
       </file>
@@ -4203,8 +4200,12 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/views/wIndividualUserLoggedMenu.php" timestamp="1547197169997">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/views/wIndividualUserLoggedMenu.php" timestamp="1547197700192">
         <mark key="'" line="2" column="0" />
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+        <mark key="^" line="18" column="25" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Classic2DPhetris/Classic2DPhetris.php" timestamp="1505928266834">
         <mark key="[" line="14" column="0" />
@@ -5187,9 +5188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/modals/_positioning_help.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/_rowClassified.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/_rowPartHeaderInfoT.twig" />
       <jump line="25" column="79" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/_rowClassified.php" />
       <jump line="14" column="32" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/_rowPartHeaderInfo.twig" />
       <jump line="45" column="37" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/_rowPartActions.twig" />
@@ -5280,26 +5278,29 @@
       <jump line="14" column="1" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/centralMenu/views/wIndividualDealerCentralMenu.php" />
       <jump line="278" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/centralMenu/WCentralMenu.php" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/centralMenu/WCentralMenu.php" />
-      <jump line="312" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" />
       <jump line="37" column="30" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/views/wIndividualUserLoggedMenu.php" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/views/wIndividualUserLoggedMenu.php" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/centralMenu/views/wIndividualDealerCentralMenu.php" />
       <jump line="468" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/centralMenu/WCentralMenu.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/centralMenu/WCentralMenu.php" />
       <jump line="120" column="44" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/centralMenu/WCentralMenu.php" />
+      <jump line="544" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" />
+      <jump line="312" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" />
+      <jump line="147" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" />
+      <jump line="72" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iPD9waHAgZWNobyAkdXJsTXlDbGFzc2lmaWVkID8+Ij5EZXN0YWNhciBtaSBhbnVuY2lvPC9hPgo=</text>
+      <register name="&quot;" type="4">
+        <text>urlPositioning</text>
       </register>
       <register name="-" type="4">
-        <text>Favorites</text>
+        <text>urlPositioning</text>
       </register>
       <register name="/" type="4">
-        <text>hasactive</text>
+        <text>iscarac</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVXJsSGFuZGxlck1pem9uYTo6dGFrZSgpCiAgICAgICAgICAgIC0+d2l0aEFic29sdXRlVXJsKCkKICAgICAgICAgICAgLT5jaG9vc2VQYWNrYWdlKCkKICAgICAgICAgICAgLT5nZXQoKTsK</text>
+        <text encoding="base64">LyoqIEB2YXIgc3RyaW5nICR1cmxQb3NpdGlvbmluZyAqLwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iPD9waHAgZWNobyAkdXJsTXlDbGFzc2lmaWVkID8+Ij5EZXN0YWNhciBtaSBhbnVuY2lvPC9hPgo=</text>
@@ -5333,9 +5334,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hasactive</last-search>
+      <last-search>iscarac</last-search>
       <last-offset />
-      <last-pattern>hasactive</last-pattern>
+      <last-pattern>iscarac</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -5343,7 +5344,6 @@
     </search>
     <history>
       <history-search>
-        <entry>id</entry>
         <entry>strid</entry>
         <entry encoding="base64">XDxjbGFzc2lmaWVkVXJsXD4=</entry>
         <entry encoding="base64">XDxmb3JtYXRLbXNcPg==</entry>
@@ -5363,6 +5363,7 @@
         <entry encoding="base64">XDxJTkRJVklEVUFMX0RFQUxFUlw+</entry>
         <entry encoding="base64">XDxpc0NhckFjdGl2ZVw+</entry>
         <entry>hasactive</entry>
+        <entry>iscarac</entry>
       </history-search>
       <history-cmd>
         <entry>71</entry>
