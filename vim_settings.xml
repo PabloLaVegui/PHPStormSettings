@@ -274,8 +274,8 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ClassifiedList/Classified.php" timestamp="1547637563569">
-        <mark key="'" line="149" column="4" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ClassifiedList/Classified.php" timestamp="1547639439872">
+        <mark key="'" line="328" column="0" />
         <mark key="[" line="330" column="5" />
         <mark key="]" line="331" column="37" />
         <mark key="." line="331" column="37" />
@@ -4591,11 +4591,12 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Transformers/ClassifiedListTransformer.php" timestamp="1547573034159">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Transformers/ClassifiedListTransformer.php" timestamp="1547639503718">
         <mark key="'" line="87" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="115" column="18" />
+        <mark key="]" line="115" column="32" />
+        <mark key="." line="115" column="32" />
+        <mark key="^" line="115" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/enums/CarSizes/CarSizeDescriptionsEnum.php" timestamp="1540830317828">
         <mark key="[" line="17" column="36" />
@@ -5256,7 +5257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/_rowPartCarInfo.twig" />
       <jump line="37" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/_rowClassifiedBase.twig" />
       <jump line="54" column="32" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/_rowClassifiedBase.twig" />
       <jump line="68" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/_rowClassifiedBase.twig" />
@@ -5356,13 +5356,14 @@
       <jump line="29" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/listClassified.twig" />
       <jump line="111" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/listClassified.twig" />
       <jump line="149" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ClassifiedList/Classified.php" />
+      <jump line="328" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ClassifiedList/Classified.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getVersionId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getVersionId</text>
       </register>
       <register name="/" type="4">
         <text>freq</text>
