@@ -2162,7 +2162,8 @@
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ActiveRecord/Car.php" timestamp="1548071459640">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" timestamp="1548252957441">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" timestamp="1548254165534">
+        <mark key="'" line="123" column="28" />
         <mark key="[" line="267" column="56" />
         <mark key="]" line="267" column="64" />
         <mark key="^" line="267" column="64" />
@@ -5146,8 +5147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="43" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/views/wWebUserLoggedMenu.php" />
-      <jump line="28" column="19" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/views/wWebUserLoggedMenu.php" />
       <jump line="2" column="14" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/views/wWebUserLoggedMenu.php" />
       <jump line="23" column="43" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/views/wWebUserLoggedMenu.php" />
       <jump line="22" column="19" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/views/wWebUserLoggedMenu.php" />
@@ -5246,6 +5245,8 @@
       <jump line="71" column="26" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Dto/AuthorisedDealer/ClassifiedActionsUrlsDTO.php" />
       <jump line="21" column="3" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/listClassified.twig" />
       <jump line="138" column="34" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/listClassified.twig" />
+      <jump line="187" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
+      <jump line="123" column="28" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5255,7 +5256,7 @@
         <text>Classified</text>
       </register>
       <register name="/" type="4">
-        <text>actiodele</text>
+        <text encoding="base64">XDxUUkFGRklDX1JFUE9SVFNfVklFV1w+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGFjdGlvblVybHNEVE8=</text>
@@ -5288,21 +5289,20 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIEFjdGlvbnNVcmxzRFRPIGNvbnN0cnVjdG9yLgogICAgICogQHBhcmFtIHN0cmluZyAkcG9zaXRpb25pbmdVcmwKICAgICAqIEBwYXJhbSBzdHJpbmcgJHBvc2l0aW9uaW5nSW5mb1VybAogICAgICogQHBhcmFtIHN0cmluZyAkZGVsZXRlUG9zaXRpb25pbmdCYXNlVXJsCiAgICAgKiBAcGFyYW0gc3RyaW5nICRjbGFzc2lmaWVkVXJsCiAgICAgKiBAcGFyYW0gc3RyaW5nICRkZWxldGVDbGFzc2lmaWVkVXJsCiAgICAgKiBAcGFyYW0gc3RyaW5nICRlZGl0Q2xhc3NpZmllZFVybAogICAgICogQHBhcmFtIHN0cmluZyAkcmVub3ZhdGVVcmwKICAgICAqIEBwYXJhbSBzdHJpbmcgJGRpc2FibGVVcmwKICAgICAqIEBwYXJhbSBzdHJpbmcgJGFjdGl2YXRlVXJsCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgKICAgICAgICAkcG9zaXRpb25pbmdVcmwsCiAgICAgICAgJHBvc2l0aW9uaW5nSW5mb1VybCwKICAgICAgICAkZGVsZXRlUG9zaXRpb25pbmdCYXNlVXJsLAogICAgICAgICRjbGFzc2lmaWVkVXJsLAogICAgICAgICRkZWxldGVDbGFzc2lmaWVkVXJsLAogICAgICAgICRlZGl0Q2xhc3NpZmllZFVybCwKICAgICAgICAkcmVub3ZhdGVVcmwsCiAgICAgICAgJGRpc2FibGVVcmwsCiAgICAgICAgJGFjdGl2YXRlVXJsCiAgICApIHsKICAgICAgICAkdGhpcy0+cG9zaXRpb25pbmdVcmwgPSAkcG9zaXRpb25pbmdVcmw7CiAgICAgICAgJHRoaXMtPnBvc2l0aW9uaW5nSW5mb1VybCA9ICRwb3NpdGlvbmluZ0luZm9Vcmw7CiAgICAgICAgJHRoaXMtPmRlbGV0ZVBvc2l0aW9uaW5nQmFzZVVybCA9ICRkZWxldGVQb3NpdGlvbmluZ0Jhc2VVcmw7CiAgICAgICAgJHRoaXMtPmNsYXNzaWZpZWRVcmwgPSAkY2xhc3NpZmllZFVybDsKICAgICAgICAkdGhpcy0+ZGVsZXRlQ2xhc3NpZmllZFVybCA9ICRkZWxldGVDbGFzc2lmaWVkVXJsOwogICAgICAgICR0aGlzLT5lZGl0Q2xhc3NpZmllZFVybCA9ICRlZGl0Q2xhc3NpZmllZFVybDsKICAgICAgICAkdGhpcy0+cmVub3ZhdGVVcmwgPSAkcmVub3ZhdGVVcmw7CiAgICAgICAgJHRoaXMtPmRpc2FibGVVcmwgPSAkZGlzYWJsZVVybDsKICAgICAgICAkdGhpcy0+YWN0aXZhdGVVcmwgPSAkYWN0aXZhdGVVcmw7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIHN0cmluZwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0UG9zaXRpb25pbmdVcmwoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+cG9zaXRpb25pbmdVcmw7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIHN0cmluZwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0UG9zaXRpb25pbmdJbmZvVXJsKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnBvc2l0aW9uaW5nSW5mb1VybDsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXREZWxldGVQb3NpdGlvbmluZ0Jhc2VVcmwoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+ZGVsZXRlUG9zaXRpb25pbmdCYXNlVXJsOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldENsYXNzaWZpZWRVcmwoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+Y2xhc3NpZmllZFVybDsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXREZWxldGVDbGFzc2lmaWVkVXJsKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmRlbGV0ZUNsYXNzaWZpZWRVcmw7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIHN0cmluZwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0RWRpdENsYXNzaWZpZWRVcmwoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+ZWRpdENsYXNzaWZpZWRVcmw7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIHN0cmluZwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0UmVub3ZhdGVVcmwoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+cmVub3ZhdGVVcmw7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIHN0cmluZwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0RGlzYWJsZVVybCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5kaXNhYmxlVXJsOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEFjdGl2YXRlVXJsKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmFjdGl2YXRlVXJsOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>actiodele</last-search>
+      <last-search encoding="base64">XDxUUkFGRklDX1JFUE9SVFNfVklFV1w+</last-search>
       <last-offset />
-      <last-pattern>actiodele</last-pattern>
+      <last-pattern encoding="base64">XDxUUkFGRklDX1JFUE9SVFNfVklFV1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyRW1haWxcPg==</entry>
         <entry encoding="base64">XDxpc0ZyZWVcPg==</entry>
         <entry encoding="base64">XDx1cmxOZXdDbGFzc2lmaWVkXD4=</entry>
         <entry encoding="base64">XDx1cmxNeUNsYXNzaWZpZWRMaXN0XD4=</entry>
@@ -5322,6 +5322,7 @@
         <entry encoding="base64">XDxnZXRBY3Rpb25VcmxzRHRvXD4=</entry>
         <entry encoding="base64">XDxkZWxldGVDbGFzc2lmaWVkVXJsXD4=</entry>
         <entry>actiodele</entry>
+        <entry encoding="base64">XDxUUkFGRklDX1JFUE9SVFNfVklFV1w+</entry>
       </history-search>
       <history-cmd>
         <entry>100</entry>
@@ -5342,8 +5343,8 @@
         <entry>a</entry>
         <entry>w</entry>
         <entry>vs</entry>
-        <entry>q</entry>
         <entry>wa</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
