@@ -643,12 +643,6 @@
         <mark key="^" line="9" column="53" />
         <mark key="." line="9" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/myTrafficReports/_trafficReportInstruction.twig" timestamp="1548241624509">
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="5" column="36" />
-        <mark key="." line="5" column="36" />
-        <mark key="^" line="10" column="66" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Dto/AuthorisedDealer/LocationDTO.php" timestamp="1509098367369">
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="20" />
@@ -1712,6 +1706,12 @@
         <mark key="]" line="3" column="42" />
         <mark key="." line="3" column="42" />
         <mark key="^" line="3" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedListController.php" timestamp="1548242474587">
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="65" />
+        <mark key="." line="185" column="0" />
+        <mark key="^" line="184" column="11" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris/GeoMap/GeoMapTest.php" timestamp="1505771235784">
         <mark key="[" line="47" column="25" />
@@ -5211,8 +5211,8 @@
       <jump line="274" column="23" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/twig/CochesComTwigExtension.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGNsYXNzPSJjb2xsYXBzZWQi</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2FsbENsYXNzaWZpZWRzVXJsJyA9PiAkdGhpcy0+Z2V0QWxsQ2xhc3NpZmllZHNVcmwoKSwK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGNsYXNzPSJjb2xsYXBzZWQi</text>
@@ -5224,34 +5224,34 @@
         <text>self::NUMBER_OF_CHANGES</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgUmVzb3VyY2Vub3RGb3VuZEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FsbENsYXNzaWZpZWRzVXJsJyA9PiAkdGhpcy0+Z2V0QWxsQ2xhc3NpZmllZHNVcmwoKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgUmVzb3VyY2Vub3RGb3VuZEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ215QmFsYW5jZVVybCcgPT4gJHRoaXMtPmdldE15QmFsYW5jZVVybCgpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBnZXRVcmxJbml0KCkKICAgIHsKICAgICAgICByZXR1cm4gVXJsSGFuZGxlck1pem9uYTo6dGFrZSgpCiAgICAgICAgICAgIC0+d2l0aEFic29sdXRlVXJsKCkKICAgICAgICAgICAgLT5nZXQoKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Bvc2l0aW9uaW5nVXJsJyA9PiAkdGhpcy0+Z2V0UG9zaXRpb25DbGFzc2lmaWVkc1VybCgpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqIEB2YXIgc3RyaW5nICR1c2VyRW1haWwgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RlbGV0ZVBvc2l0aW9uaW5nQmFzZVVybCcgPT4gJHRoaXMtPmdldFVucG9zaXRpb25pbmdVcmwoKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqIEB2YXIgc3RyaW5nICR1cmxJbml0ICovCg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgUmVzb3VyY2Vub3RGb3VuZEV4Y2VwdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VybEluaXQnID0+ICR0aGlzLT5nZXRVcmxJbml0KCksCg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgUmVzb3VyY2Vub3RGb3VuZEV4Y2VwdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqIEB2YXIgc3RyaW5nICR1cmxJbml0ICovCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBnZXRVcmxJbml0KCkKICAgIHsKICAgICAgICByZXR1cm4gVXJsSGFuZGxlck1pem9uYTo6dGFrZSgpCiAgICAgICAgICAgIC0+d2l0aEFic29sdXRlVXJsKCkKICAgICAgICAgICAgLT5nZXQoKTsKICAgIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJFbWFpbCcgPT4gJHVzZXItPmdldFVzZXJFbWFpbCgpLAo=</text>
+        <text encoding="base64">LyoqIEB2YXIgc3RyaW5nICR1c2VyRW1haWwgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJOYW1lJyA9PiAkdXNlci0+Z2V0TmFtZSgpLAo=</text>
+        <text encoding="base64">LyoqIEB2YXIgc3RyaW5nICR1cmxJbml0ICovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -5304,9 +5304,9 @@
         <entry>sp</entry>
         <entry>a</entry>
         <entry>w</entry>
+        <entry>wa</entry>
         <entry>vs</entry>
         <entry>q</entry>
-        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
