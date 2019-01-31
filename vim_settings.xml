@@ -4829,10 +4829,12 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/tests/services/car/integration/fuel/CarFinderFuelServiceTest.php" timestamp="1548944061272">
-        <mark key="]" line="23" column="27" />
-        <mark key="^" line="23" column="27" />
-        <mark key="." line="23" column="27" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/tests/services/car/integration/fuel/CarFinderFuelServiceTest.php" timestamp="1548946267151">
+        <mark key="'" line="40" column="6" />
+        <mark key="[" line="76" column="45" />
+        <mark key="]" line="76" column="45" />
+        <mark key="^" line="73" column="21" />
+        <mark key="." line="76" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/finish-trade/_buyerAgreement.php" timestamp="1548924289365">
         <mark key="'" line="31" column="0" />
@@ -5191,11 +5193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="480" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedListController.php" />
-      <jump line="71" column="26" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Dto/AuthorisedDealer/ClassifiedActionsUrlsDTO.php" />
-      <jump line="187" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
-      <jump line="123" column="28" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
-      <jump line="226" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/twig/CochesComTwigExtension.php" />
       <jump line="138" column="14" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/listClassified.twig" />
       <jump line="134" column="34" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/listClassified.twig" />
       <jump line="87" column="31" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/listClassified.twig" />
@@ -5291,55 +5288,60 @@
       <jump line="428" column="4" filename="$USER_HOME$/Projects/manhattan.coches.com/src/controllers/CcomController.php" />
       <jump line="64" column="4" filename="$USER_HOME$/Projects/manhattan.coches.com/services/core/car/application/fuel/FinderFuelServiceRequest.php" />
       <jump line="16" column="13" filename="$USER_HOME$/Projects/manhattan.coches.com/services/core/car/application/fuel/FinderFuelServiceRequest.php" />
+      <jump line="35" column="31" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/car/integration/fuel/CarFinderFuelServiceTest.php" />
+      <jump line="109" column="23" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/car/integration/fuel/CarFinderFuelServiceTest.php" />
+      <jump line="128" column="6" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/car/integration/fuel/CarFinderFuelServiceTest.php" />
+      <jump line="54" column="29" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/car/integration/fuel/CarFinderFuelServiceTest.php" />
+      <jump line="40" column="6" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/car/integration/fuel/CarFinderFuelServiceTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BySegmentAndFuel</text>
+        <text encoding="base64">LT5nZXRTZWdtZW50RGF0YSgpLT5nZXRJZCgp</text>
       </register>
       <register name="-" type="4">
-        <text>BySegmentAndFuel</text>
+        <text encoding="base64">LT5nZXRTZWdtZW50RGF0YSgpLT5nZXRJZCgp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc3lzdGVtRW50cnlZZWFyXD4=</text>
+        <text encoding="base64">XDxnZW5lcmF0ZUliaXphTWFwcGluZ3NcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>systemYear</text>
+        <text>CarFinderFuelServiceTest</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+c2V0Qm9lVW50aWxZZWFyKCcyMDE4Jyk7Cg==</text>
+        <text encoding="base64">dXNlIGNjb21cY2FyXGluZnJhc3RydWN0dXJlXHZlcnNpb25cRG9jdHJpbmVWZXJzaW9uTWFwcGluZzsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+c2V0Qm9lVW50aWxZZWFyKCcyMDE4Jyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+c2V0Qm9lVW50aWxZZWFyKCcyMDIxJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+c2V0Qm9lVW50aWxZZWFyKCcyMDE4Jyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2V0UGFyYW1ldGVyKCd1bnRpbCcsICRkdG8tPmdldEJvZVVudGlsWWVhcigpKQo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+c2V0Qm9lVW50aWxZZWFyKCcyMDIxJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlcXVlc3QtPnNldEJvZVVudGlsWWVhcigkdGhpcy0+X2RhdGVHZW5lcmF0b3ItPmdldEN1cnJlbnRZZWFyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2V0UGFyYW1ldGVyKCd1bnRpbCcsICRkdG8tPmdldEJvZVVudGlsWWVhcigpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkZHRvLT5zZXRCb2VTaW5jZVllYXIoJHJlcXVlc3QtPmdldFN5c3RlbUVudHJ5WWVhcigpKTsKICAgICAgICAkZHRvLT5zZXRCb2VVbnRpbFllYXIoJHJlcXVlc3QtPmdldEJvZVVudGlsWWVhcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlcXVlc3QtPnNldEJvZVVudGlsWWVhcigkdGhpcy0+X2RhdGVHZW5lcmF0b3ItPmdldEN1cnJlbnRZZWFyKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRCb2VVbnRpbFllYXIoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+X2JvZVVudGlsWWVhcjsKICAgIH0KCiAgICAvKioKICAgICAqIEBwYXJhbSBzdHJpbmcgJGJvZVVudGlsWWVhcgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0Qm9lVW50aWxZZWFyKCRib2VVbnRpbFllYXIpCiAgICB7CiAgICAgICAgJHRoaXMtPl9ib2VVbnRpbFllYXIgPSAkYm9lVW50aWxZZWFyOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkZHRvLT5zZXRCb2VTaW5jZVllYXIoJHJlcXVlc3QtPmdldFN5c3RlbUVudHJ5WWVhcigpKTsKICAgICAgICAkZHRvLT5zZXRCb2VVbnRpbFllYXIoJHJlcXVlc3QtPmdldEJvZVVudGlsWWVhcigpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkX2JvZVVudGlsWWVhcjsK</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRCb2VVbnRpbFllYXIoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+X2JvZVVudGlsWWVhcjsKICAgIH0KCiAgICAvKioKICAgICAqIEBwYXJhbSBzdHJpbmcgJGJvZVVudGlsWWVhcgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0Qm9lVW50aWxZZWFyKCRib2VVbnRpbFllYXIpCiAgICB7CiAgICAgICAgJHRoaXMtPl9ib2VVbnRpbFllYXIgPSAkYm9lVW50aWxZZWFyOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkX2JvZVNpbmNlWWVhcjsKICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkX2JvZVVudGlsWWVhcjsK</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkX2JvZVVudGlsWWVhcjsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc3lzdGVtRW50cnlZZWFyXD4=</last-search>
+      <last-search encoding="base64">XDxnZW5lcmF0ZUliaXphTWFwcGluZ3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc3lzdGVtRW50cnlZZWFyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZW5lcmF0ZUliaXphTWFwcGluZ3NcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
       <last-dir>-1</last-dir>
@@ -5347,7 +5349,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlZGl0Q2xhc3NpZmllZFVybFw+</entry>
         <entry encoding="base64">XDxkaXNhYmxlVXJsXD4=</entry>
         <entry encoding="base64">XDxlZGl0VXJsXD4=</entry>
         <entry encoding="base64">XDxhY3RpdmF0ZVVybFw+</entry>
@@ -5367,6 +5368,7 @@
         <entry encoding="base64">XDxfZ2V0VHJhbnNhY3Rpb25Vc2VySWRlbnRpdHlcPg==</entry>
         <entry>debu</entry>
         <entry encoding="base64">XDxfc3lzdGVtRW50cnlZZWFyXD4=</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZUliaXphTWFwcGluZ3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>h hi</entry>
