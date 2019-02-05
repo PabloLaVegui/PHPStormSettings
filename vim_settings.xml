@@ -2482,12 +2482,12 @@
         <mark key="^" line="28" column="37" />
         <mark key="." line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" timestamp="1549364694850">
-        <mark key="'" line="58" column="7" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="97" column="56" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" timestamp="1549374296988">
+        <mark key="'" line="88" column="8" />
+        <mark key="[" line="109" column="14" />
+        <mark key="]" line="109" column="20" />
+        <mark key="." line="109" column="20" />
+        <mark key="^" line="109" column="20" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris2D/Movement/OneTetromino2DMoverTest.php" timestamp="1502663298516">
         <mark key="[" line="9" column="29" />
@@ -5167,7 +5167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="3" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/_pillActive.twig" />
       <jump line="66" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/_pillActive.twig" />
       <jump line="58" column="26" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/_pillActive.twig" />
       <jump line="61" column="53" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/classifiedList/partials/_pillActive.twig" />
@@ -5267,46 +5266,47 @@
       <jump line="213" column="25" filename="$USER_HOME$/Projects/manhattan.coches.com/models/TransactionCreatorHelperForm.php" />
       <jump line="45" column="7" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
       <jump line="118" column="48" filename="$USER_HOME$/Projects/manhattan.coches.com/vendor/yiisoft/yii2/widgets/ActiveForm.php" />
+      <jump line="101" column="8" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImZvcm1fX3NlY3Rpb24tZmllbGRzIj4K</text>
+        <text encoding="base64">ICAgICAgICAkYnV5ZXJHdWVzdEZsdXhTdGVwcyA9ICR0aGlzLT5fbG9hZFN0ZXBGcm9tRmx1eCgKICAgICAgICApOwoK</text>
       </register>
       <register name="-" type="4">
-        <text>style='flex: 1; max-width: 400px'</text>
+        <text>$buyerGuestFluxSteps</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcG9zc2libGVTdGVwTGlzdEZvclN0ZXBGaWVsZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImZvcm1fX3NlY3Rpb24tZmllbGRzIiBzdHlsZT0iZmxleDogMTsgbWF4LXdpZHRoOiA0MDBweCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZjo6REVBTEVSX0NSRUFUT1JfU1RFUF9GSUVMRF9JTklUSUFMX1ZBTFVFCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImZvcm1fX3NlY3Rpb24tZmllbGRzIj4K</text>
+        <text encoding="base64">ICAgICAgICAkYnV5ZXJHdWVzdEZsdXhTdGVwcyA9ICR0aGlzLT5fbG9hZFN0ZXBGcm9tRmx1eCgKICAgICAgICApOwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2ID4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEJ1eWVyR3Vlc3RGbHV4KCksCiAgICAgICAgICAgIHNlbGY6OkJVWUVSX0dVRVNUX1NURVBfRklFTERfSU5JVElBTF9WQUxVRQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGRpdj4K</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqIEB0aHJvd3MgTm9UcmFuc2l0aW9uU3RhdHVzSXRlcmF0aW9uRm91bmRFeGNlcHRpb24KICAgICAqIEB0aHJvd3MgU3RlcE5vQmVsb25nc0V4Y2VwdGlvbgogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIF9nZXRCdXllckd1ZXN0U3RlcE5hbWVzKCkKICAgIHsKICAgICAgICAkYnV5ZXJHdWVzdEZsdXhTdGVwcyA9ICR0aGlzLT5fbG9hZFN0ZXBGcm9tRmx1eCgKICAgICAgICAgICAgbmV3IEJ1eWVyR3Vlc3RGbHV4KCksCiAgICAgICAgICAgIHNlbGY6OkJVWUVSX0dVRVNUX1NURVBfRklFTERfSU5JVElBTF9WQUxVRQogICAgICAgICk7CgogICAgICAgIHJldHVybiAkdGhpcy0+X2dldFN0ZXBOYW1lcygkYnV5ZXJHdWVzdEZsdXhTdGVwcyk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZGVhbGVyQ3JlYXRvckZsdXhTdGVwcyA9ICR0aGlzLT5fbG9hZFN0ZXBGcm9tRmx1eCgKICAgICAgICAgICAgbmV3IERlYWxlckNyZWF0b3JGbHV4KCksCiAgICAgICAgICAgIHNlbGY6OkRFQUxFUl9DUkVBVE9SX1NURVBfRklFTERfSU5JVElBTF9WQUxVRQogICAgICAgICk7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGRpdj4K</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBUWVBFX05BTUUgJGludGlhbFZhbHVlICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImZvcm1fX3NlY3Rpb24tZmllbGRzIj4K</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBmdW5jdGlvbiBfZ2V0U3RlcE5hbWVzKCRkZWFsZXJDcmVhdG9yRmx1eFN0ZXBzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2ID4K</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBTdGVwW10gJGRlYWxlckNyZWF0b3JGbHV4U3RlcHMKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBfZ2V0U3RlcE5hbWVzKCRkZWFsZXJDcmVhdG9yRmx1eFN0ZXBzKQogICAgewogICAgICAgIHJldHVybiBhcnJheV9tYXAoCiAgICAgICAgICAgIGZ1bmN0aW9uIChTdGVwICRzdGVwKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJHN0ZXAtPmdldE5hbWUoKTsKICAgICAgICAgICAgfSwKICAgICAgICAgICAgJGRlYWxlckNyZWF0b3JGbHV4U3RlcHMKICAgICAgICApOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxwPlBhc29zIGRlbCBDb21wcmFkb3IgaW52aXRhZG88L3A+Cg==</text>
+        <text encoding="base64">CiAgICAgICAgJGJ1eWVyR3Vlc3RTdGVwTmFtZXMgPSBhcnJheV9tYXAoCiAgICAgICAgICAgIGZ1bmN0aW9uIChTdGVwICRzdGVwKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJHN0ZXAtPmdldE5hbWUoKTsKICAgICAgICAgICAgfSwKICAgICAgICAgICAgJGJ1eWVyR3Vlc3RGbHV4U3RlcHMKICAgICAgICApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
