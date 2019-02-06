@@ -9,11 +9,6 @@
         <mark key="^" line="32" column="33" />
         <mark key="." line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/cochescom/mizona.coches.com/secure_yii/protected/enums/routes/TrafficReportRoutesEnum.php" timestamp="1545389813148">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/slim-calendar-api/db/migrations/Version20171019181110.php" timestamp="1508436693127">
         <mark key="[" line="10" column="27" />
       </file>
@@ -39,6 +34,12 @@
         <mark key="]" line="8" column="16" />
         <mark key="^" line="7" column="21" />
         <mark key="." line="8" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/cochescom/manhattan.coches.com/src/modules/domainModel/verification/wrapper/ManhattanWrapperBankEntitySupportReadChecker.php" timestamp="1549462062643">
+        <mark key="[" line="59" column="5" />
+        <mark key="]" line="60" column="19" />
+        <mark key="^" line="60" column="19" />
+        <mark key="." line="60" column="19" />
       </file>
       <file name="$USER_HOME$/Code/cochescom/mizona.coches.com/generic/config/main.php" timestamp="1542206907405">
         <mark key="[" line="49" column="24" />
@@ -266,6 +267,9 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
+      <file name="$USER_HOME$/Code/cochescom/manhattan.coches.com/models/DataForm.php" timestamp="1549461875481">
+        <mark key="'" line="193" column="10" />
+      </file>
       <file name="/Dummy.txt" timestamp="1545389207783">
         <mark key="[" line="0" column="0" />
       </file>
@@ -319,7 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="51" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Tetromino/TetrominoI.php" />
       <jump line="125" column="3" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Tetromino/TetrominoI.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Tetromino/TetrominoI.php" />
       <jump line="145" column="4" filename="$USER_HOME$/Code/phetris-ddd-v4/src/Domain/Model/Tetromino/TetrominoI.php" />
@@ -419,6 +422,7 @@
       <jump line="152" column="30" filename="$USER_HOME$/Code/cochescom/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
       <jump line="12" column="10" filename="$USER_HOME$/Code/cochescom/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
       <jump line="13" column="10" filename="$USER_HOME$/Code/cochescom/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyTrafficReportsController.php" />
+      <jump line="193" column="10" filename="$USER_HOME$/Code/cochescom/manhattan.coches.com/models/DataForm.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -428,7 +432,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGTEFTSF9NRVNTQUdFX0hUTUxcPg==</text>
+        <text encoding="base64">XDxCQU5LQUNDT1VOVF9BQ0NPVU5UX1VOU1VQUE9SVEVEX0JBTktfRU5USVRZXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0iZGVsZXRlIiBocmVmPSJqYXZhc2NyaXB0OnZvaWQoMCk7IiBkYXRhLXRvZ2dsZT0ibW9kYWwiIGRhdGEtdGFyZ2V0PSIjZGVsZXRlX2NsYXNzaWZpZWQiPkJvcnJhciBhbnVuY2lvPC9hPgo=</text>
@@ -461,13 +465,13 @@
         <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
-        <text>178</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGTEFTSF9NRVNTQUdFX0hUTUxcPg==</last-search>
+      <last-search encoding="base64">XDxCQU5LQUNDT1VOVF9BQ0NPVU5UX1VOU1VQUE9SVEVEX0JBTktfRU5USVRZXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGTEFTSF9NRVNTQUdFX0hUTUxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxCQU5LQUNDT1VOVF9BQ0NPVU5UX1VOU1VQUE9SVEVEX0JBTktfRU5USVRZXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRSb3dQb3NpdGlvbnNcPg==</last-substitute>
       <last-dir>-1</last-dir>
@@ -475,7 +479,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SAVE</entry>
         <entry encoding="base64">XDxnZXRWaWV3VXJsXD4=</entry>
         <entry encoding="base64">XDxnZXREb3dubG9hZFVybFw+</entry>
         <entry encoding="base64">XDxGbGFzaE1lc3NhZ2VTdGF0ZUVudW1cPg==</entry>
@@ -495,6 +498,7 @@
         <entry encoding="base64">XDxSRVNQT05TRV9SRVBPUlRTX1VSTFw+</entry>
         <entry encoding="base64">XDxNWV9UUkFGRklDX1JFUE9SVFNfU0VBUkNIRVJcPg==</entry>
         <entry encoding="base64">XDxGTEFTSF9NRVNTQUdFX0hUTUxcPg==</entry>
+        <entry encoding="base64">XDxCQU5LQUNDT1VOVF9BQ0NPVU5UX1VOU1VQUE9SVEVEX0JBTktfRU5USVRZXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>28</entry>
@@ -512,11 +516,11 @@
         <entry>wa]</entry>
         <entry>x</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>vs</entry>
         <entry>q</entry>
         <entry>wa</entry>
         <entry>178</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
