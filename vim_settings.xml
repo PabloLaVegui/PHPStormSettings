@@ -2485,12 +2485,12 @@
         <mark key="^" line="28" column="37" />
         <mark key="." line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" timestamp="1550055350935">
-        <mark key="'" line="91" column="20" />
-        <mark key="[" line="227" column="51" />
-        <mark key="]" line="227" column="51" />
-        <mark key="." line="227" column="51" />
-        <mark key="^" line="227" column="51" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" timestamp="1550056834015">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="238" column="37" />
+        <mark key="]" line="238" column="37" />
+        <mark key="." line="238" column="37" />
+        <mark key="^" line="238" column="66" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris2D/Movement/OneTetromino2DMoverTest.php" timestamp="1502663298516">
         <mark key="[" line="9" column="29" />
@@ -5199,7 +5199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="36" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/finish-trade/agreement.php" />
       <jump line="36" column="5" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/finish-trade/agreement.php" />
       <jump line="30" column="7" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/finish-trade/agreementT.twig" />
       <jump line="25" column="43" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/finish-trade/agreementT.twig" />
@@ -5249,7 +5248,6 @@
       <jump line="213" column="25" filename="$USER_HOME$/Projects/manhattan.coches.com/models/TransactionCreatorHelperForm.php" />
       <jump line="45" column="7" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
       <jump line="118" column="48" filename="$USER_HOME$/Projects/manhattan.coches.com/vendor/yiisoft/yii2/widgets/ActiveForm.php" />
-      <jump line="101" column="8" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
       <jump line="35" column="4" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
       <jump line="29" column="20" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
       <jump line="104" column="9" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
@@ -5299,55 +5297,57 @@
       <jump line="102" column="19" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
       <jump line="194" column="8" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
       <jump line="91" column="20" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
+      <jump line="101" column="6" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
+      <jump line="123" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkbW9kZWwgPSAkdGhpcy0+Z2V0TW9kZWxGb3JtKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>array</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>actionCreate</text>
+        <text>actioncreate</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">VHJhbnNhY3Rpb25DcmVhdG9ySGVscGVyRm9ybSA=</text>
+        <text encoding="base64">IFRyYW5zYWN0aW9uQ3JlYXRvckhlbHBlckZvcm0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkbW9kZWwgPSAkdGhpcy0+Z2V0TW9kZWxGb3JtKCk7Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSAkbW9kZWwKICAgICAqIEByZXR1cm4gYm9vbAogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIF9oYXNJbnZhbGlkRGF0YSgkbW9kZWwpCiAgICB7CiAgICAgICAgcmV0dXJuICEkbW9kZWwtPnZhbGlkYXRlKCk7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gVHJhbnNhY3Rpb25DcmVhdG9ySGVscGVyRm9ybQogICAgICogQHRocm93cyBOb1RyYW5zaXRpb25TdGF0dXNJdGVyYXRpb25Gb3VuZEV4Y2VwdGlvbgogICAgICogQHRocm93cyBTdGVwTm9CZWxvbmdzRXhjZXB0aW9uCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0TW9kZWxGb3JtKCkKICAgIHsKICAgICAgICAkbW9kZWwgPSBuZXcgVHJhbnNhY3Rpb25DcmVhdG9ySGVscGVyRm9ybSgpOwogICAgICAgICRtb2RlbCA9ICR0aGlzLT53aXRoU3RlcHMoJG1vZGVsKTsKCiAgICAgICAgcmV0dXJuICRtb2RlbDsKICAgIH0K</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gVHJhbnNhY3Rpb25DcmVhdG9ySGVscGVyRm9ybQogICAgICogQHRocm93cyBOb1RyYW5zaXRpb25TdGF0dXNJdGVyYXRpb25Gb3VuZEV4Y2VwdGlvbgogICAgICogQHRocm93cyBTdGVwTm9CZWxvbmdzRXhjZXB0aW9uCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0TW9kZWxGb3JtKCkKICAgIHsKCiAgICAgICAgcmV0dXJuICRtb2RlbDsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSAkbW9kZWwKICAgICAqIEB0aHJvd3MgTm9UcmFuc2l0aW9uU3RhdHVzSXRlcmF0aW9uRm91bmRFeGNlcHRpb24KICAgICAqIEB0aHJvd3MgU3RlcE5vQmVsb25nc0V4Y2VwdGlvbgogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIHdpdGhTdGVwcygkbW9kZWwpCiAgICB7CiAgICAgICAgJG1vZGVsLT5zZXREZWFsZXJDcmVhdG9yU3RlcHMoJHRoaXMtPl9nZXREZWFsZXJDcmVhdG9yU3RlcE5hbWVzKCkpOwogICAgICAgICRtb2RlbC0+c2V0QnV5ZXJHdWVzdFN0ZXBzKCR0aGlzLT5fZ2V0QnV5ZXJHdWVzdFN0ZXBOYW1lcygpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkbW9kZWwgPSAkdGhpcy0+Z2V0TW9kZWxGb3JtKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBjb25zdCBJTkVMSUdJQkxFX1NURVBTID0gWwogICAgICAgIFBlbmRpbmdTaWduaW5nSW5kaXZpZHVhbERvY3VtZW50c1N0ZXA6OmNsYXNzLAogICAgXTsK</text>
+        <text encoding="base64">ICAgICAgICAkbW9kZWwgPSBuZXcgVHJhbnNhY3Rpb25DcmVhdG9ySGVscGVyRm9ybSgpOwogICAgICAgICRtb2RlbCA9ICR0aGlzLT53aXRoU3RlcHMoJG1vZGVsKTsK</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">PHN0cm9uZz4KPHN0cm9uZz4KPHN0cm9uZz4KPHN0cm9uZz4=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkbW9kZWwgPSAkdGhpcy0+Z2V0TW9kZWxGb3JtKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gVHJhbnNhY3Rpb25DcmVhdG9ySGVscGVyRm9ybQogICAgICogQHRocm93cyBOb1RyYW5zaXRpb25TdGF0dXNJdGVyYXRpb25Gb3VuZEV4Y2VwdGlvbgogICAgICogQHRocm93cyBTdGVwTm9CZWxvbmdzRXhjZXB0aW9uCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0TW9kZWxGb3JtKCkKICAgIHsKICAgICAgICAkbW9kZWwgPSBuZXcgVHJhbnNhY3Rpb25DcmVhdG9ySGVscGVyRm9ybSgpOwogICAgICAgICRtb2RlbCA9ICR0aGlzLT53aXRoU3RlcHMoJG1vZGVsKTsKCiAgICAgICAgcmV0dXJuICRtb2RlbDsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSAkbW9kZWwKICAgICAqIEB0aHJvd3MgTm9UcmFuc2l0aW9uU3RhdHVzSXRlcmF0aW9uRm91bmRFeGNlcHRpb24KICAgICAqIEB0aHJvd3MgU3RlcE5vQmVsb25nc0V4Y2VwdGlvbgogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIHdpdGhTdGVwcygkbW9kZWwpCiAgICB7CiAgICAgICAgJG1vZGVsLT5zZXREZWFsZXJDcmVhdG9yU3RlcHMoJHRoaXMtPl9nZXREZWFsZXJDcmVhdG9yU3RlcE5hbWVzKCkpOwogICAgICAgICRtb2RlbC0+c2V0QnV5ZXJHdWVzdFN0ZXBzKCR0aGlzLT5fZ2V0QnV5ZXJHdWVzdFN0ZXBOYW1lcygpKTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBjb25zdCBJTkVMSUdJQkxFX1NURVBTID0gWwogICAgICAgIFBlbmRpbmdTaWduaW5nSW5kaXZpZHVhbERvY3VtZW50c1N0ZXA6OmNsYXNzLAogICAgXTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0Cg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">PHN0cm9uZz4KPHN0cm9uZz4KPHN0cm9uZz4KPHN0cm9uZz4=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>actionCreate</last-search>
+      <last-search>actioncreate</last-search>
       <last-offset />
-      <last-pattern>actionCreate</last-pattern>
+      <last-pattern>actioncreate</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -5372,9 +5372,9 @@
         <entry>action</entry>
         <entry>index</entry>
         <entry>actionCre</entry>
-        <entry>actioncreate</entry>
         <entry>actionindex</entry>
         <entry>actionCreate</entry>
+        <entry>actioncreate</entry>
       </history-search>
       <history-cmd>
         <entry>h hi</entry>
