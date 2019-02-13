@@ -2485,7 +2485,8 @@
         <mark key="^" line="28" column="37" />
         <mark key="." line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" timestamp="1549988962812">
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" timestamp="1550053602460">
+        <mark key="'" line="231" column="23" />
         <mark key="[" line="176" column="15" />
         <mark key="]" line="176" column="20" />
         <mark key="." line="176" column="20" />
@@ -5198,7 +5199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/finish-trade/_buyerAgreement.php" />
       <jump line="42" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/finish-trade/_dealerAgreement.php" />
       <jump line="31" column="4" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/finish-trade/_buyerAgreementT.twig" />
       <jump line="18" column="16" filename="$USER_HOME$/Projects/manhattan.coches.com/src/infrastructure/viewRender/CcomTwigExtension.php" />
@@ -5298,6 +5298,7 @@
       <jump line="141" column="24" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
       <jump line="67" column="3" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/model/TransactionCreatorHelperResult.php" />
       <jump line="72" column="20" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/model/TransactionCreatorHelperResult.php" />
+      <jump line="231" column="23" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5307,7 +5308,7 @@
         <text>array</text>
       </register>
       <register name="/" type="4">
-        <text>action</text>
+        <text>actioncreate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8cD48c3Ryb25nPlNlZ3VuZG8gYXBlbGxpZG86PC9zdHJvbmc+IDw/PSAkcmVzdWx0LT5nZXRCYW5rQWNjb3VudFZhbGlkYXRpb25EYXRhKCktPmdldFNlY29uZFN1cm5hbWUoKSA/PjwvcD4K</text>
@@ -5344,9 +5345,9 @@
       </register>
     </registers>
     <search>
-      <last-search>action</last-search>
+      <last-search>actioncreate</last-search>
       <last-offset />
-      <last-pattern>action</last-pattern>
+      <last-pattern>actioncreate</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -5354,7 +5355,6 @@
     </search>
     <history>
       <history-search>
-        <entry>twig</entry>
         <entry>DI</entry>
         <entry encoding="base64">XDxfdmlld1JlbmRlclw+</entry>
         <entry>acceso</entry>
@@ -5374,6 +5374,7 @@
         <entry encoding="base64">XDxkZWFsZXJDcmVhdG9yU3RlcFw+</entry>
         <entry>actionCre</entry>
         <entry>action</entry>
+        <entry>actioncreate</entry>
       </history-search>
       <history-cmd>
         <entry>h hi</entry>
