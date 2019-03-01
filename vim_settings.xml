@@ -51,6 +51,12 @@
       <file name="/PHP Console" timestamp="1551440257531">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/environments/env.test" timestamp="1551444123337">
+        <mark key="[" line="54" column="26" />
+        <mark key="]" line="54" column="29" />
+        <mark key="." line="54" column="29" />
+        <mark key="^" line="54" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" timestamp="1551364512219">
         <mark key="'" line="287" column="4" />
       </file>
@@ -60,8 +66,13 @@
         <mark key="^" line="11" column="102" />
         <mark key="." line="11" column="102" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551440509518">
+      <file name="/Dummy.txt" timestamp="1551443875624">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/tests/bootstrap_without_yii.php" timestamp="1551443593226">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1551437314052">
         <mark key="[" line="0" column="0" />
@@ -90,6 +101,12 @@
         <mark key="]" line="257" column="57" />
         <mark key="^" line="257" column="57" />
         <mark key="." line="257" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/services/creditLead/application/SaveCreditLeadUseCaseTest.php" timestamp="1551443351221">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/.htaccess" timestamp="1551430487416">
         <mark key="'" line="93" column="62" />
@@ -211,11 +228,11 @@
       <jump line="285" column="23" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>admin</text>
       </register>
       <register name="-" type="4">
-        <text>creatorCreditLeadRequest</text>
+        <text>admin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0Q3JlYXRvckNyZWRpdExlYWRTZXJ2aWNlXD4=</text>
@@ -227,28 +244,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogc2V0ZWFyIG9yaWdpbiB5IHN0YXR1cwo=</text>
+        <text encoding="base64">cmVxdWlyZV9vbmNlIF9fRElSX18gLiAnLy4uL3lpaS9mcmFtZXdvcmsveWlpdC5waHAnOwoKJGNvbmZpZyA9IF9fRElSX18gLiAnL2NvbmZpZy5waHAnOwpZaWk6OmNyZWF0ZVdlYkFwcGxpY2F0aW9uKCRjb25maWcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkY3JlZGl0TGVhZERvbWFpbiA9ICR0aGlzLT5fYnVpbGRDcmVkaXRMZWFkRG9tYWluKCRyZXF1ZXN0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIENyZWF0b3JDcmVkaXRMZWFkUmVxdWVzdCAkcmVxdWVzdAogICAgICogVE9ETyhQYWJsbyk6IG1vdmVyIGEgbGEgY2FycGV0YSBkZWwgc2VydmljaW8KICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogc2V0ZWFyIG9yaWdpbiB5IHN0YXR1cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXENyZWRpdExlYWRTYXZlRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAkY3JlZGl0TGVhZERvbWFpbiA9ICR0aGlzLT5fYnVpbGRDcmVkaXRMZWFkRG9tYWluKCRyZXF1ZXN0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIFxDcmVhdG9yQ3JlZGl0TGVhZFNlcnZpY2UgKi8K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIENyZWF0b3JDcmVkaXRMZWFkUmVxdWVzdCAkcmVxdWVzdAogICAgICogVE9ETyhQYWJsbyk6IG1vdmVyIGEgbGEgY2FycGV0YSBkZWwgc2VydmljaW8KICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiByZW5vbWJyYXIgbGEgY2xhc2UgZGUgc2VydmljZSBhIHJlcG8K</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXENyZWRpdExlYWRTYXZlRXhjZXB0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIENyZWRpdFJlcXVlc3RQcm92aWRlcjsK</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIFxDcmVhdG9yQ3JlZGl0TGVhZFNlcnZpY2UgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkY3JlYXRvckNyZWRpdFJlcXVlc3RSZXF1ZXN0ID0gJHRoaXMtPl9idWlsZENyZWF0b3JDcmVkaXRMZWFkUmVxdWVzdCgkcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiByZW5vbWJyYXIgbGEgY2xhc2UgZGUgc2VydmljZSBhIHJlcG8K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
