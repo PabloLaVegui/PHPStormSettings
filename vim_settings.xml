@@ -49,7 +49,6 @@
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/services/creditLead/application/SaveCreditLeadRequest.php" timestamp="1551440521644">
         <mark key="[" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/models/Request/FormRequest.php" timestamp="1551436352834" />
       <file name="/PHP Console" timestamp="1551440257531">
         <mark key="[" line="0" column="0" />
       </file>
@@ -62,15 +61,18 @@
       <file name="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" timestamp="1551364512219">
         <mark key="'" line="287" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/tests/bootstrap.php" timestamp="1551447359437" />
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/views/layouts/cc_main_optimize_material_design.php" timestamp="1551370186774">
         <mark key="[" line="11" column="99" />
         <mark key="]" line="11" column="102" />
         <mark key="^" line="11" column="102" />
         <mark key="." line="11" column="102" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551443875624">
+      <file name="/Dummy.txt" timestamp="1551688384291">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/services/semanticText/finder/FinderSemanticSearchServiceTest.php" timestamp="1551688980148">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/tests/bootstrap_without_yii.php" timestamp="1551443593226">
         <mark key="[" line="5" column="0" />
@@ -80,7 +82,6 @@
       <file name="/fragment.php" timestamp="1551437314052">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/models/Referal/ReferalService.php" timestamp="1551436053040" />
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/services/creditLead/application/SaveCreditLeadUseCase.php" timestamp="1551442136679">
         <mark key="[" line="42" column="46" />
         <mark key="]" line="42" column="69" />
@@ -105,11 +106,11 @@
         <mark key="^" line="257" column="57" />
         <mark key="." line="257" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/services/creditLead/application/SaveCreditLeadUseCaseTest.php" timestamp="1551443351221">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="21" />
-        <mark key="^" line="8" column="21" />
-        <mark key="." line="8" column="21" />
+      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/services/creditLead/application/SaveCreditLeadUseCaseTest.php" timestamp="1551689118743">
+        <mark key="[" line="30" column="31" />
+        <mark key="]" line="30" column="31" />
+        <mark key="^" line="30" column="31" />
+        <mark key="." line="30" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/.htaccess" timestamp="1551430487416">
         <mark key="'" line="93" column="62" />
@@ -232,44 +233,44 @@
       <jump line="285" column="23" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>finder</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;localhost&quot;</text>
+        <text>finder</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0Q3JlYXRvckNyZWRpdExlYWRTZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIENyZWF0b3JDcmVkaXRMZWFkUmVxdWVzdCAkY3JlYXRvckNyZWRpdExlYWRSZXF1ZXN0CiAgICAgKiBAcmV0dXJuIENyZWRpdExlYWREb21haW4KICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBfYnVpbGRDcmVkaXRMZWFkRG9tYWluKENyZWF0b3JDcmVkaXRMZWFkUmVxdWVzdCAkY3JlYXRvckNyZWRpdExlYWRSZXF1ZXN0KQogICAgewogICAgICAgICRjcmVkaXRMZWFkRG9tYWluID0gbmV3IENyZWRpdExlYWREb21haW4oKTsKICAgICAgICAkY3JlZGl0TGVhZERvbWFpbi0+c2V0UmVxdWVzdElkKCRjcmVhdG9yQ3JlZGl0TGVhZFJlcXVlc3QtPmdldFJlcXVlc3RJZCgpKTsKICAgICAgICAkY3JlZGl0TGVhZERvbWFpbi0+c2V0RW1haWwoJGNyZWF0b3JDcmVkaXRMZWFkUmVxdWVzdC0+Z2V0RW1haWwoKSk7CiAgICAgICAgJGNyZWRpdExlYWREb21haW4tPnNldFBob25lKCRjcmVhdG9yQ3JlZGl0TGVhZFJlcXVlc3QtPmdldFBob25lKCkpOwogICAgICAgICRjcmVkaXRMZWFkRG9tYWluLT5zZXRPcmlnaW4oJGNyZWF0b3JDcmVkaXRMZWFkUmVxdWVzdC0+Z2V0T3JpZ2luKCkpOwogICAgICAgICRjcmVkaXRMZWFkRG9tYWluLT5zZXRDcmVhdGlvbkRhdGUoJGNyZWF0b3JDcmVkaXRMZWFkUmVxdWVzdC0+Z2V0Q3JlYXRpb25EYXRlKCkpOwogICAgICAgICRjcmVkaXRMZWFkRG9tYWluLT5zZXRDdXN0b21EYXRhKCRjcmVhdG9yQ3JlZGl0TGVhZFJlcXVlc3QtPmdldEN1c3RvbURhdGEoKSk7CgogICAgICAgIHJldHVybiAkY3JlZGl0TGVhZERvbWFpbjsKICAgIH0K</text>
+        <text encoding="base64">bmFtZXNwYWNlIGNvY2hlc19jb21cdGVzdHNcY29jaGVzX3lpaVxzZXJ2aWNlc1xmaW5kZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSh0cnVlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gVE9ETyhQYWJsbyk6IEVzdG8geWEgbm8gaGFjZSBmYWx0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gVE9ETyhQYWJsbyk6IEVzdG8geWEgbm8gaGFjZSBmYWx0YQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWlyZV9vbmNlIF9fRElSX18gLiAnLy4uL3lpaS9mcmFtZXdvcmsveWlpdC5waHAnOwoKJGNvbmZpZyA9IF9fRElSX18gLiAnL2NvbmZpZy5waHAnOwpZaWk6OmNyZWF0ZVdlYkFwcGxpY2F0aW9uKCRjb25maWcpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">cmVxdWlyZV9vbmNlIF9fRElSX18gLiAnLy4uL3lpaS9mcmFtZXdvcmsveWlpdC5waHAnOwoKJGNvbmZpZyA9IF9fRElSX18gLiAnL2NvbmZpZy5waHAnOwpZaWk6OmNyZWF0ZVdlYkFwcGxpY2F0aW9uKCRjb25maWcpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogc2V0ZWFyIG9yaWdpbiB5IHN0YXR1cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY3JlZGl0TGVhZERvbWFpbiA9ICR0aGlzLT5fYnVpbGRDcmVkaXRMZWFkRG9tYWluKCRyZXF1ZXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogc2V0ZWFyIG9yaWdpbiB5IHN0YXR1cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIENyZWF0b3JDcmVkaXRMZWFkUmVxdWVzdCAkcmVxdWVzdAogICAgICogVE9ETyhQYWJsbyk6IG1vdmVyIGEgbGEgY2FycGV0YSBkZWwgc2VydmljaW8KICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAkY3JlZGl0TGVhZERvbWFpbiA9ICR0aGlzLT5fYnVpbGRDcmVkaXRMZWFkRG9tYWluKCRyZXF1ZXN0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXENyZWRpdExlYWRTYXZlRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIENyZWF0b3JDcmVkaXRMZWFkUmVxdWVzdCAkcmVxdWVzdAogICAgICogVE9ETyhQYWJsbyk6IG1vdmVyIGEgbGEgY2FycGV0YSBkZWwgc2VydmljaW8KICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -282,7 +283,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxDb250YWluZXJJbnRlcmZhY2VcPg==</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -321,12 +322,12 @@
         <entry>240</entry>
         <entry>q\</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
-        <entry>q</entry>
         <entry>64</entry>
         <entry>113</entry>
         <entry>340</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
