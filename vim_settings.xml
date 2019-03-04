@@ -82,11 +82,12 @@
       <file name="/fragment.php" timestamp="1551437314052">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/services/creditLead/application/SaveCreditLeadUseCase.php" timestamp="1551690850502">
-        <mark key="[" line="39" column="10" />
-        <mark key="]" line="41" column="51" />
-        <mark key="." line="41" column="51" />
-        <mark key="^" line="41" column="51" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/services/creditLead/application/SaveCreditLeadUseCase.php" timestamp="1551702220772">
+        <mark key="'" line="52" column="51" />
+        <mark key="[" line="16" column="43" />
+        <mark key="]" line="17" column="38" />
+        <mark key="." line="17" column="38" />
+        <mark key="^" line="17" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/models/TransactionCreatorHelperForm.php" timestamp="1549987943629">
         <mark key="[" line="162" column="41" />
@@ -106,11 +107,11 @@
         <mark key="^" line="257" column="57" />
         <mark key="." line="257" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/services/creditLead/application/SaveCreditLeadUseCaseTest.php" timestamp="1551691384322">
-        <mark key="[" line="51" column="21" />
-        <mark key="]" line="51" column="50" />
-        <mark key="." line="51" column="50" />
-        <mark key="^" line="51" column="50" />
+      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/services/creditLead/application/SaveCreditLeadUseCaseTest.php" timestamp="1551702378186">
+        <mark key="[" line="55" column="19" />
+        <mark key="]" line="55" column="22" />
+        <mark key="." line="55" column="22" />
+        <mark key="^" line="55" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/.htaccess" timestamp="1551430487416">
         <mark key="'" line="93" column="62" />
@@ -131,7 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="31" filename="$USER_HOME$/Projects/manhattan.coches.com/src/controllers/TraderSecurityController.php" />
       <jump line="59" column="4" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/finish-trade/agreementT.twig" />
       <jump line="10" column="2" filename="$USER_HOME$/Projects/manhattan.coches.com/src/infrastructure/viewRender/TwigViewRender.php" />
       <jump line="29" column="23" filename="$USER_HOME$/Projects/manhattan.coches.com/src/infrastructure/viewRender/TwigViewRender.php" />
@@ -231,46 +231,47 @@
       <jump line="220" column="4" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
       <jump line="244" column="49" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
       <jump line="285" column="23" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
+      <jump line="46" column="51" filename="$USER_HOME$/Projects/coches.com/coches_yii/services/creditLead/application/SaveCreditLeadUseCase.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">JHRoaXMtPmdldFllYXI=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0Q3JlYXRvckNyZWRpdExlYWRTZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5kaXNhYmxlT3JpZ2luYWxDb25zdHJ1Y3RvcigpCiAgICAgICAgICAgIC0+Z2V0TW9jaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21vcmUgbW9udGhzJyA9PiBbJG1pblZhbGlkQW1vdW50LCAkbWF4VmFsaWRNb250aHNDb3VudCArIDEsICR2YWxpZENhclllYXJdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGNyZWRpdFJlcXVlc3QoKQogICAgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkdmFsaWRDYXJZZWFyID0gMjAxODsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogcmVmYWN0b3IK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdmFsaWRNb250aHNDb3VudCA9IFNhdmVDcmVkaXRMZWFkVXNlQ2FzZTo6Q0FMQ1VMQVRPUl9NSU5fTU9OVEhTX0NPVU5UOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZShmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdmFsaWRBbW91bnQgPSBTYXZlQ3JlZGl0TGVhZFVzZUNhc2U6OkNBTENVTEFUT1JfTUlOX0FNT1VOVDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdmFsaWRDYXJZZWFyID0gJHRoaXMtPmdldCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
