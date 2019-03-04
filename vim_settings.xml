@@ -82,12 +82,12 @@
       <file name="/fragment.php" timestamp="1551437314052">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/services/creditLead/application/SaveCreditLeadUseCase.php" timestamp="1551702220772">
-        <mark key="'" line="52" column="51" />
-        <mark key="[" line="16" column="43" />
-        <mark key="]" line="17" column="38" />
-        <mark key="." line="17" column="38" />
-        <mark key="^" line="17" column="38" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/services/creditLead/application/SaveCreditLeadUseCase.php" timestamp="1551707584165">
+        <mark key="'" line="43" column="38" />
+        <mark key="[" line="84" column="72" />
+        <mark key="]" line="85" column="74" />
+        <mark key="." line="85" column="74" />
+        <mark key="^" line="85" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/models/TransactionCreatorHelperForm.php" timestamp="1549987943629">
         <mark key="[" line="162" column="41" />
@@ -132,7 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="4" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/finish-trade/agreementT.twig" />
       <jump line="10" column="2" filename="$USER_HOME$/Projects/manhattan.coches.com/src/infrastructure/viewRender/TwigViewRender.php" />
       <jump line="29" column="23" filename="$USER_HOME$/Projects/manhattan.coches.com/src/infrastructure/viewRender/TwigViewRender.php" />
       <jump line="49" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/controllers/FinishTradeController.php" />
@@ -232,13 +231,14 @@
       <jump line="244" column="49" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
       <jump line="285" column="23" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
       <jump line="46" column="51" filename="$USER_HOME$/Projects/coches.com/coches_yii/services/creditLead/application/SaveCreditLeadUseCase.php" />
+      <jump line="41" column="38" filename="$USER_HOME$/Projects/coches.com/coches_yii/services/creditLead/application/SaveCreditLeadUseCase.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBUWVBFX05BTUUgJHJlcXVlc3QgKi8K</text>
+      <register name="&quot;" type="4">
+        <text>getCreditAmount</text>
       </register>
       <register name="-" type="4">
-        <text>monthsCount</text>
+        <text>getCreditAmount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0Q3JlYXRvckNyZWRpdExlYWRTZXJ2aWNlXD4=</text>
@@ -247,31 +247,31 @@
         <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+ZXhwZWN0cyhzZWxmOjpvbmNlKCkpCiAgICAgICAgICAgIC0+bWV0aG9kKCdnZXRDcmVkaXRNb250aHMnKQogICAgICAgICAgICAtPndpbGxSZXR1cm4oJG1vbnRoc0NvdW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBUWVBFX05BTUUgJHJlcXVlc3QgKi8K</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogdmVyIHNpIGN1bXBsZSBsb3MgcmVxdWlzaXRvcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNyZWRpdExlYWREb21haW4gPSAkdGhpcy0+X2J1aWxkQ3JlZGl0TGVhZERvbWFpbigkcmVxdWVzdCk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY3JlZGl0TGVhZERvbWFpbiA9ICR0aGlzLT5fYnVpbGRDcmVkaXRMZWFkRG9tYWluKCRyZXF1ZXN0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdmFsaWRDYXJZZWFyID0gMjAxODsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNyZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogcmVmYWN0b3IK</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBUWVBFX05BTUUgJHJlcXVlc3QgKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdmFsaWRNb250aHNDb3VudCA9IFNhdmVDcmVkaXRMZWFkVXNlQ2FzZTo6Q0FMQ1VMQVRPUl9NSU5fTU9OVEhTX0NPVU5UOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
