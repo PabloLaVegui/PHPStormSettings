@@ -133,8 +133,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/cochescom/coches.com/coches_yii/protected/controllers/CreditController.php" timestamp="1551785309293">
-        <mark key="'" line="349" column="15" />
+      <file name="$USER_HOME$/Code/cochescom/coches.com/coches_yii/protected/controllers/CreditController.php" timestamp="1551786525342">
+        <mark key="'" line="440" column="0" />
+        <mark key="[" line="358" column="32" />
+        <mark key="]" line="358" column="32" />
+        <mark key="^" line="358" column="32" />
+        <mark key="." line="358" column="32" />
       </file>
       <file name="$USER_HOME$/Code/cochescom/gallinero.coches.com/environment/env.local" timestamp="1544010716336">
         <mark key="[" line="1" column="0" />
@@ -275,11 +279,6 @@
       <file name="/fragment.php" timestamp="1551776352944">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/cochescom/gallinero.coches.com/infrastructure/repositories/doctrine/mapping/Cochescom.Gallinero.domain.model.User.dcm.yml" timestamp="1550143189776">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-ddd-v4/src/Domain/Application/Board/Command/AddTetrominoToBoard.php" timestamp="1525279177046">
         <mark key="[" line="3" column="25" />
       </file>
@@ -319,6 +318,13 @@
         <mark key="^" line="94" column="25" />
         <mark key="." line="94" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/cochescom/coches.com/coches_yii/.htaccess" timestamp="1551785877687">
+        <mark key="'" line="86" column="63" />
+        <mark key="[" line="198" column="58" />
+        <mark key="]" line="198" column="76" />
+        <mark key="." line="198" column="76" />
+        <mark key="^" line="198" column="76" />
+      </file>
       <file name="$USER_HOME$/Code/cochescom/manhattan.coches.com/src/infrastructure/viewRender/transactionCreatorHelper/InvalidFluxException.php" timestamp="1549470256656">
         <mark key="[" line="13" column="5" />
         <mark key="]" line="14" column="24" />
@@ -327,10 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="24" filename="$USER_HOME$/Code/cochescom/eventbus.coches.com/src/EBus/publisher/RabbitPublisherConnection.php" />
-      <jump line="56" column="27" filename="$USER_HOME$/Code/cochescom/eventbus.coches.com/src/EBus/publisher/RabbitPublisherConnection.php" />
-      <jump line="76" column="31" filename="$USER_HOME$/Code/cochescom/eventbus.coches.com/src/EBus/publisher/RabbitPublisherConnection.php" />
-      <jump line="60" column="6" filename="$USER_HOME$/Code/cochescom/eventbus.coches.com/src/EBus/receiver/RabbitReceiverConnection.php" />
       <jump line="6" column="28" filename="$USER_HOME$/Code/cochescom/coches.com/vendor/cochescom/eventbus.coches.com/src/EBus/events/Requests/VNRequestWasSended.php" />
       <jump line="33" column="47" filename="$USER_HOME$/Code/cochescom/mizona.coches.com/secure_yii/protected/views/mizonaDesign/savedSearch/partials/pill.twig" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/cochescom/mizona.coches.com/secure_yii/protected/models/savedSearch/SavedSearchForm.php" />
@@ -427,19 +429,23 @@
       <jump line="12" column="18" filename="$USER_HOME$/Code/cochescom/gallinero.coches.com/application/routes.php" />
       <jump line="252" column="6" filename="$USER_HOME$/Code/cochescom/coches.com/coches_yii/protected/controllers/CreditController.php" />
       <jump line="349" column="15" filename="$USER_HOME$/Code/cochescom/coches.com/coches_yii/protected/controllers/CreditController.php" />
+      <jump line="86" column="63" filename="$USER_HOME$/Code/cochescom/coches.com/coches_yii/.htaccess" />
+      <jump line="404" column="4" filename="$USER_HOME$/Code/cochescom/coches.com/coches_yii/protected/controllers/CreditController.php" />
+      <jump line="124" column="0" filename="$USER_HOME$/Code/cochescom/coches.com/coches_yii/protected/controllers/CreditController.php" />
+      <jump line="436" column="0" filename="$USER_HOME$/Code/cochescom/coches.com/coches_yii/protected/controllers/CreditController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICR0aGlzLT5yZWRpcmVjdChzZWxmOjpGUklFTkRMWV9VUkxfQkFOS0lOVEVSX0NBTENVTEFUT1IgLiBVcmxIYW5kbGVyOjpTTEFTSCAuICRxdWVyeVBhcmFtU3RyKTsK</text>
+      <register name="&quot;" type="4">
+        <text>UrlHandler::QUERY_PARAM_ASSIGN .</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCQU5LQUNDT1VOVF9BQ0NPVU5UX1VOU1VQUE9SVEVEX0JBTktfRU5USVRZXD4=</text>
+        <text>actionSelect</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+cmVkaXJlY3Qoc2VsZjo6RlJJRU5ETFlfVVJMX0JBTktJTlRFUl9DQUxDVUxBVE9SIC4gVXJsSGFuZGxlcjo6U0xBU0ggLiAkcXVlcnlQYXJhbVN0cik7Cg==</text>
+      <register name="0" type="4">
+        <text>UrlHandler::QUERY_PARAM_ASSIGN .</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICR0aGlzLT5yZWRpcmVjdChzZWxmOjpGUklFTkRMWV9VUkxfQkFOS0lOVEVSX0NBTENVTEFUT1IgLiBVcmxIYW5kbGVyOjpTTEFTSCAuICRxdWVyeVBhcmFtU3RyKTsK</text>
@@ -473,22 +479,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCQU5LQUNDT1VOVF9BQ0NPVU5UX1VOU1VQUE9SVEVEX0JBTktfRU5USVRZXD4=</last-search>
+      <last-search>actionSelect</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCQU5LQUNDT1VOVF9BQ0NPVU5UX1VOU1VQUE9SVEVEX0JBTktfRU5USVRZXD4=</last-pattern>
+      <last-pattern>actionSelect</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRSb3dQb3NpdGlvbnNcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRWaWV3VXJsXD4=</entry>
-        <entry encoding="base64">XDxnZXREb3dubG9hZFVybFw+</entry>
-        <entry encoding="base64">XDxGbGFzaE1lc3NhZ2VTdGF0ZUVudW1cPg==</entry>
-        <entry encoding="base64">XDxfY2hlY2tTZWN1cml0eVw+</entry>
-        <entry encoding="base64">XDxfY2hlY2tEZWxldGVBY3Rpb25cPg==</entry>
-        <entry encoding="base64">XDxST1VURV9WSUVXXD4=</entry>
         <entry encoding="base64">XDxUUkFGRklDX1JFUE9SVFNfVklFV1w+</entry>
         <entry encoding="base64">XDxFTVBUWV9UUkFGRklDX1JFUE9SVFNfVklFV1w+</entry>
         <entry encoding="base64">XDxHRU5FUklDX1ZJRVdTX1RSQUZGSUNfUkVQT1JUXD4=</entry>
@@ -503,6 +503,12 @@
         <entry encoding="base64">XDxNWV9UUkFGRklDX1JFUE9SVFNfU0VBUkNIRVJcPg==</entry>
         <entry encoding="base64">XDxGTEFTSF9NRVNTQUdFX0hUTUxcPg==</entry>
         <entry encoding="base64">XDxCQU5LQUNDT1VOVF9BQ0NPVU5UX1VOU1VQUE9SVEVEX0JBTktfRU5USVRZXD4=</entry>
+        <entry>mejor-oferta</entry>
+        <entry>bankinter</entry>
+        <entry>actionSele</entry>
+        <entry>actionselec</entry>
+        <entry>actionsele</entry>
+        <entry>actionSelect</entry>
       </history-search>
       <history-cmd>
         <entry>Lwa</entry>
