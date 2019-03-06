@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" timestamp="1551867975794">
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" timestamp="1551871408701">
         <mark key="'" line="363" column="73" />
+        <mark key="[" line="155" column="95" />
+        <mark key="]" line="156" column="119" />
+        <mark key="^" line="156" column="119" />
+        <mark key="." line="156" column="119" />
       </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/views/transaction-creator-helper/transactionGenerationResult.php" timestamp="1549988650673">
         <mark key="[" line="25" column="18" />
@@ -133,6 +137,12 @@
       <file name="/fragment.php" timestamp="1551718898772">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/models/UrlHandler/UrlHandlerCreditLanding.php" timestamp="1551870785549">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="39" />
+        <mark key="." line="11" column="39" />
+        <mark key="^" line="11" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/services/creditLead/application/SaveCreditLeadUseCase.php" timestamp="1551709536236">
         <mark key="'" line="43" column="38" />
         <mark key="[" line="13" column="20" />
@@ -179,15 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/models/TransactionCreatorHelperForm.php" />
-      <jump line="318" column="39" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
-      <jump line="559" column="19" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
-      <jump line="560" column="20" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
-      <jump line="562" column="51" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
-      <jump line="564" column="27" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
-      <jump line="568" column="59" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
-      <jump line="569" column="58" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
-      <jump line="2" column="27" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
       <jump line="7" column="20" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
       <jump line="8" column="20" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
       <jump line="9" column="20" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/transactionCreatorHelper/controllers/TransactionCreatorHelperController.php" />
@@ -261,7 +262,6 @@
       <jump line="73" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
       <jump line="288" column="23" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
       <jump line="397" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
-      <jump line="367" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
       <jump line="369" column="26" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
       <jump line="35" column="41" filename="$USER_HOME$/Projects/coches.com/models/CreditLead/CreatorCreditLeadService.php" />
       <jump line="34" column="6" filename="$USER_HOME$/Projects/coches.com/models/CreditLead/CreatorCreditLeadService.php" />
@@ -278,56 +278,66 @@
       <jump line="137" column="64" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
       <jump line="139" column="66" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
       <jump line="177" column="93" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
-      <jump line="363" column="73" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
+      <jump line="152" column="84" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
+      <jump line="429" column="73" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
+      <jump line="427" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
+      <jump line="403" column="42" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
+      <jump line="439" column="4" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
+      <jump line="357" column="59" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
+      <jump line="450" column="12" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
+      <jump line="440" column="69" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
+      <jump line="367" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
+      <jump line="363" column="51" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
+      <jump line="362" column="73" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChDcmVkaXRMZWFkTm90Rm91bmRFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgJHRoaXMtPnJlZGlyZWN0KFVybEdlbmVyYXRvcjo6Z2V0RnJvbnRVUkwoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>TOKEN_PARAM</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDUkVESVRfVE9LRU5fUEFSQU1cPg==</text>
+        <text encoding="base64">XDxDUkVESVRfUkVRVUVTVF9JRF9QQVJBTVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIHNlcnZpY2VzXGNyZWRpdExlYWRcYXBwbGljYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChDcmVkaXRMZWFkTm90Rm91bmRFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgJHRoaXMtPnJlZGlyZWN0KFVybEdlbmVyYXRvcjo6Z2V0RnJvbnRVUkwoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdG9rZW4gPSAkcmVxdWVzdC0+cmVxdWVzdC0+Z2V0SWQoKQogICAgICAgICAgICAgICAgICAgICAgICAuIFVybEhhbmRsZXJDcmVkaXRMYW5kaW5nOjpUT0tFTl9TRVBBUkFUT1IgLiAkbWFrZS0+Z2V0TWFrbmFtZSgpCiAgICAgICAgICAgICAgICAgICAgICAgIC4gVXJsSGFuZGxlckNyZWRpdExhbmRpbmc6OlRPS0VOX1NFUEFSQVRPUiAuICRyZXF1ZXN0LT5jYXJfbW9kbmFtZWdycDE7CiAgICAgICAgICAgICAgICAgICAgJHF1ZXJ5UGFyYW1TdHIgPSBVcmxIYW5kbGVyOjpRVUVSWV9QQVJBTSAuIFVybEhhbmRsZXJDcmVkaXRMYW5kaW5nOjpDUkVESVRfVE9LRU5fUEFSQU0gLgogICAgICAgICAgICAgICAgICAgICAgICBVcmxIYW5kbGVyOjpRVUVSWV9QQVJBTV9BU1NJR04gLiAkdG9rZW47CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPnJlZGlyZWN0KHNlbGY6OkZSSUVORExZX1VSTF9MQU5ESU5HX0NPTkZJUk1BVElPTiAuIFVybEhhbmRsZXI6OlNMQVNIIC4gJHF1ZXJ5UGFyYW1TdHIpOwoKICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBDcmVkaXRSZXF1ZXN0UHJvdmlkZXIgJHJlcXVlc3QgKi8KICAgICAgICAkcmVxdWVzdCA9IENyZWRpdFJlcXVlc3RQcm92aWRlcjo6bW9kZWwoKS0+ZmluZEJ5UGsoJHJlcXVlc3RJZCk7CiAgICAgICAgJHRoaXMtPl9maW5kQ2FsY3VsYWRvckNhbmRpZGF0ZUxlYWQoJHJlcXVlc3RJZCk7CgogICAgICAgICR0aGlzLT5yZW5kZXIoJ2JhbmtpbnRlckNhbGN1bGF0b3InLCBbCiAgICAgICAgICAgICdjYWxjdWxhdG9yTGVhZEFjdGlvbicgPT4gJHRoaXMtPmdldFByb2Nlc3NDYWxjdWxhdG9yTGVhZEFjdGlvbigpLAogICAgICAgICAgICAncmVxdWVzdElkJyA9PiAkcmVxdWVzdElkLAogICAgICAgICAgICAnYW1vdW50JyA9PiAkcmVxdWVzdC0+Z2V0Q3JlZGl0QW1vdW50KCksCiAgICAgICAgICAgICdtb250aHNDb3VudCcgPT4gJHJlcXVlc3QtPmdldENyZWRpdE1vbnRocygpLAogICAgICAgIF0pOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0b2tlbiA9ICRyZXF1ZXN0LT5yZXF1ZXN0LT5nZXRJZCgpCiAgICAgICAgICAgICAgICAgICAgLiBVcmxIYW5kbGVyQ3JlZGl0TGFuZGluZzo6VE9LRU5fU0VQQVJBVE9SIC4gJG1ha2UtPmdldE1ha25hbWUoKQogICAgICAgICAgICAgICAgICAgIC4gVXJsSGFuZGxlckNyZWRpdExhbmRpbmc6OlRPS0VOX1NFUEFSQVRPUiAuICRyZXF1ZXN0LT5jYXJfbW9kbmFtZWdycDE7CiAgICAgICAgICAgICAgICAkcXVlcnlQYXJhbVN0ciA9IFVybEhhbmRsZXI6OlFVRVJZX1BBUkFNIC4gVXJsSGFuZGxlckNyZWRpdExhbmRpbmc6OkNSRURJVF9UT0tFTl9QQVJBTSAuCiAgICAgICAgICAgICAgICAgICAgVXJsSGFuZGxlcjo6UVVFUllfUEFSQU1fQVNTSUdOIC4gJHRva2VuOwogICAgICAgICAgICAgICAgJHRoaXMtPnJlZGlyZWN0KHNlbGY6OkZSSUVORExZX1VSTF9MQU5ESU5HX0NPTkZJUk1BVElPTiAuIFVybEhhbmRsZXI6OlNMQVNIIC4gJHF1ZXJ5UGFyYW1TdHIpOwoKICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdG9rZW4gPSAkcmVxdWVzdC0+cmVxdWVzdC0+Z2V0SWQoKQogICAgICAgICAgICAgICAgICAgICAgICAuIFVybEhhbmRsZXJDcmVkaXRMYW5kaW5nOjpUT0tFTl9TRVBBUkFUT1IgLiAkbWFrZS0+Z2V0TWFrbmFtZSgpCiAgICAgICAgICAgICAgICAgICAgICAgIC4gVXJsSGFuZGxlckNyZWRpdExhbmRpbmc6OlRPS0VOX1NFUEFSQVRPUiAuICRyZXF1ZXN0LT5jYXJfbW9kbmFtZWdycDE7CiAgICAgICAgICAgICAgICAgICAgJHF1ZXJ5UGFyYW1TdHIgPSBVcmxIYW5kbGVyOjpRVUVSWV9QQVJBTSAuIFVybEhhbmRsZXJDcmVkaXRMYW5kaW5nOjpDUkVESVRfVE9LRU5fUEFSQU0gLgogICAgICAgICAgICAgICAgICAgICAgICBVcmxIYW5kbGVyOjpRVUVSWV9QQVJBTV9BU1NJR04gLiAkdG9rZW47CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPnJlZGlyZWN0KHNlbGY6OkZSSUVORExZX1VSTF9MQU5ESU5HX0NPTkZJUk1BVElPTiAuIFVybEhhbmRsZXI6OlNMQVNIIC4gJHF1ZXJ5UGFyYW1TdHIpOwoKICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgnY2FuZGlkYXRlJyk7ZGllOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0b2tlbiA9ICRyZXF1ZXN0LT5yZXF1ZXN0LT5nZXRJZCgpCiAgICAgICAgICAgICAgICAgICAgLiBVcmxIYW5kbGVyQ3JlZGl0TGFuZGluZzo6VE9LRU5fU0VQQVJBVE9SIC4gJG1ha2UtPmdldE1ha25hbWUoKQogICAgICAgICAgICAgICAgICAgIC4gVXJsSGFuZGxlckNyZWRpdExhbmRpbmc6OlRPS0VOX1NFUEFSQVRPUiAuICRyZXF1ZXN0LT5jYXJfbW9kbmFtZWdycDE7CiAgICAgICAgICAgICAgICAkcXVlcnlQYXJhbVN0ciA9IFVybEhhbmRsZXI6OlFVRVJZX1BBUkFNIC4gVXJsSGFuZGxlckNyZWRpdExhbmRpbmc6OkNSRURJVF9UT0tFTl9QQVJBTSAuCiAgICAgICAgICAgICAgICAgICAgVXJsSGFuZGxlcjo6UVVFUllfUEFSQU1fQVNTSUdOIC4gJHRva2VuOwogICAgICAgICAgICAgICAgJHRoaXMtPnJlZGlyZWN0KHNlbGY6OkZSSUVORExZX1VSTF9MQU5ESU5HX0NPTkZJUk1BVElPTiAuIFVybEhhbmRsZXI6OlNMQVNIIC4gJHF1ZXJ5UGFyYW1TdHIpOwoKICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIENvbnRhaW5lckludGVyZmFjZSAqLwogICAgcHJpdmF0ZSAkX2NvbnRhaW5lcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgnY2FuZGlkYXRlJyk7ZGllOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8oUGFibG8pOiBSZWRpcmlnaXIgZW4gZnVuY2nDs24gZGUgc2kgZXMgbGVhZCBkZSBjYWxjdWxhZG9yYSBvIG5vCg==</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIENvbnRhaW5lckludGVyZmFjZSAqLwogICAgcHJpdmF0ZSAkX2NvbnRhaW5lcjsK</text>
       </register>
       <register name=":" type="4">
-        <text>362</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDUkVESVRfVE9LRU5fUEFSQU1cPg==</last-search>
+      <last-search encoding="base64">XDxDUkVESVRfUkVRVUVTVF9JRF9QQVJBTVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDUkVESVRfVE9LRU5fUEFSQU1cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDUkVESVRfUkVRVUVTVF9JRF9QQVJBTVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxfZ2V0Q3JlYXRvckNyZWRpdExlYWRTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -335,8 +345,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCQU5LX1ZBTElEQVRJT05fU1RFUF9DT0RFXD4=</entry>
-        <entry encoding="base64">XDxkZWFsZXJDcmVhdG9yU3RlcFw+</entry>
         <entry>action</entry>
         <entry>index</entry>
         <entry>actionCre</entry>
@@ -355,9 +363,10 @@
         <entry encoding="base64">XDxfYnVpbGRGaW5kQ3JlZGl0TGVhZFJlcXVlc3RcPg==</entry>
         <entry>provider</entry>
         <entry encoding="base64">XDxDUkVESVRfVE9LRU5fUEFSQU1cPg==</entry>
+        <entry encoding="base64">XDxfZ2V0VG9rZW5QYXJhbUxpc3RcPg==</entry>
+        <entry encoding="base64">XDxDUkVESVRfUkVRVUVTVF9JRF9QQVJBTVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>177</entry>
         <entry>185</entry>
         <entry>47</entry>
         <entry>77</entry>
@@ -373,10 +382,11 @@
         <entry>340</entry>
         <entry>w</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>25</entry>
         <entry>vs</entry>
         <entry>362</entry>
+        <entry>157</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
