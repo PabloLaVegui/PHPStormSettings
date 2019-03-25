@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/tests/helpers/TrafficReportBuilder.php" timestamp="1553512203015">
+        <mark key="[" line="87" column="44" />
+        <mark key="]" line="87" column="56" />
+        <mark key="^" line="87" column="56" />
+        <mark key="." line="87" column="56" />
+      </file>
       <file name="/a.dummy" timestamp="1549987117600">
         <mark key="[" line="0" column="0" />
       </file>
@@ -51,10 +57,11 @@
         <mark key="^" line="2" column="105" />
         <mark key="." line="2" column="105" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/services/transaction/application/car/calculator/TransactionCalculatorITP.php" timestamp="1553510617333">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/services/transaction/application/car/calculator/TransactionCalculatorITP.php" timestamp="1553512113766">
+        <mark key="[" line="78" column="73" />
+        <mark key="]" line="79" column="60" />
+        <mark key="." line="79" column="60" />
+        <mark key="^" line="79" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/classified/ClassifiedForm.php" timestamp="1553168974923">
         <mark key="[" line="256" column="0" />
@@ -171,11 +178,10 @@
       <file name="/Dummy.txt" timestamp="1553180999437">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/services/core/transaction/application/car/calculator/devaluation/DevaluationCalculator.php" timestamp="1553508912727">
-        <mark key="[" line="57" column="5" />
-        <mark key="]" line="58" column="78" />
-        <mark key="^" line="58" column="78" />
-        <mark key="." line="58" column="78" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/services/core/transaction/application/car/calculator/devaluation/DevaluationCalculator.php" timestamp="1553510812579">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="79" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/services/creditLead/infrastructure/CreditLeadRepository.php" timestamp="1552304973607">
         <mark key="[" line="1" column="9" />
@@ -227,6 +233,13 @@
         <mark key="^" line="38" column="33" />
         <mark key="." line="38" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" timestamp="1553510712118">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="26" column="32" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/ClassifiedUpdateRequestBuilder.php" timestamp="1553099644495">
         <mark key="[" line="43" column="71" />
         <mark key="]" line="43" column="71" />
@@ -257,7 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/Projects/coches.com/sass/coches/credit/credit_range_slider/range_slider.scss" />
       <jump line="138" column="0" filename="$USER_HOME$/Projects/coches.com/sass/coches/credit/credit_range_slider/range_slider.scss" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/coches.com/sass/coches/credit/credit_range_slider/range_slider.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/coches.com/sass/coches/credit/credit_range_slider/range_slider.scss" />
@@ -357,13 +369,14 @@
       <jump line="13" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ClassifiedList/Classified.php" />
       <jump line="71" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/README.md" />
       <jump line="110" column="20" filename="$USER_HOME$/Projects/manhattan.coches.com/services/core/trafficReport/domainModel/TrafficReport.php" />
+      <jump line="117" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogTGEgcXVlIHRyYWUgZXMgY29ycmVjdGEK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogdGVuZXIgZW4gY3VlbnRhIGRpYSwgbWVzIHkgYcOxbyBwYXJhIHNhY2FyIGxhIGRpZmVyZW5jaWEK</text>
       </register>
       <register name="-" type="4">
-        <text>External</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJTlRFUk5BTF9GRUVERVJcPg==</text>
@@ -372,34 +385,34 @@
         <text encoding="base64">IGlzRXh0ZXJuYWxGZWVkZXI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogTGEgcXVlIHRyYWUgZXMgY29ycmVjdGEK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogdGVuZXIgZW4gY3VlbnRhIGRpYSwgbWVzIHkgYcOxbyBwYXJhIHNhY2FyIGxhIGRpZmVyZW5jaWEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogYXF1w60gaGF5IHF1ZSBzYWNhciBlbCBhw7FvIGRlIHByaW1lcmEgbWF0cmljdWxhY2nDs24gZGVzZGUgZWwgaW5mb3JtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogY29tcHJvYmFyIHF1ZSBmZWNoYXMgZGUgbWF0cmljdWxhY2nDs24gdHJhZQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogdGVuZXIgZW4gY3VlbnRhIGRpYSwgbWVzIHkgYcOxbyBwYXJhIHNhY2FyIGxhIGRpZmVyZW5jaWEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWNvbnN0IElOVEVSTkFMX0ZFRURFUiA9ICdjb2NoZXMuY29tJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZjo6SU5URVJOQUxfRkVFREVSICE9PSAkdGhpcy0+ZmVlZGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogdGVuZXIgZW4gY3VlbnRhIGRpYSwgbWVzIHkgYcOxbyBwYXJhIHNhY2FyIGxhIGRpZmVyZW5jaWEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHslIGJsb2NrIGFjdGlvbnMgJX17JSBlbmRibG9jayAlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gXG1pem9uYVxkb21haW5cTW9kZWxzXENsYXNzaWZpZWRMaXN0XENsYXNzaWZpZWQ6Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -450,11 +463,11 @@
         <entry>qa</entry>
         <entry>1582</entry>
         <entry>w</entry>
-        <entry>q</entry>
         <entry>wz</entry>
         <entry>vs</entry>
-        <entry>wa</entry>
         <entry>x</entry>
+        <entry>q</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
