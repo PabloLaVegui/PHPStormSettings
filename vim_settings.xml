@@ -178,11 +178,11 @@
       <file name="/Dummy.txt" timestamp="1553180999437">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/services/core/transaction/application/car/calculator/devaluation/DevaluationCalculator.php" timestamp="1553515353961">
-        <mark key="[" line="74" column="48" />
-        <mark key="]" line="74" column="60" />
-        <mark key="." line="44" column="41" />
-        <mark key="^" line="44" column="41" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/services/core/transaction/application/car/calculator/devaluation/DevaluationCalculator.php" timestamp="1553519581311">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="43" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/services/creditLead/infrastructure/CreditLeadRepository.php" timestamp="1552304973607">
         <mark key="[" line="1" column="9" />
@@ -234,12 +234,12 @@
         <mark key="^" line="38" column="33" />
         <mark key="." line="38" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" timestamp="1553515546755">
-        <mark key="'" line="156" column="42" />
-        <mark key="[" line="151" column="8" />
-        <mark key="]" line="151" column="27" />
-        <mark key="." line="151" column="27" />
-        <mark key="^" line="151" column="27" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" timestamp="1553520412235">
+        <mark key="'" line="145" column="25" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="44" />
+        <mark key="." line="191" column="0" />
+        <mark key="^" line="22" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/ClassifiedUpdateRequestBuilder.php" timestamp="1553099644495">
         <mark key="[" line="43" column="71" />
@@ -271,15 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="546" column="36" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
-      <jump line="39" column="13" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
-      <jump line="473" column="30" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/jscripts/bankinter-credit-calculator/oferta-bankinter.js" />
-      <jump line="77" column="26" filename="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Concesionario.php" />
-      <jump line="1164" column="6" filename="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Concesionario.php" />
-      <jump line="320" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/CreditController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/.htaccess" />
-      <jump line="62" column="6" filename="$USER_HOME$/Projects/coches.com/models/Dealers/AuthorisedDealer.php" />
       <jump line="52" column="45" filename="$USER_HOME$/Projects/coches.com/models/Dealers/AuthorisedDealer.php" />
       <jump line="1881" column="6" filename="$USER_HOME$/Projects/coches.com/models/Dealers/AuthorisedDealer.php" />
       <jump line="229" column="23" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/RegisterController.php" />
@@ -371,63 +362,71 @@
       <jump line="117" column="45" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
       <jump line="173" column="33" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
       <jump line="155" column="42" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
+      <jump line="158" column="6" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
+      <jump line="232" column="6" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
+      <jump line="124" column="1" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
+      <jump line="224" column="15" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
+      <jump line="214" column="19" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
+      <jump line="210" column="15" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
+      <jump line="23" column="13" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
+      <jump line="146" column="25" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2018-03-25</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0Tm93RmFrZURhdGUoJzIwMTktMDMtMjUnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>ivate</text>
+        <text encoding="base64">IHwgRmFrZURhdGVHZW5lcmF0b3I=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJTlRFUk5BTF9GRUVERVJcPg==</text>
+        <text encoding="base64">XDxfZGF0ZUdlbmVyYXRvck1vY2tcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>2018-03-25</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0Tm93RmFrZURhdGUoJzIwMTktMDMtMjUnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+        <text encoding="base64">dXNlIGNjb21cbWFuaGF0dGFuXHRlc3RzXEZha2VEYXRlR2VuZXJhdG9yOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZmFrZU5vdyA9ICR0aGlzLT5fZGF0ZUdlbmVyYXRvci0+Y3JlYXRlRnJvbUZvcm1hdCgnIVktbS1kJywgJzIwMTktMDMtMjUnKTsKICAgICAgICAkdGhpcy0+X2RhdGVHZW5lcmF0b3ItPnNldERhdGVUb1JldHVybigkZmFrZU5vdyk7Cgo=</text>
+        <text encoding="base64">dXNlIGNjb21cY29yZVx0cmFuc2FjdGlvblxkb21haW5Nb2RlbFxleGNlcHRpb25cSW52YWxpZFllYXJFeGNlcHRpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gVE9ETyhQYWJsbyk6IHJldmlzYXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNlIGNjb21cY29yZVx0cmFuc2FjdGlvblxhcHBsaWNhdGlvblxjYXJcY2FsY3VsYXRvclxkZXZhbHVhdGlvblxCT0VHZW5lcmFsRGV2YWx1YXRpb25QZXJjZW50YWdlczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5fY2FsY3VsYXRvciA9IG5ldyBEZXZhbHVhdGlvbkNhbGN1bGF0b3IobmV3IEZha2VEYXRlR2VuZXJhdG9yKCksIG5ldyBCT0VHZW5lcmFsRGV2YWx1YXRpb25QZXJjZW50YWdlcygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDE4LTAzLTI2JywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDE4LTAzLTI0JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEZha2VEYXRlR2VuZXJhdG9yKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAkZXhwZWN0ZWREZXZhbHVhdGlvblBlcmNlbnRhZ2UgPSAkZXhwZWN0ZWREZXZhbHVhdGlvblZhbHVlICogJHByaWNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVnaXN0cmF0aW9uRGF0ZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRleHBlY3RlZERldmFsdWF0aW9uVmFsdWUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRleHBlY3RlZERldmFsdWF0aW9uUGVyY2VudGFnZQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJTlRFUk5BTF9GRUVERVJcPg==</last-search>
+      <last-search encoding="base64">XDxfZGF0ZUdlbmVyYXRvck1vY2tcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJTlRFUk5BTF9GRUVERVJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfZGF0ZUdlbmVyYXRvck1vY2tcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxfZ2V0Q3JlYXRvckNyZWRpdExlYWRTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmljZVw+</entry>
         <entry>actioncre</entry>
         <entry>action</entry>
         <entry>action createclas</entry>
@@ -447,6 +446,7 @@
         <entry encoding="base64">XDxTVEFUVVNfQUNUSVZFRFw+</entry>
         <entry encoding="base64">XDxmZWVkZXJcPg==</entry>
         <entry encoding="base64">XDxJTlRFUk5BTF9GRUVERVJcPg==</entry>
+        <entry encoding="base64">XDxfZGF0ZUdlbmVyYXRvck1vY2tcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q\</entry>
