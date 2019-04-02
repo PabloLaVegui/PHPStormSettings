@@ -25,12 +25,6 @@
         <mark key="^" line="1" column="43" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/config/web.php" timestamp="1554135613744">
-        <mark key="'" line="68" column="26" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/controllers/FinishTradeController.php" timestamp="1553699506794">
         <mark key="'" line="62" column="21" />
       </file>
@@ -137,12 +131,11 @@
         <mark key="^" line="123" column="48" />
         <mark key="." line="123" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/controllers/TradeController.php" timestamp="1554199598260">
-        <mark key="'" line="286" column="39" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-        <mark key="^" line="107" column="55" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/controllers/TradeController.php" timestamp="1554211133841">
+        <mark key="'" line="270" column="39" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/config/rules/dependenciesRules/viewRender/viewRender.php" timestamp="1554130179950">
         <mark key="[" line="10" column="26" />
@@ -414,8 +407,8 @@
       <jump line="68" column="26" filename="$USER_HOME$/Projects/manhattan.coches.com/config/web.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIHlpaVx3aWRnZXRzXEFjdGl2ZUZvcm07Cg==</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -427,12 +420,24 @@
         <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkdGhpcy0+cmVuZGVyKHNlbGY6OlNFTExfVVJJLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eGRlYnVnLmlkZWtleT1QSFBTVE9STQo=</text>
+        <text encoding="base64">dXNlIHlpaVx3aWRnZXRzXEFjdGl2ZUZvcm07Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgICRydWxlcyA9ICRtb2RlbC0+cnVsZXMoKTsKLy8gICAgICAgICRtYWtlUnVsZSA9ICRydWxlc1swXTsgLy8gMCA9PiAnbWFrZScKLy8gICAgICAgICRtYWtlVmFsaWRhdG9ycyA9ICRtb2RlbC0+Z2V0QWN0aXZlVmFsaWRhdG9ycygkbWFrZVJ1bGVbMF0pOwovLyAgICAgICAgJHJlcXVpcmVkVmFsaWRhdG9yID0gJG1ha2VWYWxpZGF0b3JzWzBdOwovLyAgICAgICAgJGpzVmFsaWRhdGlvbiA9ICRyZXF1aXJlZFZhbGlkYXRvci0+Y2xpZW50VmFsaWRhdGVBdHRyaWJ1dGUoJG1vZGVsLCAkbWFrZVJ1bGVbMF0sICR0aGlzLT5nZXRWaWV3KCkpOwoKLy8gICAgICAgICRhID0gJHZhbGlkYXRvci0+Y2xpZW50VmFsaWRhdGVBdHRyaWJ1dGUobmV3IERhdGFGb3JtKCksICdtYWtlJywgJHRoaXMtPmdldFZpZXcoKSk7CgovLyAgICAgICAgcmV0dXJuICR0aGlzLT5yZW5kZXIoc2VsZjo6U0VMTF9VUkksCiAgICAgICAgb2Jfc3RhcnQoKTsKICAgICAgICBwaHBpbmZvKCk7CiAgICAgICAgJHBocGluZm8gPSBvYl9nZXRfY2xlYW4oKTsKLy8gICAgICAgIHZhcl9kdW1wKHhkZWJ1Z19nZXRfY29kZV9jb3ZlcmFnZSgpKTtkaWU7Ci8vICAgICAgICByZXR1cm4gJHRoaXMtPnJlbmRlcignc2VsbENhclQudHdpZycsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwaHBpbmZvJyA9PiAkcGhwaW5mbywK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPl92aWV3UmVuZGVyKCdzZWxsQ2FyVC50d2lnJywK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">eGRlYnVnLmlkZWtleT1QSFBTVE9STQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">eGRlYnVnLnJlbW90ZV9oYW5kbGVyPWRiZ3AK</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>xdebug.remote_enable=1
 xdebug.remote_connect_back = on
 xdebug.default_enable=on
@@ -441,23 +446,11 @@ xdebug.remote_port=9000
 xdebug.remote_host=127.0.0.1
 xdebug.profiler_enable_trigger=1</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">eGRlYnVnLnJlbW90ZV9hdXRvc3RhcnQ9b24K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcHAnID0+ICRwcHA7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">e3sgcGhwaW5mb3xyYXcgfX0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgInJvYXZlL3NlY3VyaXR5LWFkdmlzb3JpZXMiOiAiZGV2LW1hc3RlciIsCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">cGhwaW5mbygpO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcHAnID0+ICRwcHA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
