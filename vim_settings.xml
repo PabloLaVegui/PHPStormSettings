@@ -130,13 +130,14 @@
         <mark key="." line="11" column="65" />
         <mark key="^" line="11" column="65" />
       </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/tests/services/bank/integration/entity/creator/BankCreatorBankEntityServiceTest.php" timestamp="1554199698962" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/ClassifiedTransformer.php" timestamp="1553100248389">
         <mark key="[" line="123" column="48" />
         <mark key="]" line="123" column="48" />
         <mark key="^" line="123" column="48" />
         <mark key="." line="123" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/controllers/TradeController.php" timestamp="1554197674316">
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/controllers/TradeController.php" timestamp="1554199598260">
         <mark key="'" line="286" column="39" />
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
@@ -170,6 +171,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
+      </file>
+      <file name="/usr/local/etc/php/5.6/conf.d/ext-xdebug.ini" timestamp="1554200685500">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="24" />
+        <mark key="^" line="27" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/services/creditLead/application/SaveCreditLeadRequest.php" timestamp="1551440521644">
         <mark key="[" line="8" column="1" />
@@ -407,11 +414,11 @@
       <jump line="68" column="26" filename="$USER_HOME$/Projects/manhattan.coches.com/config/web.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcHAnID0+ICRwcHA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHBwcCA9IA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfdmlld1JlbmRlclw+</text>
@@ -420,34 +427,40 @@
         <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkdGhpcy0+cmVuZGVyKHNlbGY6OlNFTExfVVJJLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcHAnID0+ICRwcHA7Cg==</text>
+        <text encoding="base64">eGRlYnVnLmlkZWtleT1QSFBTVE9STQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">e3sgcGhwaW5mb3xyYXcgfX0K</text>
+        <text encoding="base64">eGRlYnVnLnJlbW90ZV9oYW5kbGVyPWRiZ3AK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgInJvYXZlL3NlY3VyaXR5LWFkdmlzb3JpZXMiOiAiZGV2LW1hc3RlciIsCg==</text>
+      <register name="3" type="4">
+        <text>xdebug.remote_enable=1
+xdebug.remote_connect_back = on
+xdebug.default_enable=on
+xdebug.remote_autostart=on
+xdebug.remote_port=9000
+xdebug.remote_host=127.0.0.1
+xdebug.profiler_enable_trigger=1</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eGRlYnVnLnJlbW90ZV9hdXRvc3RhcnQ9b24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGhwaW5mbygpO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcHAnID0+ICRwcHA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">e3sgcGhwaW5mb3xyYXcgfX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY2xhc3MnID0+ICd5aWlcdHdpZ1xWaWV3UmVuZGVyZXInLAo=</text>
+        <text encoding="base64">Ly8gICAgInJvYXZlL3NlY3VyaXR5LWFkdmlzb3JpZXMiOiAiZGV2LW1hc3RlciIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY2xhc3MnID0+IFZpZXdSZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPKFBhYmxvKQo=</text>
+        <text encoding="base64">cGhwaW5mbygpO2RpZTsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53YQ==</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -501,8 +514,8 @@
         <entry>vs</entry>
         <entry>q</entry>
         <entry>w</entry>
-        <entry>wa</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
