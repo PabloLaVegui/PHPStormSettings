@@ -10,8 +10,8 @@
         <mark key="^" line="49" column="42" />
         <mark key="." line="89" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/src/controllers/CcomController.php" timestamp="1554130714333">
-        <mark key="'" line="52" column="13" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/src/controllers/CcomController.php" timestamp="1554278295571">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="432" column="0" />
         <mark key="]" line="432" column="0" />
         <mark key="." line="432" column="0" />
@@ -55,6 +55,7 @@
         <mark key="^" line="27" column="51" />
         <mark key="." line="27" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/sign/controllers/SignController.php" timestamp="1554278332155" />
       <file name="$USER_HOME$/Projects/coches.com/environments/env.test" timestamp="1552488730869">
         <mark key="[" line="54" column="26" />
         <mark key="]" line="54" column="29" />
@@ -299,8 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="17" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
-      <jump line="134" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
       <jump line="21" column="44" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
       <jump line="136" column="14" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
@@ -399,6 +398,8 @@
       <jump line="68" column="26" filename="$USER_HOME$/Projects/manhattan.coches.com/config/web.php" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/environments/.env" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/environments/.env" />
+      <jump line="429" column="6" filename="$USER_HOME$/Projects/manhattan.coches.com/src/controllers/CcomController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/src/controllers/CcomController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -408,7 +409,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdmlld1JlbmRlclw+</text>
+        <text>run</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkdGhpcy0+cmVuZGVyKHNlbGY6OlNFTExfVVJJLAo=</text>
@@ -447,21 +448,20 @@ xdebug.profiler_enable_trigger=1</text>
         <text encoding="base64">eGRlYnVnLnJlbW90ZV9hdXRvc3RhcnQ9b24K</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>146</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfdmlld1JlbmRlclw+</last-search>
+      <last-search>run</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdmlld1JlbmRlclw+</last-pattern>
+      <last-pattern>run</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxfZ2V0Q3JlYXRvckNyZWRpdExlYWRTZXJ2aWNlXD4=</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>todo</entry>
         <entry>actionedit</entry>
         <entry>createClas</entry>
         <entry encoding="base64">XDxmb3JtYXRDYXJQbGF0ZVw+</entry>
@@ -481,9 +481,9 @@ xdebug.profiler_enable_trigger=1</text>
         <entry encoding="base64">XDxMT0NBVElPTl9OQU1FX0ZJRUxEXD4=</entry>
         <entry encoding="base64">XDxnZXRDbGllbnRPcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxfdmlld1JlbmRlclw+</entry>
+        <entry>run</entry>
       </history-search>
       <history-cmd>
-        <entry>64</entry>
         <entry>113</entry>
         <entry>340</entry>
         <entry>25</entry>
@@ -503,6 +503,7 @@ xdebug.profiler_enable_trigger=1</text>
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>w</entry>
         <entry>wa</entry>
+        <entry>146</entry>
       </history-cmd>
       <history-expr />
       <history-input />
