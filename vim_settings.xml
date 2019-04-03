@@ -25,12 +25,13 @@
         <mark key="^" line="1" column="43" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/_carDataConfirmation.php" timestamp="1554289978929">
-        <mark key="'" line="12" column="64" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="4" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/buyerGuestInfo.php" timestamp="1554295041945" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/_carDataConfirmation.php" timestamp="1554294365928">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/environments/.env" timestamp="1554276537572">
         <mark key="'" line="18" column="0" />
@@ -264,17 +265,18 @@
         <mark key="." line="94" column="84" />
         <mark key="^" line="94" column="84" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/reviewSellData.php" timestamp="1554289474745" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/reviewSellData.php" timestamp="1554294690093" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/enums/InternalFeedersEnum.php" timestamp="1553181064254">
         <mark key="[" line="9" column="35" />
         <mark key="]" line="9" column="35" />
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/components/trade/CancelTransactionPopupWidget.php" timestamp="1554296133524">
+        <mark key="'" line="45" column="55" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="33" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
-      <jump line="117" column="45" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
       <jump line="173" column="33" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
       <jump line="155" column="42" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
       <jump line="158" column="6" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
@@ -371,15 +373,17 @@
       <jump line="92" column="35" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/controllers/TradeController.php" />
       <jump line="54" column="10" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/controllers/TradeController.php" />
       <jump line="268" column="39" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/controllers/TradeController.php" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/_carDataConfirmation.php" />
       <jump line="10" column="64" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/_carDataConfirmation.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/_carDataConfirmation.php" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/_carDataConfirmation.php" />
+      <jump line="45" column="55" filename="$USER_HOME$/Projects/manhattan.coches.com/components/trade/CancelTransactionPopupWidget.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqIEB2YXIgc3RyaW5nICRwaWN0dXJlVXJsICovCgo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRUxMX1VSSVw+</text>
@@ -451,7 +455,6 @@
         <entry encoding="base64">XDxTRUxMX1VSSVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>113</entry>
         <entry>340</entry>
         <entry>25</entry>
         <entry>362</entry>
@@ -468,8 +471,9 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>w</entry>
-        <entry>wa</entry>
         <entry>146</entry>
+        <entry>wa\</entry>
+        <entry>wa</entry>
         <entry>vs</entry>
       </history-cmd>
       <history-expr />
@@ -511,6 +515,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
