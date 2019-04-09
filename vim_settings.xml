@@ -48,7 +48,19 @@
         <mark key="^" line="49" column="23" />
         <mark key="." line="49" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/config/config.yaml" timestamp="1554804235140">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="40" />
+        <mark key="." line="48" column="39" />
+        <mark key="^" line="48" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/models/validator/IBANValidator.php" timestamp="1554731986845" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/tests/bootstrap.php" timestamp="1554804453716">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+      </file>
       <file name="/PHP Console" timestamp="1554731799600">
         <mark key="[" line="0" column="0" />
       </file>
@@ -59,16 +71,22 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/config/console_config.yaml" timestamp="1554804237070">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/config/byPass/byPassConfig.yaml" timestamp="1554218815791">
         <mark key="[" line="34" column="14" />
         <mark key="]" line="34" column="18" />
         <mark key="." line="34" column="18" />
         <mark key="^" line="34" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/_personalData.php" timestamp="1554298636569">
-        <mark key="'" line="105" column="53" />
-        <mark key="[" line="253" column="26" />
-        <mark key="]" line="253" column="40" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/services/core/sign/infrastructure/sign/documentType/TechnicalCertificateDocumentType.php" timestamp="1554804041920">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="11" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/sellCar.php" timestamp="1554298713723">
         <mark key="'" line="30" column="5" />
@@ -78,7 +96,7 @@
         <mark key="." line="37" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/invitation/controllers/InvitationController.php" timestamp="1554735347766" />
-      <file name="/Dummy.txt" timestamp="1554729319953">
+      <file name="/Dummy.txt" timestamp="1554803867453">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/vender_coche/data_form.js" timestamp="1554721798377" />
@@ -102,6 +120,10 @@
       <file name="$USER_HOME$/Projects/manhattan.coches.com/vendor/yiisoft/yii2/validators/Validator.php" timestamp="1553791968515">
         <mark key="'" line="365" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/services/core/sign/infrastructure/sign/documentType/CommandDocumentType.php" timestamp="1554803954579">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="32" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/ClassifiedTransformer.php" timestamp="1554306475063">
         <mark key="[" line="286" column="0" />
         <mark key="]" line="286" column="0" />
@@ -119,7 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="48" filename="$USER_HOME$/Projects/manhattan.coches.com/src/modules/domainModel/trafficReport/WrapperCheckTrafficReport.php" />
       <jump line="149" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/src/modules/domainModel/trafficReport/commands/ManhattanTrafficReportRequestedHandler.php" />
       <jump line="98" column="8" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/transaction/application/calculator/DevaluationCalculatorTest.php" />
       <jump line="53" column="12" filename="$USER_HOME$/Projects/manhattan.coches.com/services/transaction/application/car/calculator/TransactionCalculatorITP.php" />
@@ -219,49 +240,50 @@
       <jump line="82" column="12" filename="$USER_HOME$/Projects/manhattan.coches.com/vendor/yiisoft/yii2/base/Widget.php" />
       <jump line="98" column="57" filename="$USER_HOME$/Projects/manhattan.coches.com/vendor/yiisoft/yii2/base/Widget.php" />
       <jump line="366" column="27" filename="$USER_HOME$/Projects/manhattan.coches.com/vendor/yiisoft/yii2/widgets/ActiveForm.php" />
+      <jump line="16" column="5" filename="$USER_HOME$/Projects/manhattan.coches.com/services/core/sign/infrastructure/sign/documentType/TechnicalCertificateDocumentType.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkcmVmZXJlbmNlRGF0ZS0+ZGlmZigkbm93KS0+ZDsK</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5kOw==</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>run()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlZmVyZW5jZURhdGUtPmRpZmYoJG5vdyktPmQ7Cg==</text>
+        <text encoding="base64">ICB0ZWNobmljYWxfY2VydGlmaWNhdGU6ICcjZmljaGF0ZWNuaWNhJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkcmVmZXJlbmNlRGF0ZS0+ZGlmZigkbm93KS0+ZDsK</text>
+        <text encoding="base64">ICB0ZWNobmljYWxfY2VydGlmaWNhdGU6IGZpY2hhdGVjbmljYS5wZGYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkcmVmZXJlbmNlRGF0ZS0+ZGlmZigkbm93KS0+Zm9ybWF0KCIlYSIpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">b3cpLT5mb3JtYXQoIiVhIik7CiAgICAgICAgcmV0dXJuICQ=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbm93ID0gJHRoaXMtPndpdGhSZXNldFRpbWUoJG5vdyk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXGNjb21cY29yZVxjb3JlXGRvbWFpbk1vZGVsXGV4Y2VwdGlvblxJbnZhbGlkTWFzdGVyRGF0YUV4Y2VwdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIGFwcFxtb2RlbHNcRGF0YUZvcm07Cgo=</text>
+        <text encoding="base64">VGVjaG5pY2FsQ2VydGlmaWNhdGVEb2N1bWVudFR5cGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PD9waHAKCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkcmVmZXJlbmNlRGF0ZS0+ZGlmZigkbm93KS0+ZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoMzApOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkcmVmZXJlbmNlRGF0ZS0+ZGlmZigkbm93KS0+Zm9ybWF0KCIlYSIpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIHlpaVx3aWRnZXRzXEFjdGl2ZUZvcm07Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">b3cpLT5mb3JtYXQoIiVhIik7CiAgICAgICAgcmV0dXJuICQ=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRydWxlcyA9ICRtb2RlbC0+cnVsZXMoKTsKLy8gICAgICAgICRtYWtlUnVsZSA9ICRydWxlc1swXTsgLy8gMCA9PiAnbWFrZScKLy8gICAgICAgICRtYWtlVmFsaWRhdG9ycyA9ICRtb2RlbC0+Z2V0QWN0aXZlVmFsaWRhdG9ycygkbWFrZVJ1bGVbMF0pOwovLyAgICAgICAgJHJlcXVpcmVkVmFsaWRhdG9yID0gJG1ha2VWYWxpZGF0b3JzWzBdOwovLyAgICAgICAgJGpzVmFsaWRhdGlvbiA9ICRyZXF1aXJlZFZhbGlkYXRvci0+Y2xpZW50VmFsaWRhdGVBdHRyaWJ1dGUoJG1vZGVsLCAkbWFrZVJ1bGVbMF0sICR0aGlzLT5nZXRWaWV3KCkpOwoKLy8gICAgICAgICRhID0gJHZhbGlkYXRvci0+Y2xpZW50VmFsaWRhdGVBdHRyaWJ1dGUobmV3IERhdGFGb3JtKCksICdtYWtlJywgJHRoaXMtPmdldFZpZXcoKSk7CgovLyAgICAgICAgcmV0dXJuICR0aGlzLT5yZW5kZXIoc2VsZjo6U0VMTF9VUkksCiAgICAgICAgb2Jfc3RhcnQoKTsKICAgICAgICBwaHBpbmZvKCk7CiAgICAgICAgJHBocGluZm8gPSBvYl9nZXRfY2xlYW4oKTsKLy8gICAgICAgIHZhcl9kdW1wKHhkZWJ1Z19nZXRfY29kZV9jb3ZlcmFnZSgpKTtkaWU7Ci8vICAgICAgICByZXR1cm4gJHRoaXMtPnJlbmRlcignc2VsbENhclQudHdpZycsCg==</text>
+        <text encoding="base64">ICAgICAgICAkbm93ID0gJHRoaXMtPndpdGhSZXNldFRpbWUoJG5vdyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -309,14 +331,14 @@
         <entry>wz</entry>
         <entry>x</entry>
         <entry>41</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>146</entry>
         <entry>qa</entry>
         <entry>w</entry>
         <entry>wa\</entry>
-        <entry>wa</entry>
         <entry>vs</entry>
+        <entry>q</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
