@@ -250,7 +250,7 @@
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>run()</text>
+        <text>actioncondi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB0ZWNobmljYWxfY2VydGlmaWNhdGU6ICcjZmljaGF0ZWNuaWNhJwo=</text>
@@ -287,9 +287,9 @@
       </register>
     </registers>
     <search>
-      <last-search>run()</last-search>
+      <last-search>actioncondi</last-search>
       <last-offset />
-      <last-pattern>run()</last-pattern>
+      <last-pattern>actioncondi</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxfZ2V0Q3JlYXRvckNyZWRpdExlYWRTZXJ2aWNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -297,7 +297,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZGF0ZUdlbmVyYXRvck1vY2tcPg==</entry>
         <entry encoding="base64">XDxfcmVnaXN0cmF0aW9uRGF0ZVw+</entry>
         <entry>actionCrea</entry>
         <entry encoding="base64">XDxJbnZhbGlkWWVhckV4Y2VwdGlvblw+</entry>
@@ -317,6 +316,7 @@
         <entry>end</entry>
         <entry>end()</entry>
         <entry>run()</entry>
+        <entry>actioncondi</entry>
       </history-search>
       <history-cmd>
         <entry>340</entry>
