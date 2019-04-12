@@ -77,7 +77,7 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="/PHP Console" timestamp="1554988185277">
+      <file name="/PHP Console" timestamp="1555054495619">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/dataForm.js" timestamp="1553844940841">
@@ -93,12 +93,12 @@
         <mark key="." line="36" column="30" />
         <mark key="^" line="36" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/config/byPass/byPassConfig.yaml" timestamp="1555053606413">
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/config/byPass/byPassConfig.yaml" timestamp="1555054338341">
         <mark key="'" line="18" column="6" />
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
-        <mark key="^" line="16" column="14" />
+        <mark key="[" line="34" column="14" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="18" />
+        <mark key="^" line="34" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/config/rules/dependenciesRules/sign/sign.php" timestamp="1554970725767">
         <mark key="[" line="62" column="50" />
@@ -122,6 +122,13 @@
       <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/invitation/controllers/InvitationController.php" timestamp="1554735347766" />
       <file name="/Dummy.txt" timestamp="1554803867453">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/config/rules/dependenciesRules/mocks/development/signaturit/DevelopmentMockSignaturitCochesComSignClient.php" timestamp="1555055230477">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="226" column="75" />
+        <mark key="]" line="226" column="75" />
+        <mark key="." line="226" column="75" />
+        <mark key="^" line="226" column="75" />
       </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/vender_coche/data_form.js" timestamp="1554721798377" />
       <file name="$USER_HOME$/Projects/manhattan.coches.com/models/DataForm.php" timestamp="1554726295582">
@@ -148,17 +155,14 @@
       <file name="$USER_HOME$/Projects/manhattan.coches.com/services/core/domainModel/transformer/StaticValueTransformer.php" timestamp="1554970491440">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/services/core/sign/infrastructure/sign/documentType/CommandDocumentType.php" timestamp="1554803954579">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="32" column="4" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/transformers/ClassifiedTransformer.php" timestamp="1554306475063">
         <mark key="[" line="286" column="0" />
         <mark key="]" line="286" column="0" />
         <mark key="." line="286" column="0" />
         <mark key="^" line="286" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/services/sign/infrastructure/client/SignaturitCochesComDocumentTypeTransformer.php" timestamp="1554970838153">
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/services/sign/infrastructure/client/SignaturitCochesComDocumentTypeTransformer.php" timestamp="1555054802070">
+        <mark key="'" line="61" column="20" />
         <mark key="[" line="28" column="14" />
         <mark key="]" line="28" column="20" />
         <mark key="^" line="28" column="20" />
@@ -179,14 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="31" filename="$USER_HOME$/Projects/manhattan.coches.com/gulpfile.js" />
-      <jump line="56" column="27" filename="$USER_HOME$/Projects/manhattan.coches.com/gulpfile.js" />
-      <jump line="52" column="31" filename="$USER_HOME$/Projects/manhattan.coches.com/gulpfile.js" />
-      <jump line="46" column="27" filename="$USER_HOME$/Projects/manhattan.coches.com/gulpfile.js" />
-      <jump line="42" column="31" filename="$USER_HOME$/Projects/manhattan.coches.com/gulpfile.js" />
-      <jump line="38" column="27" filename="$USER_HOME$/Projects/manhattan.coches.com/gulpfile.js" />
-      <jump line="33" column="31" filename="$USER_HOME$/Projects/manhattan.coches.com/gulpfile.js" />
-      <jump line="29" column="27" filename="$USER_HOME$/Projects/manhattan.coches.com/gulpfile.js" />
       <jump line="24" column="27" filename="$USER_HOME$/Projects/manhattan.coches.com/gulpfile.js" />
       <jump line="82" column="27" filename="$USER_HOME$/Projects/manhattan.coches.com/gulpfile.js" />
       <jump line="13" column="6" filename="$USER_HOME$/Projects/manhattan.coches.com/gulpfile.js" />
@@ -279,46 +275,54 @@
       <jump line="155" column="4" filename="$USER_HOME$/Projects/manhattan.coches.com/services/core/sign/application/signature/DealerCreatorIndividualSignatureServiceRequest.php" />
       <jump line="39" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/services/core/sign/application/signature/DealerCreatorIndividualSignatureServiceRequest.php" />
       <jump line="38" column="10" filename="$USER_HOME$/Projects/manhattan.coches.com/services/core/sign/application/signature/DealerCreatorIndividualSignatureServiceRequest.php" />
+      <jump line="61" column="20" filename="$USER_HOME$/Projects/manhattan.coches.com/services/sign/infrastructure/client/SignaturitCochesComDocumentTypeTransformer.php" />
+      <jump line="226" column="8" filename="$USER_HOME$/Projects/manhattan.coches.com/config/rules/dependenciesRules/mocks/development/signaturit/DevelopmentMockSignaturitCochesComSignClient.php" />
+      <jump line="49" column="49" filename="$USER_HOME$/Projects/manhattan.coches.com/config/rules/dependenciesRules/mocks/development/signaturit/DevelopmentMockSignaturitCochesComSignClient.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/config/rules/dependenciesRules/mocks/development/signaturit/DevelopmentMockSignaturitCochesComSignClient.php" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/config/rules/dependenciesRules/mocks/development/signaturit/DevelopmentMockSignaturitCochesComSignClient.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/config/rules/dependenciesRules/mocks/development/signaturit/DevelopmentMockSignaturitCochesComSignClient.php" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/config/rules/dependenciesRules/mocks/development/signaturit/DevelopmentMockSignaturitCochesComSignClient.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/config/rules/dependenciesRules/mocks/development/signaturit/DevelopmentMockSignaturitCochesComSignClient.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>DECLARATION_RESPONSABILITY</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>DECLARATION_RESPONSABILITY</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURUNITklDQUxfQ0VSVElGSUNBVEVfVVNFUl9OQU1FXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>_withTrailingComma</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGRvY3VtZW50VHlwZSA9IERlY2xhcmF0aW9uUmVzcG9uc2FiaWxpdHlEb2N1bWVudFR5cGU6OmdldEluc3RhbmNlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIF9nZXRGb3JtYXRlZFRlY2huaWNhbENlcnRpZmljYXRlVXNlck5hbWUoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+X2dldFdpdGhUYWlsaW5nQ29tbWEoJHRoaXMtPmdlKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2VpZiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIF9nZXRGb3JtYXRlZFRlY2huaWNhbENlcnRpZmljYXRlVXNlck5hbWUoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+X2dldFdpdGhUYWlsaW5nQ29tbWEoJHRoaXMtPmdlKQogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUZWNobmljYWxDZXJ0aWZpY2F0ZVVzZXJOYW1lKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPl90ZWNobmljYWxDZXJ0aWZpY2F0ZVVzZXJOYW1lOwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkdGVjaG5pY2FsQ2VydGlmaWNhdGVVc2VyTmFtZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0VGVjaG5pY2FsQ2VydGlmaWNhdGVVc2VyTmFtZSgKICAgICAgICAkdGVjaG5pY2FsQ2VydGlmaWNhdGVVc2VyTmFtZQogICAgKSB7CiAgICAgICAgJHRoaXMtPl90ZWNobmljYWxDZXJ0aWZpY2F0ZVVzZXJOYW1lID0gJHRlY2huaWNhbENlcnRpZmljYXRlVXNlck5hbWU7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUZWNobmljYWxDZXJ0aWZpY2F0ZVVzZXJOYW1lKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPl90ZWNobmljYWxDZXJ0aWZpY2F0ZVVzZXJOYW1lOwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkdGVjaG5pY2FsQ2VydGlmaWNhdGVVc2VyTmFtZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0VGVjaG5pY2FsQ2VydGlmaWNhdGVVc2VyTmFtZSgKICAgICAgICAkdGVjaG5pY2FsQ2VydGlmaWNhdGVVc2VyTmFtZQogICAgKSB7CiAgICAgICAgJHRoaXMtPl90ZWNobmljYWxDZXJ0aWZpY2F0ZVVzZXJOYW1lID0gJHRlY2huaWNhbENlcnRpZmljYXRlVXNlck5hbWU7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJF90ZWNobmljYWxDZXJ0aWZpY2F0ZU5hbWU7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgJF90ZWNobmljYWxDZXJ0aWZpY2F0ZU5hbWU7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
