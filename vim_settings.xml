@@ -197,12 +197,12 @@
         <mark key="." line="101" column="91" />
         <mark key="^" line="101" column="91" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/views/twig/macros/form.twig" timestamp="1556022691179">
-        <mark key="'" line="82" column="9" />
-        <mark key="[" line="44" column="36" />
-        <mark key="]" line="44" column="41" />
-        <mark key="." line="44" column="41" />
-        <mark key="^" line="44" column="41" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/views/twig/macros/form.twig" timestamp="1556023566663">
+        <mark key="'" line="86" column="9" />
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="61" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="15" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/tests/services/sign/SignatureCreatorSignatureServiceCreateIndividualBuyerTest.php" timestamp="1556010119723">
         <mark key="'" line="84" column="0" />
@@ -311,8 +311,8 @@
       <jump line="251" column="27" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/sign/SignatureCreatorSignatureServiceCreateIndividualDealerTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eyMgVE9ETyhQYWJsbyk6IGVzdGUgcGFyY2lhbCBoYXkgcGludGFybGUgI30KeyM8P3BocCBlY2hvICR0aGlzLT5yZW5kZXIoJ19lcnJvckJpcnRoZGF0ZScpOyA/PiN9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{{ getFormFieldId(formClassName, fieldName) }}</text>
       </register>
       <register name="-" type="4">
         <text>bankAccount</text>
@@ -320,8 +320,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxTRUxMX1VSSVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">eyUgaW1wb3J0ICJ2aWV3cy90d2lnL21hY3Jvcy9mb3JtLnR3aWciIGFzIGZvcm0gJX0K</text>
+      <register name="0" type="4">
+        <text>{{ getFormFieldId(formClassName, fieldName) }}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">eyMgVE9ETyhQYWJsbyk6IGVzdGUgcGFyY2lhbCBoYXkgcGludGFybGUgI30KeyM8P3BocCBlY2hvICR0aGlzLT5yZW5kZXIoJ19lcnJvckJpcnRoZGF0ZScpOyA/PiN9Cg==</text>
@@ -351,7 +351,7 @@
         <text encoding="base64">eyM8P3BocCB9ID8+I30KeyM8IS0tQ2FyIHVzZS0tPiN9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -405,8 +405,8 @@
         <entry>134</entry>
         <entry>w</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>vs</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
