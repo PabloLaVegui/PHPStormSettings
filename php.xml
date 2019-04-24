@@ -1,20 +1,21 @@
 <application>
   <component name="MessDetector">
-    <phpmd_settings>
-      <MessDetectorConfiguration />
-    </phpmd_settings>
+    <phpmd_settings_migrated />
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/local/php5/bin/php" id="c97c1b29-0317-4cbc-966d-4a68a71429d3" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
-      <interpreter home="docker://phpunit/phpunit:6.0.6/php" id="9c0b57e0-c849-46ff-bb4b-e3c769150172" name="phpunit/phpunit:6.0.6" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="phpunit/phpunit:6.0.6" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter id="c97c1b29-0317-4cbc-966d-4a68a71429d3" name="PHP 5.6" home="/usr/local/php5/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="9c0b57e0-c849-46ff-bb4b-e3c769150172" name="phpunit/phpunit:6.0.6" home="docker://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="phpunit/phpunit:6.0.6" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
       </interpreter>
-      <interpreter home="docker://phpunit/phpunit:5.7.12/php" id="11f27ebd-6b50-4c30-9ec7-b80b0a0f2d8c" name="Docker PHPUnit 5.7.12" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker PHP 5.6" DOCKER_IMAGE_NAME="phpunit/phpunit:5.7.12" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter id="11f27ebd-6b50-4c30-9ec7-b80b0a0f2d8c" name="Docker PHPUnit 5.7.12" home="docker://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data DOCKER_ACCOUNT_NAME="Docker PHP 5.6" DOCKER_IMAGE_NAME="phpunit/phpunit:5.7.12" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
       </interpreter>
-      <interpreter home="/usr/local/Cellar/php/7.3.3/bin/php" id="9e0171d1-5dbb-44ce-8284-e969f94f93a4" name="PHP 7.3" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/local/Cellar/php@5.6/5.6.40/bin/php" id="4b8b026b-9257-4165-bbf8-bd38656f37ff" name="PHP 5.6.40" debugger_id="php.debugger.XDebug" />
+      <interpreter id="9e0171d1-5dbb-44ce-8284-e969f94f93a4" name="PHP 7.3" home="/usr/local/Cellar/php/7.3.3/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="4b8b026b-9257-4165-bbf8-bd38656f37ff" name="PHP 5.6.40" home="/usr/local/Cellar/php@5.6/5.6.40/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
