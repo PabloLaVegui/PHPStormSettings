@@ -503,8 +503,11 @@
         <mark key="." line="64" column="24" />
         <mark key="^" line="64" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/_personalData.twig" timestamp="1556185432881">
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/_personalData.twig" timestamp="1556206727964">
         <mark key="'" line="141" column="0" />
+        <mark key="[" line="74" column="38" />
+        <mark key="]" line="74" column="53" />
+        <mark key="." line="74" column="38" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris2D/Movement/Left.php" timestamp="1502472566073">
         <mark key="[" line="9" column="10" />
@@ -1094,6 +1097,7 @@
         <mark key="^" line="7" column="45" />
         <mark key="." line="7" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/views/twig/macros/form.twig" timestamp="1556207348505" />
       <file name="$USER_HOME$/Projects/tpv.coches.com/tests/unit/domain/models/package/PremiumPackageTest.php" timestamp="1529416130157">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="24" />
@@ -1142,7 +1146,7 @@
         <mark key="." line="38" column="9" />
         <mark key="^" line="38" column="9" />
       </file>
-      <file name="/PHP Console" timestamp="1556204327935">
+      <file name="/PHP Console" timestamp="1556207454725">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1690,7 +1694,7 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/controllers/TradeController.php" timestamp="1556204364614">
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/controllers/TradeController.php" timestamp="1556207450106">
         <mark key="'" line="103" column="51" />
         <mark key="[" line="66" column="33" />
         <mark key="]" line="66" column="33" />
@@ -1751,12 +1755,12 @@
         <mark key="." line="26" column="33" />
         <mark key="^" line="26" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/sellCar.twig" timestamp="1556200774932">
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/sellCar.twig" timestamp="1556206678268">
         <mark key="'" line="48" column="0" />
-        <mark key="[" line="24" column="14" />
-        <mark key="]" line="24" column="14" />
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="25" column="37" />
         <mark key="^" line="24" column="79" />
-        <mark key="." line="24" column="14" />
+        <mark key="." line="25" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/features/bootstrap/FeatureContext.php" timestamp="1538664745526">
         <mark key="[" line="49" column="34" />
@@ -2526,10 +2530,10 @@
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/models/DataForm.php" timestamp="1556204053391">
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/models/DataForm.php" timestamp="1556206723088">
         <mark key="'" line="2532" column="18" />
-        <mark key="[" line="339" column="13" />
-        <mark key="]" line="339" column="18" />
+        <mark key="[" line="101" column="37" />
+        <mark key="]" line="101" column="51" />
         <mark key="^" line="339" column="18" />
         <mark key="." line="339" column="18" />
       </file>
@@ -3432,7 +3436,7 @@
         <mark key="." line="33" column="34" />
         <mark key="^" line="33" column="34" />
       </file>
-      <file name="/fragment.php" timestamp="1556204351446">
+      <file name="/fragment.php" timestamp="1556207459100">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -4812,6 +4816,7 @@
         <mark key="^" line="41" column="48" />
         <mark key="." line="41" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/_carData.twig" timestamp="1556207324379" />
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/composer.json" timestamp="1500055108911">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="18" />
@@ -5217,46 +5222,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">SW5saW5lQWN0aW9uIA==</text>
+        <text>birthdateYear</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SW5saW5lQWN0aW9uIA==</text>
+        <text>birthdateYear</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcmVuZGVyU2VsbENhclZpZXdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYWN0aW9uPSJodHRwczovL3BheWNhci5sb2NhbC50ZWtpcy5jb2NoZXMuY29tL3t7IG1vZGVsLmdldEFjdGlvbigpIH19Igo=</text>
+      <register name="0" type="4">
+        <text>validateDniYear</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWN0aW9uPSIvZGF0b3MtcGVyc29uYWxlcy15LXZlaGljdWxvIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJ3NlbGwnID09PSAkYWN0aW9uLT5pZCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJ3NlbGwnID09PSAkYWN0aW9uLT5pZCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW5hYmxlQ3NyZlZhbGlkYXRpb24gPSBmYWxzZTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkbW9kZWwtPnNldEFjdGlvbihQYXRoVXJsR2VuZXJhdG9yOjpnZXREZWFsZXJXYWl0aW5nQWdyZWVtZW50VHJhbnNhY3Rpb25QYXRoVXJsKCkpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRtb2RlbC0+c2V0QWN0aW9uKFBhdGhVcmxHZW5lcmF0b3I6OmdldFNlbGxDYXJQYXRoVXJsKCkpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC0K</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW5hYmxlQ3NyZlZhbGlkYXRpb24gPSBmYWxzZTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkbW9kZWwtPnNldEFjdGlvbihQYXRoVXJsR2VuZXJhdG9yOjpnZXREZWFsZXJXYWl0aW5nQWdyZWVtZW50VHJhbnNhY3Rpb25QYXRoVXJsKCkpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICRtb2RlbC0+c2V0QWN0aW9uKFBhdGhVcmxHZW5lcmF0b3I6OmdldFNlbGxDYXJQYXRoVXJsKCkpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC0gCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC0K</text>
+      </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>443</text>
       </register>
     </registers>
     <search>
@@ -5292,7 +5297,6 @@
         <entry encoding="base64">XDxfcmVuZGVyU2VsbENhclZpZXdcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>102</entry>
         <entry>wwa</entry>
         <entry>98</entry>
@@ -5312,6 +5316,7 @@
         <entry>60</entry>
         <entry>q</entry>
         <entry>wa</entry>
+        <entry>443</entry>
       </history-cmd>
       <history-expr />
       <history-input />
