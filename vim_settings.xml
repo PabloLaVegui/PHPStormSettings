@@ -249,6 +249,7 @@
         <mark key="^" line="12" column="71" />
         <mark key="." line="12" column="71" />
       </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/buyCar.php" timestamp="1556179891447" />
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/DoctrineSegmentRepository.php" timestamp="1519228371227">
         <mark key="[" line="28" column="15" />
         <mark key="]" line="28" column="23" />
@@ -1686,6 +1687,11 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/controllers/TradeController.php" timestamp="1556179305153">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/app/action/ErrorResponseMiddlewareTest.php" timestamp="1523438917719">
         <mark key="[" line="24" column="8" />
         <mark key="]" line="24" column="13" />
@@ -1739,6 +1745,12 @@
         <mark key="]" line="26" column="33" />
         <mark key="." line="26" column="33" />
         <mark key="^" line="26" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/sellCar.twig" timestamp="1556180196941">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="60" />
+        <mark key="^" line="14" column="60" />
+        <mark key="." line="14" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/features/bootstrap/FeatureContext.php" timestamp="1538664745526">
         <mark key="[" line="49" column="34" />
@@ -4699,6 +4711,7 @@
         <mark key="^" line="27" column="46" />
         <mark key="." line="27" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/sellCar.php" timestamp="1556180001931" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/domain/Models/value/ImageTest.php" timestamp="1544526335986">
         <mark key="[" line="1" column="42" />
         <mark key="]" line="1" column="46" />
@@ -5175,8 +5188,8 @@
       <jump line="15" column="32" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/signUp/carPictureUploader.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gY29sb2NhciBsYXMgcXVlIGNvcnJlc3BvbmRhbiwgc2UgZXN0w6FuIHBpbnRhbmRvIGxvcyBwYXJjaWFsZXMgZGUgYnV5Q2FyIHRiCg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -5188,31 +5201,31 @@
         <text encoding="base64">ICAgICAgICAkbmV4dENvbnRhaW5lciA9ICRuZXh0VmVyc2UgPT09IDEgPyAnYm90dGxlJyA6ICdib3R0bGVzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIC0gY29sb2NhciBsYXMgcXVlIGNvcnJlc3BvbmRhbiwgc2UgZXN0w6FuIHBpbnRhbmRvIGxvcyBwYXJjaWFsZXMgZGUgYnV5Q2FyIHRiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC0gdmVyIHF1ZSBlc3TDoW4gdG9kb3MgbG9zIHBhcmNpYWxlcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjptYXJrVGVzdFNraXBwZWQoKTsK</text>
+        <text encoding="base64">CnsjIFRPRE8oTUFOSC0xNTE2KToKICAgIC0gdmVyIHF1ZSBlc3TDoW4gdG9kb3MgbG9zIHBhcmNpYWxlcwogICAgLSBjb2xvY2FyIGxhcyBxdWUgY29ycmVzcG9uZGFuLCBzZSBlc3TDoW4gcGludGFuZG8gbG9zIHBhcmNpYWxlcyBkZSBidXlDYXIgdGIKICAgIC0gdmVyIHF1ZSBlc3TDoW4gdG9kYXMgbGFzIHZhcmlhYmxlcwogICAgLSB0w610dWxvIHkgc3VidMOtdHVsbwogICAgLSBldGlxdWV0YSBkZSBmb3JtdWxhcmlvCiAgICAtIGJvdMOzbgogICAgLSBjb21wcm9iYXIgcXVlIGZ1bmNpb25hIGVsIGVudsOtbyBkZWwgZm9ybXVsYXJpbyAoY29uIHVwbG9hZGVyKQogICAgLSBib3JyYXIgbGFzIHZpc3RhcyBwaHAgcXVlIHlhIG5vIGhhZ2FuIGZhbHRhCiN9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNlbGY6Om1hcmtUZXN0U2tpcHBlZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHZlcnNlIC4gIiBib3R0bGVzIG9mIGJlZXIgb24gdGhlIHdhbGwsICIgLiAkdmVyc2UgLiAiYm90dGxlcyBvZiBiZWVyLlxuIi4KICAgICAgICAgICAgIlRha2Ugb25lIGRvd24gYW5kIHBhc3MgaXQgYXJvdW5kLCAiIC4gJHZlcnNlIC0gMSAuICdib3R0bGVzIG9mIGJlZXIgb24gdGhlIHdhbGwuXG4nOwo=</text>
+        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ19wYXNzd29yZC50d2lnJyAlfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjptYXJrVGVzdFNraXBwZWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ19jYXJQaWN0dXJlVXBsb2FkZXIudHdpZycgJX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICR2ZXJzZQogICAgICovCg==</text>
+        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ19iYW5rQWNjb3VudC50d2lnJyAlfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -5267,9 +5280,9 @@
         <entry>51</entry>
         <entry>85</entry>
         <entry>h hi</entry>
+        <entry>vs</entry>
         <entry>q</entry>
         <entry>w</entry>
-        <entry>vs</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
