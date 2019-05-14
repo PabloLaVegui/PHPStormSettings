@@ -616,9 +616,9 @@
         <mark key="^" line="27" column="17" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/baseTradeDataForm.js" timestamp="1557844244397">
-        <mark key="[" line="134" column="31" />
-        <mark key="]" line="134" column="57" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/baseTradeDataForm.js" timestamp="1557846679169">
+        <mark key="[" line="129" column="19" />
+        <mark key="]" line="129" column="62" />
         <mark key="." line="134" column="57" />
         <mark key="^" line="134" column="57" />
       </file>
@@ -1465,6 +1465,7 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/node_modules/validators.coches.com/src/FormValidator.js" timestamp="1557846152251" />
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/PhetrisImpl.php" timestamp="1499114795382">
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="13" />
@@ -2077,11 +2078,11 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="12" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/validators.coches.com/src/FormValidator.js" timestamp="1557844884520">
-        <mark key="[" line="51" column="57" />
-        <mark key="]" line="51" column="73" />
-        <mark key="." line="51" column="73" />
-        <mark key="^" line="51" column="73" />
+      <file name="$USER_HOME$/Projects/validators.coches.com/src/FormValidator.js" timestamp="1557847722480">
+        <mark key="[" line="104" column="45" />
+        <mark key="]" line="104" column="45" />
+        <mark key="." line="104" column="45" />
+        <mark key="^" line="104" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/FacilitiesPhotosDTO.php" timestamp="1515079672950">
         <mark key="[" line="8" column="15" />
@@ -5259,44 +5260,44 @@
       <jump line="5" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/baseTradeDataForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>validatorList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpbnB1dCBuYW1lJywgaW5wdXROYW1lKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>validatorList</text>
+        <text>this.relatedInputs</text>
       </register>
       <register name="/" type="4">
         <text>repeat</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5wdXQudmFsaWRhdG9yTGlzdCA9PT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgIGlucHV0LnZhbGlkYXRvckxpc3QgPSBbXTsKICAgICAgICB9CgogICAgICAgIGlucHV0LnZhbGlkYXRvckxpc3QgPSBpbnB1dC52YWxpZGF0b3JMaXN0LmNvbmNhdCh2YWxpZGF0b3JMaXN0KTsK</text>
+      <register name="0" type="4">
+        <text>['DataForm[email]', 'DataForm[repeatEmail]']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpbnB1dCBuYW1lJywgaW5wdXROYW1lKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpbnB1dCBuYW1lJywgaW5wdXROYW1lKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYW50ZXNzc3MnKTsKICAgICAgICBjb25zb2xlLmxvZygndGhpcy52YWxpZGFydG9saXN0JywgdGhpcy52YWxpZGF0b3JMaXN0KTsKICAgICAgICBjb25zb2xlLmxvZygnZGVzcHVlc3Nzc3MnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVsYXRlZFZhbHVlcyA9IHRoaXMucmVsYXRlZElucHV0cy5tYXAoaW5wdXROYW1lID0+IHsKICAgICAgICAgICAgICAgIGNvbnN0IGlucHV0TGlzdCA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlOYW1lKGlucHV0TmFtZSk7CiAgICAgICAgICAgICAgICBsZXQgdmFsdWVzID0gW107CiAgICAgICAgICAgICAgICBmb3IgKGlucHV0IGluIGlucHV0TGlzdCkgewogICAgICAgICAgICAgICAgICAgIHZhbHVlcy5wdXNoKEZvcm1WYWxpZGF0b3IuZ2V0SW5wdXRWYWx1ZShpbnB1dCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYW50ZXNzc3MnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZvcm1WYWxpZGF0b3IuZ2V0SW5wdXRWYWx1ZShkb2N1bWVudCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvY2VzYScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd2YWxpZGF0b3IgbGlzdHQnLCBpbnB1dFZhbGlkYXRpb25Db25maWcudmFsaWRhdG9yTGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3ZhbGlkYXRvciBsaXN0JywgaW5wdXRWYWxpZGF0aW9uQ29uZmlnLnZhbGlkYXRvckxpc3RbMF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYW50ZXNzc3MnKTsKICAgICAgICBjb25zb2xlLmxvZygndGhpcy52YWxpZGFydG9saXN0JywgdGhpcy52YWxpZGF0b3JMaXN0KTsKICAgICAgICBjb25zb2xlLmxvZygnZGVzcHVlc3Nzc3MnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
