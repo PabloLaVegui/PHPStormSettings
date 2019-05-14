@@ -631,11 +631,11 @@
         <mark key="^" line="27" column="17" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/baseTradeDataForm.js" timestamp="1557832219122">
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/baseTradeDataForm.js" timestamp="1557837510655">
         <mark key="'" line="107" column="5" />
-        <mark key="[" line="129" column="20" />
-        <mark key="]" line="129" column="61" />
-        <mark key="." line="138" column="0" />
+        <mark key="[" line="137" column="5" />
+        <mark key="]" line="137" column="5" />
+        <mark key="." line="137" column="5" />
         <mark key="^" line="129" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/application/action/request/CreateRequestVNRequestValidator.php" timestamp="1522942412715">
@@ -2098,12 +2098,12 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="12" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/validators.coches.com/src/FormValidator.js" timestamp="1557832296922">
-        <mark key="'" line="72" column="67" />
-        <mark key="[" line="91" column="52" />
-        <mark key="]" line="91" column="67" />
-        <mark key="." line="91" column="67" />
-        <mark key="^" line="91" column="67" />
+      <file name="$USER_HOME$/Projects/validators.coches.com/src/FormValidator.js" timestamp="1557837100320">
+        <mark key="'" line="86" column="67" />
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="27" column="42" />
+        <mark key="." line="27" column="42" />
+        <mark key="^" line="27" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/FacilitiesPhotosDTO.php" timestamp="1515079672950">
         <mark key="[" line="8" column="15" />
@@ -5302,46 +5302,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>inputValue</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>inputValue</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>repeat</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF2YWxpZGF0b3JDb25maWcudmFsaWRhdG9yLnZhbGlkYXRlKGlucHV0VmFsdWUpKSB7Cg==</text>
+      <register name="0" type="4">
+        <text>inputValidationConfig.inputName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVsYXRlZElucHV0cyA9IEZvcm1WYWxpZGF0b3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRzLnB1c2goZG9jdW1lbnQuZ2V0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaW5wdXRWYWx1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dE5hbWVzLmZvckVhY2goIG5hbWUgPT4ge30pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVsYXRlZElucHV0cwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVsYXRlZElucHV0cyA9IEZvcm1WYWxpZGF0b3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udCBpbnB1dExpc3QgW107Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -5395,8 +5395,8 @@
         <entry>126</entry>
         <entry>w</entry>
         <entry>vs</entry>
-        <entry>wa</entry>
         <entry>q</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
