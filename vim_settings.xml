@@ -87,6 +87,12 @@
         <mark key="^" line="84" column="7" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/form/Select.js" timestamp="1558011664115">
+        <mark key="'" line="25" column="29" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/calendar-api/test/Config/YamlConfigTest.php" timestamp="1510741932286">
         <mark key="[" line="16" column="49" />
         <mark key="]" line="16" column="51" />
@@ -387,12 +393,12 @@
         <mark key="^" line="69" column="17" />
         <mark key="." line="69" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/trade/dataformEvents.js" timestamp="1557752616211">
-        <mark key="'" line="76" column="6" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="36" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/trade/dataformEvents.js" timestamp="1558010596572">
+        <mark key="'" line="78" column="6" />
+        <mark key="[" line="94" column="7" />
+        <mark key="]" line="95" column="3" />
+        <mark key="." line="95" column="3" />
+        <mark key="^" line="95" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/application/UseCases/Eurotax/UpdateMakeUseCaseTest.php" timestamp="1541598377691">
         <mark key="[" line="18" column="0" />
@@ -609,13 +615,6 @@
         <mark key="]" line="10" column="41" />
         <mark key="^" line="27" column="17" />
         <mark key="." line="10" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/baseTradeDataForm.js" timestamp="1558009172310">
-        <mark key="'" line="144" column="8" />
-        <mark key="[" line="224" column="31" />
-        <mark key="]" line="224" column="52" />
-        <mark key="." line="224" column="52" />
-        <mark key="^" line="224" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/application/action/request/CreateRequestVNRequestValidator.php" timestamp="1522942412715">
         <mark key="[" line="9" column="37" />
@@ -980,7 +979,6 @@
         <mark key="^" line="73" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/sellDataForm.js" timestamp="1557844267078">
-        <mark key="'" line="138" column="5" />
         <mark key="[" line="4" column="47" />
         <mark key="]" line="4" column="52" />
         <mark key="." line="4" column="52" />
@@ -5274,44 +5272,44 @@
       <jump line="144" column="8" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/baseTradeDataForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLnNlbGVjdC5vcHRpb25zLmxlbmd0aCA9IDA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>length</text>
       </register>
       <register name="/" type="4">
         <text>repeat</text>
       </register>
-      <register name="0" type="4">
-        <text>password</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlbGVjdC5sZW5ndGggPSAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLnNlbGVjdC5vcHRpb25zLmxlbmd0aCA9IDA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlbGVjdC5pbm5lckhUTUwgPSAnJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZlcnNpb25TZWxlY3QuYWRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlZ2lzdHJhdGlvblllYXJTZWxlY3QuYWRkT3B0aW9ucyh7fSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlZ21lbnRTZWxlY3QuYWRkT3B0aW9ucyh7fSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBzdGF0aWMgYWRkUmVsYXRlZElucHV0cyhpbnB1dCwgcmVsYXRlZElucHV0TmFtZXMpIHsKICAgICAgICBpZiAoaW5wdXQucmVsYXRlZElucHV0cyA9PT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgIGlucHV0LnJlbGF0ZWRJbnB1dHMgPSBbXTsKICAgICAgICB9CgogICAgICAgIGlucHV0LnJlbGF0ZWRJbnB1dHMgPSBpbnB1dC5yZWxhdGVkSW5wdXRzLmNvbmNhdChyZWxhdGVkSW5wdXROYW1lcyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHJlc2V0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRm9ybVZhbGlkYXRvci5hZGRSZWxhdGVkSW5wdXRzKGlucHV0LCByZWxhdGVkSW5wdXROYW1lcyk7Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKCF2YWxpZGF0b3JDb25maWcudmFsaWRhdG9yLnZhbGlkYXRlKGlucHV0VmFsdWUpKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlbGF0ZWQnLCByZWxhdGVkVmFsdWVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -5367,8 +5365,8 @@
         <entry>wa\</entry>
         <entry>126</entry>
         <entry>w</entry>
-        <entry>vs</entry>
         <entry>q</entry>
+        <entry>vs</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
