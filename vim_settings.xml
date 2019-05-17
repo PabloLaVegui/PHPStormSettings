@@ -1982,11 +1982,11 @@
         <mark key="^" line="47" column="60" />
         <mark key="." line="47" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/javi.coches.com/app/Conversations/environment/AssignEnvironmentAction.php" timestamp="1558086149459">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="65" column="11" />
+      <file name="$USER_HOME$/Projects/javi.coches.com/app/Conversations/environment/AssignEnvironmentAction.php" timestamp="1558088932002">
+        <mark key="[" line="46" column="35" />
+        <mark key="]" line="46" column="35" />
+        <mark key="." line="46" column="35" />
+        <mark key="^" line="46" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/geo/controllers/GeoController.php" timestamp="1557392217484">
         <mark key="[" line="32" column="42" />
@@ -2491,12 +2491,6 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="28" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/javi.coches.com/app/Conversations/environment/EnviromentAction.php" timestamp="1558078533726">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="124" column="35" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/sass/newStructure/pages/_payment_selector.scss" timestamp="1531905237594">
         <mark key="[" line="63" column="12" />
         <mark key="]" line="63" column="16" />
@@ -2989,6 +2983,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="^" line="18" column="16" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/javi.coches.com/routes/botman.php" timestamp="1558088871300">
+        <mark key="[" line="52" column="108" />
+        <mark key="]" line="52" column="108" />
+        <mark key="." line="52" column="108" />
+        <mark key="^" line="52" column="108" />
       </file>
       <file name="$USER_HOME$/Projects/deployer.coches.com/playbooks/custom-tasks/mizona.coches.com.yml" timestamp="1516719072595">
         <mark key="[" line="35" column="0" />
@@ -3770,12 +3770,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="20" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/javi.coches.com/app/Conversations/environment/StatusEnvironmentAction.php" timestamp="1558078818127">
-        <mark key="[" line="30" column="71" />
-        <mark key="]" line="30" column="71" />
-        <mark key="^" line="30" column="91" />
-        <mark key="." line="30" column="71" />
-      </file>
+      <file name="$USER_HOME$/Projects/javi.coches.com/app/Conversations/environment/StatusEnvironmentAction.php" timestamp="1558078818127" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Models/MyData/TelephoneFormTest.php" timestamp="1516795142336">
         <mark key="[" line="22" column="27" />
         <mark key="]" line="22" column="52" />
@@ -5044,6 +5039,12 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/javi.coches.com/app/Conversations/CcomAction.php" timestamp="1558088794954">
+        <mark key="[" line="42" column="48" />
+        <mark key="]" line="42" column="47" />
+        <mark key="^" line="42" column="47" />
+        <mark key="." line="42" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/DoctrineDealerDiscountRepository.php" timestamp="1523620466007">
         <mark key="[" line="69" column="89" />
         <mark key="]" line="69" column="105" />
@@ -5286,44 +5287,45 @@
       <jump line="195" column="32" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/baseTradeDataForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>environment</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>environment</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXh0TGVuZ3RoVmFsaWRhdG9yXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICR0aGlzLT5faW5zZXJ0KCRlbnZpcm9ubWVudCwgJHJlYXNvbik7CgogICAgICAgICAgICAkbXNnIC49ICJPayEgQXNpZ25hZG8gYCRlbnZpcm9ubWVudGAgYSBAeyR0aGlzLT5fZ2V0U2xhY2tVc2VyTmFtZSgpfVxuIjsKICAgICAgICAgICAgJGFiVGVzdGluZ01lc3NhZ2UgPSAkdGhpcy0+X2NoZWNrQWJUZXN0aW5nQWN0aXZlKCRlbnZpcm9ubWVudCk7CiAgICAgICAgICAgIGlmICghZW1wdHkoJGFiVGVzdGluZ01lc3NhZ2UpKSB7CiAgICAgICAgICAgICAgICAkbXNnIC49ICRhYlRlc3RpbmdNZXNzYWdlOwogICAgICAgICAgICB9CiAgICAgICAgICAgICRkaXJ0eUVudmlyb25tZW50TWVzc2FnZSA9ICR0aGlzLT5fY2hlY2tEaXJ0eUVudmlyb25tZW50KCRlbnZpcm9ubWVudCk7CiAgICAgICAgICAgIGlmICghZW1wdHkoJGRpcnR5RW52aXJvbm1lbnRNZXNzYWdlKSkgewogICAgICAgICAgICAgICAgJG1zZyAuPSAkZGlydHlFbnZpcm9ubWVudE1lc3NhZ2U7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAkYWN0aW9uLT5ydW5XaXRoUGFyYW1zKCRlbnZpcm9tZW50LCAkY29tbWVudCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>'.AssignEnvironmentAction::getEnvironmentAvailableAsList('|').
+    '</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci8vICAgICAgICAgICAgJHRoaXMtPl9pbnNlcnQoJGVudmlyb25tZW50LCAkcmVhc29uKTsK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbXNnIC49ICJPayEgQXNpZ25hZG8gYCRlbnZpcm9ubWVudGAgYSBAeyR0aGlzLT5fZ2V0U2xhY2tVc2VyTmFtZSgpfVxuIjsKICAgICAgICAgICAgICAgICAgICAkYWJUZXN0aW5nTWVzc2FnZSA9ICR0aGlzLT5fY2hlY2tBYlRlc3RpbmdBY3RpdmUoJGVudmlyb25tZW50KTsKICAgICAgICAgICAgICAgICAgICBpZiAoIWVtcHR5KCRhYlRlc3RpbmdNZXNzYWdlKSkgewogICAgICAgICAgICAgICAgICAgICAgICAkbXNnIC49ICRhYlRlc3RpbmdNZXNzYWdlOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAkZGlydHlFbnZpcm9ubWVudE1lc3NhZ2UgPSAkdGhpcy0+X2NoZWNrRGlydHlFbnZpcm9ubWVudCgkZW52aXJvbm1lbnQpOwogICAgICAgICAgICAgICAgICAgIGlmICghZW1wdHkoJGRpcnR5RW52aXJvbm1lbnRNZXNzYWdlKSkgewogICAgICAgICAgICAgICAgICAgICAgICAkbXNnIC49ICRkaXJ0eUVudmlyb25tZW50TWVzc2FnZTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ci8vICAgICAgICAgICAgJHRoaXMtPl9pbnNlcnQoJGVudmlyb25tZW50LCAkcmVhc29uKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbXNnIC49ICJPayEgQXNpZ25hZG8gYCRlbnZpcm9ubWVudGAgYSBAeyR0aGlzLT5fZ2V0U2xhY2tVc2VyTmFtZSgpfVxuIjsKICAgICAgICAgICAgICAgICAgICAkYWJUZXN0aW5nTWVzc2FnZSA9ICR0aGlzLT5fY2hlY2tBYlRlc3RpbmdBY3RpdmUoJGVudmlyb25tZW50KTsKICAgICAgICAgICAgICAgICAgICBpZiAoIWVtcHR5KCRhYlRlc3RpbmdNZXNzYWdlKSkgewogICAgICAgICAgICAgICAgICAgICAgICAkbXNnIC49ICRhYlRlc3RpbmdNZXNzYWdlOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAkZGlydHlFbnZpcm9ubWVudE1lc3NhZ2UgPSAkdGhpcy0+X2NoZWNrRGlydHlFbnZpcm9ubWVudCgkZW52aXJvbm1lbnQpOwogICAgICAgICAgICAgICAgICAgIGlmICghZW1wdHkoJGRpcnR5RW52aXJvbm1lbnRNZXNzYWdlKSkgewogICAgICAgICAgICAgICAgICAgICAgICAkbXNnIC49ICRkaXJ0eUVudmlyb25tZW50TWVzc2FnZTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICR0aGlzLT5faW5zZXJ0KCRlbnZpcm9ubWVudCwgJHJlYXNvbik7CgogICAgICAgICAgICAkbXNnIC49ICJPayEgQXNpZ25hZG8gYCRlbnZpcm9ubWVudGAgYSBAeyR0aGlzLT5fZ2V0U2xhY2tVc2VyTmFtZSgpfVxuIjsKICAgICAgICAgICAgJGFiVGVzdGluZ01lc3NhZ2UgPSAkdGhpcy0+X2NoZWNrQWJUZXN0aW5nQWN0aXZlKCRlbnZpcm9ubWVudCk7CiAgICAgICAgICAgIGlmICghZW1wdHkoJGFiVGVzdGluZ01lc3NhZ2UpKSB7CiAgICAgICAgICAgICAgICAkbXNnIC49ICRhYlRlc3RpbmdNZXNzYWdlOwogICAgICAgICAgICB9CiAgICAgICAgICAgICRkaXJ0eUVudmlyb25tZW50TWVzc2FnZSA9ICR0aGlzLT5fY2hlY2tEaXJ0eUVudmlyb25tZW50KCRlbnZpcm9ubWVudCk7CiAgICAgICAgICAgIGlmICghZW1wdHkoJGRpcnR5RW52aXJvbm1lbnRNZXNzYWdlKSkgewogICAgICAgICAgICAgICAgJG1zZyAuPSAkZGlydHlFbnZpcm9ubWVudE1lc3NhZ2U7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiAkbXNnOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICR0aGlzLT5faW5zZXJ0KCRlbnZpcm9ubWVudCwgJHJlYXNvbik7CgogICAgICAgICAgICAkbXNnIC49ICJPayEgQXNpZ25hZG8gYCRlbnZpcm9ubWVudGAgYSBAeyR0aGlzLT5fZ2V0U2xhY2tVc2VyTmFtZSgpfVxuIjsKICAgICAgICAgICAgJGFiVGVzdGluZ01lc3NhZ2UgPSAkdGhpcy0+X2NoZWNrQWJUZXN0aW5nQWN0aXZlKCRlbnZpcm9ubWVudCk7CiAgICAgICAgICAgIGlmICghZW1wdHkoJGFiVGVzdGluZ01lc3NhZ2UpKSB7CiAgICAgICAgICAgICAgICAkbXNnIC49ICRhYlRlc3RpbmdNZXNzYWdlOwogICAgICAgICAgICB9CiAgICAgICAgICAgICRkaXJ0eUVudmlyb25tZW50TWVzc2FnZSA9ICR0aGlzLT5fY2hlY2tEaXJ0eUVudmlyb25tZW50KCRlbnZpcm9ubWVudCk7CiAgICAgICAgICAgIGlmICghZW1wdHkoJGRpcnR5RW52aXJvbm1lbnRNZXNzYWdlKSkgewogICAgICAgICAgICAgICAgJG1zZyAuPSAkZGlydHlFbnZpcm9ubWVudE1lc3NhZ2U7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiAkbXNnOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlYXNvbiA9ICcnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrago=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
