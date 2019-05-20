@@ -538,6 +538,12 @@
         <mark key="." line="43" column="18" />
         <mark key="^" line="43" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/validators.coches.com/src/validators/RadioTextAreaValidator.js" timestamp="1558365993112">
+        <mark key="[" line="23" column="33" />
+        <mark key="]" line="23" column="33" />
+        <mark key="." line="23" column="33" />
+        <mark key="^" line="23" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/domain/Models/value/SavedSearchUrlTest.php" timestamp="1539090114560">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="6" />
@@ -995,12 +1001,12 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="73" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/sellDataForm.js" timestamp="1558358119814">
-        <mark key="'" line="196" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="37" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/sellDataForm.js" timestamp="1558366057820">
+        <mark key="'" line="146" column="52" />
+        <mark key="[" line="147" column="44" />
+        <mark key="]" line="147" column="47" />
+        <mark key="." line="147" column="47" />
+        <mark key="^" line="147" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/README.md" timestamp="1535539396513">
         <mark key="[" line="6" column="0" />
@@ -2237,7 +2243,7 @@
       <file name="$USER_HOME$/Projects/manhattan.coches.com/src/assets/SignUpAsset.php" timestamp="1558362117518">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
-        <mark key="^" line="28" column="29" />
+        <mark key="^" line="29" column="29" />
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/calendar-api/test/Application/UseCase/Support/CreateSupportUseCaseTest.php" timestamp="1510748587758">
@@ -3749,12 +3755,12 @@
         <mark key="^" line="82" column="17" />
         <mark key="." line="82" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/validators.coches.com/src/validators/PostalCodeValidator.js" timestamp="1558361064686">
+      <file name="$USER_HOME$/Projects/validators.coches.com/src/validators/PostalCodeValidator.js" timestamp="1558364589363">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="20" column="14" />
-        <mark key="]" line="20" column="23" />
-        <mark key="." line="20" column="23" />
-        <mark key="^" line="20" column="23" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="32" column="58" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/deployer.coches.com/playbooks/custom-tasks/crmmiddleware.coches.com.yml" timestamp="1521043974933">
         <mark key="[" line="3" column="0" />
@@ -5258,7 +5264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="56" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/sign/integration/signature/creator/SignatureCreatorSignatureServiceCreateIndividualTest.php" />
       <jump line="276" column="50" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/sign/integration/signature/creator/SignatureCreatorSignatureServiceCreateIndividualTest.php" />
       <jump line="256" column="73" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/sign/integration/signature/creator/SignatureCreatorSignatureServiceCreateIndividualTest.php" />
       <jump line="245" column="74" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/sign/integration/signature/creator/SignatureCreatorSignatureServiceCreateIndividualTest.php" />
@@ -5358,46 +5363,47 @@
       <jump line="10" column="25" filename="$USER_HOME$/Projects/manhattan.coches.com/models/DataForm.php" />
       <jump line="15" column="9" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/models/validator/postalCodeBelongsToProvinceValidator.js" />
       <jump line="21" column="50" filename="$USER_HOME$/Projects/manhattan.coches.com/models/validator/PostalCodeBelongsToProvinceValidator.php" />
+      <jump line="147" column="52" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/sellDataForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIHtAaW5oZXJpdGRvY30KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNsaWVudFZhbGlkYXRlQXR0cmlidXRlKCRtb2RlbCwgJGF0dHJpYnV0ZSwgJHZpZXcpCiAgICB7CiAgICAgICAgJG1lc3NhZ2UgPSAkdGhpcy0+X2VuY29kZU1lc3NhZ2VGb3JDbGllbnRWYWxpZGF0aW9uKCk7CgogICAgICAgIHJldHVybiAndmFsaWRhdGVQb3N0YWxDb2RlQmVsb25nc1RvUHJvdmluY2UoYXR0cmlidXRlLCB2YWx1ZSwgbWVzc2FnZXMsIGRlZmVycmVkLCAkZm9ybSwgJyAuICRtZXNzYWdlIC4gJyk7JzsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>postalCodeBelongsToProvinceValidator.js</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQb3N0YWxDb2RlQmVsb25nc1RvUHJvdmluY2VWYWxpZGF0b3JcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB2YWx1ZQo=</text>
+      <register name="0" type="4">
+        <text>hasCrashText</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIHtAaW5oZXJpdGRvY30KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNsaWVudFZhbGlkYXRlQXR0cmlidXRlKCRtb2RlbCwgJGF0dHJpYnV0ZSwgJHZpZXcpCiAgICB7CiAgICAgICAgJG1lc3NhZ2UgPSAkdGhpcy0+X2VuY29kZU1lc3NhZ2VGb3JDbGllbnRWYWxpZGF0aW9uKCk7CgogICAgICAgIHJldHVybiAndmFsaWRhdGVQb3N0YWxDb2RlQmVsb25nc1RvUHJvdmluY2UoYXR0cmlidXRlLCB2YWx1ZSwgbWVzc2FnZXMsIGRlZmVycmVkLCAkZm9ybSwgJyAuICRtZXNzYWdlIC4gJyk7JzsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHlwZW9mbnVtYmVyJywgdHlwZW9mIHJhZGlvVmFsdWUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2pzL21vZGVscy92YWxpZGF0b3IvcG9zdGFsQ29kZUJlbG9uZ3NUb1Byb3ZpbmNlVmFsaWRhdG9yLmpzJywK</text>
+        <text encoding="base64">aW1wb3J0IFJhZGlvVGV4dEFyZWFWYWxpZGF0b3IgZnJvbSAidmFsaWRhdG9ycy5jb2NoZXMuY29tL3NyYy92YWxpZGF0b3JzL1JhZGlvVGV4dEFyZWFWYWxpZGF0b3IiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFBvc3RhbENvZGVWYWxpZGF0b3IgZnJvbSAidmFsaWRhdG9ycy5jb2NoZXMuY29tL3NyYy92YWxpZGF0b3JzL1Bvc3RhbENvZGVWYWxpZGF0b3IiOwo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEROSVBlcm1hbmVudFZhbGlkYXRvciBmcm9tICJ2YWxpZGF0b3JzLmNvY2hlcy5jb20vc3JjL3ZhbGlkYXRvcnMvRE5JUGVybWFuZW50VmFsaWRhdG9yIjsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvdmluY2VJZCcsIHByb3ZpbmNlSWRDb2RlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEFkdWx0V2l0aFBvcHVwVmFsaWRhdG9yIGZyb20gImFwcC9jdXN0b21WYWxpZGF0b3JzL0FkdWx0V2l0aFBvcHVwVmFsaWRhdG9yIjsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncG9zdGFsY29kZWZpcnN0JywgcHJvdmluY2VJZEZyb21Qb3N0YWxDb2RlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFBvc3RhbENvZGVWYWxpZGF0b3IKICAgIGZyb20gInZhbGlkYXRvcnMuY29jaGVzLmNvbS9zcmMvdmFsaWRhdG9ycy9Qb3N0YWxDb2RlVmFsaWRhdG9yIjsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcG9zdGFsQ29kZS5zdGFydHNXaXRoKHByb3ZpbmNlSWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEFkdWx0V2l0aFBvcHVwVmFsaWRhdG9yIGZyb20gImFwcC9jdXN0b21WYWxpZGF0b3JzL0FkdWx0V2l0aFBvcHVwVmFsaWRhdG9yIjsK</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIHtAaW5oZXJpdGRvY30KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNsaWVudFZhbGlkYXRlQXR0cmlidXRlKCRtb2RlbCwgJGF0dHJpYnV0ZSwgJHZpZXcpCiAgICB7CiAgICAgICAgJG1lc3NhZ2UgPSAkdGhpcy0+X2VuY29kZU1lc3NhZ2VGb3JDbGllbnRWYWxpZGF0aW9uKCk7CgogICAgICAgIHJldHVybiAndmFsaWRhdGVQb3N0YWxDb2RlQmVsb25nc1RvUHJvdmluY2UoYXR0cmlidXRlLCB2YWx1ZSwgbWVzc2FnZXMsIGRlZmVycmVkLCAkZm9ybSwgJyAuICRtZXNzYWdlIC4gJyk7JzsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEROSVBlcm1hbmVudFZhbGlkYXRvciBmcm9tICJ2YWxpZGF0b3JzLmNvY2hlcy5jb20vc3JjL3ZhbGlkYXRvcnMvRE5JUGVybWFuZW50VmFsaWRhdG9yIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2pzL21vZGVscy92YWxpZGF0b3IvcG9zdGFsQ29kZUJlbG9uZ3NUb1Byb3ZpbmNlVmFsaWRhdG9yLmpzJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJDL3Jlc3BvbnNpdmUtYWx0YQo=</text>
+        <text encoding="base64">aW1wb3J0IFBvc3RhbENvZGVWYWxpZGF0b3IgZnJvbSAidmFsaWRhdG9ycy5jb2NoZXMuY29tL3NyYy92YWxpZGF0b3JzL1Bvc3RhbENvZGVWYWxpZGF0b3IiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
