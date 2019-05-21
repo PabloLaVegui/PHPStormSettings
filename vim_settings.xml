@@ -1001,12 +1001,12 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="73" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/sellDataForm.js" timestamp="1558368130396">
-        <mark key="'" line="149" column="52" />
-        <mark key="[" line="152" column="61" />
-        <mark key="]" line="152" column="61" />
-        <mark key="." line="152" column="61" />
-        <mark key="^" line="152" column="61" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/sellDataForm.js" timestamp="1558425689590">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="156" column="97" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/README.md" timestamp="1535539396513">
         <mark key="[" line="6" column="0" />
@@ -2883,11 +2883,11 @@
         <mark key="^" line="53" column="57" />
         <mark key="." line="53" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/validators.coches.com/src/validators/RequiredWhenValidator.js" timestamp="1558368251429">
-        <mark key="[" line="22" column="45" />
-        <mark key="]" line="22" column="45" />
-        <mark key="^" line="22" column="45" />
-        <mark key="." line="22" column="45" />
+      <file name="$USER_HOME$/Projects/validators.coches.com/src/validators/RequiredWhenValidator.js" timestamp="1558425755909">
+        <mark key="[" line="4" column="53" />
+        <mark key="]" line="4" column="53" />
+        <mark key="^" line="4" column="53" />
+        <mark key="." line="4" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/domain/helpers/ModelDateHelper.php" timestamp="1519738474106">
         <mark key="[" line="24" column="22" />
@@ -5270,11 +5270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="50" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/sign/integration/signature/creator/SignatureCreatorSignatureServiceCreateIndividualTest.php" />
-      <jump line="256" column="73" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/sign/integration/signature/creator/SignatureCreatorSignatureServiceCreateIndividualTest.php" />
-      <jump line="245" column="74" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/sign/integration/signature/creator/SignatureCreatorSignatureServiceCreateIndividualTest.php" />
-      <jump line="201" column="56" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/sign/integration/signature/creator/SignatureCreatorSignatureServiceCreateIndividualTest.php" />
-      <jump line="200" column="50" filename="$USER_HOME$/Projects/manhattan.coches.com/tests/services/sign/integration/signature/creator/SignatureCreatorSignatureServiceCreateIndividualTest.php" />
       <jump line="31" column="6" filename="$USER_HOME$/Projects/manhattan.coches.com/config/rules/dependenciesRules/mocks/development/signaturit/DevelopmentMockSignaturitCochesComSignClient.php" />
       <jump line="136" column="38" filename="$USER_HOME$/Projects/manhattan.coches.com/config/rules/dependenciesRules/mocks/development/signaturit/DevelopmentMockSignaturitCochesComSignClient.php" />
       <jump line="103" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/vender_coche/data_form.js" />
@@ -5370,63 +5365,67 @@
       <jump line="15" column="9" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/models/validator/postalCodeBelongsToProvinceValidator.js" />
       <jump line="21" column="50" filename="$USER_HOME$/Projects/manhattan.coches.com/models/validator/PostalCodeBelongsToProvinceValidator.php" />
       <jump line="147" column="52" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/sellDataForm.js" />
+      <jump line="212" column="12" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/sellDataForm.js" />
+      <jump line="156" column="69" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/sellDataForm.js" />
+      <jump line="234" column="5" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/sellDataForm.js" />
+      <jump line="93" column="44" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/sellDataForm.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/js/src/trade/signUp/sellDataForm.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQb3N0YWxDb2RlQmVsb25nc1RvUHJvdmluY2VWYWxpZGF0b3JcPg==</text>
+        <text>pepe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB7CiAgICAgICAgLy8gICAgIC8vIGlucHV0TmFtZTogWydoYXNDcmFzaCcsICdoYXNDcmFzaFRleHQnXSwKICAgICAgICAvLyAgICAgaW5wdXROYW1lOiBbJ2hhc0NyYXNoVGV4dCddLAogICAgICAgIC8vICAgICB2YWxpZGF0b3JMaXN0OiBbCiAgICAgICAgLy8gICAgICAgICB7CiAgICAgICAgLy8gICAgICAgICAgICAgdmFsaWRhdG9yOiBSYWRpb1RleHRBcmVhVmFsaWRhdG9yLmdldEluc3RhbmNlKCksCiAgICAgICAgLy8gICAgICAgICAgICAgZXJyb3JBcmVhTmFtZTogJ2hhc0NyYXNoVGV4dCcsCiAgICAgICAgLy8gICAgICAgICAgICAgZXJyb3JNZXNzYWdlOiAnTmVjZXNpdGFtb3MgcXVlIGVzcGVjaWZpcXVlcyBsb3MgYWNjaWRlbnRlcyBzdWZyaWRvcycKICAgICAgICAvLyAgICAgICAgIH0KICAgICAgICAvLyAgICAgXQogICAgICAgIC8vIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWxpZGF0b3I6IFJlcXVpcmVkV2hlblZhbGlkYXRvci5nZXRJbnN0YW5jZShmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGFsZXJ0KCdhJyk7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vIGNvbnN0IHJhZGlvVmFsdWUgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZGF0YWZvcm0taGFzY3Jhc2gnKS52YWx1ZTsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ3ZhbHVlJywgdmFsdWUpOwogICAgICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygncmFkaW92YWx1ZScsIHJhZGlvVmFsdWUpOwogICAgICAgICAgICAgICAgICAgICAgICAvLyByZXR1cm4gdmFsdWUgPT09IHJhZGlvVmFsdWU7CiAgICAgICAgICAgICAgICAgICAgfSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">bGV0IGNyYXNoID0gKCkgPT4gewogICAgYWxlcnQgKCdmZmZmZicpOwp9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIXRoaXMuaXNFbXB0eSh2YWx1ZSk7Cg==</text>
+        <text encoding="base64">CmxldCBjcmFzaCA9ICgpID0+IHsKICAgIGFsZXJ0ICgnZmZmZmYnKTsKfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvLyBwZXBlKHJhZGlvVmFsdWUsIHRleHRBcmVhVmFsdWUpIHsKICAgIC8vICAgICBpZiAocmFkaW9WYWx1ZSA9PT0gJzEnKSB7CiAgICAvLyAgICAgICAgIHJldHVybiAhdGhpcy5pc0VtcHR5KHRleHRBcmVhVmFsdWUpOwogICAgLy8gICAgIH0KICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gcmV0dXJuIHZhbHVlID09PSByYWRpb1ZhbHVlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ3JhZGlvdmFsdWUnLCByYWRpb1ZhbHVlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfHwgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ3ZhbHVlJywgdmFsdWUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gY29uc3QgcmFkaW9WYWx1ZSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdkYXRhZm9ybS1oYXNjcmFzaCcpLnZhbHVlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoJ2EnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQb3N0YWxDb2RlQmVsb25nc1RvUHJvdmluY2VWYWxpZGF0b3JcPg==</last-search>
+      <last-search>pepe</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQb3N0YWxDb2RlQmVsb25nc1RvUHJvdmluY2VWYWxpZGF0b3JcPg==</last-pattern>
+      <last-pattern>pepe</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxTRUxMX0NBUl9WSUVXXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>array_map</entry>
         <entry encoding="base64">XDx1cmxlbmNvZGVcPg==</entry>
         <entry>provinc</entry>
         <entry>jsfuel</entry>
@@ -5446,6 +5445,7 @@
         <entry encoding="base64">XDxjbGVhck9wdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxGb3JtVmFsaWRhdG9yXD4=</entry>
         <entry encoding="base64">XDxQb3N0YWxDb2RlQmVsb25nc1RvUHJvdmluY2VWYWxpZGF0b3JcPg==</entry>
+        <entry>pepe</entry>
       </history-search>
       <history-cmd>
         <entry>119</entry>
