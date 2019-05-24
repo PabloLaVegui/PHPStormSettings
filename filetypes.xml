@@ -9,6 +9,7 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="devel" type="PLAIN_TEXT" />
       <mapping ext="master" type="PLAIN_TEXT" />
+      <mapping pattern="_creatorStablishedModal" type="Twig" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
