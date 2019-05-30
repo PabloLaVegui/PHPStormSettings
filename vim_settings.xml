@@ -1407,11 +1407,12 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/Positioning/DeleteAllClassifiedPositioningUseCaseTest.php" timestamp="1559144521194">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="22" column="83" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/Positioning/DeleteAllClassifiedPositioningUseCaseTest.php" timestamp="1559218826449">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="40" column="31" />
+        <mark key="]" line="26" column="57" />
+        <mark key="." line="26" column="57" />
+        <mark key="^" line="26" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/tpv.coches.com/src/domain/models/Payment.php" timestamp="1536309226837">
         <mark key="[" line="36" column="14" />
@@ -3307,7 +3308,7 @@
         <mark key="^" line="31" column="89" />
         <mark key="." line="31" column="89" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559144311440">
+      <file name="/Dummy.txt" timestamp="1559218887542">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/99bottles-of-php/test/BottleTest.php" timestamp="1555449676692">
@@ -3736,8 +3737,10 @@
         <mark key="^" line="32" column="27" />
         <mark key="." line="32" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Repositories/ClassifiedPositioningRepository.php" timestamp="1559146542052">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Repositories/ClassifiedPositioningRepository.php" timestamp="1559218505873">
         <mark key="'" line="188" column="13" />
+        <mark key="[" line="262" column="19" />
+        <mark key="]" line="262" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/ClamCardKata-Behat/behat.yml" timestamp="1538657028276">
         <mark key="[" line="7" column="15" />
@@ -5074,6 +5077,11 @@
         <mark key="^" line="41" column="48" />
         <mark key="." line="41" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/_carData.twig" timestamp="1558967977155">
+        <mark key="'" line="234" column="7" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="55" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/composer.json" timestamp="1500055108911">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="18" />
@@ -5386,8 +5394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="16" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/_personalData.twig" />
-      <jump line="100" column="16" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/_personalData.twig" />
       <jump line="130" column="16" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/_personalData.twig" />
       <jump line="142" column="16" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/_personalData.twig" />
       <jump line="154" column="16" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/trade/views/trade/_personalData.twig" />
@@ -5486,19 +5492,21 @@
       <jump line="159" column="31" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
       <jump line="162" column="34" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
       <jump line="188" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Repositories/ClassifiedPositioningRepository.php" />
+      <jump line="38" column="32" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/Positioning/DeleteAllClassifiedPositioningUseCaseTest.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/Positioning/DeleteAllClassifiedPositioningUseCaseTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJiYgJHRoaXMtPmdldENvbW1lcmNpYWxCZWdpbigpID09ICR2ZXJzaW9uLT5nZXRDb21tZXJjaWFsQmVnaW4oKQogICAgICAgICAgICAmJiAkdGhpcy0+Z2V0Q29tbWVyY2lhbEVuZCgpID09ICR2ZXJzaW9uLT5nZXRDb21tZXJjaWFsRW5kKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>puf</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>posicionar-todo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiAkdGhpcwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdW5wb3NpdGlvbkNsYXNzaWZpZWQoKQogICAgewogICAgICAgICR0aGlzLT5fdXJsYnVpbGRlZCAuPSBDbGFzc2lmaWVkUm91dGVzRW51bTo6VU5QT1NJVElPTl9DTEFTU0lGSUVEOwoKICAgICAgICByZXR1cm4gJHRoaXM7CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGZpbmRCeVVzZXJJZE9yRmFpbA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJiYgJHRoaXMtPmdldENvbW1lcmNpYWxCZWdpbigpID09ICR2ZXJzaW9uLT5nZXRDb21tZXJjaWFsQmVnaW4oKQogICAgICAgICAgICAmJiAkdGhpcy0+Z2V0Q29tbWVyY2lhbEVuZCgpID09ICR2ZXJzaW9uLT5nZXRDb21tZXJjaWFsRW5kKCk7Cg==</text>
