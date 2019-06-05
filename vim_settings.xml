@@ -532,12 +532,12 @@
         <mark key="." line="43" column="18" />
         <mark key="^" line="43" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/finance/financeback/test/Unit/Application/User/Action/CreateActionTest.php" timestamp="1559771301158">
-        <mark key="'" line="69" column="33" />
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="33" />
-        <mark key="." line="21" column="33" />
-        <mark key="^" line="21" column="33" />
+      <file name="$USER_HOME$/Code/finance/financeback/test/Unit/Application/User/Action/CreateActionTest.php" timestamp="1559773614082">
+        <mark key="'" line="88" column="54" />
+        <mark key="[" line="103" column="46" />
+        <mark key="]" line="103" column="46" />
+        <mark key="." line="103" column="46" />
+        <mark key="^" line="86" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/domain/Models/value/SavedSearchUrlTest.php" timestamp="1539090114560">
         <mark key="[" line="9" column="7" />
@@ -1892,6 +1892,12 @@
         <mark key="]" line="12" column="12" />
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/finance/financeback/src/Application/Exception/NotFoundException.php" timestamp="1559773742795">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/tpv.coches.com/tests/unit/application/usecases/CreateDraftUseCaseTest.php" timestamp="1532936355204">
         <mark key="[" line="28" column="26" />
@@ -4123,6 +4129,12 @@
         <mark key="^" line="10" column="51" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/finance/financeback/src/Application/Exception/AlreadyExistsException.php" timestamp="1559773419255">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/functional/infrastructure/repositories/DoctrineSegmentRepositoryTest.php" timestamp="1519229117258">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="12" />
@@ -4369,11 +4381,11 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="61" />
       </file>
-      <file name="$USER_HOME$/Code/finance/financeback/src/Domain/Infrastructure/User/UserRepository.php" timestamp="1559770012673">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="14" column="43" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Code/finance/financeback/src/Domain/Infrastructure/User/UserRepository.php" timestamp="1559773768768">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="31" />
+        <mark key="." line="20" column="31" />
+        <mark key="^" line="20" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/calendar-api.coches.com/environment/heroku.yml" timestamp="1520523298265">
         <mark key="[" line="5" column="22" />
@@ -5193,7 +5205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
       <jump line="22" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
       <jump line="55" column="27" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
       <jump line="109" column="38" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/components/mizonaDesign/classified/status/WStatusActions.php" />
@@ -5293,46 +5304,47 @@
       <jump line="74" column="0" filename="$USER_HOME$/Code/finance/financeback/src/Domain/Model/User/User.php" />
       <jump line="39" column="17" filename="$USER_HOME$/Code/finance/financeback/src/Domain/Model/User/User.php" />
       <jump line="81" column="0" filename="$USER_HOME$/Code/finance/financeback/src/Domain/Model/User/User.php" />
+      <jump line="86" column="54" filename="$USER_HOME$/Code/finance/financeback/test/Unit/Application/User/Action/CreateActionTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQYXJlbgo=</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RyaW5nIA==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlcXVlc3RCb2R5WydlbWFpbCddLAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWN0aW9uLT5fX2ludm9rZSgkcmVxdWVzdE1vY2ssIG5ldyBSZXNwb25zZSgpLCBbXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQYXJlbgo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIHBocERvY3VtZW50b3JcUmVmbGVjdGlvblxUeXBlc1xQYXJlbnRfOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHRocm93cyBcUmVmbGVjdGlvbkV4Y2VwdGlvbgogICAgICovCg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIHBocERvY3VtZW50b3JcUmVmbGVjdGlvblxUeXBlc1xTZWxmXzsK</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXFJlZmxlY3Rpb25FeGNlcHRpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJiYgc2VsZjo6YXNzCg==</text>
+        <text encoding="base64">dXNlIHBocERvY3VtZW50b3JcUmVmbGVjdGlvblxUeXBlc1xTZWxmXzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gc2VsZjo6YXNzZXJ0U2FtZSgkZW1haWwsICR1c2VyLT5nZXRFbWFpbCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFVzZXIgY29uc3RydWN0b3IuCiAgICAgKiBAcGFyYW0gc3RyaW5nICRpZAogICAgICogQHBhcmFtIHN0cmluZyAkZW1haWwKICAgICAqIEBwYXJhbSBzdHJpbmcgJHBhc3N3b3JkCiAgICAgKiBAcGFyYW0gRGF0ZVRpbWUgJGNyZWF0ZWRBdAogICAgICogQHBhcmFtIERhdGVUaW1lICRtb2RpZmllZEF0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgKICAgICAgICBzdHJpbmcgJGlkLAogICAgICAgIHN0cmluZyAkZW1haWwsCiAgICAgICAgc3RyaW5nICRwYXNzd29yZCwKICAgICAgICBEYXRlVGltZSAkY3JlYXRlZEF0LAogICAgICAgIERhdGVUaW1lICRtb2RpZmllZEF0CiAgICApIHsKICAgICAgICAkdGhpcy0+aWQgPSAkaWQ7CiAgICAgICAgJHRoaXMtPmVtYWlsID0gJGVtYWlsOwogICAgICAgICR0aGlzLT5wYXNzd29yZCA9ICRwYXNzd29yZDsKICAgICAgICAkdGhpcy0+Y3JlYXRlZEF0ID0gJGNyZWF0ZWRBdDsKICAgICAgICAkdGhpcy0+bW9kaWZpZWRBdCA9ICRtb2RpZmllZEF0OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBQYXJlbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXFJlZmxlY3Rpb25FeGNlcHRpb24K</text>
+        <text encoding="base64">dXNlIHBocERvY3VtZW50b3JcUmVmbGVjdGlvblxUeXBlc1xQYXJlbnRfOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
