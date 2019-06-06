@@ -2672,11 +2672,12 @@
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20190606073722.php" timestamp="1559817203643">
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
-        <mark key="^" line="12" column="17" />
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20190606073722.php" timestamp="1559819448821">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="98" column="29" />
+        <mark key="]" line="98" column="31" />
+        <mark key="." line="98" column="31" />
+        <mark key="^" line="98" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/myData/_change_email.twig" timestamp="1517829159923">
         <mark key="[" line="36" column="15" />
@@ -5435,8 +5436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="492" column="4" filename="$USER_HOME$/Projects/manhattan.coches.com/src/domainModel/response/condition/ReviewConditionResponse.php" />
-      <jump line="47" column="38" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/condition/views/condition/conditionsVatTable/_conditionsVatTable.twig" />
       <jump line="4" column="3" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/condition/views/condition/conditionsVatTable/_conditionsVatTable.twig" />
       <jump line="40" column="39" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/condition/views/condition/conditionsVatTable/_conditionsVatTable.twig" />
       <jump line="83" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/condition/views/condition/conditionsVatTable/_conditionsVatTable.twig" />
@@ -5535,46 +5534,48 @@
       <jump line="73" column="18" filename="$USER_HOME$/Projects/request.coches.com/vendor/cochescom/config.coches.com/src/config/builder/BuilderConfig.php" />
       <jump line="35" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/application/action/HelloAction.php" />
       <jump line="54" column="37" filename="$USER_HOME$/Projects/request.coches.com/tests/Functional/BaseTestCase.php" />
+      <jump line="85" column="12" filename="$USER_HOME$/Projects/request.coches.com/migrations/Version20190606073722.php" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/request.coches.com/migrations/Version20190606073722.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>has_credit</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>has_credit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWxldGVBbGxQb3NpdGlvbmluZ1VybFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbJ3Byb3ZpbmNlX2lkJywgJ3N0cmluZycsCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdub3RudWxsJyA9PiB0cnVlLAogICAgICAgICAgICBdCiAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICBbJ3R5cGUnLCAnZW51bScsCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdub3RudWxsJyA9PiB0cnVlLAogICAgICAgICAgICAgICAgJ3ZhbHVlcycgPT4gc2VsZjo6QVZBSUxBQkxFX1RZUEVTLAogICAgICAgICAgICBdCiAgICAgICAgXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd2YWx1ZXMnID0+IHNlbGY6OkFWQUlMQUJMRV9UWVBFUywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGFibGUtPmFkZENvbHVtbigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFibGUtPmFkZENvbHVtbignb2ZmZXJfcHJpY2UnLCAnZmxvYXQnLCBbCiAgICAgICAgICAgICdub3RudWxsJyA9PiB0cnVlLAogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFibGUtPmFkZENvbHVtbignZGlyZWN0X2RlYWxlcl9pZCcsICdzdHJpbmcnLCBbCiAgICAgICAgICAgICdub3RudWxsJyA9PiB0cnVlLAogICAgICAgIF0pOwogICAgICAgICR0YWJsZS0+YWRkQ29sdW1uKCdyZXNlbmRfZGVhbGVyX2lkJywgJ3N0cmluZycsIFsKICAgICAgICAgICAgJ25vdG51bGwnID0+IGZhbHNlLAogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAnJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFibGUtPmFkZENvbHVtbigndXNlcl9pZCcsICdzdHJpbmcnLCBbCiAgICAgICAgICAgICdub3RudWxsJyA9PiB0cnVlLAogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFibGUtPmFkZENvbHVtbignaWQnLCAnaW50ZWdlcicsIFsKICAgICAgICAgICAgJ2F1dG9pbmNyZW1lbnQnID0+IHRydWUsCiAgICAgICAgICAgICdub3RudWxsJyA9PiB0cnVlLAogICAgICAgIF0pOwogICAgICAgICR0YWJsZS0+YWRkQ29sdW1uKCdyZXF1ZXN0X2lkJywgJ3N0cmluZycsIFsKICAgICAgICAgICAgJ25vdG51bGwnID0+IHRydWUsCiAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGFibGUtPmFkZENvbHVtbignb2ZmZXJfcHJpY2UnLCAnZmxvYXQnLCBbCiAgICAgICAgICAgICdub3RudWxsJyA9PiB0cnVlLAogICAgICAgIF0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGFibGUtPmFkZENvbHVtbignZGlyZWN0X2RlYWxlcl9pZCcsICdzdHJpbmcnLCBbCiAgICAgICAgICAgICdub3RudWxsJyA9PiB0cnVlLAogICAgICAgIF0pOwogICAgICAgICR0YWJsZS0+YWRkQ29sdW1uKCdyZXNlbmRfZGVhbGVyX2lkJywgJ3N0cmluZycsIFsKICAgICAgICAgICAgJ25vdG51bGwnID0+IGZhbHNlLAogICAgICAgIF0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGFibGUtPmFkZENvbHVtbigndXNlcl9pZCcsICdzdHJpbmcnLCBbCiAgICAgICAgICAgICdub3RudWxsJyA9PiB0cnVlLAogICAgICAgIF0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
