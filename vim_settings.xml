@@ -223,12 +223,6 @@
         <mark key="^" line="67" column="38" />
         <mark key="." line="67" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/vendor/cochescom/config.coches.com/src/config/builder/BuilderConfig.php" timestamp="1559740757495">
-        <mark key="'" line="73" column="18" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/tpv.coches.com/src/infrastructure/paymentmethod/paypal/PaypalPaymentRequestTransformer.php" timestamp="1529594446360">
         <mark key="[" line="72" column="36" />
         <mark key="]" line="72" column="36" />
@@ -1300,9 +1294,9 @@
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/environments/.env.example" timestamp="1559750261405">
         <mark key="[" line="7" column="8" />
-        <mark key="]" line="8" column="15" />
-        <mark key="." line="8" column="15" />
-        <mark key="^" line="8" column="15" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/eurotax/MakeGateway.php" timestamp="1519137183702">
         <mark key="[" line="33" column="51" />
@@ -2677,6 +2671,12 @@
         <mark key="]" line="25" column="12" />
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20190606073722.php" timestamp="1559806958087">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="16" />
+        <mark key="." line="19" column="16" />
+        <mark key="^" line="19" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/myData/_change_email.twig" timestamp="1517829159923">
         <mark key="[" line="36" column="15" />
@@ -5301,12 +5301,6 @@
         <mark key="^" line="69" column="105" />
         <mark key="." line="69" column="105" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/public/.htaccess" timestamp="1559737007140">
-        <mark key="'" line="20" column="11" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/calendar-api/src/Infrastructure/Repository/UserRepository.php" timestamp="1510759978822">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="11" column="39" />
@@ -5544,7 +5538,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">REJfRFJJVkVSPXBkb19teXNxbApEQl9IT1NUPTEyNy4wLjAuMQpEQl9QT1JUPTMzMDYKREJfVVNFUj0KREJfUEFTU1dPUkQ9CkRCX05BTUU9cmVxdWVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
@@ -5559,28 +5553,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0U2FtZSgkbmFtZSwgJHJlc3BvbnNlQm9keVsnaGV5J10pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzIGRvd24oKSBtaWdyYXRpb24gaXMgYXV0by1nZW5lcmF0ZWQsIHBsZWFzZSBtb2RpZnkgaXQgdG8geW91ciBuZWVkcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICdhJzsK</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzIHVwKCkgbWlncmF0aW9uIGlzIGF1dG8tZ2VuZXJhdGVkLCBwbGVhc2UgbW9kaWZ5IGl0IHRvIHlvdXIgbmVlZHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIFNsaW1cSHR0cFxSZXF1ZXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0U2FtZSgkbmFtZSwgJHJlc3BvbnNlQm9keVsnaGV5J10pOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICdhJzsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFNsaW1cSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
