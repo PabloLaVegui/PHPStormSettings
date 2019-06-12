@@ -433,8 +433,8 @@
         <mark key="^" line="73" column="46" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" timestamp="1560265298216">
-        <mark key="'" line="71" column="26" />
+      <file name="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" timestamp="1560332198605">
+        <mark key="'" line="55" column="0" />
         <mark key="[" line="80" column="26" />
         <mark key="]" line="81" column="24" />
         <mark key="^" line="81" column="24" />
@@ -2199,12 +2199,6 @@
         <mark key="." line="105" column="33" />
         <mark key="^" line="105" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/README.md" timestamp="1560331305080">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="127" column="0" />
-      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Phetris/Movement/MovementFactory.php" timestamp="1502318636620">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="11" column="22" />
@@ -3602,9 +3596,9 @@
         <mark key="^" line="27" column="27" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/enum/RequestTypeEnum.php" timestamp="1559826171255">
-        <mark key="[" line="23" column="28" />
-        <mark key="]" line="23" column="30" />
+      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/enum/RequestTypeEnum.php" timestamp="1560331613940">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="23" column="52" />
         <mark key="." line="23" column="30" />
         <mark key="^" line="23" column="30" />
       </file>
@@ -5341,8 +5335,8 @@
         <mark key="^" line="32" column="3" />
         <mark key="." line="32" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" timestamp="1560267759491">
-        <mark key="'" line="69" column="4" />
+      <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" timestamp="1560331739575">
+        <mark key="'" line="52" column="52" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="34" column="41" />
@@ -5608,8 +5602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="3" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/condition/views/condition/create.twig" />
-      <jump line="209" column="32" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/condition/views/condition/create.php" />
       <jump line="7" column="16" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/condition/views/condition/create.php" />
       <jump line="259" column="49" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/condition/views/condition/create.php" />
       <jump line="95" column="37" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/condition/controllers/ConditionController.php" />
@@ -5708,49 +5700,52 @@
       <jump line="33" column="0" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/application/controller/RequestControllerTest.php" />
       <jump line="41" column="63" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" />
       <jump line="69" column="4" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" />
+      <jump line="52" column="52" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" />
+      <jump line="55" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>body con los errores</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>body con los errores</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWxldGVBbGxQb3NpdGlvbmluZ1VybFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">Q8OzZGlnbyA0MDAgKGJhZCByZXF1ZXN0KQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>O_STOCK = '
+O_PROMO = '</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgIGNvbnN0IEZPUk1VTEFSSU8xCiAgICBjb25zdCBDT0NIRVNfTlVFVgogICAgY29uc3QgTU9UT1JQQVNJT04KICAgIGNvbnN0IEFVVE9DSVRZID0gCiAgICBjb25zdCBFTENPTkZJREVOQwogICAgY29uc3QgRElBUklPTU9UT1IKICAgIGNvbnN0IFBVQkxJQ08gPSAnCiAgICBjb25zdCBBQ0VMRVJBID0gJwogICAgY29uc3QgQVVUT0ZBQ0lMID0KICAgIGNvbnN0IEFVVE9GQUNJTF9NCiAgICBjb25zdCBNT1RPUk1FUkNBRAogICAgY29uc3QgQVVUT0JJTEQgPSAKICAgIGNvbnN0IEJCVkEgPSAnQkJWCiAgICBjb25zdCBDT0NIRVNfTlVFVgogICAgY29uc3QgQ09DSEVTX05VRVY=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJzdGF0dXMiOiAiZXN0YWRvIHBvbGljaWFsIiwgICAgICAgICAgICAgICAgUmVxdWVyaWRvLiBWZXIgbcOhcyBhYmFqbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9IFskZmllbGROYW1lID0+IDQ0NDRdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZmllbGROYW1lID0gJ3JlJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YSA9IFskZmllbGROYW1lID0+IDQ0NDRdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkZmllbGROYW1lID0gJ3JlJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -5799,13 +5794,13 @@
         <entry>100</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>sp</entry>
-        <entry>q</entry>
         <entry>wa\</entry>
         <entry>18</entry>
         <entry>w</entry>
         <entry>57</entry>
-        <entry>wa</entry>
         <entry>vs</entry>
+        <entry>wa</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
