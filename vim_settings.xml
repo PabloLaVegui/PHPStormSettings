@@ -39,7 +39,7 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="/a.dummy" timestamp="1560160402980">
+      <file name="/a.dummy" timestamp="1560332702606">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris/src/core/Event/EventListener.php" timestamp="1499720663854">
@@ -710,6 +710,9 @@
         <mark key="^" line="9" column="53" />
         <mark key="." line="9" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20190606073722_create_request_table.php" timestamp="1560333307474">
+        <mark key="'" line="86" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Dto/AuthorisedDealer/LocationDTO.php" timestamp="1509098367369">
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="20" />
@@ -1015,6 +1018,9 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="0" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core.php" timestamp="1560332873701">
+        <mark key="'" line="1022" column="7" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/cows-and-code-projects/php-phpunit-xdebug-phpstorm-docker/composer.json" timestamp="1498296103178">
         <mark key="[" line="10" column="1" />
@@ -3406,7 +3412,7 @@
         <mark key="^" line="31" column="89" />
         <mark key="." line="31" column="89" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560267452711">
+      <file name="/Dummy.txt" timestamp="1560333253222">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/99bottles-of-php/test/BottleTest.php" timestamp="1555449676692">
@@ -3805,6 +3811,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="5" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20190612094440_change_status_column_type_in_request_table.php" timestamp="1560333469966">
+        <mark key="'" line="23" column="14" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="42" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/integration/CrmMiddlewareIntegrationTestCase.php" timestamp="1525417451674">
         <mark key="[" line="18" column="46" />
@@ -4279,6 +4292,12 @@
         <mark key="]" line="3" column="27" />
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/enum/RequestStatusEnum.php" timestamp="1560333282880">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/eurotax/MakeGatewayCommand.php" timestamp="1521026708733">
         <mark key="[" line="3" column="0" />
@@ -5602,9 +5621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="16" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/condition/views/condition/create.php" />
-      <jump line="259" column="49" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/condition/views/condition/create.php" />
-      <jump line="95" column="37" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/condition/controllers/ConditionController.php" />
       <jump line="46" column="10" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/condition/controllers/ConditionController.php" />
       <jump line="218" column="36" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/condition/controllers/ConditionController.php" />
       <jump line="212" column="35" filename="$USER_HOME$/Projects/manhattan.coches.com/modules/condition/controllers/ConditionController.php" />
@@ -5702,56 +5718,58 @@
       <jump line="69" column="4" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" />
       <jump line="52" column="52" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" />
       <jump line="55" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
+      <jump line="1022" column="7" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core.php" />
+      <jump line="23" column="14" filename="$USER_HOME$/Projects/request.coches.com/migrations/Version20190612094440_change_status_column_type_in_request_table.php" />
+      <jump line="86" column="6" filename="$USER_HOME$/Projects/request.coches.com/migrations/Version20190606073722_create_request_table.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>body con los errores</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdkZWZhdWx0JyA9PiBSZXF1ZXN0U3RhdHVzRW51bTo6VU5SRUFELAo=</text>
       </register>
       <register name="-" type="4">
-        <text>body con los errores</text>
+        <text>integer</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWxldGVBbGxQb3NpdGlvbmluZ1VybFw+</text>
+        <text encoding="base64">XDxzZXRUeXBlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q8OzZGlnbyA0MDAgKGJhZCByZXF1ZXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGFibGUgPSAkc2NoZW1hLT5nZXRUYWJsZSgncmVxdWVzdCcpOwogICAgICAgICR0YWJsZS0+Z2V0Q29sdW1uKCdzdGFzdHVzJykKICAgICAgICAgICAgLT5zZXRUeXBlKFR5cGU6OmdldFR5cGUoJ2ludGVnZXInKSkKICAgICAgICAgICAgLT5zZXRPcHRpb25zKFsKICAgICAgICAgICAgICAgICdub3RudWxsJyA9PiB0cnVlLAogICAgICAgICAgICAgICAgJ2RlZmF1bHQnID0+IFJlcXVlc3RTdGF0dXNFbnVtOjpVTlJFQUQsCiAgICAgICAgICAgIF0pOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>O_STOCK = '
-O_PROMO = '</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdkZWZhdWx0JyA9PiBSZXF1ZXN0U3RhdHVzRW51bTo6VU5SRUFELAo=</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAgIGNvbnN0IEZPUk1VTEFSSU8xCiAgICBjb25zdCBDT0NIRVNfTlVFVgogICAgY29uc3QgTU9UT1JQQVNJT04KICAgIGNvbnN0IEFVVE9DSVRZID0gCiAgICBjb25zdCBFTENPTkZJREVOQwogICAgY29uc3QgRElBUklPTU9UT1IKICAgIGNvbnN0IFBVQkxJQ08gPSAnCiAgICBjb25zdCBBQ0VMRVJBID0gJwogICAgY29uc3QgQVVUT0ZBQ0lMID0KICAgIGNvbnN0IEFVVE9GQUNJTF9NCiAgICBjb25zdCBNT1RPUk1FUkNBRAogICAgY29uc3QgQVVUT0JJTEQgPSAKICAgIGNvbnN0IEJCVkEgPSAnQkJWCiAgICBjb25zdCBDT0NIRVNfTlVFVgogICAgY29uc3QgQ09DSEVTX05VRVY=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJzdGF0dXMiOiAiZXN0YWRvIHBvbGljaWFsIiwgICAgICAgICAgICAgICAgUmVxdWVyaWRvLiBWZXIgbcOhcyBhYmFqbwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzIGRvd24oKSBtaWdyYXRpb24gaXMgYXV0by1nZW5lcmF0ZWQsIHBsZWFzZSBtb2RpZnkgaXQgdG8geW91ciBuZWVkcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIEF1dG8tZ2VuZXJhdGVkIE1pZ3JhdGlvbjogUGxlYXNlIG1vZGlmeSB0byB5b3VyIG5lZWRzIQogKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VmVyc2lvbjIwMTkwNjEyMDk0NDQwX2NoYW5nZV9zdGF0dXNfY29sdW1uX3R5cGVfaW5fcmVxdWVzdF90YWJsZS5waHAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9IFskZmllbGROYW1lID0+IDQ0NDRdOwo=</text>
+        <text encoding="base64">Ci8vICAgICAgICAkdGFibGUtPmNoYW5nZUNvbHVtbignc3RhdHVzJywgWwovLyAgICAgICAgICAgICdub3RudWxsJyA9PiB0cnVlLAovLyAgICAgICAgXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZmllbGROYW1lID0gJ3JlJzsK</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXERCQUxcVHlwZXNcSW50ZWdlclR5cGU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWxldGVBbGxQb3NpdGlvbmluZ1VybFw+</last-search>
+      <last-search encoding="base64">XDxzZXRUeXBlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWxldGVBbGxQb3NpdGlvbmluZ1VybFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRUeXBlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxTRUxMX0NBUl9WSUVXXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -5759,7 +5777,6 @@ O_PROMO = '</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFmZmljWW91ckV4cGVuc2VzUHJpY2VcPg==</entry>
         <entry>taxinfo</entry>
         <entry encoding="base64">XDx0YXhJbmZvXD4=</entry>
         <entry>textarea</entry>
@@ -5779,6 +5796,7 @@ O_PROMO = '</text>
         <entry encoding="base64">XDxnZXRVbnBvc2l0aW9uaW5nVXJsXD4=</entry>
         <entry encoding="base64">XDxzZWFyY2hQb3NpdGlvbmluZ1w+</entry>
         <entry encoding="base64">XDxkZWxldGVBbGxQb3NpdGlvbmluZ1VybFw+</entry>
+        <entry encoding="base64">XDxzZXRUeXBlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>98</entry>
@@ -5798,9 +5816,9 @@ O_PROMO = '</text>
         <entry>18</entry>
         <entry>w</entry>
         <entry>57</entry>
+        <entry>q</entry>
         <entry>vs</entry>
         <entry>wa</entry>
-        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
