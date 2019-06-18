@@ -911,6 +911,13 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" timestamp="1560850721465">
+        <mark key="'" line="108" column="94" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="101" />
+        <mark key="^" line="190" column="16" />
+        <mark key="." line="191" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/eurotax/ModelGatewayQuery.php" timestamp="1521022859715">
         <mark key="[" line="17" column="52" />
         <mark key="]" line="17" column="72" />
@@ -5802,9 +5809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/UnPositioningController.php" />
-      <jump line="18" column="9" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/UnPositioningController.php" />
-      <jump line="44" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/UnPositioningController.php" />
       <jump line="318" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedListController.php" />
       <jump line="169" column="10" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedListController.php" />
       <jump line="175" column="51" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedListController.php" />
@@ -5902,19 +5906,22 @@
       <jump line="18" column="24" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/doctrine/Repositories/VORequests/DoctrineVORequestCallDataRepository.php" />
       <jump line="444" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/dependencies/rules.php" />
       <jump line="62" column="59" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/dependencies/rules.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
+      <jump line="107" column="99" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
+      <jump line="108" column="94" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UmV3cml0ZXJ1bGUgXlBheXBhbC9jb25maXJtLyguKikvJCBpbmRleC5waHA/cj1taXpvbmFDb250cm9sbGVycy9QYXlwYWwvY29uZmlybSZvcmRlcklkPSQxIFtRU0EsTkMsTF0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEb2N0cmluZVZPUmVxdWVzdENhbGxEYXRhUmVwb3NpdG9yeVw+</text>
+        <text>confirm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXFJlc291cmNlbm90Rm91bmRFeGNlcHRpb24K</text>
+        <text encoding="base64">UmV3cml0ZXJ1bGUgXlBheXBhbC9jb25maXJtLyguKikvJCBpbmRleC5waHA/cj1taXpvbmFDb250cm9sbGVycy9QYXlwYWwvY29uZmlybSZvcmRlcklkPSQxIFtRU0EsTkMsTF0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -5948,17 +5955,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEb2N0cmluZVZPUmVxdWVzdENhbGxEYXRhUmVwb3NpdG9yeVw+</last-search>
+      <last-search>confirm</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEb2N0cmluZVZPUmVxdWVzdENhbGxEYXRhUmVwb3NpdG9yeVw+</last-pattern>
+      <last-pattern>confirm</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxTRUxMX0NBUl9WSUVXXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93UG9wVXBcPg==</entry>
         <entry encoding="base64">XDxpdHBQcmljZVw+</entry>
         <entry encoding="base64">XDxyZXZpZXdVcmxcPg==</entry>
         <entry encoding="base64">XDxDUkVBVEVfTEFZT1VUXD4=</entry>
@@ -5978,6 +5984,7 @@
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxNYXJrQXNSZWFkVXNlQ2FzZVw+</entry>
         <entry encoding="base64">XDxEb2N0cmluZVZPUmVxdWVzdENhbGxEYXRhUmVwb3NpdG9yeVw+</entry>
+        <entry>confirm</entry>
       </history-search>
       <history-cmd>
         <entry>126</entry>
