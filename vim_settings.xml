@@ -396,11 +396,11 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/finance/financeback/src/Application/User/Action/CreateAction.php" timestamp="1561485410451">
-        <mark key="[" line="43" column="10" />
-        <mark key="]" line="45" column="46" />
-        <mark key="^" line="45" column="46" />
-        <mark key="." line="45" column="46" />
+      <file name="$USER_HOME$/Code/finance/financeback/src/Application/User/Action/CreateAction.php" timestamp="1561486084729">
+        <mark key="[" line="28" column="54" />
+        <mark key="]" line="29" column="37" />
+        <mark key="^" line="29" column="37" />
+        <mark key="." line="29" column="37" />
       </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/src/Board/Board.php" timestamp="1500411944283">
         <mark key="[" line="32" column="33" />
@@ -551,6 +551,13 @@
         <mark key="]" line="43" column="18" />
         <mark key="." line="43" column="18" />
         <mark key="^" line="43" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/finance/financeback/test/Unit/Application/User/Action/CreateActionTest.php" timestamp="1561486359727">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="100" column="16" />
+        <mark key="]" line="100" column="23" />
+        <mark key="^" line="100" column="23" />
+        <mark key="." line="100" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/domain/Models/value/SavedSearchUrlTest.php" timestamp="1539090114560">
         <mark key="[" line="9" column="7" />
@@ -5290,10 +5297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="340" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/Car/FotoCoche.php" />
-      <jump line="2159" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/Car/Car.php" />
-      <jump line="2141" column="33" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/Car/Car.php" />
-      <jump line="2182" column="31" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/domain/activeRecordModels/Car/Car.php" />
       <jump line="127" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/ClassifiedViewDTO.php" />
       <jump line="16" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/ClassifiedViewDTO.php" />
       <jump line="63" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/value/Image.php" />
@@ -5390,46 +5393,50 @@
       <jump line="34" column="0" filename="$USER_HOME$/Code/cochescom/gallinero.coches.com/application/action/ListUsersAction.php" />
       <jump line="44" column="4" filename="$USER_HOME$/Code/cochescom/gallinero.coches.com/src/service/UserFinder.php" />
       <jump line="30" column="18" filename="$USER_HOME$/Code/cochescom/gallinero.coches.com/application/action/PopulateAction.php" />
+      <jump line="74" column="4" filename="$USER_HOME$/Code/finance/financeback/test/Unit/Application/User/Action/CreateActionTest.php" />
+      <jump line="94" column="55" filename="$USER_HOME$/Code/finance/financeback/test/Unit/Application/User/Action/CreateActionTest.php" />
+      <jump line="121" column="24" filename="$USER_HOME$/Code/finance/financeback/test/Unit/Application/User/Action/CreateActionTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/finance/financeback/test/Unit/Application/User/Action/CreateActionTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>FromRequest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdE1vY2sgPSAkdGhpcy0+Z2V0UmVxdWVzdE1vY2soJGVtYWlsLCAkcGFzc3dvcmQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>FromRequest</text>
+        <text>CreateUserUseCase</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9ICRyZXF1ZXN0LT5nZXRIZWFkZXIoJ1BIUF9BVVRIX1VTRVInKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdE1vY2sgPSAkdGhpcy0+Z2V0UmVxdWVzdE1vY2soJGVtYWlsLCAkcGFzc3dvcmQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogYXV0aAo=</text>
+        <text encoding="base64">ICAgIC8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzIGRvd24oKSBtaWdyYXRpb24gaXMgYXV0by1nZW5lcmF0ZWQsIHBsZWFzZSBtb2RpZnkgaXQgdG8geW91ciBuZWVkcwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RtdCA9ICR0aGlzLT5jb25uZWN0aW9uLT5wcmVwYXJlKCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogYXV0aAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFibGUgPSAkc2NoZW1hLT5nZXRUYWJsZSgnY3JtX3VzdWFyaW8nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFibGUtPgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzIGRvd24oKSBtaWdyYXRpb24gaXMgYXV0by1nZW5lcmF0ZWQsIHBsZWFzZSBtb2RpZnkgaXQgdG8geW91ciBuZWVkcwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
