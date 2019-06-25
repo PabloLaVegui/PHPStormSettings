@@ -258,6 +258,12 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
+      <file name="$USER_HOME$/Code/finance/financeback/src/Domain/Model/Auth/Token.php" timestamp="1561500124883">
+        <mark key="[" line="36" column="40" />
+        <mark key="]" line="37" column="37" />
+        <mark key="^" line="37" column="37" />
+        <mark key="." line="37" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/Access/SendRecoverPasswordEmailUseCaseTest.php" timestamp="1517841847520">
         <mark key="[" line="24" column="85" />
         <mark key="]" line="24" column="85" />
@@ -906,6 +912,12 @@
         <mark key="]" line="12" column="54" />
         <mark key="^" line="12" column="54" />
         <mark key="." line="12" column="54" />
+      </file>
+      <file name="$USER_HOME$/Code/finance/financeback/src/Infrastructure/Doctrine/Migrations/Version20190625214223.php" timestamp="1561500488997">
+        <mark key="[" line="40" column="33" />
+        <mark key="]" line="40" column="37" />
+        <mark key="^" line="40" column="37" />
+        <mark key="." line="40" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/authorizedDealer/authDealerInfoData/partials/_free_dealer_info.twig" timestamp="1516791067748">
         <mark key="[" line="9" column="41" />
@@ -2754,6 +2766,12 @@
         <mark key="." line="5" column="6" />
         <mark key="^" line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/Code/finance/financeback/src/Domain/Infrastructure/Auth/TokenCommand.php" timestamp="1561500224014">
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="45" />
+        <mark key="^" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/crmmigrations/src/application/dtos/Requests/CreateLocalRequestRequest.php" timestamp="1540911473142">
         <mark key="[" line="160" column="0" />
         <mark key="]" line="160" column="0" />
@@ -3000,6 +3018,12 @@
         <mark key="^" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/finance/financeback/src/Domain/Application/User/UseCase/CreateTokenUseCase.php" timestamp="1561500561810">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+      </file>
       <file name="$USER_HOME$/Amazon Drive/Code/phetris-v3/test/Phetris/NewPhetrisTest.php" timestamp="1501015916871">
         <mark key="[" line="21" column="8" />
         <mark key="]" line="21" column="6" />
@@ -3030,6 +3054,7 @@
         <mark key="." line="21" column="16" />
         <mark key="^" line="21" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/finance/financeback/README.md" timestamp="1561498814288" />
       <file name="$USER_HOME$/Code/php-observer/src/Machine.php" timestamp="1490734867656">
         <mark key="[" line="30" column="34" />
         <mark key="]" line="30" column="34" />
@@ -3228,7 +3253,7 @@
         <mark key="^" line="31" column="89" />
         <mark key="." line="31" column="89" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561036229834">
+      <file name="/Dummy.txt" timestamp="1561500181792">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/99bottles-of-php/test/BottleTest.php" timestamp="1555449676692">
@@ -3849,6 +3874,12 @@
         <mark key="]" line="7" column="7" />
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
+      </file>
+      <file name="$USER_HOME$/Code/finance/financeback/src/Infrastructure/Doctrine/Mappings/Lavegui.FinanceBack.Domain.Model.Auth.Token.dcm.yml" timestamp="1561500519782">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+        <mark key="^" line="18" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/environments/env.staging" timestamp="1540820653791">
         <mark key="[" line="19" column="0" />
@@ -5400,43 +5431,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>str</text>
+        <text>until_timestamp</text>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>until_timestamp</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdE1vY2sgPSAkdGhpcy0+Z2V0UmVxdWVzdE1vY2soJGVtYWlsLCAkcGFzc3dvcmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBcRGF0ZVRpbWUgJHZhbGlkTGltaXQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhbGlkTGltaXQ6CiAgICAgIHR5cGU6IGRhdGV0aW1lCiAgICAgIGNvbHVtbjogbW9kaWZpZWRfYXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRJZCgpOiBzdHJpbmcKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmlkOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldFVzZXJJZCgpOiBzdHJpbmcKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnVzZXJJZDsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUb2tlbigpOiBzdHJpbmcKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnRva2VuOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBcRGF0ZVRpbWUKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldFZhbGlkTGltaXQoKTogXERhdGVUaW1lCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT52YWxpZExpbWl0OwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzIGRvd24oKSBtaWdyYXRpb24gaXMgYXV0by1nZW5lcmF0ZWQsIHBsZWFzZSBtb2RpZnkgaXQgdG8geW91ciBuZWVkcwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogYXV0aAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzIGRvd24oKSBtaWdyYXRpb24gaXMgYXV0by1nZW5lcmF0ZWQsIHBsZWFzZSBtb2RpZnkgaXQgdG8geW91ciBuZWVkcwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzIHVwKCkgbWlncmF0aW9uIGlzIGF1dG8tZ2VuZXJhdGVkLCBwbGVhc2UgbW9kaWZ5IGl0IHRvIHlvdXIgbmVlZHMK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -5492,8 +5523,8 @@
         <entry>h hi</entry>
         <entry>x</entry>
         <entry>w</entry>
-        <entry>q</entry>
         <entry>vs</entry>
+        <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
