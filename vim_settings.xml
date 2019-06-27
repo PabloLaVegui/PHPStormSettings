@@ -3644,7 +3644,7 @@
         <mark key="." line="23" column="4" />
         <mark key="^" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" timestamp="1561638444538">
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" timestamp="1561638884015">
         <mark key="'" line="473" column="21" />
         <mark key="[" line="637" column="12" />
         <mark key="]" line="637" column="15" />
@@ -4330,8 +4330,8 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Solicitud.php" timestamp="1561637798166">
-        <mark key="'" line="1306" column="23" />
+      <file name="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Solicitud.php" timestamp="1561639277549">
+        <mark key="'" line="930" column="23" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="45" />
         <mark key="^" line="1415" column="15" />
@@ -5919,6 +5919,7 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVNConsumer.php" timestamp="1561639397608" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/tpv.coches.com/src/infrastructure/paymentmethod/PaymentMethodFactory.php" timestamp="1533039457850">
         <mark key="[" line="48" column="12" />
         <mark key="]" line="48" column="12" />
@@ -5939,8 +5940,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
-      <jump line="107" column="99" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
       <jump line="108" column="94" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
       <jump line="186" column="102" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
       <jump line="176" column="74" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
@@ -6039,6 +6038,8 @@
       <jump line="491" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" />
       <jump line="1306" column="23" filename="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Solicitud.php" />
       <jump line="473" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" />
+      <jump line="940" column="79" filename="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Solicitud.php" />
+      <jump line="930" column="23" filename="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Solicitud.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6048,7 +6049,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcmVnaXN0ZXJXZWJVc2VyXD4=</text>
+        <text encoding="base64">XDxzZXRDb2NoZVZOXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgICAgICAkdGhpcy0+X2xvZ2dlci0+cmVnaXN0ZXJFcnJvcigkZXJyb3JNZXNzYWdlIC4gJGUtPmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIH0K</text>
@@ -6085,9 +6086,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcmVnaXN0ZXJXZWJVc2VyXD4=</last-search>
+      <last-search encoding="base64">XDxzZXRDb2NoZVZOXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcmVnaXN0ZXJXZWJVc2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRDb2NoZVZOXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxTRUxMX0NBUl9WSUVXXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -6095,8 +6096,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNYXJrQXNSZWFkVXNlQ2FzZVw+</entry>
-        <entry encoding="base64">XDxEb2N0cmluZVZPUmVxdWVzdENhbGxEYXRhUmVwb3NpdG9yeVw+</entry>
         <entry>confirm</entry>
         <entry>notify</entry>
         <entry>success</entry>
@@ -6115,6 +6114,8 @@
         <entry encoding="base64">XDxfYnVpbGRDcmVhdG9yT3JkZXJWTlJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxncmFiYXJTb2xpY2l0dWRWTlw+</entry>
         <entry encoding="base64">XDxfcmVnaXN0ZXJXZWJVc2VyXD4=</entry>
+        <entry encoding="base64">XDx0eXBtb2RjZFw+</entry>
+        <entry encoding="base64">XDxzZXRDb2NoZVZOXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1263</entry>
