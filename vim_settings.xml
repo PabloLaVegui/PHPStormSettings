@@ -915,6 +915,9 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/garbage/autodescuento.com/admin/altausuario.php" timestamp="1562156714059">
+        <mark key="'" line="450" column="77" />
+      </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/modules/condition/views/condition/stablishedModal/_establishedModalBase.twig" timestamp="1558691032182">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="37" />
@@ -5909,7 +5912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="19" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/commands/VORequestCallsCommand.php" />
       <jump line="113" column="17" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Consumers/VORequestCallDataConsumer.php" />
       <jump line="78" column="30" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Consumers/VORequestCallDataConsumer.php" />
       <jump line="28" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/commands/PositionClassifiedsCommand.php" />
@@ -6009,6 +6011,7 @@
       <jump line="40" column="18" filename="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/VN/Request/GuzzleVNRequestRepositoryTest.php" />
       <jump line="100" column="0" filename="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/VN/Request/GuzzleVNRequestRepositoryTest.php" />
       <jump line="190" column="93" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateRemoteRequestUseCase.php" />
+      <jump line="450" column="77" filename="$USER_HOME$/Projects/garbage/autodescuento.com/admin/altausuario.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -6018,7 +6021,7 @@
         <text>fopen('php://temp', 'r+')</text>
       </register>
       <register name="/" type="4">
-        <text>altausu</text>
+        <text>login</text>
       </register>
       <register name="0" type="4">
         <text>new Body(fopen('php://temp', 'r+')</text>
@@ -6055,9 +6058,9 @@
       </register>
     </registers>
     <search>
-      <last-search>altausu</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>altausu</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxTRUxMX0NBUl9WSUVXXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -6065,7 +6068,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBdXRoRGVhbGVyUmVwb3NpdG9yeVw+</entry>
         <entry encoding="base64">XDxfZXZhbHVhdGVIYXNSZWNvcmRpbmdcPg==</entry>
         <entry encoding="base64">XDxvY3VycmVkT25cPg==</entry>
         <entry encoding="base64">XDxDcmVhdGVSZXF1ZXN0UmVxdWVzdFw+</entry>
@@ -6085,6 +6087,7 @@
         <entry encoding="base64">XDxyZXF1ZXN0SWRcPg==</entry>
         <entry encoding="base64">XDxfZ2V0Q3JlYXRlVk5SZXF1ZXN0UmVxdWVzdFw+</entry>
         <entry>altausu</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>wwa</entry>
