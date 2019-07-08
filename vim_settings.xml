@@ -49,8 +49,8 @@
         <mark key="^" line="12" column="70" />
         <mark key="." line="12" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/models/User/User.php" timestamp="1562597354988">
-        <mark key="'" line="313" column="21" />
+      <file name="$USER_HOME$/Projects/coches.com/models/User/User.php" timestamp="1562598861871">
+        <mark key="'" line="947" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/application/useCases/VN/Request/CreateRequestUseCase.php" timestamp="1561984688840">
         <mark key="[" line="26" column="21" />
@@ -65,15 +65,17 @@
         <mark key="^" line="1" column="52" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ImportAuthorisedDealerVNCommand.php" timestamp="1562594938689">
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ImportAuthorisedDealerVNCommand.php" timestamp="1562599023385">
         <mark key="'" line="41" column="33" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="108" column="32" />
+        <mark key="]" line="108" column="88" />
+        <mark key="." line="108" column="88" />
+        <mark key="^" line="108" column="88" />
       </file>
       <file name="/PHP Console" timestamp="1562594072241">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Usuario.php" timestamp="1562598951387" />
       <file name="$USER_HOME$/Projects/garbage/autodescuento.com/admin/altausuario.php" timestamp="1562156714059">
         <mark key="'" line="450" column="77" />
       </file>
@@ -124,7 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="40" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/VN/Request/VNRequest.php" />
       <jump line="104" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/VN/Request/VNRequest.php" />
       <jump line="203" column="60" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/VN/Request/VNRequest.php" />
       <jump line="186" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/VN/Request/VNRequest.php" />
@@ -224,49 +225,50 @@
       <jump line="16" column="21" filename="$USER_HOME$/Projects/coches.com/models/User/User.php" />
       <jump line="294" column="20" filename="$USER_HOME$/Projects/coches.com/models/User/User.php" />
       <jump line="313" column="21" filename="$USER_HOME$/Projects/coches.com/models/User/User.php" />
+      <jump line="947" column="6" filename="$USER_HOME$/Projects/coches.com/models/User/User.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;\n&quot;</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>relatio</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgkbmFtZSwgJHJ1bm5lcikK</text>
+        <text encoding="base64">ICAgICAgICAkdXNlciA9IG5ldyBVc2VyKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdXNlci0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFVVSURfQVNTSUdOX1RPX0FVVEhfREVBTEVSX0VSUk9SID0gJ0Vycm9yIGFsIGVzdGFibGVjZXIgImF1dGhvcmlzZWRfZGVhbGVyX2lkIiBlbiBlbCBjb25jZXNpb25hcmlvOiAlcyc7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IFVVSURfQVNTSUdOX1RPX0FVVEhfREVBTEVSX0VSUk9SID0gJ0Vycm9yIGFsIGVzdGFibGVjZXIgImF1dGhvcmlzZWRfZGVhbGVyX2lkIiBlbiBlbCBjb25jZXNpb25hcmlvOiAlcyc7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IE1BWF9MRU5HVEhfVVVJRF9IQVNIID0gMjU1Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIHNlcnZpY2VzXEhhc2hHZW5lcmF0b3I7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IE1BWF9MRU5HVEhfVVVJRF9IQVNIID0gMjU1Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHZuRGVhbGVyLT5nZXRBdXRob3Jpc2VkRGVhbGVySWQoKSwK</text>
+        <text encoding="base64">dXNlIHNlcnZpY2VzXEhhc2hHZW5lcmF0b3I7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGludCAkbWF4TGVuZ3RoCiAgICAgKiBAcmV0dXJuIG51bWJlcgogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIGdlbmVyYXRlVVVJRCgkbWF4TGVuZ3RoKQogICAgewogICAgICAgIHJldHVybiBIYXNoR2VuZXJhdG9yOjp0YWtlKCktPmdlbmVyYXRlV2l0aFByZWRlZmluZWRMZW5ndGgoJG1heExlbmd0aCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHZuRGVhbGVyLT5nZXRBdXRob3Jpc2VkRGVhbGVySWQoKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBEZWFsZXJWTiAkdm5EZWFsZXIKICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gZXN0YWJsaXNoQXV0aG9yaXNlZERlYWxlcklkKERlYWxlclZOICR2bkRlYWxlcikKICAgIHsKICAgICAgICBpZiAoZW1wdHkoJHZuRGVhbGVyLT5nZXRBdXRob3Jpc2VkRGVhbGVySWQoKSkpIHsKICAgICAgICAgICAgJHV1aWQgPSAkdGhpcy0+Z2VuZXJhdGVVVUlEKHNlbGY6Ok1BWF9MRU5HVEhfVVVJRF9IQVNIKTsKICAgICAgICAgICAgJHZuRGVhbGVyLT5zZXRBdXRob3Jpc2VkRGVhbGVySWQoJHV1aWQpOwoKICAgICAgICAgICAgaWYgKCEkdm5EZWFsZXItPnNhdmUoKSkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbihzcHJpbnRmKHNlbGY6OlVVSURfQVNTSUdOX1RPX0FVVEhfREVBTEVSX0VSUk9SLCAkdm5EZWFsZXItPmdldElkKCkpKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGludCAkbWF4TGVuZ3RoCiAgICAgKiBAcmV0dXJuIG51bWJlcgogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIGdlbmVyYXRlVVVJRCgkbWF4TGVuZ3RoKQogICAgewogICAgICAgIHJldHVybiBIYXNoR2VuZXJhdG9yOjp0YWtlKCktPmdlbmVyYXRlV2l0aFByZWRlZmluZWRMZW5ndGgoJG1heExlbmd0aCk7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5lc3RhYmxpc2hBdXRob3Jpc2VkRGVhbGVySWQoJHZuRGVhbGVyKTsK</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBEZWFsZXJWTiAkdm5EZWFsZXIKICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gZXN0YWJsaXNoQXV0aG9yaXNlZERlYWxlcklkKERlYWxlclZOICR2bkRlYWxlcikKICAgIHsKICAgICAgICBpZiAoZW1wdHkoJHZuRGVhbGVyLT5nZXRBdXRob3Jpc2VkRGVhbGVySWQoKSkpIHsKICAgICAgICAgICAgJHV1aWQgPSAkdGhpcy0+Z2VuZXJhdGVVVUlEKHNlbGY6Ok1BWF9MRU5HVEhfVVVJRF9IQVNIKTsKICAgICAgICAgICAgJHZuRGVhbGVyLT5zZXRBdXRob3Jpc2VkRGVhbGVySWQoJHV1aWQpOwoKICAgICAgICAgICAgaWYgKCEkdm5EZWFsZXItPnNhdmUoKSkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbihzcHJpbnRmKHNlbGY6OlVVSURfQVNTSUdOX1RPX0FVVEhfREVBTEVSX0VSUk9SLCAkdm5EZWFsZXItPmdldElkKCkpKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -319,9 +321,9 @@
         <entry>610</entry>
         <entry>wqa</entry>
         <entry>563</entry>
-        <entry>wa</entry>
         <entry>vs</entry>
         <entry>q</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
