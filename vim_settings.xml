@@ -15,13 +15,6 @@
         <mark key="." line="8" column="60" />
         <mark key="^" line="8" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/VN/Request/GuzzleVNRequestRepository.php" timestamp="1561996372726">
-        <mark key="'" line="42" column="16" />
-        <mark key="[" line="31" column="14" />
-        <mark key="]" line="31" column="20" />
-        <mark key="." line="31" column="20" />
-        <mark key="^" line="31" column="20" />
-      </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/user/ActiveRecordCochesUserRepository.php" timestamp="1562659126399">
         <mark key="'" line="29" column="19" />
         <mark key="[" line="67" column="9" />
@@ -34,32 +27,31 @@
         <mark key="[" line="403" column="66" />
         <mark key="]" line="403" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ImportAuthorisedDealerVNCommand.php" timestamp="1562674895433">
-        <mark key="'" line="77" column="21" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="79" column="49" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/exceptions/CannotMigrateVNAuthorisedDealerException.php" timestamp="1562675607782">
+        <mark key="[" line="5" column="55" />
+        <mark key="]" line="5" column="55" />
+        <mark key="^" line="5" column="55" />
+        <mark key="." line="5" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ImportAuthorisedDealerVNCommand.php" timestamp="1562675692526">
+        <mark key="'" line="80" column="8" />
+        <mark key="[" line="83" column="71" />
+        <mark key="]" line="83" column="77" />
+        <mark key="." line="83" column="77" />
+        <mark key="^" line="83" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/models/Ecommerce/Order.php" timestamp="1562666061669" />
       <file name="/PHP Console" timestamp="1562674827990">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Usuario.php" timestamp="1562598951387" />
-      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/VN/Request/DemierdaGuzzleVNRequestRepositoryTest.php" timestamp="1562083414688">
-        <mark key="'" line="31" column="12" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="18" column="43" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/migrations/m190708_103348_change_authorised_dealer_id_autoincrement.php" timestamp="1562584197712">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="15" column="76" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562593732014">
+      <file name="/Dummy.txt" timestamp="1562675544624">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Solicitud.php" timestamp="1561992544451">
@@ -91,13 +83,6 @@
         <mark key="]" line="26" column="20" />
         <mark key="." line="26" column="20" />
         <mark key="^" line="26" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/application/useCases/VN/Request/CreateRequestRequest.php" timestamp="1561985226755">
-        <mark key="'" line="57" column="22" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="1" column="52" />
-        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/user/CochesUserRepository.php" timestamp="1562658802276">
         <mark key="[" line="19" column="22" />
@@ -141,16 +126,8 @@
         <mark key="." line="28" column="12" />
         <mark key="^" line="14" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/VN/Request/GuzzleVNRequestRepositoryTest.php" timestamp="1561996360124">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="93" column="71" />
-        <mark key="]" line="93" column="71" />
-        <mark key="." line="93" column="71" />
-        <mark key="^" line="93" column="71" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="602" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" />
       <jump line="609" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" />
       <jump line="617" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" />
       <jump line="7" column="2" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" />
@@ -250,46 +227,47 @@
       <jump line="104" column="13" filename="$USER_HOME$/Projects/coches.com/models/Autodescuento/UsuariosDAO.php" />
       <jump line="77" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ImportAuthorisedDealerVNCommand.php" />
       <jump line="184" column="20" filename="$USER_HOME$/Projects/coches.com/models/DealerVN.php" />
+      <jump line="80" column="8" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ImportAuthorisedDealerVNCommand.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmICgkZGVhbGVyVm4tPmdldFVzdWFyaW9zKCkgPT09IG51bGwpIHsK</text>
+      <register name="&quot;" type="4">
+        <text>associated</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>associated</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaWdyYXRlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGRlYWxlclZuLT5nZXRVc3VhcmlvcygpID09PSBudWxsKSB7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">MCA9PT0gY291bnQoJGRlYWxlclZuLT5nZXRVc3Vhcmlvcygp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmICgkZGVhbGVyVm4tPmdldFVzdWFyaW9zKCkgPT09IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChpc3NldCgkZGVhbGVyVm4tPnVzdWFyaW9zWzBdKSkgewovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIgPSAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoMCA9PT0gY291bnQoJGRlYWxlclZuLT5nZXRVc3VhcmlvcygpKSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBDb25jZXMgc2luIHVzdWFyaW8gbm8gc2UgbWlncmFuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR1c2VyID0gJHRoaXMtPnVzZXJSZXBvc2l0b3J5LT5maW5kQnlFbWFpbCgkZGVhbGVyVm4tPmUpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmICgkZGVhbGVyVm4tPmdldFVzdWFyaW9zKCkgPT09IG51bGwpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBEZWFsZXJWTjo6bW9kZWwoKS0+ZmluZEJ5UGsoNSk7Ci8vLy8gICAgICAgICAgICAtPmNsZWFuQ3JpdGVyaWEoKQovLy8vICAgICAgICAgICAgLT53aXRoKCd1c3VhcmlvJykKLy8vLyAgICAgICAgICAgIC0+ZmlsdGVyQnkoJ2lkY29uY2VzaW9uYXJpbycsICcxNjAnLCAnIT0nKQovLy8vICAgICAgICAgICAgLT5ub3RJbignaWRjb25jZXNpb25hcmlvJywgWzE2MCwgJycsIDBdKQovLy8vICAgICAgICAgICAgLT5zZWFyY2hJdGVyYXRvcigpOwovLy8vICAgICAgICAgICAgLT5maW5kQWxsKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChpc3NldCgkZGVhbGVyVm4tPnVzdWFyaW9zWzBdKSkgewovLyAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPm5vdEluKCdpZGNvbmNlc2lvbmFyaW8nLCBbMTYwLCAnJywgMF0pCi8vICAgICAgICAgICAgLT5zZWFyY2hJdGVyYXRvcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
