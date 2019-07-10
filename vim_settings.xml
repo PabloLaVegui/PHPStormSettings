@@ -15,14 +15,20 @@
         <mark key="." line="8" column="60" />
         <mark key="^" line="8" column="60" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/migrations/m190710_072722_create_table_public_contact_info.php" timestamp="1562743697230">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="40" column="5" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/user/ActiveRecordCochesUserRepository.php" timestamp="1562659126399">
         <mark key="'" line="29" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/migrations/m190709_161249_drop_external_phone_column_from_authorised_dealer_contact_table.php" timestamp="1562689501175">
-        <mark key="[" line="31" column="40" />
-        <mark key="]" line="32" column="16" />
-        <mark key="." line="32" column="16" />
-        <mark key="^" line="32" column="16" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/migrations/m190709_161249_drop_external_phone_column_from_authorised_dealer_contact_table.php" timestamp="1562743959034">
+        <mark key="'" line="9" column="36" />
+        <mark key="[" line="14" column="61" />
+        <mark key="]" line="14" column="61" />
+        <mark key="." line="14" column="61" />
+        <mark key="^" line="14" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/models/User/User.php" timestamp="1562666140226">
         <mark key="'" line="947" column="6" />
@@ -115,7 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="609" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" />
       <jump line="617" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" />
       <jump line="7" column="2" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" />
       <jump line="724" column="12" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" />
@@ -215,13 +220,14 @@
       <jump line="77" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ImportAuthorisedDealerVNCommand.php" />
       <jump line="184" column="20" filename="$USER_HOME$/Projects/coches.com/models/DealerVN.php" />
       <jump line="80" column="8" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ImportAuthorisedDealerVNCommand.php" />
+      <jump line="9" column="36" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/migrations/m190709_161249_drop_external_phone_column_from_authorised_dealer_contact_table.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IE5PVCBOVUxM</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IE5PVCBOVUxM</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaWdyYXRlXD4=</text>
@@ -230,31 +236,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdjcmVhdGVkX2F0JyA9PiAnZGF0ZXRpbWUgTk9UIE5VTEwnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZjo6VEFCTEVfU1RSVUNUVVJFLCAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IFRBQkxFX05BTUUgPSAncHVibGljX2NvbnRhY3RfaW5mbyc7CgoJcHVibGljIGZ1bmN0aW9uIHNhZmVVcCgpCgl7CiAgICAgICAgJHRhYmxlT3B0aW9ucyA9IG51bGw7CgogICAgICAgIGlmICgkdGhpcy0+Z2V0RGJDb25uZWN0aW9uKCktPmRyaXZlck5hbWUgPT09ICdteXNxbCcpIHsKICAgICAgICAgICAgJHRhYmxlT3B0aW9ucyA9ICdDSEFSQUNURVIgU0VUIHV0ZjggQ09MTEFURSB1dGY4X3VuaWNvZGVfY2kgRU5HSU5FPUlubm9EQic7CiAgICAgICAgfQoKICAgICAgICAkdGhpcy0+Y3JlYXRlVGFibGUoCiAgICAgICAgICAgIHNlbGY6OlRBQkxFX05BTUUsCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdpZCcgPT4gJ3BrJywKICAgICAgICAgICAgICAgICdleHRlcm5hbF9waG9uZScgPT4gJ3N0cmluZyBOT1QgTlVMTCcsCiAgICAgICAgICAgICAgICAnaW50ZXJuYWxfcGhvbmUnID0+ICdzdHJpbmcgTk9UIE5VTEwnLAogICAgICAgICAgICAgICAgJ2NvbnRhY3RfaWQnID0+ICdpbnQgTk9UIE5VTEwnLAogICAgICAgICAgICAgICAgJ2NyZWF0ZWRfYXQnID0+ICdkYXRldGltZSBOT1QgTlVMTCcsCiAgICAgICAgICAgICAgICAnbW9kaWZpZWRfYXQnID0+ICdkYXRldGltZScsCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICR0YWJsZU9wdGlvbnMKICAgICAgICApOwoKICAgICAgICAkdGhpcy0+YWRkRm9yZWlnbktleSgKICAgICAgICAgICAgJ0ZLX3B1YmxpY19hdXRob3Jpc2VkX2RlYWxlcl9jb250YWN0JywKICAgICAgICAgICAgc2VsZjo6VEFCTEVfTkFNRSwKICAgICAgICAgICAgJ2NvbnRhY3RfaWQnLAogICAgICAgICAgICAnYXV0aG9yaXNlZF9kZWFsZXJfY29udGFjdCcsCiAgICAgICAgICAgICdpZCcsCiAgICAgICAgICAgICdDQVNDQURFJwogICAgICAgICk7Cgl9CgoJcHVibGljIGZ1bmN0aW9uIHNhZmVEb3duKCkKCXsKICAgICAgICAkdGhpcy0+ZHJvcFRhYmxlKHNlbGY6OlRBQkxFX05BTUUpOwoJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSovCg==</text>
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBzYWZlVXAoKQoJewoJfQoKCXB1YmxpYyBmdW5jdGlvbiBzYWZlRG93bigpCgl7Cgl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB1cCgpCgl7Cgl9CgoJcHVibGljIGZ1bmN0aW9uIGRvd24oKQoJewoJCWVjaG8gIm0xOTA3MDlfMTYxMjQ5X2Ryb3BfZXh0ZXJuYWxfcGhvbmVfY29sdW1uX2Zyb21fYXV0aG9yaXNlZF9kZWFsZXJfY29udGFjdF90YWJsZSBkb2VzIG5vdCBzdXBwb3J0IG1pZ3JhdGlvbiBkb3duLlxuIjsKCQlyZXR1cm4gZmFsc2U7Cgl9CgoJLyoKCS8vIFVzZSBzYWZlVXAvc2FmZURvd24gdG8gZG8gbWlncmF0aW9uIHdpdGggdHJhbnNhY3Rpb24K</text>
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBzYWZlVXAoKQoJewoJfQoKCXB1YmxpYyBmdW5jdGlvbiBzYWZlRG93bigpCgl7Cgl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cgo=</text>
+        <text encoding="base64">CSovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB1cCgpCgl7Cgl9CgoJcHVibGljIGZ1bmN0aW9uIGRvd24oKQoJewoJCWVjaG8gIm0xOTA3MTBfMDcyNzIyX2NyZWF0ZV90YWJsZV9wdWJsaWNfY29udGFjdF9pbmZvIGRvZXMgbm90IHN1cHBvcnQgbWlncmF0aW9uIGRvd24uXG4iOwoJCXJldHVybiBmYWxzZTsKCX0KCgkvKgoJLy8gVXNlIHNhZmVVcC9zYWZlRG93biB0byBkbyBtaWdyYXRpb24gd2l0aCB0cmFuc2FjdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoMCA9PT0gY291bnQoJGRlYWxlclZuLT5nZXRVc3VhcmlvcygpKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZjo6VEFCTEVfU1RSVUNUVVJFLCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDb25jZXMgc2luIHVzdWFyaW8gbm8gc2UgbWlncmFuCg==</text>
+        <text encoding="base64">CSovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiB1cCgpCgl7Cgl9CgoJcHVibGljIGZ1bmN0aW9uIGRvd24oKQoJewoJCWVjaG8gIm0xOTA3MDlfMTYxMjQ5X2Ryb3BfZXh0ZXJuYWxfcGhvbmVfY29sdW1uX2Zyb21fYXV0aG9yaXNlZF9kZWFsZXJfY29udGFjdF90YWJsZSBkb2VzIG5vdCBzdXBwb3J0IG1pZ3JhdGlvbiBkb3duLlxuIjsKCQlyZXR1cm4gZmFsc2U7Cgl9CgoJLyoKCS8vIFVzZSBzYWZlVXAvc2FmZURvd24gdG8gZG8gbWlncmF0aW9uIHdpdGggdHJhbnNhY3Rpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cgo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
