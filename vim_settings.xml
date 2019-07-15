@@ -68,8 +68,8 @@
       <file name="/PHP Console" timestamp="1563196007889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/jsE6/app/trade/signUp/sellDataForm.js" timestamp="1563199905783">
-        <mark key="'" line="8" column="7" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/jsE6/app/trade/signUp/sellDataForm.js" timestamp="1563200568356">
+        <mark key="'" line="18" column="24" />
         <mark key="[" line="212" column="24" />
         <mark key="]" line="212" column="57" />
       </file>
@@ -98,6 +98,11 @@
         <mark key="]" line="208" column="61" />
         <mark key="^" line="208" column="61" />
         <mark key="." line="208" column="61" />
+      </file>
+      <file name="$USER_HOME$/Projects/validators.coches.com/src/validators/TextLengthValidator.js" timestamp="1563200642833">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1562914439201">
         <mark key="[" line="0" column="0" />
@@ -208,10 +213,11 @@
         <mark key="." line="93" column="71" />
         <mark key="^" line="93" column="71" />
       </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/assets/src/jsE6/src/trade/signUp/baseTradeDataForm.js" timestamp="1563200577150">
+        <mark key="'" line="16" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="35" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ImportAuthorisedDealerVNCommand.php" />
-      <jump line="58" column="6" filename="$USER_HOME$/Projects/coches.com/models/DealerVN.php" />
       <jump line="131" column="11" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ImportAuthorisedDealerVNCommand.php" />
       <jump line="117" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ImportAuthorisedDealerVNCommand.php" />
       <jump line="128" column="26" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ImportAuthorisedDealerVNCommand.php" />
@@ -308,67 +314,66 @@
       <jump line="18" column="10" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/AtdVnAuthorisedDealerMigrationCommand.php" />
       <jump line="196" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/AtdVnAuthorisedDealerMigrationCommand.php" />
       <jump line="16" column="7" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/jsE6/app/trade/signUp/sellDataForm.js" />
-      <jump line="211" column="31" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/jsE6/app/trade/signUp/sellDataForm.js" />
       <jump line="8" column="7" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/jsE6/app/trade/signUp/sellDataForm.js" />
+      <jump line="211" column="65" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/jsE6/app/trade/signUp/sellDataForm.js" />
+      <jump line="18" column="24" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/jsE6/app/trade/signUp/sellDataForm.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/assets/src/jsE6/src/trade/signUp/baseTradeDataForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>new TextLengthValidator(null, 255)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFZhbGlkYXRvciBmcm9tICcuL1ZhbGlkYXRvcic7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ByPk</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUZXh0TGVuZ3RoVmFsaWRhdG9yXD4=</text>
+        <text>pass</text>
       </register>
       <register name="0" type="4">
         <text>new TextLengthValidator(null, 255)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5maW5kQWxsQnlQayg4OTkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IFZhbGlkYXRvciBmcm9tICcuL1ZhbGlkYXRvcic7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChjb3VudCgkbG9jYXRpb25zKSA9PT0gMSkgewovLyAgICAgICAgICAgICRsb2NhdGlvbiA9ICRsb2NhdGlvbnNbMF07Ci8vCi8vICAgICAgICAgICAgcmV0dXJuICRsb2NhdGlvbi0+Z2V0SWQoKTsKLy8gICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5maW5kQWxsQnlQayg4OTkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChjb3VudCgkbG9jYXRpb25zKSA9PT0gMSkgewovLyAgICAgICAgICAgICRsb2NhdGlvbiA9ICRsb2NhdGlvbnNbMF07Ci8vCi8vICAgICAgICAgICAgcmV0dXJuICRsb2NhdGlvbi0+Z2V0SWQoKTsKLy8gICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY291bnQoJGxvY2F0aW9ucykgPT09IDEpIHsKICAgICAgICAgICAgJGxvY2F0aW9uID0gJGxvY2F0aW9uc1swXTsKCiAgICAgICAgICAgIHJldHVybiAkbG9jYXRpb24tPmdldElkKCk7CiAgICAgICAgfQoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXl8bWl4ZWR8bnVsbAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGxvY2F0aW9uczsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoY291bnQoJGxvY2F0aW9ucykgPT09IDEpIHsKICAgICAgICAgICAgJGxvY2F0aW9uID0gJGxvY2F0aW9uc1swXTsKCiAgICAgICAgICAgIHJldHVybiAkbG9jYXRpb24tPmdldElkKCk7CiAgICAgICAgfQoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXl8bWl4ZWR8bnVsbAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGxvY2F0aW9uczsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBDQWN0aXZlUmVjb3JkW10gfCBDaXR5W10gJGxvY2F0aW9ucyAqLwogICAgICAgICRsb2NhdGlvbnMgPSBDaXR5Ojptb2RlbCgpCiAgICAgICAgICAgIC0+Y2xlYW5Dcml0ZXJpYSgpCiAgICAgICAgICAgIC0+bGlrZSgnbm9tYnJlJywgJGxvY2F0aW9uKQogICAgICAgICAgICAtPmZpbmRBbGxCeUF0dHJpYnV0ZXMoWwogICAgICAgICAgICAgICAgJ3Byb3ZpbmNpYV9pZCcgPT4gJHByb3ZpbmNlSWQsCiAgICAgICAgICAgIF0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBDQWN0aXZlUmVjb3JkW10gfCBDaXR5W10gJGxvY2F0aW9ucyAqLwogICAgICAgICRsb2NhdGlvbnMgPSBDaXR5Ojptb2RlbCgpCiAgICAgICAgICAgIC0+Y2xlYW5Dcml0ZXJpYSgpCiAgICAgICAgICAgIC0+bGlrZSgnbm9tYnJlJywgJGxvY2F0aW9uKQogICAgICAgICAgICAtPmZpbmRBbGxCeUF0dHJpYnV0ZXMoWwogICAgICAgICAgICAgICAgJ3Byb3ZpbmNpYV9pZCcgPT4gJHByb3ZpbmNlSWQsCiAgICAgICAgICAgIF0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUZXh0TGVuZ3RoVmFsaWRhdG9yXD4=</last-search>
+      <last-search>pass</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUZXh0TGVuZ3RoVmFsaWRhdG9yXD4=</last-pattern>
+      <last-pattern>pass</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxTRUxMX0NBUl9WSUVXXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25jZXNpb25hcmlvc1w+</entry>
-        <entry encoding="base64">XDxtaWdyYXRlXD4=</entry>
-        <entry encoding="base64">XDxmaW5kVXNlck9yQ3JlYXRlSXRcPg==</entry>
         <entry encoding="base64">XDxnZXRBdGRVc2VyXD4=</entry>
         <entry encoding="base64">XDxVc2VySXNOb3RTdG9yYWdlRXhjZXB0aW9uXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVBdXRob3Jpc2VkRGVhbGVyVk5cPg==</entry>
@@ -386,6 +391,9 @@
         <entry encoding="base64">XDxPUklHSU5cPg==</entry>
         <entry encoding="base64">XDxDdXN0b21XcmFwcGVyVmFsaWRhdG9yXD4=</entry>
         <entry encoding="base64">XDxUZXh0TGVuZ3RoVmFsaWRhdG9yXD4=</entry>
+        <entry>password</entry>
+        <entry encoding="base64">XDxjb21tb25UcmFkZVZhbGlkYXRpb25zXD4=</entry>
+        <entry>pass</entry>
       </history-search>
       <history-cmd>
         <entry>100</entry>
@@ -405,9 +413,9 @@
         <entry>x</entry>
         <entry>q</entry>
         <entry>91</entry>
-        <entry>wa</entry>
         <entry>177</entry>
         <entry>vs</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
