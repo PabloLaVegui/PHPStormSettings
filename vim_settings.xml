@@ -193,6 +193,9 @@
         <mark key="." line="40" column="21" />
         <mark key="^" line="40" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/application/useCases/VN/AuthorisedDealerContact/CreateVNAuthorisedDealerContactUseCase.php" timestamp="1563285232112">
+        <mark key="'" line="75" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ChangeCarLocationCommand.php" timestamp="1562764325641">
         <mark key="'" line="160" column="21" />
       </file>
@@ -220,8 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ChangeCarLocationCommand.php" />
-      <jump line="15" column="34" filename="$USER_HOME$/Projects/coches.com/generic/protected/config/generic_main.php" />
       <jump line="19" column="47" filename="$USER_HOME$/Projects/coches.com/generic/protected/config/generic_main.php" />
       <jump line="64" column="41" filename="$USER_HOME$/Projects/coches.com/generic/protected/config/generic_main.php" />
       <jump line="65" column="32" filename="$USER_HOME$/Projects/coches.com/generic/protected/config/generic_main.php" />
@@ -320,6 +321,8 @@
       <jump line="155" column="49" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/API/VN/AuthorisedDealer/VNAuthorisedDealerAPIController.php" />
       <jump line="137" column="49" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/API/VN/AuthorisedDealer/VNAuthorisedDealerAPIController.php" />
       <jump line="35" column="10" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/API/VN/AuthorisedDealer/VNAuthorisedDealerAPIController.php" />
+      <jump line="52" column="15" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/application/useCases/VN/AuthorisedDealerContact/CreateVNAuthorisedDealerContactUseCase.php" />
+      <jump line="75" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/application/useCases/VN/AuthorisedDealerContact/CreateVNAuthorisedDealerContactUseCase.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -329,7 +332,7 @@
         <text>ByPk</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNSVNTSU5HX1BBUkFNX01FU1NBR0VcPg==</text>
+        <text encoding="base64">XDxfY2hlY2tFeGlzdGluZ0F1dGhEZWFsZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>new TextLengthValidator(null, 255)</text>
@@ -362,13 +365,13 @@
         <text encoding="base64">dXNlIGNjb21cY29jaGVzXGFwcGxpY2F0aW9uXHVzZUNhc2VzXFZOXEF1dGhvcmlzZWREZWFsZXJcRXhjZXB0aW9uXENhbm5vdERlc2FjdGl2YXRlQXV0aG9yaXNlZERlYWxlclVzZXJFeGNlcHRpb247Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNSVNTSU5HX1BBUkFNX01FU1NBR0VcPg==</last-search>
+      <last-search encoding="base64">XDxfY2hlY2tFeGlzdGluZ0F1dGhEZWFsZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNSVNTSU5HX1BBUkFNX01FU1NBR0VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfY2hlY2tFeGlzdGluZ0F1dGhEZWFsZXJcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxTRUxMX0NBUl9WSUVXXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -376,7 +379,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm92aW5jZUlkXD4=</entry>
         <entry>province</entry>
         <entry encoding="base64">XDxjaXR5SWRcPg==</entry>
         <entry encoding="base64">XDxnZXRMb2NhdGlvbklkXD4=</entry>
@@ -396,6 +398,7 @@
         <entry encoding="base64">XDxDQU5OT1RfREVMRVRFX0RFQUxFUl9DT05UQUNUX01FU1NBR0VcPg==</entry>
         <entry encoding="base64">XDxDQU5OT1RfREVTQUNUSVZBVEVfREVBTEVSX1VTRVJfTUVTU0FHRVw+</entry>
         <entry encoding="base64">XDxNSVNTSU5HX1BBUkFNX01FU1NBR0VcPg==</entry>
+        <entry encoding="base64">XDxfY2hlY2tFeGlzdGluZ0F1dGhEZWFsZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>100</entry>
@@ -413,11 +416,11 @@
         <entry>87</entry>
         <entry>173</entry>
         <entry>x</entry>
-        <entry>q</entry>
         <entry>91</entry>
         <entry>177</entry>
         <entry>vs</entry>
         <entry>wa</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
