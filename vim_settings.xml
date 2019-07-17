@@ -21,6 +21,14 @@
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/application/useCases/VN/AuthorisedDealer/CreateVNAuthorisedDealerUseCase.php" timestamp="1562767714481">
         <mark key="'" line="3" column="0" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_c.php" timestamp="1563360213623" />
+      <file name="$USER_HOME$/Projects/coches.com/models/VN/VNAuthorisedDealerContact.php" timestamp="1563360378738">
+        <mark key="'" line="244" column="55" />
+        <mark key="[" line="244" column="45" />
+        <mark key="]" line="244" column="53" />
+        <mark key="^" line="244" column="53" />
+        <mark key="." line="244" column="53" />
+      </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/application/useCases/VN/AuthorisedDealer/DeleteVNAuthorisedDealerUseCase.php" timestamp="1563280471995">
         <mark key="'" line="108" column="8" />
       </file>
@@ -40,7 +48,7 @@
       <file name="$USER_HOME$/Projects/coches.com/models/VN/VNAuthorisedDealer.php" timestamp="1562774981868">
         <mark key="'" line="196" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/VN/AuthorisedDealerContact/ActiveRecordAuthorisedDealerContactRepository.php" timestamp="1563358821681" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/VN/AuthorisedDealerContact/ActiveRecordAuthorisedDealerContactRepository.php" timestamp="1563360293770" />
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/helpers/DateGenerator.php" timestamp="1563284455836" />
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/VN/AuthorisedDealerContact/VNAuthorisedDealerContactDomain.php" timestamp="1563359169637" />
       <file name="$USER_HOME$/Projects/validators.coches.com/src/validators/TextLengthValidator.js" timestamp="1563200642833">
@@ -59,6 +67,9 @@
         <mark key="]" line="454" column="0" />
         <mark key="." line="454" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/models/Spammer/SpammerQueue.php" timestamp="1563360239476">
+        <mark key="'" line="111" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ChangeCarLocationCommand.php" timestamp="1562764325641">
         <mark key="'" line="160" column="21" />
       </file>
@@ -67,11 +78,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="32" filename="$USER_HOME$/Projects/coches.com/generic/protected/config/generic_main.php" />
-      <jump line="77" column="32" filename="$USER_HOME$/Projects/coches.com/generic/protected/config/generic_main.php" />
-      <jump line="84" column="32" filename="$USER_HOME$/Projects/coches.com/generic/protected/config/generic_main.php" />
-      <jump line="104" column="43" filename="$USER_HOME$/Projects/coches.com/generic/protected/config/generic_main.php" />
-      <jump line="139" column="45" filename="$USER_HOME$/Projects/coches.com/generic/protected/config/generic_main.php" />
       <jump line="140" column="45" filename="$USER_HOME$/Projects/coches.com/generic/protected/config/generic_main.php" />
       <jump line="141" column="45" filename="$USER_HOME$/Projects/coches.com/generic/protected/config/generic_main.php" />
       <jump line="157" column="40" filename="$USER_HOME$/Projects/coches.com/generic/protected/config/generic_main.php" />
@@ -167,16 +173,21 @@
       <jump line="53" column="24" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="63" column="30" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="2" column="15" filename="$USER_HOME$/Projects/coches.com/models/ExtendedCActiveRecord.php" />
+      <jump line="8" column="23" filename="$USER_HOME$/Projects/coches.com/models/Spammer/SpammerQueue.php" />
+      <jump line="115" column="15" filename="$USER_HOME$/Projects/coches.com/models/Spammer/SpammerQueue.php" />
+      <jump line="113" column="29" filename="$USER_HOME$/Projects/coches.com/models/Spammer/SpammerQueue.php" />
+      <jump line="111" column="22" filename="$USER_HOME$/Projects/coches.com/models/Spammer/SpammerQueue.php" />
+      <jump line="244" column="55" filename="$USER_HOME$/Projects/coches.com/models/VN/VNAuthorisedDealerContact.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWN0aXZlUmVjb3JkLT5leHBlY3RzKHNlbGY6Om9uY2UoKSkKICAgICAgICAgICAgLT5tZXRob2QoJ3NhdmUnKQogICAgICAgICAgICAtPndpbGxSZXR1cm4odHJ1ZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>qa2</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>qa2</text>
+        <text encoding="base64">XDxkYXRlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YWN0aXZlUmVjb3JkLT5leHBlY3RzKHNlbGY6Om9uY2UoKSkKICAgICAgICAgICAgLT5tZXRob2QoJ3NhdmUnKQogICAgICAgICAgICAtPndpbGxSZXR1cm4odHJ1ZSk7Cg==</text>
@@ -213,17 +224,16 @@
       </register>
     </registers>
     <search>
-      <last-search>qa2</last-search>
+      <last-search encoding="base64">XDxkYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern>qa2</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxTRUxMX0NBUl9WSUVXXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaXR5SWRcPg==</entry>
         <entry encoding="base64">XDxnZXRMb2NhdGlvbklkXD4=</entry>
         <entry encoding="base64">XDxpc1ZhbGlkVG9NaWdyYXRlXD4=</entry>
         <entry encoding="base64">XDxBQ1RJVkVfQVREX1VTRVJfQ09ERVw+</entry>
@@ -243,6 +253,7 @@
         <entry encoding="base64">XDxNSVNTSU5HX1BBUkFNX01FU1NBR0VcPg==</entry>
         <entry encoding="base64">XDxfY2hlY2tFeGlzdGluZ0F1dGhEZWFsZXJcPg==</entry>
         <entry>qa2</entry>
+        <entry encoding="base64">XDxkYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
