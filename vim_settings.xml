@@ -42,6 +42,12 @@
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/application/useCases/VN/AuthorisedDealerContact/CreateVNAuthorisedDealerContactUseCase.php" timestamp="1563358982162">
         <mark key="'" line="75" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/garbage/autodescuento.com/admin/concesionario.php" timestamp="1563378662887">
+        <mark key="'" line="412" column="48" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/coches.com/models/ExtendedCActiveRecord.php" timestamp="1563291634205">
         <mark key="'" line="2" column="15" />
       </file>
@@ -78,7 +84,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="45" filename="$USER_HOME$/Projects/coches.com/generic/protected/config/generic_main.php" />
       <jump line="157" column="40" filename="$USER_HOME$/Projects/coches.com/generic/protected/config/generic_main.php" />
       <jump line="158" column="40" filename="$USER_HOME$/Projects/coches.com/generic/protected/config/generic_main.php" />
       <jump line="177" column="26" filename="$USER_HOME$/Projects/coches.com/generic/protected/config/generic_main.php" />
@@ -178,46 +183,47 @@
       <jump line="111" column="22" filename="$USER_HOME$/Projects/coches.com/models/Spammer/SpammerQueue.php" />
       <jump line="244" column="55" filename="$USER_HOME$/Projects/coches.com/models/VN/VNAuthorisedDealerContact.php" />
       <jump line="156" column="43" filename="$USER_HOME$/Projects/garbage/autodescuento.com/admin/altausuario.php" />
+      <jump line="412" column="48" filename="$USER_HOME$/Projects/garbage/autodescuento.com/admin/concesionario.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getContactId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnRfcigkX1NFU1NJT05bJ2lkdXN1YXJpbyddKTtkaWU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getContactId</text>
+        <text>echo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>getInternalPhone</text>
+        <text>$_SESSION['idusuario']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmV3cml0ZUNvbmQgJXtSRVFVRVNUX01FVEhPRH0gREVMRVRFClJld3JpdGVydWxlIF5tc2VydnMvYXBpL3ZuL2F1dGhvcmlzZWQtZGVhbGVyLyguKikkIGluZGV4LnBocD9yPUFQSS9WTi9BdXRob3Jpc2VkRGVhbGVyL1ZOQXV0aG9yaXNlZERlYWxlckFQSS9kZWxldGVBdXRob3Jpc2VkRGVhbGVyJmF1dGhvcmlzZWREZWFsZXJJZD0kMSBbUVNBLE5DLExdCg==</text>
+        <text encoding="base64">cHJpbnRfcigkX1NFU1NJT05bJ2lkdXN1YXJpbyddKTtkaWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENBTk5PVF9ERVNBQ1RJVkFURV9ERUFMRVJfVVNFUl9NRVNTQUdFID0gJ05PIGhhIHNpZG8gcG9zaWJsZSBkZXNhY3RpdmFyIGVsIHVzdWFyaW8gZGVsIGNvbmNlc2lvbmFyaW8nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlY2hvKCRfU0VTU0lPTlsnaWR1c3VhcmlvJ10pO2RpZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENBTk5PVF9ERUxFVEVfREVBTEVSX0NPTlRBQ1RfTUVTU0FHRSA9ICdObyBoYSBzaWRvIHBvc2libGUgZWxpbWluYXIgZWwgY29udGFjdG8gZGVsIGNvbmNlc2lvbmFyaW8nOwo=</text>
+        <text encoding="base64">UmV3cml0ZUNvbmQgJXtSRVFVRVNUX01FVEhPRH0gREVMRVRFClJld3JpdGVydWxlIF5tc2VydnMvYXBpL3ZuL2F1dGhvcmlzZWQtZGVhbGVyLyguKikkIGluZGV4LnBocD9yPUFQSS9WTi9BdXRob3Jpc2VkRGVhbGVyL1ZOQXV0aG9yaXNlZERlYWxlckFQSS9kZWxldGVBdXRob3Jpc2VkRGVhbGVyJmF1dGhvcmlzZWREZWFsZXJJZD0kMSBbUVNBLE5DLExdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENBTk5PVF9ERUxFVEVfREVBTEVSX01FU1NBR0UgPSAnTm8gaGEgc2lkbyBwb3NpYmxlIGVsaW1pbmFyIGVsIGNvbmNlc2lvbmFyaW8nOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IENBTk5PVF9ERVNBQ1RJVkFURV9ERUFMRVJfVVNFUl9NRVNTQUdFID0gJ05PIGhhIHNpZG8gcG9zaWJsZSBkZXNhY3RpdmFyIGVsIHVzdWFyaW8gZGVsIGNvbmNlc2lvbmFyaW8nOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IENBTk5PVF9ERUxFVEVfREVBTEVSX0NPTlRBQ1RfTUVTU0FHRSA9ICdObyBoYSBzaWRvIHBvc2libGUgZWxpbWluYXIgZWwgY29udGFjdG8gZGVsIGNvbmNlc2lvbmFyaW8nOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IERFQUxFUl9IQVNfQkVFTl9ERUxFVEVEX01FU1NBR0UgPSAnVGFudG8gZWwgY29uY2VzaW9uYXJpbyBjb21vIHN1cyBjb250YWN0b3MgaGFuIHNpZG8gZWxpbWluYWRvcyc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IENBTk5PVF9ERUxFVEVfREVBTEVSX01FU1NBR0UgPSAnTm8gaGEgc2lkbyBwb3NpYmxlIGVsaW1pbmFyIGVsIGNvbmNlc2lvbmFyaW8nOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIGNjb21cY29jaGVzXGRvbWFpblxWTlxBdXRob3Jpc2VkRGVhbGVyQ29udGFjdFxFeGNlcHRpb25cQ2Fubm90RGVsZXRlVk5BdXRob3Jpc2VkRGVhbGVyQ29udGFjdEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIGNjb21cY29jaGVzXGRvbWFpblxWTlxBdXRob3Jpc2VkRGVhbGVyXEV4Y2VwdGlvblxDYW5ub3REZWxldGVWTkF1dGhvcmlzZWREZWFsZXJFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IERFQUxFUl9IQVNfQkVFTl9ERUxFVEVEX01FU1NBR0UgPSAnVGFudG8gZWwgY29uY2VzaW9uYXJpbyBjb21vIHN1cyBjb250YWN0b3MgaGFuIHNpZG8gZWxpbWluYWRvcyc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIGNjb21cY29jaGVzXGFwcGxpY2F0aW9uXHVzZUNhc2VzXFZOXEF1dGhvcmlzZWREZWFsZXJcRXhjZXB0aW9uXENhbm5vdERlc2FjdGl2YXRlQXV0aG9yaXNlZERlYWxlclVzZXJFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">dXNlIGNjb21cY29jaGVzXGRvbWFpblxWTlxBdXRob3Jpc2VkRGVhbGVyQ29udGFjdFxFeGNlcHRpb25cQ2Fubm90RGVsZXRlVk5BdXRob3Jpc2VkRGVhbGVyQ29udGFjdEV4Y2VwdGlvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
