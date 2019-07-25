@@ -22,6 +22,12 @@
         <mark key="^" line="21" column="37" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Repositories/SearcherStockClassifiedRepository.php" timestamp="1564051751966">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="29" column="68" />
+        <mark key="^" line="29" column="68" />
+        <mark key="." line="29" column="68" />
+      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/callRequest/CreateCallRequestUseCaseRequest.php" timestamp="1563464807903">
         <mark key="[" line="47" column="73" />
         <mark key="]" line="47" column="79" />
@@ -61,7 +67,7 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563971279390">
+      <file name="/Dummy.txt" timestamp="1564051015652">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MessagesController.php" timestamp="1563983984301">
@@ -97,6 +103,12 @@
         <mark key="]" line="7" column="53" />
         <mark key="." line="7" column="53" />
         <mark key="^" line="5" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Infrastructure/Stock/StockClassifiedRepository.php" timestamp="1564051094222">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="7" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/yii/framework/console/CConsoleCommand.php" timestamp="1563971130045">
         <mark key="'" line="255" column="22" />
@@ -240,10 +252,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmluZEJ5SWQoKSBtZXRob2QuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>buildStockDTO</text>
+        <text>mixed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZFN0b2NrRFRPXD4=</text>
@@ -252,34 +264,34 @@
         <text>getStockDTO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmluZEJ5SWQoKSBtZXRob2QuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnY3VybCcgICAgICAgICAgICA9PiBhcnJheSggQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUiA9PiBmYWxzZSwgQ1VSTE9QVF9TU0xfVkVSSUZZSE9TVCA9PiAyICksCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnY3VybCcgICAgICAgICAgICA9PiBhcnJheSggQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUiA9PiBmYWxzZSwgQ1VSTE9QVF9TU0xfVkVSSUZZSE9TVCA9PiBmYWxzZSApLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkcmVzdWx0ID0gJHdlYlVzZXItPnNhdmUoKTsK</text>
+        <text encoding="base64">LyoqCiAqIENsYXNzIFN0b2NrQ2xhc3NpZmllZFJlcG9zaXRvcnkKICogQHBhY2thZ2UgbWl6b25hXGRvbWFpblxJbmZyYXN0cnVjdHVyZVxTdG9ja1ZOCiAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPnNlYXJjaEl0ZXJhdG9yKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPmxpbWl0KDEwMCkK</text>
+        <text encoding="base64">ICAgICAgICAnY3VybCcgICAgICAgICAgICA9PiBhcnJheSggQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUiA9PiBmYWxzZSwgQ1VSTE9QVF9TU0xfVkVSSUZZSE9TVCA9PiAyICksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnY3VybCcgICAgICAgICAgICA9PiBhcnJheSggQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUiA9PiBmYWxzZSwgQ1VSTE9QVF9TU0xfVkVSSUZZSE9TVCA9PiBmYWxzZSApLAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -330,11 +342,11 @@
         <entry>91</entry>
         <entry>177</entry>
         <entry>72</entry>
-        <entry>vs</entry>
         <entry>42</entry>
         <entry>w</entry>
         <entry>q</entry>
         <entry>wa</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
