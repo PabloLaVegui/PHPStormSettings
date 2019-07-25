@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/garbage/autodescuento.com/admin/concesionario.php" timestamp="1563378662887">
+        <mark key="'" line="412" column="48" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1564047709499">
         <mark key="'" line="19" column="18" />
         <mark key="[" line="18" column="18" />
@@ -33,15 +39,21 @@
         <mark key="." line="31" column="29" />
         <mark key="^" line="31" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/generic/protected/dependencies/vn.php" timestamp="1564045160791">
+      <file name="$USER_HOME$/Projects/coches.com/generic/protected/dependencies/vn.php" timestamp="1564049457590">
         <mark key="'" line="9" column="42" />
-        <mark key="[" line="26" column="95" />
-        <mark key="]" line="26" column="95" />
-        <mark key="." line="26" column="95" />
-        <mark key="^" line="26" column="95" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1564048067315">
+      <file name="/PHP Console" timestamp="1564048262578">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/VNRequest/FinderVNRequestUseCase.php" timestamp="1564050072027">
+        <mark key="'" line="313" column="21" />
+        <mark key="[" line="304" column="0" />
+        <mark key="]" line="304" column="0" />
+        <mark key="." line="304" column="0" />
+        <mark key="^" line="302" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/migrations/m190724_073054_webuser_data_migration.php" timestamp="1563953743164">
         <mark key="[" line="12" column="33" />
@@ -54,6 +66,12 @@
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MessagesController.php" timestamp="1563983984301">
         <mark key="'" line="9" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/public/doc/swagger.yaml" timestamp="1563464252195">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="373" column="0" />
+        <mark key="]" line="373" column="0" />
+        <mark key="." line="373" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/config/console.php" timestamp="1563964303771">
         <mark key="'" line="179" column="9" />
@@ -119,8 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="22" filename="$USER_HOME$/Projects/coches.com/models/VN/VNAuthorisedDealer.php" />
-      <jump line="96" column="31" filename="$USER_HOME$/Projects/coches.com/models/VN/VNAuthorisedDealer.php" />
       <jump line="98" column="26" filename="$USER_HOME$/Projects/coches.com/models/VN/VNAuthorisedDealer.php" />
       <jump line="150" column="20" filename="$USER_HOME$/Projects/coches.com/models/VN/VNAuthorisedDealer.php" />
       <jump line="142" column="22" filename="$USER_HOME$/Projects/coches.com/models/VN/VNAuthorisedDealer.php" />
@@ -219,43 +235,45 @@
       <jump line="19" column="18" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="40" column="24" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
       <jump line="112" column="33" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" />
+      <jump line="107" column="39" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/VNRequest/FinderVNRequestUseCase.php" />
+      <jump line="308" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/VNRequest/FinderVNRequestUseCase.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>coches</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>coches</text>
+        <text>buildStockDTO</text>
       </register>
       <register name="/" type="4">
-        <text>rabbit</text>
+        <text encoding="base64">XDxidWlsZFN0b2NrRFRPXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">TVlTUUxfQ09DSEVTX0RCTkFNRT0iY29jaGVzX3FhMiIKTVlTUUxfQVVUT0RFU0NVRU5UT19EQk5BTUU9ImF0ZF9xYTIiCk1ZU1FMX0VVUk9UQVhfREJOQU1FPSJldXJvdGF4X3FhMiIKTVlTUUxfTk9USUNFU19EQk5BTUU9Im5vdGljaWFzIgpNWVNRTF9DUk1fREJOQU1FPSJjcm1fcWEyIgpNWVNRTF9FVVJPVEFYX0FQT1lPX0RCTkFNRT0iZXVyb3RheF9hcG95byIKTVlTUUxfQk9UQl9EQk5BTUU9ImJvdGIiCk1ZU1FMX1RSQUZGSUNfUkVQT1JUX0RCTkFNRT0idHJfcmVwb3J0X3FhMiIK</text>
+      <register name="0" type="4">
+        <text>getStockDTO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnY3VybCcgICAgICAgICAgICA9PiBhcnJheSggQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUiA9PiBmYWxzZSwgQ1VSTE9QVF9TU0xfVkVSSUZZSE9TVCA9PiBmYWxzZSApLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnY3VybCcgICAgICAgICAgICA9PiBhcnJheSggQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUiA9PiBmYWxzZSwgQ1VSTE9QVF9TU0xfVkVSSUZZSE9TVCA9PiAyICksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkcmVzdWx0ID0gJHdlYlVzZXItPnNhdmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAnY3VybCcgICAgICAgICAgICA9PiBhcnJheSggQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUiA9PiBmYWxzZSwgQ1VSTE9QVF9TU0xfVkVSSUZZSE9TVCA9PiBmYWxzZSApLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPnNlYXJjaEl0ZXJhdG9yKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPmxpbWl0KDEwMCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAkcmVzdWx0ID0gJHdlYlVzZXItPnNhdmUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAtPnNlYXJjaEl0ZXJhdG9yKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAtPmxpbWl0KDEwMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR1c2VyTGlzdENvdW50ID0gJHVzZXJMaXN0LT5jb3VudCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -265,17 +283,16 @@
       </register>
     </registers>
     <search>
-      <last-search>rabbit</last-search>
+      <last-search encoding="base64">XDxidWlsZFN0b2NrRFRPXD4=</last-search>
       <last-offset />
-      <last-pattern>rabbit</last-pattern>
+      <last-pattern encoding="base64">XDxidWlsZFN0b2NrRFRPXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxTRUxMX0NBUl9WSUVXXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRBbmRDaGVja0F1dGhvcmlzZWREZWFsZXJJZFBhcmFtXD4=</entry>
         <entry encoding="base64">XDxERUFMRVJfSEFTX0JFRU5fREVMRVRFRF9NRVNTQUdFXD4=</entry>
         <entry encoding="base64">XDxERUFMRVJfTk9UX0ZPVU5EX01FU1NBR0VcPg==</entry>
         <entry encoding="base64">XDxDQU5OT1RfREVMRVRFX0RFQUxFUl9NRVNTQUdFXD4=</entry>
@@ -295,6 +312,7 @@
         <entry>establecer</entry>
         <entry>index</entry>
         <entry>rabbit</entry>
+        <entry encoding="base64">XDxidWlsZFN0b2NrRFRPXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wa\</entry>
@@ -311,11 +329,11 @@
         <entry>x</entry>
         <entry>91</entry>
         <entry>177</entry>
-        <entry>q</entry>
         <entry>72</entry>
         <entry>vs</entry>
         <entry>42</entry>
         <entry>w</entry>
+        <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
