@@ -3,13 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/garbage/autodescuento.com/admin/concesionario.php" timestamp="1563378662887">
-        <mark key="'" line="412" column="48" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1564041636629">
+      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1564044955471">
         <mark key="'" line="83" column="18" />
         <mark key="[" line="18" column="18" />
         <mark key="]" line="18" column="18" />
@@ -28,8 +22,16 @@
         <mark key="^" line="47" column="79" />
         <mark key="." line="47" column="79" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/VN/Request/GuzzleVNRequestRepository.php" timestamp="1564045012794" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Messages/SearcherRequestsUseCase.php" timestamp="1563983997703">
         <mark key="'" line="62" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/generic/protected/dependencies/vn.php" timestamp="1564045160791">
+        <mark key="'" line="9" column="42" />
+        <mark key="[" line="26" column="95" />
+        <mark key="]" line="26" column="95" />
+        <mark key="." line="26" column="95" />
+        <mark key="^" line="26" column="95" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" timestamp="1563463208272">
         <mark key="[" line="19" column="23" />
@@ -70,12 +72,6 @@
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MessagesController.php" timestamp="1563983984301">
         <mark key="'" line="9" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/public/doc/swagger.yaml" timestamp="1563464252195">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="373" column="0" />
-        <mark key="]" line="373" column="0" />
-        <mark key="." line="373" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/config/console.php" timestamp="1563964303771">
         <mark key="'" line="179" column="9" />
@@ -137,7 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="28" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ImportAuthorisedDealerVNCommand.php" />
       <jump line="37" column="6" filename="$USER_HOME$/Projects/coches.com/models/VN/VNAuthorisedDealer.php" />
       <jump line="99" column="4" filename="$USER_HOME$/Projects/coches.com/models/VN/VNAuthorisedDealer.php" />
       <jump line="12" column="21" filename="$USER_HOME$/Projects/coches.com/models/VN/VNAuthorisedDealer.php" />
@@ -237,63 +232,63 @@
       <jump line="267" column="61" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ActiveRecord/Alarm.php" />
       <jump line="70" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="83" column="18" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="9" column="42" filename="$USER_HOME$/Projects/coches.com/generic/protected/dependencies/vn.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>request</text>
+        <text encoding="base64">XDxHdXp6bGVWTlJlcXVlc3RSZXBvc2l0b3J5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdCA9ICR3ZWJVc2VyLT5zYXZlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkcmVzdWx0ID0gJHdlYlVzZXItPnNhdmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAnY3VybCcgICAgICAgICAgICA9PiBhcnJheSggQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUiA9PiBmYWxzZSwgQ1VSTE9QVF9TU0xfVkVSSUZZSE9TVCA9PiBmYWxzZSApLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPnNlYXJjaEl0ZXJhdG9yKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPmxpbWl0KDEwMCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAkcmVzdWx0ID0gJHdlYlVzZXItPnNhdmUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAtPnNlYXJjaEl0ZXJhdG9yKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAtPmxpbWl0KDEwMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR1c2VyTGlzdENvdW50ID0gJHVzZXJMaXN0LT5jb3VudCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIGZ1bmN0aW9uIGFjdGlvblJ1bigpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICR1c2VyTGlzdENvdW50ID0gJHVzZXJMaXN0LT5jb3VudCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCd3ZWJ1c2VyIGRhdGEgbWlncmF0aW9uJywgbnVsbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>request</last-search>
+      <last-search encoding="base64">XDxHdXp6bGVWTlJlcXVlc3RSZXBvc2l0b3J5XD4=</last-search>
       <last-offset />
-      <last-pattern>request</last-pattern>
+      <last-pattern encoding="base64">XDxHdXp6bGVWTlJlcXVlc3RSZXBvc2l0b3J5XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxTRUxMX0NBUl9WSUVXXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>password</entry>
         <entry encoding="base64">XDxjb21tb25UcmFkZVZhbGlkYXRpb25zXD4=</entry>
         <entry>pass</entry>
         <entry>delete</entry>
@@ -313,6 +308,7 @@
         <entry encoding="base64">XDxTZWFyY2hlclJlcXVlc3RzVXNlQ2FzZVw+</entry>
         <entry>rquest</entry>
         <entry>request</entry>
+        <entry encoding="base64">XDxHdXp6bGVWTlJlcXVlc3RSZXBvc2l0b3J5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wa\</entry>
@@ -332,8 +328,8 @@
         <entry>q</entry>
         <entry>72</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>42</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
