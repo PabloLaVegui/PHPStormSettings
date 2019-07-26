@@ -4,12 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/VN/Request/GuzzleVNRequestRepository.php" timestamp="1564045012794" />
-      <file name="$USER_HOME$/Projects/coches.com/generic/protected/dependencies/vn.php" timestamp="1564049457590">
-        <mark key="'" line="9" column="42" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/VNRequest/FinderVNRequestUseCase.php" timestamp="1564063002444">
         <mark key="'" line="114" column="41" />
         <mark key="[" line="316" column="44" />
@@ -60,15 +54,6 @@
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/application/useCases/VN/AuthorisedDealerContact/CreateVNAuthorisedDealerContactUseCase.php" timestamp="1563358982162">
         <mark key="'" line="75" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" timestamp="1564046778763">
-        <mark key="'" line="191" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/garbage/autodescuento.com/admin/concesionario.php" timestamp="1563378662887">
-        <mark key="'" line="412" column="48" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/WebUsersMigrationCommand.php" timestamp="1563977300921">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -108,11 +93,8 @@
       <file name="/Dummy.txt" timestamp="1564066994366">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/public/doc/swagger.yaml" timestamp="1563464252195">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="373" column="0" />
-        <mark key="]" line="373" column="0" />
-        <mark key="." line="373" column="0" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" timestamp="1564123589075">
+        <mark key="'" line="56" column="20" />
       </file>
       <file name="/fragment.php" timestamp="1564068371013">
         <mark key="[" line="0" column="0" />
@@ -147,7 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="4" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/application/useCases/VN/AuthorisedDealer/DeleteVNAuthorisedDealerUseCase.php" />
       <jump line="108" column="8" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/application/useCases/VN/AuthorisedDealer/DeleteVNAuthorisedDealerUseCase.php" />
       <jump line="147" column="4" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/API/VN/AuthorisedDealer/VNAuthorisedDealerAPIController.php" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/API/VN/AuthorisedDealer/VNAuthorisedDealerAPIController.php" />
@@ -247,6 +228,7 @@
       <jump line="47" column="28" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/core.coches.com/searcher/src/domainModel/filter/multiple/MultipleFilter.php" />
       <jump line="39" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/core.coches.com/searcher/src/domainModel/filter/multiple/MultipleFilter.php" />
       <jump line="48" column="70" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/Repositories/SearcherClassifiedRepositoryTest.php" />
+      <jump line="56" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -289,7 +271,7 @@
         <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldElkRnJvbVJlcXVlc3RGaWx0ZXJzKEZpbmRlckNsYXNzaWZpZWRWT1NlcnZpY2VSZXF1ZXN0ICRyZXF1ZXN0KQogICAgewogICAgICAgIC8qKiBAdmFyIE11bHRpcGxlRmlsdGVyICRmaWx0ZXIgKi8KICAgICAgICAkZmlsdGVyID0gJHJlcXVlc3QtPmdldFNlYXJjaEZpbHRlcigpLT5hbmRGaWx0ZXIoKS0+Z2V0RmlsdGVycygpWzBdOwoKICAgICAgICByZXR1cm4gJGZpbHRlci0+Z2V0VmFsdWVMaXN0KClbMF07CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -342,9 +324,9 @@
         <entry>72</entry>
         <entry>42</entry>
         <entry>w</entry>
-        <entry>vs</entry>
         <entry>q</entry>
         <entry>wa</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
