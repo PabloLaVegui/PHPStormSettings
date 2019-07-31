@@ -16,6 +16,7 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/config/rules/dependenciesRules/redis.php" timestamp="1564576483170" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Messages/SearcherRequestsUseCase.php" timestamp="1563983997703">
         <mark key="'" line="62" column="20" />
       </file>
@@ -30,12 +31,19 @@
         <mark key="[" line="955" column="25" />
         <mark key="]" line="955" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/manhattan.coches.com/environments/.env" timestamp="1564570234213" />
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/environments/.env" timestamp="1564575964138">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/FavoriteController.php" timestamp="1564415485285">
         <mark key="[" line="133" column="34" />
         <mark key="]" line="133" column="34" />
         <mark key="." line="133" column="34" />
         <mark key="^" line="133" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/manhattan.coches.com/src/infrastructure/persistence/redis/RedisManagerFactory.php" timestamp="1564576242602">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="34" column="42" />
       </file>
       <file name="/PHP Console" timestamp="1564570479690">
         <mark key="[" line="0" column="0" />
@@ -57,7 +65,13 @@
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Transformers/ClassifiedListTransformer.php" timestamp="1564060633910">
         <mark key="'" line="104" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" timestamp="1564570509064" />
+      <file name="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" timestamp="1564577939589">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="184" column="65" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/core.coches.com/classified/src/domainModel/classified/vo/ClassifiedVO.php" timestamp="1564063306035">
         <mark key="'" line="66" column="13" />
       </file>
@@ -83,7 +97,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/environments/.env" timestamp="1564570149934" />
+      <file name="$USER_HOME$/Projects/request.coches.com/environments/.env" timestamp="1564575980102">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/manhattan.coches.com/composer.json" timestamp="1564570862731">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="31" column="0" />
@@ -161,15 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="15" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/application/useCases/VN/AuthorisedDealerContact/CreateVNAuthorisedDealerContactUseCase.php" />
-      <jump line="75" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/application/useCases/VN/AuthorisedDealerContact/CreateVNAuthorisedDealerContactUseCase.php" />
-      <jump line="97" column="39" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
-      <jump line="125" column="53" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
-      <jump line="63" column="30" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
-      <jump line="2" column="15" filename="$USER_HOME$/Projects/coches.com/models/ExtendedCActiveRecord.php" />
-      <jump line="8" column="23" filename="$USER_HOME$/Projects/coches.com/models/Spammer/SpammerQueue.php" />
-      <jump line="115" column="15" filename="$USER_HOME$/Projects/coches.com/models/Spammer/SpammerQueue.php" />
-      <jump line="113" column="29" filename="$USER_HOME$/Projects/coches.com/models/Spammer/SpammerQueue.php" />
       <jump line="111" column="22" filename="$USER_HOME$/Projects/coches.com/models/Spammer/SpammerQueue.php" />
       <jump line="244" column="55" filename="$USER_HOME$/Projects/coches.com/models/VN/VNAuthorisedDealerContact.php" />
       <jump line="156" column="43" filename="$USER_HOME$/Projects/garbage/autodescuento.com/admin/altausuario.php" />
@@ -261,64 +270,71 @@
       <jump line="8" column="13" filename="$USER_HOME$/Projects/request.coches.com/composer.json" />
       <jump line="7" column="13" filename="$USER_HOME$/Projects/request.coches.com/composer.json" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/manhattan.coches.com/composer.json" />
+      <jump line="130" column="35" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
+      <jump line="102" column="17" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
+      <jump line="99" column="20" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
+      <jump line="80" column="41" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
+      <jump line="129" column="1" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
+      <jump line="142" column="32" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
+      <jump line="42" column="21" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
+      <jump line="119" column="47" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
+      <jump line="58" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJwcmVkaXMvcHJlZGlzIjogIl4xLjEiLAo=</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxDYWNoZVxDYWNoZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>return new</text>
       </register>
       <register name="/" type="4">
-        <text>redis</text>
+        <text encoding="base64">XDxQcmVkaXNDbGllbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJwcmVkaXMvcHJlZGlzIjogIl4xLjEiLAo=</text>
+        <text encoding="base64">ICAgICAgICAkY2FjaGVDbGllbnQgPSAkY29udGFpbmVyLT5nZXQoJ3JlZGlzJyk7CgogICAgICAgIHJldHVybiBuZXcgUHJlZGlzQ2FjaGUoJGNhY2hlQ2xpZW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxDYWNoZVxDYWNoZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgQ2Fubm90VXBkYXRlUHVibGljQ29udGFjdEluZm9FeGNlcHRpb24K</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxDYWNoZVxSZWRpc0NhY2hlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiBjYW1iaWFyIGVsIG5vbWJyZSBwYXJhIHF1ZSBubyB1c2UgbGEgY2xhc2UgUmVkaXMuIFBvbmVyIGFsZ28gbcOhcyBnZW7DqXJpY28K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRpZAogICAgICogQHBhcmFtIFZOUHVibGljQ29udGFjdEluZm9Eb21haW4gJHJlcXVlc3QKICAgICAqIEByZXR1cm4gVk5QdWJsaWNDb250YWN0SW5mb0RvbWFpbgogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIGJ1aWxkRXhwZWN0ZWRGcm9tUmVxdWVzdCgkaWQsIFZOUHVibGljQ29udGFjdEluZm9Eb21haW4gJHJlcXVlc3QpCiAgICB7CiAgICAgICAgcmV0dXJuIFZOUHVibGljQ29udGFjdEluZm9Eb21haW46OmJ1aWxkQ29tcGxldGUoCiAgICAgICAgICAgICRpZCwKICAgICAgICAgICAgJHJlcXVlc3QtPmdldEludGVybmFsUGhvbmUoKSwKICAgICAgICAgICAgJHJlcXVlc3QtPmdldEV4dGVybmFsUGhvbmUoKSwKICAgICAgICAgICAgJHJlcXVlc3QtPmdldENvbnRhY3RJZCgpLAogICAgICAgICAgICAkcmVxdWVzdC0+Z2V0Q3JlYXRpb25EYXRlKCksCiAgICAgICAgICAgIG51bGwpOwogICAgfQo=</text>
+        <text encoding="base64">CiAgICAkY29udGFpbmVyLT5zZXQoQ2FjaGU6OmNsYXNzLCBmdW5jdGlvbiAoQ29udGFpbmVySW50ZXJmYWNlICRjb250YWluZXIpIHsKICAgICAgICAkY29uZmlnID0gJGNvbnRhaW5lci0+Z2V0KCdjb25maWcnKTsKCi8vICAgICAgICAkcmVkaXMgPSAkY29udGFpbmVyLT5nZXQoUmVkaXM6OmNsYXNzKTsKLy8KLy8gICAgICAgICRjYWNoZSA9IG5ldyBSZWRpc0NhY2hlKCk7Ci8vICAgICAgICAkY2FjaGUtPnNldFJlZGlzKCRyZWRpcyk7Ci8vICAgICAgICAkY2FjaGUtPnNldE5hbWVzcGFjZSgKLy8gICAgICAgICAgICAkY29uZmlnLT5nZXQoJ1JFRElTX1BSRUZJWCcpCi8vICAgICAgICAgICAgICAgID8gJGNvbmZpZy0+Z2V0KCdSRURJU19QUkVGSVgnKSAuICdfJwovLyAgICAgICAgICAgICAgICA6ICcnCi8vICAgICAgICApOwovLwovLyAgICAgICAgcmV0dXJuICRjYWNoZTsKCiAgICAgICAgLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vCi8vICAgICAgICAkY2FjaGVDbGllbnQgPSAkY29udGFpbmVyLT5nZXQoJ3JlZGlzJyk7Ci8vCi8vICAgICAgICByZXR1cm4gbmV3IFByZWRpc0NhY2hlKCRjYWNoZUNsaWVudCk7CiAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAkY2FjaGUgPSAkY29udGFpbmVyLT5nZXQoQ2FjaGU6OmNsYXNzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgcHJvdGVjdGVkIGZ1bmN0aW9uIHNldFVwKCkKLy8gICAgewovLyAgICAgICAgJHRoaXMtPmFjdGl2ZVJlY29yZCA9ICR0aGlzLT5jcmVhdGVNb2NrKFZOUHVibGljQ29udGFjdEluZm86OmNsYXNzKTsKLy8gICAgICAgICR0aGlzLT5yZXBvc2l0b3J5ID0gbmV3IEFjdGl2ZVJlY29yZFB1YmxpY0NvbnRhY3RJbmZvclJlcG9zaXRvcnkoJHRoaXMtPmFjdGl2ZVJlY29yZCk7Ci8vICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAkY2FjaGUgPSAkY29udGFpbmVyLT5nZXQoQ2FjaGU6OmNsYXNzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgQ2Fubm90U2F2ZVB1YmxpY0NvbnRhY3RJbmZvRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBQcmVkaXNDbGllbnQgJGNhY2hlQ2xpZW50ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRleHBlY3RlZCwgJHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY2FjaGVDbGllbnQtPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZXhwZWN0ZWQgPSAkdGhpcy0+YnVpbGRFeHBlY3RlZEZyb21SZXF1ZXN0KDEsICRyZXF1ZXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gJGNvbnRhaW5lci0+Z2V0KFJlZGlzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>redis</last-search>
+      <last-search encoding="base64">XDxQcmVkaXNDbGllbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>redis</last-pattern>
+      <last-pattern encoding="base64">XDxQcmVkaXNDbGllbnRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxTRUxMX0NBUl9WSUVXXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>request</entry>
-        <entry encoding="base64">XDxHdXp6bGVWTlJlcXVlc3RSZXBvc2l0b3J5XD4=</entry>
         <entry>establecer</entry>
         <entry>index</entry>
         <entry>rabbit</entry>
@@ -337,6 +353,8 @@
         <entry encoding="base64">XDxQcm92aW5jZVw+</entry>
         <entry encoding="base64">XDxfdmFsdWVMaXN0XD4=</entry>
         <entry>redis</entry>
+        <entry encoding="base64">XDxDbGllbnRcPg==</entry>
+        <entry encoding="base64">XDxQcmVkaXNDbGllbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wa\</entry>
