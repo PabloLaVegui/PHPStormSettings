@@ -31,17 +31,18 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/application/useCases/VN/AuthorisedDealer/CreateVNAuthorisedDealerUseCase.php" timestamp="1564741245988">
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/application/useCases/VN/AuthorisedDealer/CreateVNAuthorisedDealerUseCase.php" timestamp="1564743712009">
         <mark key="[" line="110" column="16" />
         <mark key="]" line="110" column="16" />
         <mark key="." line="110" column="16" />
         <mark key="^" line="110" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/AtdVnAuthorisedDealerMigrationCommand.php" timestamp="1564742556100">
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/AtdVnAuthorisedDealerMigrationCommand.php" timestamp="1564743788277">
         <mark key="'" line="83" column="24" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+        <mark key="[" line="102" column="32" />
+        <mark key="]" line="102" column="69" />
+        <mark key="." line="102" column="69" />
+        <mark key="^" line="102" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/migrations/m190722_155132_authorised_dealer_from_autodescuento_data_migration.php" timestamp="1564671896302">
         <mark key="[" line="10" column="20" />
@@ -50,6 +51,7 @@
         <mark key="^" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ClassifiedController.php" timestamp="1564741397445" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/application/useCases/VN/AuthorisedDealer/Exception/AnotherDealerExistsWithSameUserIdException.php" timestamp="1564743073816" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Infrastructure/Classified/ClassifiedRepository.php" timestamp="1564068800031">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="20" />
@@ -226,16 +228,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0cmFuc2FjdGlvbi0+cm9sbGJhY2soKTsKCiAgICAgICAgICAgICAgICAkdGhpcy0+cHJpbnRJbmZvTWVzc2FnZSgKICAgICAgICAgICAgICAgICAgICAkdm5EZWFsZXItPmdldElkKCksCiAgICAgICAgICAgICAgICAgICAgJGUtPmdldE1lc3NhZ2UoKQogICAgICAgICAgICAgICAgKTsKCiAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>ErrorMessage</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludEVycm9yTWVzc2FnZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0cmFuc2FjdGlvbi0+cm9sbGJhY2soKTsKCiAgICAgICAgICAgICAgICAkdGhpcy0+cHJpbnRFcnJvck1lc3NhZ2UoCiAgICAgICAgICAgICAgICAgICAgJHZuRGVhbGVyLT5nZXRJZCgpLAogICAgICAgICAgICAgICAgICAgICRlLT5nZXRNZXNzYWdlKCkKICAgICAgICAgICAgICAgICk7CgogICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0cmFuc2FjdGlvbi0+cm9sbGJhY2soKTsKCiAgICAgICAgICAgICAgICAkdGhpcy0+cHJpbnRJbmZvTWVzc2FnZSgKICAgICAgICAgICAgICAgICAgICAkdm5EZWFsZXItPmdldElkKCksCiAgICAgICAgICAgICAgICAgICAgJGUtPmdldE1lc3NhZ2UoKQogICAgICAgICAgICAgICAgKTsKCiAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
