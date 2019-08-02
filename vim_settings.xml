@@ -66,11 +66,12 @@
         <mark key="]" line="31" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/application/useCases/VN/AuthorisedDealer/CreateVNAuthorisedDealerUseCase.php" timestamp="1564663771217" />
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/AtdVnAuthorisedDealerMigrationCommand.php" timestamp="1564671227837">
-        <mark key="'" line="35" column="20" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/AtdVnAuthorisedDealerMigrationCommand.php" timestamp="1564727509101">
+        <mark key="'" line="318" column="6" />
+        <mark key="[" line="338" column="5" />
+        <mark key="]" line="68" column="45" />
+        <mark key="." line="68" column="45" />
+        <mark key="^" line="68" column="45" />
       </file>
       <file name="/fragment.php" timestamp="1564579686206">
         <mark key="[" line="0" column="0" />
@@ -120,7 +121,6 @@
       <file name="$USER_HOME$/Projects/request.coches.com/vendor/predis/predis/src/Client.php" timestamp="1564581908033" />
     </filemarks>
     <jumps>
-      <jump line="111" column="22" filename="$USER_HOME$/Projects/coches.com/models/Spammer/SpammerQueue.php" />
       <jump line="244" column="55" filename="$USER_HOME$/Projects/coches.com/models/VN/VNAuthorisedDealerContact.php" />
       <jump line="156" column="43" filename="$USER_HOME$/Projects/garbage/autodescuento.com/admin/altausuario.php" />
       <jump line="412" column="48" filename="$USER_HOME$/Projects/garbage/autodescuento.com/admin/concesionario.php" />
@@ -220,19 +220,20 @@
       <jump line="42" column="21" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
       <jump line="119" column="47" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
       <jump line="58" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
+      <jump line="318" column="6" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/AtdVnAuthorisedDealerMigrationCommand.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>safeD</text>
+        <text>Exception</text>
       </register>
       <register name="-" type="4">
-        <text>safeD</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcmVkaXNDbGllbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFlpaTo6YXBwKCktPmRiVHJhbnNhY3Rpb24tPmNvbW1pdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uICRlKSB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUcmFuc2FjdGlvbiBhbHJlYWR5IHN0YXJ0ZWQgb3V0c2lkZQo=</text>
