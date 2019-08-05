@@ -1438,9 +1438,9 @@
         <mark key="^" line="17" column="47" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/finance/financeback/src/Application/Service/CORSHeaders.php" timestamp="1565038217837">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
+      <file name="$USER_HOME$/Code/finance/financeback/src/Application/Service/CORSHeaders.php" timestamp="1565040047312">
+        <mark key="[" line="39" column="17" />
+        <mark key="]" line="39" column="54" />
         <mark key="^" line="26" column="82" />
         <mark key="." line="5" column="0" />
       </file>
@@ -1468,12 +1468,11 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/finance/financeback/src/Application/dependencies.php" timestamp="1565038697118">
-        <mark key="'" line="33" column="51" />
-        <mark key="[" line="115" column="34" />
-        <mark key="]" line="115" column="45" />
-        <mark key="." line="115" column="45" />
-        <mark key="^" line="115" column="45" />
+      <file name="$USER_HOME$/Code/finance/financeback/src/Application/dependencies.php" timestamp="1565040393612">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/crmmigrations/tests/unit/infrastructure/gateways/filter/FilterTestCase.php" timestamp="1521466574422">
         <mark key="[" line="21" column="25" />
@@ -2799,6 +2798,13 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="5" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/finance/financeback/test/Unit/Application/ErrorHandler/ResponseErrorHandlerTest.php" timestamp="1565040196089">
+        <mark key="'" line="51" column="8" />
+        <mark key="[" line="69" column="53" />
+        <mark key="]" line="69" column="53" />
+        <mark key="." line="69" column="53" />
+        <mark key="^" line="69" column="53" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/ChangeTelephoneController.php" timestamp="1516808248191">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="6" />
@@ -3081,10 +3087,10 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/finance/financeback/src/Application/ErrorHandler/ResponseErrorHandler.php" timestamp="1565039095831">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Code/finance/financeback/src/Application/ErrorHandler/ResponseErrorHandler.php" timestamp="1565039722885">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Code/finance/financeback/README.md" timestamp="1561658991175">
         <mark key="[" line="3" column="2" />
@@ -5455,8 +5461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="18" filename="$USER_HOME$/Code/finance/financeback/src/Application/User/Action/CreateAction.php" />
-      <jump line="43" column="21" filename="$USER_HOME$/Code/finance/financeback/src/Infrastructure/Doctrine/Auth/DoctrineTokenQuery.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/finance/financeback/src/Infrastructure/Doctrine/Auth/DoctrineTokenQuery.php" />
       <jump line="41" column="5" filename="$USER_HOME$/Code/finance/financeback/src/Domain/Model/User/User.php" />
       <jump line="144" column="20" filename="$USER_HOME$/Code/finance/financeback/test/Unit/Application/User/Action/CreateActionTest.php" />
@@ -5555,46 +5559,48 @@
       <jump line="139" column="15" filename="$USER_HOME$/Code/cochescom/mizona.coches.com/secure_yii/protected/Infrastructure/doctrine/Repositories/Classifieds/Classified.php" />
       <jump line="50" column="3" filename="$USER_HOME$/Code/finance/financeback/src/Application/dependencies.php" />
       <jump line="33" column="51" filename="$USER_HOME$/Code/finance/financeback/src/Application/dependencies.php" />
+      <jump line="51" column="8" filename="$USER_HOME$/Code/finance/financeback/test/Unit/Application/ErrorHandler/ResponseErrorHandlerTest.php" />
+      <jump line="111" column="0" filename="$USER_HOME$/Code/finance/financeback/src/Application/dependencies.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3BvbnNlOwo=</text>
+        <text encoding="base64">dXNlIExhdmVndWlcRmluYW5jZUJhY2tcQXBwbGljYXRpb25cTWlkZGxld2FyZVxDT1JTTWlkZGxld2FyZTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy0+Y29yc0hlYWRlcnM=</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2NhdGlvbkVudGl0eVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmNvcnNIZWFkZXJzCg==</text>
+      <register name="0" type="4">
+        <text>GET, POST, PUT, DELETE, PATCH, OPTIONS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3BvbnNlOwo=</text>
+        <text encoding="base64">dXNlIExhdmVndWlcRmluYW5jZUJhY2tcQXBwbGljYXRpb25cTWlkZGxld2FyZVxDT1JTTWlkZGxld2FyZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QUxMT1dFRF9PUklHSU4K</text>
+        <text encoding="base64">CiAgICAkY29udGFpbmVyW0NPUlNNaWRkbGV3YXJlOjpjbGFzc10gPSBmdW5jdGlvbiAoQ29udGFpbmVySW50ZXJmYWNlICRjb250YWluZXIpIHsKICAgICAgICAkY29yc0hlYWRlcnMgPSAkY29udGFpbmVyLT5nZXQoQ09SU0hlYWRlcnM6OmNsYXNzKTsKCiAgICAgICAgcmV0dXJuIG5ldyBDT1JTTWlkZGxld2FyZSgkY29yc0hlYWRlcnMpOwogICAgfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRXJyb3JIYW5kbGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZjo6QUxMT1dFRF9PUklHSU4sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkY29yc0hlYWRlcnMgPSBuZXcgXExhdmVndWlcRmluYW5jZUJhY2tcQXBwbGljYXRpb25cU2VydmljZVxDT1JTSGVhZGVycygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1gtUmVxdWVzdGVkLVdpdGgsIENvbnRlbnQtVHlwZSwgQWNjZXB0LCBPcmlnaW4sIEF1dGhvcml6YXRpb24nLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaGVhZGVycyA9ICRyZXNwb25zZS0+aGVhZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAtPndpdGhIZWFkZXIoJ0FjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbicsICcqJykKLy8gICAgICAgICAgICAtPndpdGhIZWFkZXIoJ0FjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMnLCAnWC1SZXF1ZXN0ZWQtV2l0aCwgQ29udGVudC1UeXBlLCBBY2NlcHQsIE9yaWdpbiwgQXV0aG9yaXphdGlvbicpCi8vICAgICAgICAgICAgLT53aXRoSGVhZGVyKCdBY2Nlc3MtQ29udHJvbC1BbGxvdy1NZXRob2RzJywgJ0dFVCwgUE9TVCwgUFVULCBERUxFVEUsIFBBVENILCBPUFRJT05TJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRjb250YWluZXJbQ10gPSBmdW5jdGlvbiAoKSB7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAkcmVzcG9uc2UtPndpdGhTdGF0dXMoJGV4Y2VwdGlvbi0+Z2V0Q29kZSgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoSGVhZGVyKCdDb250ZW50LVR5cGUnLCAnYXBwbGljYXRpb24vanNvbicpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3BvbnNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUxMT1dFRF9PUklHSU4K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -5648,10 +5654,10 @@
         <entry>85</entry>
         <entry>h hi</entry>
         <entry>x</entry>
-        <entry>w</entry>
         <entry>228</entry>
         <entry>q</entry>
         <entry>vs</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
