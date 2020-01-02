@@ -21,7 +21,11 @@
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
   <action id="EditorRightWithSelection" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
   <action id="GotoBookmark7" />
+  <action id="InsertLiveTemplate" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift right" second-keystroke="shift left" />
   </action>
@@ -37,6 +41,10 @@
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="meta alt r" />
