@@ -1,6 +1,60 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>eurotax</entry>
+        <entry>listall</entry>
+        <entry encoding="base64">XDxHdXp6bGVDYXJJbmZvUmVwb3NpdG9yeVw+</entry>
+        <entry>build</entry>
+        <entry>create</entry>
+        <entry>rabbit</entry>
+        <entry encoding="base64">XDxzZWdtZW50SWRcPg==</entry>
+        <entry>model</entry>
+        <entry>modelid</entry>
+        <entry>segmentid</entry>
+        <entry encoding="base64">XDxtb2RlbElkXD4=</entry>
+        <entry>getmake</entry>
+        <entry>modelId</entry>
+        <entry>execu</entry>
+        <entry>request.coches.com</entry>
+        <entry>options</entry>
+        <entry>curl</entry>
+        <entry>godo</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0RGF0YVByb3ZpZGVyXD4=</entry>
+        <entry>todo</entry>
+      </history-search>
+      <history-cmd>
+        <entry>sp</entry>
+        <entry>45</entry>
+        <entry>328</entry>
+        <entry>80</entry>
+        <entry>33</entry>
+        <entry>110</entry>
+        <entry>621</entry>
+        <entry>77</entry>
+        <entry>114</entry>
+        <entry>82</entry>
+        <entry>x</entry>
+        <entry>vs</entry>
+        <entry>q</entry>
+        <entry>53</entry>
+        <entry>22</entry>
+        <entry>214</entry>
+        <entry>qa</entry>
+        <entry>bnext</entry>
+        <entry>w</entry>
+        <entry>wa</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
@@ -39,9 +93,201 @@
         <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/infrastructure/providers/requests/RequestsDataProvider.php" timestamp="1586267498439">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1586344166073">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.php" timestamp="1586343797358">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/lavegui/courses/elastic-stack/elastic-stack-example/app/php/composer.json" timestamp="1586605116881">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/UserVNOpportunity/FinderUserVNOpportunityListFromMakeModelUseCase.php" timestamp="1586275291723">
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/Client/ClientGatewayTransformer.php" timestamp="1586266814940">
+        <mark key="'" line="5" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="63" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/requests/vn/MakeModelGroupRequestVnDTO.php" />
+      <jump line="47" column="55" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/dto/requests/vn/MakeModelGroupRequestVnDTOTest.php" />
+      <jump line="24" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/dto/requests/vn/MakeModelGroupRequestVnDTOTest.php" />
+      <jump line="122" column="29" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/VNRequestController.php" />
+      <jump line="125" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/VNRequestController.php" />
+      <jump line="93" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/requests/vn/MakeModelGroupRequestVnDTO.php" />
+      <jump line="284" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/UserVNOpportunity/FinderMakeModelRequestVNUseCaseTest.php" />
+      <jump line="145" column="24" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerUserCard/DealerUserCardPage.js" />
+      <jump line="144" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerUserCard/DealerUserCardPage.js" />
+      <jump line="9" column="50" filename="$USER_HOME$/Projects/katas/strength-password-js/__test__/strengthPasswordChecker.spec.js" />
+      <jump line="61" column="19" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Repositories/GuzzleVnRequestRepository.php" />
+      <jump line="146" column="35" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerUserCard/DealerUserCardPage.js" />
+      <jump line="3" column="7" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerUserCard/DealerUserCardPage.js" />
+      <jump line="41" column="39" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/userVN/opportunity/detail.twig" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/userVN/opportunity/detail.twig" />
+      <jump line="40" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/userVN/opportunity/detail.twig" />
+      <jump line="43" column="19" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/userVN/opportunity/detail.twig" />
+      <jump line="64" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/User/VNAuthDealer.php" />
+      <jump line="52" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/DealerVNRequest/userCard/dealer_user_card.twig" />
+      <jump line="51" column="45" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/DealerVNRequest/userCard/dealer_user_card.twig" />
+      <jump line="85" column="45" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/DealerVNRequest/userCard/dealer_user_card.twig" />
+      <jump line="68" column="37" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/DealerVNRequest/userCard/dealer_user_card.twig" />
+      <jump line="57" column="45" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/DealerVNRequest/userCard/dealer_user_card.twig" />
+      <jump line="38" column="37" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/DealerVNRequest/userCard/dealer_user_card.twig" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
+      <jump line="55" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
+      <jump line="125" column="2" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
+      <jump line="126" column="30" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
+      <jump line="127" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
+      <jump line="38" column="22" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
+      <jump line="41" column="28" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
+      <jump line="46" column="23" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
+      <jump line="49" column="29" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
+      <jump line="94" column="5" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/VNRequestController.php" />
+      <jump line="37" column="1" filename="$USER_HOME$/Projects/request.coches.com/src/infrastructure/doctrine/mapping/cochescom.request.domain.model.request.Request.php" />
+      <jump line="66" column="48" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
+      <jump line="7" column="6" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/VN/Request/VNRequest.php" />
+      <jump line="134" column="27" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/VN/Request/VNRequest.php" />
+      <jump line="87" column="6" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" />
+      <jump line="76" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" />
+      <jump line="73" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" />
+      <jump line="47" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" />
+      <jump line="28" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" />
+      <jump line="168" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/application/useCases/VN/Request/CreateRequestRequest.php" />
+      <jump line="77" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="538" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" />
+      <jump line="19" column="20" filename="$USER_HOME$/Projects/crmmigrations/application/action/request/CreateRequestVnActionTransformer.php" />
+      <jump line="376" column="20" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/request/Request.php" />
+      <jump line="106" column="21" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
+      <jump line="16" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
+      <jump line="70" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
+      <jump line="99" column="9" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
+      <jump line="127" column="28" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
+      <jump line="247" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
+      <jump line="97" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
+      <jump line="73" column="9" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
+      <jump line="87" column="28" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
+      <jump line="240" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
+      <jump line="262" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="133" column="29" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="110" column="9" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="85" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="457" column="15" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="453" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="451" column="35" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="449" column="15" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="260" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="2" column="27" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="6" column="29" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="16" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="496" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="261" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="267" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="87" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="113" column="9" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="137" column="26" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="268" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="41" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
+      <jump line="132" column="42" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateLocalRequestUseCase.php" />
+      <jump line="3" column="10" filename="$USER_HOME$/Projects/crmmigrations/environments/.env" />
+      <jump line="101" column="18" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
+      <jump line="10" column="34" filename="/usr/local/php5/lib/php.ini" />
+      <jump line="180" column="10" filename="/usr/local/php5/lib/php.ini" />
+      <jump line="888" column="15" filename="/usr/local/php5/lib/php.ini" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies/test.php" />
+      <jump line="26" column="26" filename="$USER_HOME$/Projects/crmmigrations/tests/Fixtures/RequestFixtures.php" />
+      <jump line="67" column="20" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
+      <jump line="29" column="20" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
+      <jump line="54" column="48" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/requests/RequestVNGatewayQuery.php" />
+      <jump line="104" column="14" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateRemoteRequestUseCase.php" />
+      <jump line="29" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateRemoteRequestUseCase.php" />
+      <jump line="38" column="36" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateRemoteRequestUseCase.php" />
+      <jump line="44" column="30" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateRemoteRequestUseCase.php" />
+      <jump line="49" column="15" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateRemoteRequestUseCase.php" />
+      <jump line="82" column="0" filename="$USER_HOME$/Projects/crmmigrations/application/dependencies/dumps.php" />
+      <jump line="21" column="3" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/gateways/requests/RequestVNGatewayQuery.php" />
+      <jump line="10" column="6" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/Client/ClientGatewayTransformer.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/Client/ClientGatewayTransformer.php" />
+      <jump line="152" column="19" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/requests/RequestEntityTransformer.php" />
+      <jump line="31" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/requests/RequestEntityTransformer.php" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="c" type="4">
+        <text>tagifyName</text>
+      </register>
+      <register name="-" type="4">
+        <text>SearchHandler</text>
+      </register>
+      <register name="/" type="4">
+        <text>todo</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">JGVsYXN0aWNzZWFyY2hIYW5kbGVyID0gbmV3IFxNb25vbG9nXEhhbmRsZXJcRWxhc3RpY1NlYXJjaEhhbmRsZXIoJGVsYXN0aWNhQ2xpZW50KTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAibW9ub2xvZy9tb25vbG9nIjogIl4xLjIzIiwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAibW9ub2xvZy9tb25vbG9nIjogIn4yLjAiLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW5pX3NldCgnbWVtb3J5X2xpbWl0JywgJzY0TScpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJtaW5pbXVtLXN0YWJpbGl0eSI6ICJkZXYiLAogICAgInByZWZlci1zdGFibGUiIDogdHJ1ZQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAicnVmbGluL2VsYXN0aWNhIjogIl43LjAiLAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>wa</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>todo</last-search>
+      <last-offset />
+      <last-pattern>todo</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>request.coches.com</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
