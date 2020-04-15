@@ -37,18 +37,18 @@
         <entry>114</entry>
         <entry>82</entry>
         <entry>x</entry>
-        <entry>q</entry>
         <entry>53</entry>
         <entry>22</entry>
         <entry>214</entry>
         <entry>bnext</entry>
         <entry>w</entry>
         <entry>180</entry>
-        <entry>qa</entry>
-        <entry>wa</entry>
         <entry>141</entry>
-        <entry>vs</entry>
         <entry>132</entry>
+        <entry>qa</entry>
+        <entry>vs</entry>
+        <entry>q</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -97,15 +97,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/VN/Request/GuzzleVNRequestRepository.php" timestamp="1586882584330" />
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200415112510_change_primary_key_torequest_user_status_table_2nd_step.php" timestamp="1586952798597">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="36" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" timestamp="1586947261533">
         <mark key="'" line="26" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/application/validator/validatorType/RequestStatusValidator.php" timestamp="1586945829098" />
-      <file name="$USER_HOME$/Projects/mizona.coches.com/composer.lock" timestamp="1586870694651">
-        <mark key="'" line="129" column="16" />
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200415115628.php" timestamp="1586952003828">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="82" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/src/application/validator/validatorType/RequestStatusValidator.php" timestamp="1586945829098" />
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/MigrationController.php" timestamp="1586943106780" />
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200402151827_add_model_id_to_request.php" timestamp="1586951431039">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200415115610_change_primary_key_torequest_user_status_table_1st_step.php" timestamp="1586951946271">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="10" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" timestamp="1586945897078">
         <mark key="'" line="129" column="4" />
       </file>
@@ -114,17 +132,37 @@
         <mark key="]" line="172" column="49" />
         <mark key="." line="172" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/.htaccess" timestamp="1586882714864" />
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200415115623.php" timestamp="1586951810817">
+        <mark key="[" line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200415113516_add_dealer_id_column_to_request_user_status_table.php" timestamp="1586952090179">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="25" column="32" />
+        <mark key="^" line="35" column="39" />
+        <mark key="." line="35" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200413145146_delete_resolution_column_from_request.php" timestamp="1586940661534">
         <mark key="[" line="37" column="28" />
         <mark key="]" line="38" column="34" />
         <mark key="^" line="38" column="34" />
         <mark key="." line="38" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/VN/request/RequestAuthorisedDealerController.php" timestamp="1586882497484" />
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200415113516.php" timestamp="1586950527869">
+        <mark key="[" line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200415112510_change_primary_key_torequest_user_status_table_1st_step.php" timestamp="1586952713023">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="57" />
+        <mark key="^" line="40" column="17" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200401134013_create_table_request_user_status.php" timestamp="1586952465899">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="57" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/VNRequestController.php" />
       <jump line="93" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/requests/vn/MakeModelGroupRequestVnDTO.php" />
       <jump line="284" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/UserVNOpportunity/FinderMakeModelRequestVNUseCaseTest.php" />
       <jump line="145" column="24" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerUserCard/DealerUserCardPage.js" />
@@ -224,24 +262,25 @@
       <jump line="129" column="16" filename="$USER_HOME$/Projects/mizona.coches.com/composer.lock" />
       <jump line="129" column="4" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" />
       <jump line="26" column="10" filename="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/request.coches.com/migrations/Version20200415113516_add_dealer_id_column_to_request_user_status_table.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>nullable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>nullable</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>migrat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JGVsYXN0aWNzZWFyY2hIYW5kbGVyID0gbmV3IFxNb25vbG9nXEhhbmRsZXJcRWxhc3RpY1NlYXJjaEhhbmRsZXIoJGVsYXN0aWNhQ2xpZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGFibGUgPSAkc2NoZW1hLT5nZXRUYWJsZShzZWxmOjpUQUJMRSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -250,28 +289,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzIGRvd24oKSBtaWdyYXRpb24gaXMgYXV0by1nZW5lcmF0ZWQsIHBsZWFzZSBtb2RpZnkgaXQgdG8geW91ciBuZWVkcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAibW9ub2xvZy9tb25vbG9nIjogIl4xLjIzIiwK</text>
+        <text encoding="base64">ICAgICAgICAkdGFibGUtPnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAibW9ub2xvZy9tb25vbG9nIjogIn4yLjAiLAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHRhYmxlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW5pX3NldCgnbWVtb3J5X2xpbWl0JywgJzY0TScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzIHVwKCkgbWlncmF0aW9uIGlzIGF1dG8tZ2VuZXJhdGVkLCBwbGVhc2UgbW9kaWZ5IGl0IHRvIHlvdXIgbmVlZHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJtaW5pbXVtLXN0YWJpbGl0eSI6ICJkZXYiLAogICAgInByZWZlci1zdGFibGUiIDogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGFibGUtPmEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAicnVmbGluL2VsYXN0aWNhIjogIl43LjAiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>132</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
