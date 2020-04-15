@@ -46,9 +46,9 @@
         <entry>214</entry>
         <entry>bnext</entry>
         <entry>w</entry>
-        <entry>wa</entry>
-        <entry>qa</entry>
         <entry>180</entry>
+        <entry>qa</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -97,11 +97,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/domain/infrastructure/providers/requests/RequestsDataProvider.php" timestamp="1586267498439">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/VN/Request/GuzzleVNRequestRepository.php" timestamp="1586882584330" />
       <file name="/fragment.php" timestamp="1586343797358">
         <mark key="[" line="0" column="0" />
@@ -117,9 +112,6 @@
         <mark key="]" line="214" column="0" />
         <mark key="." line="214" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/transformers/Client/ClientGatewayTransformer.php" timestamp="1586266814940">
-        <mark key="'" line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/coches.com/models/OrderVN/FinderAuthorisedDealerRequestService.php" timestamp="1586882812435">
         <mark key="[" line="172" column="49" />
         <mark key="]" line="172" column="49" />
@@ -132,6 +124,12 @@
         <mark key="'" line="129" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/.htaccess" timestamp="1586882714864" />
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200413145146_delete_resolution_column_from_request.php" timestamp="1586940661534">
+        <mark key="[" line="37" column="28" />
+        <mark key="]" line="38" column="34" />
+        <mark key="^" line="38" column="34" />
+        <mark key="." line="38" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/VN/request/RequestAuthorisedDealerController.php" timestamp="1586882497484" />
     </filemarks>
     <jumps>
@@ -240,13 +238,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ModelId</text>
+        <text>nullable</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>ModelId</text>
+        <text>nullable</text>
       </register>
       <register name="/" type="4">
         <text>yii</text>
@@ -282,7 +280,7 @@
         <text encoding="base64">ICAgICAgICAicnVmbGluL2VsYXN0aWNhIjogIl43LjAiLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>180</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
