@@ -106,6 +106,12 @@
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" timestamp="1586947261533">
         <mark key="'" line="26" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200401140628_migrate_request_user_status.php" timestamp="1586960720371">
+        <mark key="[" line="24" column="64" />
+        <mark key="]" line="24" column="65" />
+        <mark key="^" line="24" column="65" />
+        <mark key="." line="24" column="64" />
+      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200415115628.php" timestamp="1586952003828">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="10" column="82" />
@@ -126,11 +132,6 @@
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" timestamp="1586945897078">
         <mark key="'" line="129" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/coches.com/models/OrderVN/FinderAuthorisedDealerRequestService.php" timestamp="1586882812435">
-        <mark key="[" line="172" column="49" />
-        <mark key="]" line="172" column="49" />
-        <mark key="." line="172" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200415115623.php" timestamp="1586951810817">
         <mark key="[" line="10" column="27" />
@@ -157,10 +158,15 @@
         <mark key="^" line="40" column="17" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200401134013_create_table_request_user_status.php" timestamp="1586958928248" />
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200401134013_create_table_request_user_status.php" timestamp="1586959917690">
+        <mark key="'" line="30" column="23" />
+        <mark key="[" line="58" column="54" />
+        <mark key="]" line="58" column="66" />
+        <mark key="." line="58" column="65" />
+        <mark key="^" line="58" column="66" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/dto/requests/vn/MakeModelGroupRequestVnDTO.php" />
       <jump line="284" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/UserVNOpportunity/FinderMakeModelRequestVNUseCaseTest.php" />
       <jump line="145" column="24" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerUserCard/DealerUserCardPage.js" />
       <jump line="144" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerUserCard/DealerUserCardPage.js" />
@@ -260,24 +266,25 @@
       <jump line="129" column="4" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" />
       <jump line="26" column="10" filename="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/request.coches.com/migrations/Version20200415113516_add_dealer_id_column_to_request_user_status_table.php" />
+      <jump line="30" column="23" filename="$USER_HOME$/Projects/request.coches.com/migrations/Version20200401134013_create_table_request_user_status.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>user_id</text>
+        <text>direct_dealer_id</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>user_id</text>
+        <text>direct_dealer_id</text>
       </register>
       <register name="/" type="4">
         <text>migrat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ3VzZXJfaWQnLAogICAgICAgICAgICAgICAgJ3N0cmluZycsCiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgJ25vdG51bGwnID0+IHRydWUsCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCIKICAgICAgICAgICAgSU5TRVJUIElOVE8gcmVxdWVzdF91c2VyX3N0YXR1cyAocmVxdWVzdF9pZCwgdXNlcl9pZCwgZGVhbGVyX2lkLCBzdGF0dXMpCgkgICAgICAgICAgICBTRUxFQ1QgcmVxLmlkLCByZXEudXNlcl9pZCwgcmVxLmRpcmVjdF9kZWFsZXJfaWQgcmVxLnN0YXR1cwoJICAgICAgICAgICAgRlJPTSBgcmVxdWVzdGAgcmVxCgkgICAgIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
