@@ -46,9 +46,9 @@
         <entry>qa</entry>
         <entry>199</entry>
         <entry>vs</entry>
+        <entry>40</entry>
         <entry>q</entry>
         <entry>wa</entry>
-        <entry>40</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -103,7 +103,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" timestamp="1587037309653">
+      <file name="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" timestamp="1587045101777">
         <mark key="'" line="53" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200401140628_migrate_request_user_status.php" timestamp="1587033402751">
@@ -121,9 +121,14 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/application/validator/validatorType/RequestStatusValidator.php" timestamp="1586945829098" />
       <file name="/PHP Console" timestamp="1587037114101">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/tests/Functional/request/MarkRequestAsReadByUserFunctionalTest.php" timestamp="1587043940510">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="30" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200402151827_add_model_id_to_request.php" timestamp="1586951431039">
         <mark key="[" line="35" column="0" />
@@ -135,8 +140,23 @@
         <mark key="^" line="10" column="23" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" timestamp="1587036444037">
-        <mark key="'" line="76" column="52" />
+      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/request/Request.php" timestamp="1587045025048">
+        <mark key="[" line="477" column="92" />
+        <mark key="]" line="477" column="92" />
+        <mark key="." line="477" column="92" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/request/RequestUserStatus.php" timestamp="1587044917913">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="53" column="69" />
+      </file>
+      <file name="/fragment.php" timestamp="1587045638509">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" timestamp="1587045113840">
+        <mark key="'" line="33" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200415115623.php" timestamp="1586951810817">
         <mark key="[" line="10" column="27" />
@@ -172,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/userVN/opportunity/detail.twig" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/userVN/opportunity/detail.twig" />
       <jump line="43" column="19" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/userVN/opportunity/detail.twig" />
       <jump line="64" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/User/VNAuthDealer.php" />
@@ -265,25 +284,26 @@
       <jump line="13" column="0" filename="$USER_HOME$/Projects/request.coches.com/migrations/Version20200415113516_add_dealer_id_column_to_request_user_status_table.php" />
       <jump line="30" column="23" filename="$USER_HOME$/Projects/request.coches.com/migrations/Version20200401134013_create_table_request_user_status.php" />
       <jump line="142" column="10" filename="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" />
-      <jump line="33" column="6" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" />
       <jump line="44" column="23" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" />
       <jump line="45" column="23" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" />
       <jump line="59" column="49" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" />
       <jump line="68" column="43" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" />
       <jump line="76" column="52" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" />
       <jump line="53" column="42" filename="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/request/RequestUserStatus.php" />
+      <jump line="33" column="6" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>LEFT</text>
+        <text>, $this</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>LEFT</text>
+        <text>, $this</text>
       </register>
       <register name="/" type="4">
         <text>byuser</text>
@@ -292,34 +312,34 @@
         <text encoding="base64">ICAgICAgICAgICAgSU5TRVJUIElOVE8gcmVxdWVzdF9kZWFsZXJfc3RhdHVzIChyZXF1ZXN0X2lkLCBkZWFsZXJfaWQsIHN0YXR1cykKICAgICAgICAgICAgICAgIFNFTEVDVCByZXEuaWQsIHJlcS5kaXJlY3RfZGVhbGVyX2lkLCBJRigpCiAgICAgICAgICAgICAgICAgICAgRlJPTSBgcmVxdWVzdGAgcmVxCiAgICAgICAgICAgICAgICAgICAgSU5ORVIgSk9JTiBgZGVhbGVyX3VzZXJfaW50ZXJhY3Rpb25gCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSU5TRVJUIElOVE8gcmVxdWVzdF9kZWFsZXJfc3RhdHVzIChyZXF1ZXN0X2lkLCBkZWFsZXJfaWQsIHN0YXR1cykKCSAgICAgICAgICAgIFNFTEVDVCByZXEuaWQsIHJlcS5yZXNlbmRfZGVhbGVyX2lkLCByZXEuc3RhdHVzCgkgICAgICAgICAgICBGUk9NIGByZXF1ZXN0YCByZXEgCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgICAgICBBTkQgcmVxLnJlc2VuZF9kZWFsZXJfaWQgIT0gcmVxLmRpcmVjdF9kZWFsZXJfaWQgCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdCA9ICRyZXF1ZXN0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIFdIRVJFIHJlcS5yZXNlbmRfZGVhbGVyX2lkIElTIE5PVCBOVUxMIAo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gUmVxdWVzdAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0UmVxdWVzdCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5yZXF1ZXN0OwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSU5TRVJUIElOVE8gcmVxdWVzdF9kZWFsZXJfc3RhdHVzIChyZXF1ZXN0X2lkLCBkZWFsZXJfaWQsIHN0YXR1cykKICAgICAgICAgICAgICAgIFNFTEVDVCByLmlkLCByLmRpcmVjdF9kZWFsZXJfaWQsIElGKHIuY3JlYXRlZF9hdCA+IGkubGFzdF9yZWFkLCAxLCAwKQogICAgICAgICAgICAgICAgICAgIEZST00gYHJlcXVlc3RgIHIKICAgICAgICAgICAgICAgICAgICBJTk5FUiBKT0lOIGBkZWFsZXJfdXNlcl9pbnRlcmFjdGlvbmAgaQogICAgICAgICAgICAgICAgICAgICAgICBPTiByLmRpcmVjdF9kZWFsZXJfaWQgPSBpLmRlYWxlcl9pZCBBTkQgci51c2VyX2lkID0gaS51c2VyX2lkCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjokZW50aXR5TWFuYWdlci0+cGVyc2lzdCgkcmVxdWVzdCk7CiAgICAgICAgc2VsZjo6JGVudGl0eU1hbmFnZXItPmZsdXNoKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSU5TRVJUIElOVE8gcmVxdWVzdF9kZWFsZXJfc3RhdHVzIChyZXF1ZXN0X2lkLCBkZWFsZXJfaWQsIHN0YXR1cykKICAgICAgICAgICAgICAgIFNFTEVDVCByZXEuaWQsIHJlcS5kaXJlY3RfZGVhbGVyX2lkLCBJRigpCiAgICAgICAgICAgICAgICAgICAgRlJPTSBgcmVxdWVzdGAgcmVxCiAgICAgICAgICAgICAgICAgICAgSU5ORVIgSk9JTiBgZGVhbGVyX3VzZXJfaW50ZXJhY3Rpb25gCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIEZST00gYHJlcXVlc3RgIHJlcQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>40</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
@@ -331,7 +351,7 @@
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
