@@ -45,10 +45,10 @@
         <entry>141</entry>
         <entry>132</entry>
         <entry>qa</entry>
+        <entry>199</entry>
         <entry>vs</entry>
         <entry>q</entry>
         <entry>wa</entry>
-        <entry>199</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -106,10 +106,14 @@
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" timestamp="1586947261533">
         <mark key="'" line="26" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200401140628_migrate_request_user_status.php" timestamp="1586961665842">
-        <mark key="]" line="23" column="68" />
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200401140628_migrate_request_user_status.php" timestamp="1587033402751">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="57" column="11" />
         <mark key="^" line="23" column="68" />
         <mark key="." line="23" column="67" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200416103154.php" timestamp="1587033153387">
+        <mark key="[" line="10" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200415115628.php" timestamp="1586952003828">
         <mark key="[" line="10" column="27" />
@@ -142,11 +146,11 @@
         <mark key="^" line="35" column="39" />
         <mark key="." line="35" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200413145146_delete_resolution_column_from_request.php" timestamp="1586940661534">
-        <mark key="[" line="37" column="28" />
-        <mark key="]" line="38" column="34" />
-        <mark key="^" line="38" column="34" />
-        <mark key="." line="38" column="33" />
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200416103154_migrate_request_dealer_status.php" timestamp="1587033428958">
+        <mark key="[" line="36" column="40" />
+        <mark key="]" line="36" column="46" />
+        <mark key="^" line="36" column="46" />
+        <mark key="." line="36" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200415113516.php" timestamp="1586950527869">
         <mark key="[" line="10" column="27" />
@@ -270,50 +274,50 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>user</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>direct_dealer_id</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>migrat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCIKICAgICAgICAgICAgSU5TRVJUIElOVE8gcmVxdWVzdF91c2VyX3N0YXR1cyAocmVxdWVzdF9pZCwgdXNlcl9pZCwgZGVhbGVyX2lkLCBzdGF0dXMpCgkgICAgICAgICAgICBTRUxFQ1QgcmVxLmlkLCByZXEudXNlcl9pZCwgcmVxLmRpcmVjdF9kZWFsZXJfaWQgcmVxLnN0YXR1cwoJICAgICAgICAgICAgRlJPTSBgcmVxdWVzdGAgcmVxCgkgICAgIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCIKICAgICAgICAgICAgVFJVTkNBVEUgcmVxdWVzdF91c2VyX3N0YXR1cwogICAgICAgICIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvLyB0aGlzIGRvd24oKSBtaWdyYXRpb24gaXMgYXV0by1nZW5lcmF0ZWQsIHBsZWFzZSBtb2RpZnkgaXQgdG8geW91ciBuZWVkcwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzIHVwKCkgbWlncmF0aW9uIGlzIGF1dG8tZ2VuZXJhdGVkLCBwbGVhc2UgbW9kaWZ5IGl0IHRvIHlvdXIgbmVlZHMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CSAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CSAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFibGUtPnMK</text>
+        <text encoding="base64">CSAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJHRhYmxlOwo=</text>
+        <text encoding="base64">CSAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>199</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
