@@ -44,11 +44,11 @@
         <entry>132</entry>
         <entry>199</entry>
         <entry>40</entry>
-        <entry>qa</entry>
-        <entry>w</entry>
         <entry>vs</entry>
         <entry>q</entry>
         <entry>wa</entry>
+        <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -130,12 +130,6 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="30" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200415115610_change_primary_key_torequest_user_status_table_1st_step.php" timestamp="1586951946271">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="23" />
-        <mark key="^" line="10" column="23" />
-        <mark key="." line="10" column="22" />
-      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/request/Request.php" timestamp="1587045025048">
         <mark key="[" line="477" column="92" />
         <mark key="]" line="477" column="92" />
@@ -152,6 +146,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="^" line="29" column="31" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/config.coches.com/tests/env.test" timestamp="1587049544824">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200415113516_add_dealer_id_column_to_request_user_status_table.php" timestamp="1586952090179">
         <mark key="'" line="13" column="0" />
@@ -291,14 +291,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0RXhwZWN0ZWRSZXF1ZXN0TGlzdChbJGV4cGVjdGVkUmVxdWVzdF0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>myPassword</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>array</text>
+        <text>myPassword</text>
       </register>
       <register name="/" type="4">
         <text>byuser</text>
@@ -334,7 +334,7 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdCA9ICRyZXF1ZXN0Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
