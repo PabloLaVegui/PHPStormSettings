@@ -45,10 +45,10 @@
         <entry>199</entry>
         <entry>40</entry>
         <entry>vs</entry>
-        <entry>q</entry>
         <entry>w</entry>
-        <entry>wa</entry>
         <entry>qa</entry>
+        <entry>q</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -97,27 +97,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200415112510_change_primary_key_torequest_user_status_table_2nd_step.php" timestamp="1586952798597">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="36" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" timestamp="1587045101777">
-        <mark key="'" line="53" column="42" />
-      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200401140628_migrate_request_user_status.php" timestamp="1587033402751">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="57" column="11" />
         <mark key="^" line="23" column="68" />
         <mark key="." line="23" column="67" />
-      </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200416103154.php" timestamp="1587033153387">
-        <mark key="[" line="10" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/yiisoft/yii/framework/yiit.php" timestamp="1587050097220" />
-      <file name="/PHP Console" timestamp="1587037114101">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/tests/Functional/request/MarkRequestAsReadByUserFunctionalTest.php" timestamp="1587046518216">
         <mark key="[" line="31" column="0" />
@@ -130,9 +114,6 @@
         <mark key="]" line="477" column="92" />
         <mark key="." line="477" column="92" />
       </file>
-      <file name="/fragment.php" timestamp="1587045638509">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" timestamp="1587045113840">
         <mark key="'" line="33" column="6" />
       </file>
@@ -142,6 +123,32 @@
         <mark key="^" line="29" column="31" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/VNRequest.php" timestamp="1587106922559" />
+      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/domain/useCase/request/MarkAsReadByDealerUseCaseTest.php" timestamp="1587047069107">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/main.php" timestamp="1587050177057" />
+      <file name="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" timestamp="1587045101777">
+        <mark key="'" line="53" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200416103154.php" timestamp="1587033153387">
+        <mark key="[" line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/yiisoft/yii/framework/yiit.php" timestamp="1587050097220" />
+      <file name="/PHP Console" timestamp="1587037114101">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/fixtures/Request/VNRequestFixtures.php" timestamp="1587107851954">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="/fragment.php" timestamp="1587045638509">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/tests/Functional/request/FindRequestListByUserIdFunctionalTest.php" timestamp="1587106359825" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/config.coches.com/tests/env.test" timestamp="1587049544824">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="16" />
@@ -153,19 +160,6 @@
         <mark key="]" line="21" column="22" />
         <mark key="^" line="21" column="22" />
         <mark key="." line="21" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/domain/useCase/request/MarkAsReadByDealerUseCaseTest.php" timestamp="1587047069107">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/main.php" timestamp="1587050177057" />
-      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200401134013_create_table_request_user_status.php" timestamp="1586959917690">
-        <mark key="'" line="30" column="23" />
-        <mark key="[" line="58" column="54" />
-        <mark key="]" line="58" column="66" />
-        <mark key="." line="58" column="65" />
-        <mark key="^" line="58" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/domain/useCase/request/MarkAsReadByUserUseCaseTest.php" timestamp="1587047115729" />
     </filemarks>
@@ -274,8 +268,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>myPassword</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXR1cycgPT4gIHNlbGY6OmdldEFycmF5VmFsdWUoJ3N0YXR1cycsICRvcHRpb25zLCAnMCcpLAo=</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
@@ -290,34 +284,34 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdFJlcG9zaXRvcnlNb2NrLT5leHBlY3RzKHNlbGY6Om9uY2UoKSkKICAgICAgICAgICAgLT5tZXRob2QoJ2dldEJ5VXNlcklkQW5kRGVhbGVySWQnKQogICAgICAgICAgICAtPndpdGgoJHVzZXJJZCwgJGRlYWxlcklkKQogICAgICAgICAgICAtPndpbGxSZXR1cm4oWyRleHBlY3RlZFJlcXVlc3RdCiAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0RXhwZWN0ZWRSZXF1ZXN0TGlzdChbJGV4cGVjdGVkUmVxdWVzdF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXR1cycgPT4gIHNlbGY6OmdldEFycmF5VmFsdWUoJ3N0YXR1cycsICRvcHRpb25zLCAnMCcpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBSZXF1ZXN0W10gJGV4cGVjdGVkUmVxdWVzdExpc3QKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBzZXRFeHBlY3RlZFJlcXVlc3RMaXN0KGFycmF5ICRleHBlY3RlZFJlcXVlc3RMaXN0KQogICAgewogICAgICAgICR0aGlzLT5yZXF1ZXN0UmVwb3NpdG9yeU1vY2stPmV4cGVjdHMoc2VsZjo6b25jZSgpKQogICAgICAgICAgICAtPm1ldGhvZCgnZ2V0QnlVc2VySWRBbmREZWFsZXJJZCcpCiAgICAgICAgICAgIC0+d2l0aCgkdXNlcklkLCAkZGVhbGVySWQpCiAgICAgICAgICAgIC0+d2lsbFJldHVybihbJGV4cGVjdGVkUmVxdWVzdF0pOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc29sdXRpb24nID0+IHNlbGY6OmdldEFycmF5VmFsdWUoJ3Jlc29sdXRpb24nLCAkb3B0aW9ucywgbnVsbCksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0RXhwZWN0ZWRSZXF1ZXN0TGlzdChbJGV4cGVjdGVkUmVxdWVzdF0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjokZW50aXR5TWFuYWdlci0+cGVyc2lzdCgkcmVxdWVzdCk7CiAgICAgICAgc2VsZjo6JGVudGl0eU1hbmFnZXItPmZsdXNoKCk7Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBSZXF1ZXN0W10gJGV4cGVjdGVkUmVxdWVzdExpc3QKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBzZXRFeHBlY3RlZFJlcXVlc3RMaXN0KGFycmF5ICRleHBlY3RlZFJlcXVlc3RMaXN0KQogICAgewogICAgICAgICR0aGlzLT5yZXF1ZXN0UmVwb3NpdG9yeU1vY2stPmV4cGVjdHMoc2VsZjo6b25jZSgpKQogICAgICAgICAgICAtPm1ldGhvZCgnZ2V0QnlVc2VySWRBbmREZWFsZXJJZCcpCiAgICAgICAgICAgIC0+d2l0aCgkdXNlcklkLCAkZGVhbGVySWQpCiAgICAgICAgICAgIC0+d2lsbFJldHVybihbJGV4cGVjdGVkUmVxdWVzdF0pOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjokZW50aXR5TWFuYWdlci0+cGVyc2lzdCgkcmVxdWVzdCk7CiAgICAgICAgc2VsZjo6JGVudGl0eU1hbmFnZXItPmZsdXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjokZW50aXR5TWFuYWdlci0+cGVyc2lzdCgkcmVxdWVzdCk7CiAgICAgICAgc2VsZjo6JGVudGl0eU1hbmFnZXItPmZsdXNoKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjokZW50aXR5TWFuYWdlci0+cGVyc2lzdCgkcmVxdWVzdCk7CiAgICAgICAgc2VsZjo6JGVudGl0eU1hbmFnZXItPmZsdXNoKCk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdCA9ICRyZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
