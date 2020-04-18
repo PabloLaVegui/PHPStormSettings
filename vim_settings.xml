@@ -45,10 +45,10 @@
         <entry>199</entry>
         <entry>40</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>vs</entry>
         <entry>q</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -97,6 +97,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1587251968396">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/request/Request.php" timestamp="1587045025048">
         <mark key="[" line="477" column="92" />
         <mark key="]" line="477" column="92" />
@@ -129,14 +132,11 @@
         <mark key="^" line="29" column="31" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/migrations/Version20200416103154.php" timestamp="1587033153387">
-        <mark key="[" line="10" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/katas/kata-skeleton/src/Kata.php" timestamp="1587250824750">
-        <mark key="[" line="32" column="17" />
-        <mark key="]" line="32" column="18" />
-        <mark key="." line="32" column="17" />
-        <mark key="^" line="32" column="18" />
+      <file name="$USER_HOME$/Projects/katas/kata-skeleton/src/Kata.php" timestamp="1587251896952">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/config.coches.com/tests/env.test" timestamp="1587049544824">
         <mark key="[" line="3" column="12" />
@@ -167,11 +167,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/katas/kata-skeleton/test/KataTest.php" timestamp="1587250345529">
-        <mark key="[" line="26" column="28" />
-        <mark key="]" line="26" column="35" />
-        <mark key="^" line="26" column="35" />
-        <mark key="." line="26" column="34" />
+      <file name="$USER_HOME$/Projects/katas/kata-skeleton/test/KataTest.php" timestamp="1587252064096">
+        <mark key="[" line="40" column="30" />
+        <mark key="]" line="40" column="35" />
+        <mark key="^" line="40" column="35" />
+        <mark key="." line="40" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/fixtures/Request/VNRequestFixtures.php" timestamp="1587107932449">
         <mark key="[" line="64" column="0" />
@@ -284,14 +284,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoZVZhcmlhYmxlID09PSAnYScpIHsKICAgICAgICAgICAgCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>myPassword</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>byuser</text>
@@ -300,34 +300,34 @@
         <text encoding="base64">ICAgICAgICAka2F0YSA9IG5ldyBLYXRhKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoZVZhcmlhYmxlID09PSAnYScpIHsKICAgICAgICAgICAgCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAka2F0YSA9IG5ldyBLYXRhKCk7CgogICAgICAgICRyZXN1bHQgPSAka2F0YS0+YXBpRmFjdG9yeSgndGhlLXZhcmlhYmxlJyk7CgogICAgICAgICR0aGlzLT5hc3NlcnRJbnN0YW5jZU9mKEFwaTo6Y2xhc3MsICRyZXN1bHQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dGhlVmFyaWFibGUgPSAkdGhlVmFyaWFibGU7Cg==</text>
+        <text encoding="base64">CmNsYXNzIEFwaQp7CiAgICBwcml2YXRlICR0aGVWYXJpYWJsZTsKCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoJHRoZVZhcmlhYmxlKQogICAgewogICAgICAgICR0aGlzLT50aGVWYXJpYWJsZSA9ICdhJyA9PT0gJHRoZVZhcmlhYmxlCiAgICAgICAgICAgID8gJHRoZVZhcmlhYmxlCiAgICAgICAgICAgIDogJ2InOwogICAgfQp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoZVZhcmlhYmxlID09PSAnYScpIHsKICAgICAgICAgICAgCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dGhlVmFyaWFibGUgPSAkdGhlVmFyaWFibGU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJG1ha2VJZDsKICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkbW9kZWxJZDsKICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkc2VnbWVudElkOwogICAgLyoqIEB2YXIgc3RyaW5nICovCiAgICBwcml2YXRlICR2ZXJzaW9uSWQ7CiAgICAvKiogQHZhciBzdHJpbmcgKi8KICAgIHByaXZhdGUgJHN0b2NrSWQ7CiAgICAvKiogQHZhciBzdHJpbmcgKi8KICAgIHByaXZhdGUgJGV4dHJhczsKICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkcHJvdmluY2VJZDsKICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkdHlwZTsKICAgIC8qKiBAdmFyIGJvb2wgKi8KICAgIHByaXZhdGUgJHdpdGhDcmVkaXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXR1cycgPT4gIHNlbGY6OmdldEFycmF5VmFsdWUoJ3N0YXR1cycsICRvcHRpb25zLCAnMCcpLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXR1cycgPT4gIHNlbGY6OmdldEFycmF5VmFsdWUoJ3N0YXR1cycsICRvcHRpb25zLCAnMCcpLAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJG1ha2VJZDsKICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkbW9kZWxJZDsKICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkc2VnbWVudElkOwogICAgLyoqIEB2YXIgc3RyaW5nICovCiAgICBwcml2YXRlICR2ZXJzaW9uSWQ7CiAgICAvKiogQHZhciBzdHJpbmcgKi8KICAgIHByaXZhdGUgJHN0b2NrSWQ7CiAgICAvKiogQHZhciBzdHJpbmcgKi8KICAgIHByaXZhdGUgJGV4dHJhczsKICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkcHJvdmluY2VJZDsKICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkdHlwZTsKICAgIC8qKiBAdmFyIGJvb2wgKi8KICAgIHByaXZhdGUgJHdpdGhDcmVkaXQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc29sdXRpb24nID0+IHNlbGY6OmdldEFycmF5VmFsdWUoJ3Jlc29sdXRpb24nLCAkb3B0aW9ucywgbnVsbCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXR1cycgPT4gIHNlbGY6OmdldEFycmF5VmFsdWUoJ3N0YXR1cycsICRvcHRpb25zLCAnMCcpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0RXhwZWN0ZWRSZXF1ZXN0TGlzdChbJGV4cGVjdGVkUmVxdWVzdF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXR1cycgPT4gIHNlbGY6OmdldEFycmF5VmFsdWUoJ3N0YXR1cycsICRvcHRpb25zLCAnMCcpLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
