@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>modelId</entry>
         <entry>execu</entry>
         <entry>request.coches.com</entry>
         <entry>options</entry>
@@ -27,6 +26,7 @@
         <entry>statusenu</entry>
         <entry encoding="base64">XDxnZXRDYXJUeXBlSW5mb1w+</entry>
         <entry>eurotax</entry>
+        <entry>groupby</entry>
       </history-search>
       <history-cmd>
         <entry>77</entry>
@@ -100,6 +100,12 @@
       <file name="/Dummy.txt" timestamp="1587366908410">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/src/infrastructure/doctrine/userRequestsSummary/DoctrineUserRequestsSummaryRepository.php" timestamp="1587393796725">
+        <mark key="[" line="129" column="100" />
+        <mark key="]" line="129" column="142" />
+        <mark key="^" line="129" column="142" />
+        <mark key="." line="129" column="141" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/RequestDealerStatus.php" timestamp="1587367065359">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="16" />
@@ -111,6 +117,9 @@
         <mark key="]" line="9" column="26" />
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/userRequestsSummary/DoctrineUserRequestsSummaryRepositoryTest.php" timestamp="1587393461353">
+        <mark key="'" line="58" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1587390172486">
         <mark key="'" line="125" column="2" />
@@ -134,13 +143,7 @@
         <mark key="^" line="13" column="16" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/katas/kata-skeleton/src/Kata.php" timestamp="1587254486031">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="51" />
-        <mark key="." line="15" column="50" />
-        <mark key="^" line="15" column="51" />
-      </file>
-      <file name="/PHP Console" timestamp="1587390131057">
+      <file name="/PHP Console" timestamp="1587393695921">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/VNRequest.php" timestamp="1587375837067">
@@ -187,8 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="21" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
-      <jump line="16" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
       <jump line="70" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
       <jump line="99" column="9" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
       <jump line="127" column="28" filename="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/requests/RequestEntity.php" />
@@ -287,6 +288,8 @@
       <jump line="46" column="22" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
       <jump line="49" column="28" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
       <jump line="125" column="2" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
+      <jump line="300" column="35" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/userRequestsSummary/DoctrineUserRequestsSummaryRepositoryTest.php" />
+      <jump line="58" column="43" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/userRequestsSummary/DoctrineUserRequestsSummaryRepositoryTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,7 +304,7 @@
         <text>qa2</text>
       </register>
       <register name="/" type="4">
-        <text>eurotax</text>
+        <text>groupby</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAndmVyaWZ5JyA9PiAkY29uZmlnLT5nZXQoJ0NPQ0hFU19FTlZJUk9OTUVOVCcpICE9PSAnREVWRUwnCg==</text>
@@ -340,13 +343,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>eurotax</last-search>
+      <last-search>groupby</last-search>
       <last-offset />
-      <last-pattern>eurotax</last-pattern>
+      <last-pattern>groupby</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
