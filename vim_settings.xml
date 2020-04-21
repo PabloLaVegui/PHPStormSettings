@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>options</entry>
-        <entry>curl</entry>
-        <entry>godo</entry>
         <entry encoding="base64">XDxyZXF1ZXN0RGF0YVByb3ZpZGVyXD4=</entry>
         <entry>todo</entry>
         <entry>yii</entry>
@@ -27,12 +24,11 @@
         <entry>groupby</entry>
         <entry>interaction</entry>
         <entry>get</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0VmlzdWFsaXphdGlvbklkTGlzdFw+</entry>
+        <entry encoding="base64">XDxnZXRHRVRSZXF1ZXN0RGVhbGVyQVBJUmVzcG9uc2VcPg==</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
-        <entry>x</entry>
-        <entry>53</entry>
-        <entry>22</entry>
-        <entry>214</entry>
         <entry>bnext</entry>
         <entry>180</entry>
         <entry>141</entry>
@@ -43,12 +39,16 @@
         <entry>116</entry>
         <entry>113</entry>
         <entry>w</entry>
-        <entry>vs</entry>
-        <entry>q</entry>
         <entry>688</entry>
-        <entry>204</entry>
-        <entry>wa</entry>
         <entry>qa</entry>
+        <entry>204</entry>
+        <entry>218</entry>
+        <entry>vs</entry>
+        <entry>316</entry>
+        <entry>q</entry>
+        <entry>333</entry>
+        <entry>400</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -104,6 +104,13 @@
         <mark key="^" line="210" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/UserDealerCardController.php" timestamp="1587453479721" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/FindDealerUserRequestsSummaryCollectionUseCaseTest.php" timestamp="1587480226902">
+        <mark key="'" line="182" column="16" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
+        <mark key="^" line="7" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1587390172486">
         <mark key="'" line="125" column="2" />
         <mark key="[" line="126" column="38" />
@@ -114,38 +121,39 @@
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" timestamp="1587455789763">
         <mark key="'" line="70" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleVNRequestRepositoryTest.php" timestamp="1587376501365">
-        <mark key="'" line="105" column="27" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/DealerVNRequest/FindDealerVNRequestUseCase.php" timestamp="1587381575119">
         <mark key="'" line="128" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/fixtures/domain/Models/DealerVNRequest/UserRequestsSummaryFixture.php" timestamp="1587480867966">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="40" column="8" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1587464489806">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Transformers/VNRequestTransformer.php" timestamp="1587378064402">
-        <mark key="'" line="145" column="21" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="145" column="43" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/SearchDealerUserRequestsSummaryCollectionUseCaseTest.php" timestamp="1587480479144">
+        <mark key="[" line="391" column="0" />
+        <mark key="]" line="391" column="0" />
+        <mark key="^" line="388" column="58" />
+        <mark key="." line="391" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587479363342">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/DealerVNRequest/UserRequestsSummary.php" timestamp="1587479954938">
+        <mark key="'" line="50" column="24" />
+        <mark key="[" line="35" column="13" />
+        <mark key="]" line="35" column="31" />
+        <mark key="^" line="50" column="24" />
+        <mark key="." line="50" column="20" />
       </file>
       <file name="/fragment.php" timestamp="1587458561918">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/userRequestsSummary/DoctrineUserRequestsSummaryRepositoryTest.php" timestamp="1587477870015">
         <mark key="'" line="58" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/VNRequest.php" timestamp="1587375837067">
-        <mark key="'" line="223" column="13" />
-        <mark key="[" line="141" column="41" />
-        <mark key="]" line="141" column="39" />
-        <mark key="^" line="141" column="39" />
-        <mark key="." line="141" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/enums/VNRequest/StatusEnum.php" timestamp="1587377761880">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/dependencies/rules.php" timestamp="1587390755806">
         <mark key="[" line="276" column="0" />
@@ -157,29 +165,18 @@
         <mark key="[" line="148" column="13" />
         <mark key="]" line="148" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/FindDealerVNRequestUseCaseTest.php" timestamp="1587378282933">
-        <mark key="'" line="192" column="26" />
-      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/DealerUserInteractionController.php" timestamp="1587455799634">
         <mark key="'" line="25" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/enums/Enum.php" timestamp="1587377825391">
-        <mark key="'" line="77" column="27" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/DealerVNRequest/GuzzleUserRequestsSummaryRepositoryTest.php" timestamp="1587480964158">
+        <mark key="'" line="328" column="43" />
+        <mark key="[" line="397" column="46" />
+        <mark key="]" line="397" column="67" />
+        <mark key="." line="397" column="46" />
+        <mark key="^" line="392" column="46" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="9" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
-      <jump line="85" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
-      <jump line="457" column="15" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
-      <jump line="453" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
-      <jump line="451" column="35" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
-      <jump line="449" column="15" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
-      <jump line="260" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
-      <jump line="2" column="27" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
-      <jump line="6" column="29" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
-      <jump line="16" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
-      <jump line="496" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
-      <jump line="261" column="0" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
       <jump line="267" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
       <jump line="87" column="22" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
       <jump line="113" column="9" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
@@ -268,66 +265,78 @@
       <jump line="70" column="30" filename="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" />
       <jump line="25" column="6" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/DealerUserInteractionController.php" />
       <jump line="14" column="6" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userRequestsSummary/UserRequestsSummary.php" />
+      <jump line="87" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/DealerVNRequest/UserRequestsSummary.php" />
+      <jump line="106" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/DealerVNRequest/UserRequestsSummary.php" />
+      <jump line="108" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/DealerVNRequest/UserRequestsSummary.php" />
+      <jump line="50" column="24" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/DealerVNRequest/UserRequestsSummary.php" />
+      <jump line="197" column="41" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/FindDealerUserRequestsSummaryCollectionUseCaseTest.php" />
+      <jump line="187" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/FindDealerUserRequestsSummaryCollectionUseCaseTest.php" />
+      <jump line="182" column="16" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/FindDealerUserRequestsSummaryCollectionUseCaseTest.php" />
+      <jump line="402" column="12" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/SearchDealerUserRequestsSummaryCollectionUseCaseTest.php" />
+      <jump line="297" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/DealerVNRequest/GuzzleUserRequestsSummaryRepositoryTest.php" />
+      <jump line="417" column="16" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/DealerVNRequest/GuzzleUserRequestsSummaryRepositoryTest.php" />
+      <jump line="24" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/DealerVNRequest/GuzzleUserRequestsSummaryRepositoryTest.php" />
+      <jump line="327" column="43" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/DealerVNRequest/GuzzleUserRequestsSummaryRepositoryTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>jsonSerialize</text>
+        <text>'2019-09-16 14:17:45'</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>jsonSerialize</text>
+        <text>'2019-09-16 14:17:45'</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>class</text>
       </register>
       <register name="0" type="4">
-        <text>unread_messages_count</text>
+        <text>'2019-08-11 13:00:12'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBVc2VyUmVxdWVzdHNTdW1tYXJ5W10gKi8K</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBidWlsZFNlcmlhbGl6ZWQoJG9wdGlvbnMgPSBbXSkKICAgIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ci8vICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKAovLyAgICAgICAgICAgIFsKLy8gICAgICAgICAgICAgICAgVXNlclJlcXVlc3RzU3VtbWFyeTo6YnVpbGRDb21wbGV0ZSgKLy8gICAgICAgICAgICAgICAgICAgICdzb21lX3VzZXInLAovLyAgICAgICAgICAgICAgICAgICAgZmFsc2UsCi8vICAgICAgICAgICAgICAgICAgICBudWxsLAovLyAgICAgICAgICAgICAgICAgICAgJHJlcXVlc3QtPmdldENyZWF0ZWRBdCgpLAovLyAgICAgICAgICAgICAgICAgICAgbnVsbCwKLy8gICAgICAgICAgICAgICAgICAgIG51bGwsCi8vICAgICAgICAgICAgICAgICAgICBbJHJlcXVlc3RJZC0+Z2V0VmlzdWFsaXphdGlvbklkKCldLAovLyAgICAgICAgICAgICAgICAgICAgbnVsbCwKLy8gICAgICAgICAgICAgICAgICAgIDEsCi8vICAgICAgICAgICAgICAgICAgICAyLAovLyAgICAgICAgICAgICAgICAgICAgMQovLyAgICAgICAgICAgICAgICApCi8vICAgICAgICAgICAgXSwKLy8gICAgICAgICAgICAkcmVzdWx0Ci8vICAgICAgICApOwo=</text>
+        <text encoding="base64">dXNlIG1pem9uYVxkb21haW5cTW9kZWxzXHZhbHVlXERhdGU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Q291bnQoMSwgJHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">dXNlIG1pem9uYVxkb21haW5cTW9kZWxzXERlYWxlclVzZXJJbnRlcmFjdGlvblxDYWxsU2NoZWR1bGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKDIsICRyZXN1bHRbMF0tPik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXNlclJlcXVlc3RzU3VtbWFyeUZpeHR1cmU6OmJ1aWxkKFsKICAgICAgICAgICAgICAgICd1c2VySWQnID0+ICd1c2VyLWlkJywKICAgICAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5nZXQK</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBuZXcgVXNlclJlcXVlc3RzU3VtbWFyeSgKLy8gICAgICAgICAgICAkdXNlcklkLAovLyAgICAgICAgICAgIGZhbHNlLAovLyAgICAgICAgICAgIG5ldyBEYXRlKCcyMDE5LTA4LTExIDEzOjAwOjEyJyksCi8vICAgICAgICAgICAgZmFsc2UsCi8vICAgICAgICAgICAgbnVsbCwKLy8gICAgICAgICAgICBmYWxzZSwKLy8gICAgICAgICAgICBmYWxzZSwKLy8gICAgICAgICAgICAkaWRSZXF1ZXN0TGlzdCwKLy8gICAgICAgICAgICBudWxsLAovLyAgICAgICAgICAgIDAsCi8vICAgICAgICAgICAgMCwKLy8gICAgICAgICAgICAwCi8vICAgICAgICApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAndmVyaWZ5JyA9PiBmYWxzZQo=</text>
+        <text encoding="base64">dXNlIG1pem9uYVxkb21haW5cTW9kZWxzXHZhbHVlXERhdGU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QVBJX0VVUk9UQVhfQkFTRV9VUkk9Imh0dHBzOi8vZXVyb3RheC5xYTIudGVraXMuY29jaGVzLmNvbS92MS8iCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbmV3IFVzZXJSZXF1ZXN0c1N1bW1hcnkoCi8vICAgICAgICAgICAgICAgICAgICAndXNlci1pZCcsCi8vICAgICAgICAgICAgICAgICAgICB0cnVlLAovLyAgICAgICAgICAgICAgICAgICAgbmV3IERhdGUoJzIwMTktMDktMTYgMTQ6MTc6NDUnKSwKLy8gICAgICAgICAgICAgICAgICAgIHRydWUsCi8vICAgICAgICAgICAgICAgICAgICAzLAovLyAgICAgICAgICAgICAgICAgICAgdHJ1ZSwKLy8gICAgICAgICAgICAgICAgICAgIHRydWUsCi8vICAgICAgICAgICAgICAgICAgICBbJzExMTEnLCAnMjIyMiddLAovLyAgICAgICAgICAgICAgICAgICAgbnVsbCwKLy8gICAgICAgICAgICAgICAgICAgIDAsCi8vICAgICAgICAgICAgICAgICAgICAwLAovLyAgICAgICAgICAgICAgICAgICAgMAovLyAgICAgICAgICAgICAgICApLAovLyAgICAgICAgICAgICAgICBuZXcgVXNlclJlcXVlc3RzU3VtbWFyeSgKLy8gICAgICAgICAgICAgICAgICAgICd1c2VyLWlkLTInLAovLyAgICAgICAgICAgICAgICAgICAgZmFsc2UsCi8vICAgICAgICAgICAgICAgICAgICBuZXcgRGF0ZSgnMjAxOS0wOC0xMSAxMzowMDoxMicpLAovLyAgICAgICAgICAgICAgICAgICAgZmFsc2UsCi8vICAgICAgICAgICAgICAgICAgICBudWxsLAovLyAgICAgICAgICAgICAgICAgICAgZmFsc2UsCi8vICAgICAgICAgICAgICAgICAgICBmYWxzZSwKLy8gICAgICAgICAgICAgICAgICAgIFsnMTExMScsICcyMjIyJ10sCi8vICAgICAgICAgICAgICAgICAgICBDYWxsU2NoZWR1bGU6OmNyZWF0ZShuZXcgRGF0ZSgnMjAxOS0wOS0xNiAxNDoxNzo0NScpKSwKLy8gICAgICAgICAgICAgICAgICAgIDAsCi8vICAgICAgICAgICAgICAgICAgICAwLAovLyAgICAgICAgICAgICAgICAgICAgMAovLyAgICAgICAgICAgICAgICApLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAndmVyaWZ5JyA9PiBmYWxzZQo=</text>
+        <text encoding="base64">dXNlIG1pem9uYVxkb21haW5cTW9kZWxzXHZhbHVlXERhdGU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiBSZW5vbWJyYXIgKGVzdMOhIHVzYW5kb3NlIHBhcmEgdG9TdG9yZSwgY29tcHJvYmFyKQo=</text>
+        <text encoding="base64">dXNlIG1pem9uYVxkb21haW5cTW9kZWxzXERlYWxlclVzZXJJbnRlcmFjdGlvblxDYWxsU2NoZWR1bGU7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>get</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
