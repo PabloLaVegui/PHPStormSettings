@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>todo</entry>
         <entry>yii</entry>
         <entry>mark-all</entry>
         <entry>byuser</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxnZXRHRVRSZXF1ZXN0RGVhbGVyQVBJUmVzcG9uc2VcPg==</entry>
         <entry>class</entry>
         <entry>execute</entry>
+        <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>180</entry>
@@ -41,7 +41,6 @@
         <entry>688</entry>
         <entry>204</entry>
         <entry>218</entry>
-        <entry>vs</entry>
         <entry>316</entry>
         <entry>333</entry>
         <entry>400</entry>
@@ -49,6 +48,7 @@
         <entry>qa</entry>
         <entry>61</entry>
         <entry>q</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -132,8 +132,12 @@
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" timestamp="1587455789763">
         <mark key="'" line="70" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/DealerVNRequest/FindDealerVNRequestUseCase.php" timestamp="1587540972093">
-        <mark key="'" line="96" column="31" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/DealerVNRequest/FindDealerVNRequestUseCase.php" timestamp="1587541786457">
+        <mark key="'" line="116" column="31" />
+        <mark key="[" line="60" column="21" />
+        <mark key="]" line="60" column="8" />
+        <mark key="^" line="60" column="8" />
+        <mark key="." line="60" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/fixtures/domain/Models/DealerVNRequest/UserRequestsSummaryFixture.php" timestamp="1587480867966">
         <mark key="[" line="37" column="0" />
@@ -144,7 +148,7 @@
       <file name="/PHP Console" timestamp="1587464489806">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/VNRequest.php" timestamp="1587540832261">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/VNRequest.php" timestamp="1587541753351">
         <mark key="'" line="507" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/SearchDealerUserRequestsSummaryCollectionUseCaseTest.php" timestamp="1587480479144">
@@ -165,13 +169,17 @@
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/DealerUserInteractionController.php" timestamp="1587455799634">
         <mark key="'" line="25" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/FindDealerVNRequestUseCaseTest.php" timestamp="1587542382250">
+        <mark key="[" line="267" column="63" />
+        <mark key="]" line="268" column="21" />
+        <mark key="^" line="268" column="21" />
+        <mark key="." line="268" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/DealerVNRequest/DealerVNRequest.php" timestamp="1587542399731">
+        <mark key="'" line="38" column="13" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="9" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
-      <jump line="137" column="26" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
-      <jump line="268" column="4" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
-      <jump line="41" column="13" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/crm/VnRequest.php" />
-      <jump line="132" column="42" filename="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateLocalRequestUseCase.php" />
       <jump line="3" column="10" filename="$USER_HOME$/Projects/crmmigrations/environments/.env" />
       <jump line="101" column="18" filename="$USER_HOME$/Projects/crmmigrations/src/domain/models/requests/Request.php" />
       <jump line="10" column="34" filename="/usr/local/php5/lib/php.ini" />
@@ -265,14 +273,19 @@
       <jump line="417" column="16" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/DealerVNRequest/GuzzleUserRequestsSummaryRepositoryTest.php" />
       <jump line="24" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/DealerVNRequest/GuzzleUserRequestsSummaryRepositoryTest.php" />
       <jump line="327" column="43" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/DealerVNRequest/GuzzleUserRequestsSummaryRepositoryTest.php" />
-      <jump line="507" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/VNRequest.php" />
       <jump line="96" column="31" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/DealerVNRequest/FindDealerVNRequestUseCase.php" />
+      <jump line="116" column="31" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/DealerVNRequest/FindDealerVNRequestUseCase.php" />
+      <jump line="507" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/VNRequest.php" />
+      <jump line="80" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/DealerVNRequest/DealerVNRequest.php" />
+      <jump line="67" column="9" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/DealerVNRequest/DealerVNRequest.php" />
+      <jump line="53" column="19" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/DealerVNRequest/DealerVNRequest.php" />
+      <jump line="38" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/DealerVNRequest/DealerVNRequest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>'2019-09-16 14:17:45'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGRlYWxlcklkLAo=</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
@@ -281,10 +294,10 @@
         <text>'2019-09-16 14:17:45'</text>
       </register>
       <register name="/" type="4">
-        <text>execute</text>
+        <text encoding="base64">XDxzdGF0dXNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>'2019-08-11 13:00:12'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGRlYWxlcklkLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBidWlsZFNlcmlhbGl6ZWQoJG9wdGlvbnMgPSBbXSkKICAgIHsKICAgICAgICAKICAgIH0K</text>
@@ -314,18 +327,18 @@
         <text encoding="base64">dXNlIG1pem9uYVxkb21haW5cTW9kZWxzXERlYWxlclVzZXJJbnRlcmFjdGlvblxDYWxsU2NoZWR1bGU7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>vs</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>execute</last-search>
+      <last-search encoding="base64">XDxzdGF0dXNcPg==</last-search>
       <last-offset />
-      <last-pattern>execute</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0dXNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
