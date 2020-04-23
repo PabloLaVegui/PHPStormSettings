@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>findbyparam</entry>
-        <entry>findrequestlistbydealeridanduserid</entry>
         <entry>statusenu</entry>
         <entry encoding="base64">XDxnZXRDYXJUeXBlSW5mb1w+</entry>
         <entry>eurotax</entry>
@@ -27,6 +25,8 @@
         <entry>addreci</entry>
         <entry>setto</entry>
         <entry>addrec</entry>
+        <entry encoding="base64">XDxyZWNpcGllbnRMaXN0XD4=</entry>
+        <entry encoding="base64">XDxnZXRSZWNpcGllbnRMaXN0UmF3XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
@@ -43,10 +43,10 @@
         <entry>400</entry>
         <entry>61</entry>
         <entry>180</entry>
-        <entry>vs</entry>
         <entry>qa</entry>
         <entry>28</entry>
         <entry>w</entry>
+        <entry>vs</entry>
         <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
@@ -97,24 +97,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" timestamp="1587642627499">
-        <mark key="'" line="230" column="20" />
-        <mark key="[" line="230" column="20" />
-        <mark key="]" line="230" column="21" />
-        <mark key="^" line="230" column="21" />
-        <mark key="." line="230" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/fixtures/domain/Models/DealerVNRequest/DealerStockVNRequestFixture.php" timestamp="1587547703661">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/VNPreferences/BuyVNPreferencesUseCaseTest.php" timestamp="1587547765084">
-        <mark key="'" line="187" column="16" />
-        <mark key="[" line="187" column="15" />
-        <mark key="]" line="187" column="15" />
-        <mark key="." line="187" column="15" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" timestamp="1587650434540">
+        <mark key="'" line="478" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1587639277290">
         <mark key="'" line="125" column="2" />
@@ -136,16 +120,22 @@
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Dto/AuthorisedDealer/DealerVNOpportunityDTO.php" timestamp="1587561956942">
         <mark key="'" line="147" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Balance/Transformer.php" timestamp="1587648592848">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="49" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Balance/Transformer.php" timestamp="1587651729057">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/MigrationController.php" timestamp="1587553811787">
         <mark key="'" line="56" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/DealerVNRequest/userCard/requests/request_list.twig" timestamp="1587561464134" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/Balance/LowBalanceNotificationUseCaseTest.php" timestamp="1587650868533">
+        <mark key="'" line="57" column="4" />
+        <mark key="[" line="282" column="55" />
+        <mark key="]" line="282" column="56" />
+        <mark key="^" line="282" column="56" />
+        <mark key="." line="282" column="55" />
+      </file>
       <file name="$USER_HOME$/Projects/core.coches.com/classified/tests/domainModel/classified/vo/ClassifiedVOTest.php" timestamp="1587641796038" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/fixtures/domain/Models/DealerVNRequest/DealerVNRequestFixture.php" timestamp="1587547771399">
         <mark key="'" line="29" column="0" />
@@ -162,13 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/VNRequest.php" />
-      <jump line="97" column="9" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/VNRequest.php" />
-      <jump line="76" column="35" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/VNRequest.php" />
-      <jump line="54" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/VNRequest.php" />
-      <jump line="52" column="29" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/VNRequest.php" />
-      <jump line="415" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/VNRequest.php" />
-      <jump line="55" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/VNRequest.php" />
       <jump line="224" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/VNRequest.php" />
       <jump line="183" column="3" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/VNRequest.php" />
       <jump line="221" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/VNRequest.php" />
@@ -262,51 +245,58 @@
       <jump line="152" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
       <jump line="526" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
       <jump line="230" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="78" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Balance/LowBalanceNotificationUseCase.php" />
+      <jump line="82" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Balance/LowBalanceNotificationUseCase.php" />
+      <jump line="57" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/Balance/LowBalanceNotificationUseCaseTest.php" />
+      <jump line="29" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Balance/Transformer.php" />
+      <jump line="546" column="26" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="545" column="9" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="478" column="27" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkbWFuZHJpbGxNZXNzYWdlLT5zZXRUbygkdXNlci0+Z2V0RW1haWwoKSk7CiAgICAgICAgJG1hbmRyaWxsTWVzc2FnZS0+c2V0VG9OYW1lKCR1c2VyLT5nZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>userName</text>
+        <text>array</text>
       </register>
       <register name="/" type="4">
-        <text>addrec</text>
+        <text encoding="base64">XDxnZXRSZWNpcGllbnRMaXN0UmF3XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbWVzc2FnZSA9ICR0aGlzLT5nZXRSZWNvdmVyUGFzc3dvcmRNZXNzYWdlKCRlbWFpbCwgJHVzZXJOYW1lLCAkcmVjb3ZlckxpbmspOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBidWlsZE1lc3NhZ2UoUG9zaXRpb25pbmdVc2VyICR1c2VyLCAkdGVtcGxhdGUsICR0YWdzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkbWFuZHJpbGxNZXNzYWdlLT5zZXRUbygkdXNlci0+Z2V0RW1haWwoKSk7CiAgICAgICAgJG1hbmRyaWxsTWVzc2FnZS0+c2V0VG9OYW1lKCR1c2VyLT5nZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFBvc2l0aW9uaW5nVXNlciAkdXNlcgogICAgICogQHBhcmFtIHN0cmluZyAkdGVtcGxhdGUKICAgICAqIEBwYXJhbSBhcnJheSAkdGFncwogICAgICogQHJldHVybiBNYW5kcmlsbE1lc3NhZ2UKICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkbWVzc2FnZS0+c2V0VG8oJGVtYWlsVG8pOwogICAgICAgICRtZXNzYWdlLT5zZXRUb05hbWUoJHVzZXJOYW1lKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFBvc2l0aW9uaW5nVXNlciAkdXNlcgogICAgICogQHBhcmFtIHN0cmluZyAkdGVtcGxhdGUKICAgICAqIEBwYXJhbSBhcnJheSAkdGFncwogICAgICogQHJldHVybiBNYW5kcmlsbE1lc3NhZ2UKICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRtZXNzYWdlID0gJHRoaXMtPmdldFJlY292ZXJQYXNzd29yZE1lc3NhZ2UoJGVtYWlsLCAkdXNlck5hbWUsICRyZWNvdmVyTGluayk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbWFuZHJpbGxNZXNzYWdlLT5zZXRUbygkdXNlci0+Z2V0RW1haWwoKSk7CiAgICAgICAgJG1hbmRyaWxsTWVzc2FnZS0+c2V0VG9OYW1lKCR1c2VyLT5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVjaXBpZW50ID0gJHRoaXMtPmdldFJlY2lwaWVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVjaXBpZW50ID0gbmV3IFxtaXpvbmFcZXh0ZW5zaW9uc1xNYW5kcmlsbFxSZWNpcGllbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAkbWFuZHJpbGxNZXNzYWdlLT5hZGRSZWNpcGllbnQoJHJlY2lwaWVudCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ib3Bwb3J0dW5pdHktZGV0YWlsX19zZWN0aW9uLXRpdGxle3sgb3Bwb3J0dW5pdHkuaGFzVW5yZWFkUmVxdWVzdHMoKSA/ICcgb3Bwb3J0dW5pdHktZGV0YWlsX19zZWN0aW9uLXRpdGxlLS1ub3RpZmljYXRpb24nIH19Ij4jfQo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVjaXBpZW50ID0gbmV3IFJlY2lwaWVudCgkdXNlci0+Z2V0RW1haWwoKSwgJHVzZXItPmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIGZ1bmN0aW9uIGJ1aWxkTWVzc2FnZShQb3NpdGlvbmluZ1VzZXIgJHVzZXIsICR0ZW1wbGF0ZSwgJHRhZ3MpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -315,12 +305,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>addrec</last-search>
+      <last-search encoding="base64">XDxnZXRSZWNpcGllbnRMaXN0UmF3XD4=</last-search>
       <last-offset />
-      <last-pattern>addrec</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRSZWNpcGllbnRMaXN0UmF3XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
