@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>byuser</entry>
         <entry>resolu</entry>
         <entry>migrat</entry>
         <entry encoding="base64">XDx1c2VyU3RhdHVzTGlzdFw+</entry>
@@ -27,6 +26,7 @@
         <entry>class</entry>
         <entry encoding="base64">XDxEZWFsZXJTdG9ja1ZOUmVxdWVzdFw+</entry>
         <entry encoding="base64">XDxjYWxsUmVxdWVzdFJlcG9zaXRvcnlcPg==</entry>
+        <entry>client</entry>
       </history-search>
       <history-cmd>
         <entry>141</entry>
@@ -46,9 +46,9 @@
         <entry>180</entry>
         <entry>vs</entry>
         <entry>w</entry>
-        <entry>wa</entry>
-        <entry>q</entry>
         <entry>qa</entry>
+        <entry>q</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -109,23 +109,16 @@
         <mark key="]" line="187" column="15" />
         <mark key="." line="187" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1587634894469">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1587639277290">
         <mark key="'" line="125" column="2" />
-        <mark key="[" line="126" column="38" />
-        <mark key="]" line="126" column="43" />
-        <mark key="." line="126" column="42" />
-        <mark key="^" line="126" column="43" />
+        <mark key="[" line="120" column="11" />
+        <mark key="]" line="120" column="17" />
+        <mark key="." line="120" column="16" />
+        <mark key="^" line="120" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/MigrationUserVNPreferencesController.php" timestamp="1587554283292" />
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" timestamp="1587553256653">
         <mark key="." line="153" column="64" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/DealerVNRequest/FindDealerVNRequestUseCase.php" timestamp="1587541786457">
-        <mark key="'" line="116" column="31" />
-        <mark key="[" line="60" column="21" />
-        <mark key="]" line="60" column="8" />
-        <mark key="^" line="60" column="8" />
-        <mark key="." line="60" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/fixtures/domain/Models/DealerVNRequest/UserRequestsSummaryFixture.php" timestamp="1587546780737">
         <mark key="[" line="23" column="0" />
@@ -156,6 +149,12 @@
         <mark key="^" line="60" column="14" />
         <mark key="." line="60" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/dependencies/rules.php" timestamp="1587637600929">
+        <mark key="'" line="103" column="45" />
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="276" column="0" />
+        <mark key="." line="276" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/FindDealerVNRequestUseCaseTest.php" timestamp="1587546105881">
         <mark key="'" line="312" column="0" />
         <mark key="[" line="128" column="30" />
@@ -165,10 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="49" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" />
-      <jump line="68" column="43" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" />
-      <jump line="76" column="52" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" />
-      <jump line="53" column="42" filename="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" />
       <jump line="60" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/request/RequestUserStatus.php" />
       <jump line="33" column="6" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/RequestController.php" />
       <jump line="37" column="17" filename="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" />
@@ -265,6 +260,10 @@
       <jump line="145" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/DealerVNRequest/userCard/dealer_user_card.twig" />
       <jump line="147" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Dto/AuthorisedDealer/DealerVNOpportunityDTO.php" />
       <jump line="18" column="14" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/DealerVNRequest/userCard/dealer_user_card.twig" />
+      <jump line="274" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/dependencies/rules.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/dependencies/rules.php" />
+      <jump line="21" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/dependencies/rules.php" />
+      <jump line="103" column="45" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/dependencies/rules.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -279,7 +278,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWxsUmVxdWVzdFJlcG9zaXRvcnlcPg==</text>
+        <text>client</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im9wcG9ydHVuaXR5LWRldGFpbF9fc2VjdGlvbi10aXRsZXt7IG9wcG9ydHVuaXR5Lmhhc1VucmVhZFJlcXVlc3RzKCkgPyAnIG9wcG9ydHVuaXR5LWRldGFpbF9fc2VjdGlvbi10aXRsZS0tbm90aWZpY2F0aW9uJyB9fSI+Cg==</text>
@@ -312,18 +311,18 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBpZiBvcHBvcnR1bml0eS5oYXNVbnJlYWRNZXNzYWdlcygpICV9CiAgICAgICAgICAgICAgICAgICAgICAgIHslIHNldCBpbWVzc2FnZUNsYXNzID0gb3Bwb3J0dW5pdHkuaGFzVW5yZWFkTWVzc2FnZXMoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPyAnbWVzc2FnZXNfX2ljb24tbm90aWZpY2F0aW9uLS1uZXcnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ICdtZXNzYWdlc19faWNvbi1ub3RpZmljYXRpb24tLW5vdC1uZXcnICV9CiAgICAgICAgICAgICAgICAgICAgeyUgZW5kaWYgJX0K</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjYWxsUmVxdWVzdFJlcG9zaXRvcnlcPg==</last-search>
+      <last-search>client</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWxsUmVxdWVzdFJlcG9zaXRvcnlcPg==</last-pattern>
+      <last-pattern>client</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
