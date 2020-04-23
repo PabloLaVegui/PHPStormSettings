@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>resolu</entry>
         <entry>migrat</entry>
         <entry encoding="base64">XDx1c2VyU3RhdHVzTGlzdFw+</entry>
         <entry>findbyid</entry>
@@ -27,9 +26,9 @@
         <entry encoding="base64">XDxEZWFsZXJTdG9ja1ZOUmVxdWVzdFw+</entry>
         <entry encoding="base64">XDxjYWxsUmVxdWVzdFJlcG9zaXRvcnlcPg==</entry>
         <entry>client</entry>
+        <entry>equipo</entry>
       </history-search>
       <history-cmd>
-        <entry>141</entry>
         <entry>132</entry>
         <entry>199</entry>
         <entry>40</entry>
@@ -45,9 +44,10 @@
         <entry>61</entry>
         <entry>180</entry>
         <entry>vs</entry>
-        <entry>w</entry>
-        <entry>qa</entry>
         <entry>q</entry>
+        <entry>qa</entry>
+        <entry>28</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -118,7 +118,7 @@
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/MigrationUserVNPreferencesController.php" timestamp="1587554283292" />
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" timestamp="1587553256653">
-        <mark key="." line="153" column="64" />
+        <mark key="." line="161" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/fixtures/domain/Models/DealerVNRequest/UserRequestsSummaryFixture.php" timestamp="1587546780737">
         <mark key="[" line="23" column="0" />
@@ -132,16 +132,11 @@
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/MigrationController.php" timestamp="1587553811787">
         <mark key="'" line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/DealerVNRequest/DealerVNRequest.php" timestamp="1587545906008">
-        <mark key="'" line="76" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/DealerVNRequest/DealerStockVNRequest.php" timestamp="1587545902750">
-        <mark key="'" line="51" column="9" />
-      </file>
       <file name="/Dummy.txt" timestamp="1587547348347">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/DealerVNRequest/userCard/requests/request_list.twig" timestamp="1587561464134" />
+      <file name="$USER_HOME$/Projects/core.coches.com/classified/tests/domainModel/classified/vo/ClassifiedVOTest.php" timestamp="1587641726938" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/fixtures/domain/Models/DealerVNRequest/DealerVNRequestFixture.php" timestamp="1587547771399">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="29" column="0" />
@@ -278,7 +273,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>client</text>
+        <text>equipo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im9wcG9ydHVuaXR5LWRldGFpbF9fc2VjdGlvbi10aXRsZXt7IG9wcG9ydHVuaXR5Lmhhc1VucmVhZFJlcXVlc3RzKCkgPyAnIG9wcG9ydHVuaXR5LWRldGFpbF9fc2VjdGlvbi10aXRsZS0tbm90aWZpY2F0aW9uJyB9fSI+Cg==</text>
@@ -317,9 +312,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>client</last-search>
+      <last-search>equipo</last-search>
       <last-offset />
-      <last-pattern>client</last-pattern>
+      <last-pattern>equipo</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
       <last-dir>1</last-dir>
