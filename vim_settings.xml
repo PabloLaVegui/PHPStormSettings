@@ -22,11 +22,11 @@
         <entry>addreci</entry>
         <entry>setto</entry>
         <entry>addrec</entry>
-        <entry encoding="base64">XDxyZWNpcGllbnRMaXN0XD4=</entry>
-        <entry encoding="base64">XDxnZXRSZWNpcGllbnRMaXN0UmF3XD4=</entry>
         <entry encoding="base64">XDxfdG9OYW1lXD4=</entry>
         <entry encoding="base64">XDxfdG9cPg==</entry>
         <entry>execute</entry>
+        <entry encoding="base64">XDxyZWNpcGllbnRMaXN0XD4=</entry>
+        <entry encoding="base64">XDxnZXRSZWNpcGllbnRMaXN0UmF3XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
@@ -97,8 +97,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" timestamp="1587656983307">
-        <mark key="'" line="556" column="28" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" timestamp="1587709503007">
+        <mark key="'" line="541" column="6" />
+        <mark key="[" line="542" column="36" />
+        <mark key="]" line="542" column="36" />
+        <mark key="^" line="551" column="40" />
+        <mark key="." line="542" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/CallRequest/SendCallRequestEmailUseCase.php" timestamp="1587655849885">
         <mark key="'" line="38" column="23" />
@@ -106,6 +110,12 @@
         <mark key="]" line="89" column="0" />
         <mark key="^" line="88" column="41" />
         <mark key="." line="89" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/CreateMessageFromDealerUseCaseTest.php" timestamp="1587709372624">
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="276" column="0" />
+        <mark key="^" line="276" column="39" />
+        <mark key="." line="276" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/enums/CallRequest/CallRequestResolutionsEnum.php" timestamp="1587655817263" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/CallVNRequest/SendCallVNRequestEmailUseCase.php" timestamp="1587657491858">
@@ -122,7 +132,6 @@
         <mark key="." line="120" column="16" />
         <mark key="^" line="120" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/MigrationUserVNPreferencesController.php" timestamp="1587554283292" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Access/SendRecoverPasswordEmailUseCase.php" timestamp="1587643288759">
         <mark key="[" line="96" column="49" />
         <mark key="]" line="96" column="69" />
@@ -132,13 +141,16 @@
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/Dto/AuthorisedDealer/DealerVNOpportunityDTO.php" timestamp="1587561956942">
         <mark key="'" line="147" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/DealerVNRequest/CreateMessageFromDealerUseCase.php" timestamp="1587708758151">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="134" column="41" />
+        <mark key="." line="135" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Balance/Transformer.php" timestamp="1587651729057">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/MigrationController.php" timestamp="1587553811787">
-        <mark key="'" line="56" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/DealerVNRequest/userCard/requests/request_list.twig" timestamp="1587561464134" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/CallVNRequestController.php" timestamp="1587657205760">
@@ -160,21 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="27" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleVNRequestRepositoryTest.php" />
-      <jump line="71" column="42" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleVNRequestRepositoryTest.php" />
-      <jump line="37" column="38" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleVNRequestRepositoryTest.php" />
-      <jump line="105" column="27" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleVNRequestRepositoryTest.php" />
-      <jump line="53" column="70" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/fixtures/Request/VNRequestFixtures.php" />
-      <jump line="100" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/fixtures/Request/VNRequestFixtures.php" />
-      <jump line="54" column="31" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/fixtures/Request/VNRequestFixtures.php" />
-      <jump line="98" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Transformers/VNRequestTransformer.php" />
-      <jump line="146" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Transformers/VNRequestTransformer.php" />
-      <jump line="77" column="27" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/enums/Enum.php" />
-      <jump line="192" column="26" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/FindDealerVNRequestUseCaseTest.php" />
-      <jump line="128" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/DealerVNRequest/FindDealerVNRequestUseCase.php" />
-      <jump line="43" column="25" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
-      <jump line="46" column="22" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
-      <jump line="49" column="28" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
       <jump line="125" column="2" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
       <jump line="300" column="35" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/userRequestsSummary/DoctrineUserRequestsSummaryRepositoryTest.php" />
       <jump line="58" column="43" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/userRequestsSummary/DoctrineUserRequestsSummaryRepositoryTest.php" />
@@ -243,14 +240,10 @@
       <jump line="103" column="45" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/dependencies/rules.php" />
       <jump line="152" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
       <jump line="526" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="230" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
       <jump line="78" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Balance/LowBalanceNotificationUseCase.php" />
       <jump line="82" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Balance/LowBalanceNotificationUseCase.php" />
       <jump line="57" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/Balance/LowBalanceNotificationUseCaseTest.php" />
       <jump line="29" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/Balance/Transformer.php" />
-      <jump line="546" column="26" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="545" column="9" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="478" column="27" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
       <jump line="559" column="33" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
       <jump line="240" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
       <jump line="41" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
@@ -260,48 +253,67 @@
       <jump line="88" column="22" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/CallVNRequest/SendCallVNRequestEmailUseCase.php" />
       <jump line="228" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/CallVNRequest/SendCallVNRequestEmailUseCase.php" />
       <jump line="72" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/CallVNRequestController.php" />
+      <jump line="230" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="605" column="28" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="604" column="26" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="574" column="28" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="573" column="26" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="564" column="16" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="557" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="548" column="17" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="547" column="28" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="546" column="26" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="545" column="9" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="536" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="534" column="44" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="532" column="27" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="528" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="45" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="551" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="478" column="27" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="541" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1lc3NhZ2UtPnNldFRvKCRjb250YWN0KTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAmJiAkbWVzc2FnZS0+Z2V0VG8oKSA9PT0gJHVzZXItPmdldEVtYWlsKCkK</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>array</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>execute</text>
+        <text encoding="base64">XDxnZXRSZWNpcGllbnRMaXN0UmF3XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBidWlsZE1lc3NhZ2UoUG9zaXRpb25pbmdVc2VyICR1c2VyLCAkdGVtcGxhdGUsICR0YWdzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJiYgJHVzZXItPmdldEVtYWlsKCkgPT09ICRyZWNpcGllbnRMaXN0WzBdLT5nZXRFbWFpbCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1lc3NhZ2UtPnNldFRvKCRjb250YWN0KTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAmJiAkbWVzc2FnZS0+Z2V0VG8oKSA9PT0gJHVzZXItPmdldEVtYWlsKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbWVzc2FnZS0+c2V0VG8oJGR0by0+Z2V0RW1haWxUbygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAkbWVzc2FnZS0+c2V0VG8oJHVzZXItPmdldEVtYWlsKCkpOwogICAgICAgICRtZXNzYWdlLT5zZXRUb05hbWUoJHVzZXItPmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1lc3NhZ2UtPnNldFRvKCRjb250YWN0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFBvc2l0aW9uaW5nVXNlciAkdXNlcgogICAgICogQHBhcmFtIHN0cmluZyAkdGVtcGxhdGUKICAgICAqIEBwYXJhbSBhcnJheSAkdGFncwogICAgICogQHJldHVybiBNYW5kcmlsbE1lc3NhZ2UKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAkbWVzc2FnZS0+c2V0VG8oJGR0by0+Z2V0RW1haWxUbygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFBvc2l0aW9uaW5nVXNlciAkdXNlcgogICAgICogQHBhcmFtIHN0cmluZyAkdGVtcGxhdGUKICAgICAqIEBwYXJhbSBhcnJheSAkdGFncwogICAgICogQHJldHVybiBNYW5kcmlsbE1lc3NhZ2UKICAgICAqLwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkbWFuZHJpbGxNZXNzYWdlLT5zZXRUbygkdXNlci0+Z2V0RW1haWwoKSk7CiAgICAgICAgJG1hbmRyaWxsTWVzc2FnZS0+c2V0VG9OYW1lKCR1c2VyLT5nZXROYW1lKCkpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFBvc2l0aW9uaW5nVXNlciAkdXNlcgogICAgICogQHBhcmFtIHN0cmluZyAkdGVtcGxhdGUKICAgICAqIEBwYXJhbSBhcnJheSAkdGFncwogICAgICogQHJldHVybiBNYW5kcmlsbE1lc3NhZ2UKICAgICAqLwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFBvc2l0aW9uaW5nVXNlciAkdXNlcgogICAgICogQHBhcmFtIHN0cmluZyAkdGVtcGxhdGUKICAgICAqIEBwYXJhbSBhcnJheSAkdGFncwogICAgICogQHJldHVybiBNYW5kcmlsbE1lc3NhZ2UKICAgICAqLwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkbWFuZHJpbGxNZXNzYWdlLT5hZGRSZWNpcGllbnQoJHJlY2lwaWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbWFuZHJpbGxNZXNzYWdlLT5zZXRUbygkdXNlci0+Z2V0RW1haWwoKSk7CiAgICAgICAgJG1hbmRyaWxsTWVzc2FnZS0+c2V0VG9OYW1lKCR1c2VyLT5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -313,12 +325,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>execute</last-search>
+      <last-search encoding="base64">XDxnZXRSZWNpcGllbnRMaXN0UmF3XD4=</last-search>
       <last-offset />
-      <last-pattern>execute</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRSZWNpcGllbnRMaXN0UmF3XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
