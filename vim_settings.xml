@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYWxsUmVxdWVzdFJlcG9zaXRvcnlcPg==</entry>
         <entry>client</entry>
         <entry>equipo</entry>
         <entry>addreci</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxnZXRDb250YWN0RW1haWxMaXN0XD4=</entry>
         <entry>setto</entry>
         <entry encoding="base64">XDxfdG9cPg==</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
@@ -162,17 +162,14 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/DealerVNRequest/CreateMessageFromDealerUseCase.php" timestamp="1587708758151">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="^" line="134" column="41" />
-        <mark key="." line="135" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/config/dependencies/dealerVNRequest.php" timestamp="1587711793573">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="^" line="68" column="6" />
         <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/.htaccess" timestamp="1587997806343">
+        <mark key="'" line="433" column="98" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/SendMessageTemplateSuggestionEmailUseCaseTest.php" timestamp="1587714211585">
         <mark key="'" line="69" column="33" />
@@ -206,12 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="43" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/DealerVNRequest/GuzzleUserRequestsSummaryRepositoryTest.php" />
-      <jump line="96" column="31" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/DealerVNRequest/FindDealerVNRequestUseCase.php" />
-      <jump line="116" column="31" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/DealerVNRequest/FindDealerVNRequestUseCase.php" />
-      <jump line="507" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/VNRequest/VNRequest.php" />
-      <jump line="94" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/DealerVNRequest/DealerVNRequest.php" />
-      <jump line="67" column="9" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/DealerVNRequest/DealerVNRequest.php" />
       <jump line="53" column="19" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/DealerVNRequest/DealerVNRequest.php" />
       <jump line="38" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/DealerVNRequest/DealerVNRequest.php" />
       <jump line="80" column="25" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/DealerVNRequest/DealerVNRequest.php" />
@@ -306,6 +297,12 @@
       <jump line="225" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
       <jump line="519" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
       <jump line="37" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
+      <jump line="105" column="40" filename="$USER_HOME$/Projects/coches.com/coches_yii/.htaccess" />
+      <jump line="326" column="3" filename="$USER_HOME$/Projects/coches.com/coches_yii/.htaccess" />
+      <jump line="327" column="91" filename="$USER_HOME$/Projects/coches.com/coches_yii/.htaccess" />
+      <jump line="328" column="93" filename="$USER_HOME$/Projects/coches.com/coches_yii/.htaccess" />
+      <jump line="431" column="89" filename="$USER_HOME$/Projects/coches.com/coches_yii/.htaccess" />
+      <jump line="433" column="98" filename="$USER_HOME$/Projects/coches.com/coches_yii/.htaccess" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,7 +317,7 @@
         <text>setTo($emailTo);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdG9cPg==</text>
+        <text>api</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcmVjaXBpZW50ID0gbmV3IFJlY2lwaWVudCgkZW1haWxUbywgJycpOwo=</text>
@@ -359,13 +356,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfdG9cPg==</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdG9cPg==</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
