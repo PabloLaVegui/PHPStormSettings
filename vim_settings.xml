@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfdG9OYW1lXD4=</entry>
-        <entry>execute</entry>
-        <entry encoding="base64">XDxyZWNpcGllbnRMaXN0XD4=</entry>
         <entry encoding="base64">XDxnZXRSZWNpcGllbnRMaXN0UmF3XD4=</entry>
         <entry>vn</entry>
         <entry encoding="base64">XDxfZnJvbU5hbWVcPg==</entry>
@@ -27,9 +24,11 @@
         <entry>redis</entry>
         <entry>eurotax</entry>
         <entry>elastic</entry>
+        <entry>atd</entry>
+        <entry>elastic_kiban</entry>
+        <entry>elastic_kibana</entry>
       </history-search>
       <history-cmd>
-        <entry>199</entry>
         <entry>40</entry>
         <entry encoding="base64">JzwsJz52cw==</entry>
         <entry>116</entry>
@@ -47,8 +46,9 @@
         <entry>53</entry>
         <entry>vs</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5xYQ==</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -97,12 +97,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1588079451564">
-        <mark key="'" line="140" column="0" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="68" />
-        <mark key="^" line="172" column="68" />
-        <mark key="." line="172" column="67" />
+      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1588080973242">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="69" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/api/Dockerfile" timestamp="1588016653970">
         <mark key="[" line="6" column="52" />
@@ -139,15 +139,10 @@
       <file name="/PHP Console" timestamp="1588059239045">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/composer.json" timestamp="1588009127200">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="42" column="4" />
-      </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/api/composer.json.my" timestamp="1588019552665">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/office.coches.com/crm_yii/protected/controllers/dealers/DealerController.php" timestamp="1588000237905" />
       <file name="$USER_HOME$/Projects/coches.com/generic/protected/dependencies/eurotax.php" timestamp="1588059178499">
         <mark key="[" line="64" column="20" />
         <mark key="]" line="64" column="26" />
@@ -158,6 +153,7 @@
         <mark key="[" line="1" column="97" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/make/repository/GuzzleMakeRepository.php" timestamp="1588059103021" />
+      <file name="$USER_HOME$/Projects/coches.com/models/TrafficReport/TrafficReport/ActiveRecordTrafficReportDAO.php" timestamp="1588080636720" />
       <file name="/fragment.php" timestamp="1588058724722">
         <mark key="[" line="0" column="0" />
       </file>
@@ -185,10 +181,14 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/office.coches.com/environments/.env" timestamp="1588081197144">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="^" line="147" column="57" />
+        <mark key="." line="149" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="24" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/FindDealerVNRequestUseCaseTest.php" />
-      <jump line="312" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/FindDealerVNRequestUseCaseTest.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/fixtures/domain/Models/DealerVNRequest/DealerVNRequestFixture.php" />
       <jump line="193" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/VNPreferences/BuyVNPreferencesUseCaseTest.php" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/VNPreferences/BuyVNPreferencesUseCaseTest.php" />
@@ -287,62 +287,64 @@
       <jump line="76" column="20" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="84" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="140" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="48" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="105" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>!CcomConfig::isDevEnviroment(CcomConfig::get('COCHES_ENVIRONMENT'))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>!CcomConfig::isDevEnviroment(CcomConfig::get('COCHES_ENVIRONMENT'))</text>
+        <text>environmental_classification</text>
       </register>
       <register name="/" type="4">
-        <text>elastic</text>
+        <text>elastic_kibana</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAndmVyaWZ5JyA9PiAhQ2NvbUNvbmZpZzo6aXNEZXZFbnZpcm9tZW50KENjb21Db25maWc6OmdldCgnQ09DSEVTX0VOVklST05NRU5UJykpCg==</text>
+      <register name="0" type="4">
+        <text>noticias_qa2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UkVESVM9ImxvY2FsaG9zdCIKUkVESVNfUE9SVD02Mzc5Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJsaWNlbnNlIjogInByb3ByaWV0YXJ5IiwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dmVuZG9yLwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJhdXRvbG9hZCI6IHsKICAgICAgICAicHNyLTQiOiB7CiAgICAgICAgICAgICJBcHBcXCI6ICJzcmMvIgogICAgICAgIH0KICAgIH0sCiAgICAiYXV0b2xvYWQtZGV2IjogewogICAgICAgICJwc3ItNCI6IHsKICAgICAgICAgICAgIkFwcFxcVGVzdHNcXCI6ICJ0ZXN0cy8iCiAgICAgICAgfQogICAgfSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiMjIFJ1biBjb21wb3NlcgoKYGBgCiQgZG9ja2VyIGV4ZWMgLXRpIHBocC03LjQtYXBhY2hlIC91c3IvbG9jYWwvYmluL2NvbXBvc2VyIGluc3RhbGwKYGBgCgoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAicmVxdWlyZSI6IHsKICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">U0lURU1BUF9QSFBfRVhFQ1VUQUJMRT1waHAKU0lURU1BUF9QWVRIT05fRVhFQ1VUQUJMRT1weXRob24K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">U0lURU1BUF9QQVRIPS92YXIvd3d3L2NvY2hlcy5jb20vY29jaGVzX3lpaS9zaXRlbWFwLwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">I01ZU1FMX0hPU1RfVFJBRkZJQ19SRVBPUlQ9InRyYWZmaWNfcmVwb3J0Igo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ck5PVElDSUFTX1JQQ19VU0VSTkFNRT0ibnVuby5sb3BleiIKTk9USUNJQVNfUlBDX1BBU1NXT1JEPSJNYW5kYWxvcmlhbjIwMTMiCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">RVVST1RBWF9BUElfQVVUSEVOVElDQUNJT05fS0VZPTEyMzQ1Ngo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSBYREVCVUdfQ09ORklHPSJyZW1vdGVfaG9zdD0xOTIuMTY4LjEuMTMwIgo=</text>
+        <text encoding="base64">RVVST1RBWF9BUElfQVVUSEVOVElDQVRJT05fS0VZPSIyMTI4ZTcwMC03OTFiLTExZTgtYWRjMC1mYTdhZTAxYmJlYmMiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIkxhdmVndWlcXFNob3BhXFwiOiAic3JjLyIK</text>
+        <text encoding="base64">UkVESVM9ImxvY2FsaG9zdCIKUkVESVNfQ0xVU1RFUj0iIgpSRURJU19QUkVGSVg9ImRldiIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>elastic</last-search>
+      <last-search>elastic_kibana</last-search>
       <last-offset />
-      <last-pattern>elastic</last-pattern>
+      <last-pattern>elastic_kibana</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
       <last-dir>1</last-dir>
