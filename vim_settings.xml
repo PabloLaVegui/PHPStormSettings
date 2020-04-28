@@ -104,12 +104,6 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/api/Dockerfile" timestamp="1588016653970">
-        <mark key="[" line="6" column="52" />
-        <mark key="]" line="6" column="53" />
-        <mark key="^" line="1" column="11" />
-        <mark key="." line="6" column="53" />
-      </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/api/README.md" timestamp="1588016923683">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="4" column="3" />
@@ -152,6 +146,12 @@
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/views/rentingRequest/partials/rentingFaqs.twig" timestamp="1588059599787">
         <mark key="[" line="1" column="97" />
       </file>
+      <file name="$USER_HOME$/Projects/office.coches.com/README.md" timestamp="1588083652392">
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="40" column="16" />
+        <mark key="^" line="40" column="16" />
+        <mark key="." line="40" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/make/repository/GuzzleMakeRepository.php" timestamp="1588059103021" />
       <file name="$USER_HOME$/Projects/coches.com/models/TrafficReport/TrafficReport/ActiveRecordTrafficReportDAO.php" timestamp="1588080636720" />
       <file name="/fragment.php" timestamp="1588058724722">
@@ -181,7 +181,8 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/office.coches.com/environments/.env" timestamp="1588081197144">
+      <file name="$USER_HOME$/Projects/office.coches.com/environments/.env" timestamp="1588081735701">
+        <mark key="'" line="159" column="0" />
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
         <mark key="^" line="147" column="57" />
@@ -189,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/fixtures/domain/Models/DealerVNRequest/DealerVNRequestFixture.php" />
       <jump line="193" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/VNPreferences/BuyVNPreferencesUseCaseTest.php" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/VNPreferences/BuyVNPreferencesUseCaseTest.php" />
       <jump line="196" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/DealerVNRequest/VNPreferences/BuyVNPreferencesUseCaseTest.php" />
@@ -289,51 +289,52 @@
       <jump line="140" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="48" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="105" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="159" column="0" filename="$USER_HOME$/Projects/office.coches.com/environments/.env" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgIAo=</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>environmental_classification</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>elastic_kibana</text>
       </register>
-      <register name="0" type="4">
-        <text>noticias_qa2</text>
+      <register name="0" type="2">
+        <text encoding="base64">YGBgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgQ3JlYXIgY2FycGV0YSBkZSBhc3NldHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0lURU1BUF9QSFBfRVhFQ1VUQUJMRT1waHAKU0lURU1BUF9QWVRIT05fRVhFQ1VUQUJMRT1weXRob24K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">U0lURU1BUF9QQVRIPS92YXIvd3d3L2NvY2hlcy5jb20vY29jaGVzX3lpaS9zaXRlbWFwLwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">I01ZU1FMX0hPU1RfVFJBRkZJQ19SRVBPUlQ9InRyYWZmaWNfcmVwb3J0Igo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">U0lURU1BUF9QSFBfRVhFQ1VUQUJMRT1waHAKU0lURU1BUF9QWVRIT05fRVhFQ1VUQUJMRT1weXRob24K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ck5PVElDSUFTX1JQQ19VU0VSTkFNRT0ibnVuby5sb3BleiIKTk9USUNJQVNfUlBDX1BBU1NXT1JEPSJNYW5kYWxvcmlhbjIwMTMiCg==</text>
+        <text encoding="base64">U0lURU1BUF9QQVRIPS92YXIvd3d3L2NvY2hlcy5jb20vY29jaGVzX3lpaS9zaXRlbWFwLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RVVST1RBWF9BUElfQVVUSEVOVElDQUNJT05fS0VZPTEyMzQ1Ngo=</text>
+        <text encoding="base64">I01ZU1FMX0hPU1RfVFJBRkZJQ19SRVBPUlQ9InRyYWZmaWNfcmVwb3J0Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RVVST1RBWF9BUElfQVVUSEVOVElDQVRJT05fS0VZPSIyMTI4ZTcwMC03OTFiLTExZTgtYWRjMC1mYTdhZTAxYmJlYmMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UkVESVM9ImxvY2FsaG9zdCIKUkVESVNfQ0xVU1RFUj0iIgpSRURJU19QUkVGSVg9ImRldiIK</text>
+        <text encoding="base64">Ck5PVElDSUFTX1JQQ19VU0VSTkFNRT0ibnVuby5sb3BleiIKTk9USUNJQVNfUlBDX1BBU1NXT1JEPSJNYW5kYWxvcmlhbjIwMTMiCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
