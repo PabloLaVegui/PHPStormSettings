@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>vn</entry>
         <entry encoding="base64">XDxfZnJvbU5hbWVcPg==</entry>
         <entry encoding="base64">XDxFTUFJTF9URU1QTEFURV9OQU1FXD4=</entry>
         <entry encoding="base64">XDxNRVNTQUdFX0tFWVw+</entry>
@@ -27,6 +26,7 @@
         <entry>elastic_kiban</entry>
         <entry>elastic_kibana</entry>
         <entry encoding="base64">XDxJTkRFWF9WSUVXX1BBVEhcPg==</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz52cw==</entry>
@@ -97,13 +97,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/office.coches.com/crm_yii/src/domain/Multiprovince/Multiprovince.php" timestamp="1588088024410">
-        <mark key="'" line="62" column="4" />
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="64" column="5" />
-        <mark key="^" line="64" column="5" />
-        <mark key="." line="64" column="4" />
-      </file>
       <file name="$USER_HOME$/Projects/office.coches.com/models/CapturingUsers/file/domainModel/FileForm.php" timestamp="1588166886005">
         <mark key="'" line="241" column="0" />
       </file>
@@ -176,10 +169,10 @@
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1588167262712">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/office.coches.com/models/CapturingUsers/core/opportunity/domainModel/Opportunity.php" timestamp="1588168963145">
+        <mark key="'" line="58" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588087979565">
+      <file name="/PHP Console" timestamp="1588168226773">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1588161619258">
@@ -187,6 +180,9 @@
       </file>
       <file name="$USER_HOME$/Projects/office.coches.com/crm_yii/protected/views/capturingUsers/capturingUsers/attendToTask.php" timestamp="1588161865427">
         <mark key="'" line="145" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/office.coches.com/models/CapturingUsers/file/persistence/FileDAO.php" timestamp="1588168256027">
+        <mark key="'" line="40" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/api/apps/Api/var/cache/dev/App_KernelDevDebugContainer.xml" timestamp="1588097671715">
         <mark key="[" line="52" column="32" />
@@ -200,8 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" />
-      <jump line="33" column="13" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/MigrationController.php" />
       <jump line="32" column="13" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/MigrationController.php" />
       <jump line="12" column="56" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/MigrationController.php" />
       <jump line="262" column="23" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/MigrationController.php" />
@@ -300,6 +294,8 @@
       <jump line="29" column="10" filename="$USER_HOME$/Projects/office.coches.com/crm_yii/protected/controllers/rentingPicture/RentingPictureController.php" />
       <jump line="145" column="48" filename="$USER_HOME$/Projects/office.coches.com/crm_yii/protected/views/capturingUsers/capturingUsers/attendToTask.php" />
       <jump line="241" column="0" filename="$USER_HOME$/Projects/office.coches.com/models/CapturingUsers/file/domainModel/FileForm.php" />
+      <jump line="40" column="6" filename="$USER_HOME$/Projects/office.coches.com/models/CapturingUsers/file/persistence/FileDAO.php" />
+      <jump line="58" column="20" filename="$USER_HOME$/Projects/office.coches.com/models/CapturingUsers/core/opportunity/domainModel/Opportunity.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,7 +310,7 @@
         <text>App</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJTkRFWF9WSUVXX1BBVEhcPg==</text>
+        <text>save</text>
       </register>
       <register name="0" type="4">
         <text>Lavegui\Shopa\App\Api</text>
@@ -353,13 +349,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxJTkRFWF9WSUVXX1BBVEhcPg==</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJTkRFWF9WSUVXX1BBVEhcPg==</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
