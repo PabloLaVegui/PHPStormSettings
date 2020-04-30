@@ -43,12 +43,12 @@
         <entry>28</entry>
         <entry>53</entry>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
-        <entry>q</entry>
         <entry>qa</entry>
         <entry>147</entry>
         <entry>w</entry>
-        <entry>vs</entry>
         <entry>wa</entry>
+        <entry>vs</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,6 +112,14 @@
         <mark key="^" line="34" column="33" />
         <mark key="." line="34" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronNoticeClassifiedHasExpiredCommand.php" timestamp="1588238402617">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" timestamp="1588238179313">
+        <mark key="'" line="199" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/api/vendor/symfony/routing/Loader/YamlFileLoader.php" timestamp="1588187952774">
         <mark key="[" line="190" column="0" />
         <mark key="]" line="190" column="0" />
@@ -166,12 +174,6 @@
       <file name="/Dummy.txt" timestamp="1588186653836">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1588161619258">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/office.coches.com/crm_yii/protected/views/capturingUsers/capturingUsers/attendToTask.php" timestamp="1588161865427">
-        <mark key="'" line="145" column="48" />
-      </file>
       <file name="$USER_HOME$/Projects/office.coches.com/models/CapturingUsers/file/persistence/FileDAO.php" timestamp="1588168256027">
         <mark key="'" line="40" column="6" />
       </file>
@@ -183,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="23" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/MigrationController.php" />
       <jump line="42" column="37" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/MigrationController.php" />
       <jump line="49" column="31" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/MigrationController.php" />
       <jump line="56" column="40" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/MigrationController.php" />
@@ -283,12 +284,13 @@
       <jump line="58" column="20" filename="$USER_HOME$/Projects/office.coches.com/models/CapturingUsers/core/opportunity/domainModel/Opportunity.php" />
       <jump line="35" column="12" filename="$USER_HOME$/Projects/lavegui/new-origen/api/symfony.lock" />
       <jump line="87" column="17" filename="$USER_HOME$/Projects/lavegui/new-origen/api/symfony.lock" />
+      <jump line="199" column="20" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>userName</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT4K</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
@@ -303,34 +305,34 @@
         <text encoding="base64">ICAgICAgICAkcm91dGVzLT5pbXBvcnQoJGNvbmZEaXIuJy97cm91dGVzfS8nLiR0aGlzLT5lbnZpcm9ubWVudC4nLyonLnNlbGY6OkNPTkZJR19FWFRTLCAnLycsICdnbG9iJyk7CiAgICAgICAgJHJvdXRlcy0+aW1wb3J0KCRjb25mRGlyLicve3JvdXRlc30vKicuc2VsZjo6Q09ORklHX0VYVFMsICcvJywgJ2dsb2InKTsKICAgICAgICAkcm91dGVzLT5pbXBvcnQoJGNvbmZEaXIuJy97cm91dGVzfScuc2VsZjo6Q09ORklHX0VYVFMsICcvJywgJ2dsb2InKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGNvbmZpZ1sncHJlZml4J10gIT0gJy9fZXJyb3InKSB7CiAgICAgICAgICAgIHZhcl9kdW1wKCRjb25maWcpO2RpZTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGNvbmZpZ1sncHJlZml4J10gIT0gJy9fZXJyb3InKSB7CiAgICAgICAgICAgIHZhcl9kdW1wKCRjb25maWcpO2RpZTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29uZmlnKTtkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29uZkRpci4nL3tyb3V0ZXN9LycuJHRoaXMtPmVudmlyb25tZW50LicvKicuc2VsZjo6Q09ORklHX0VYVFMpOwogICAgICAgIHZhcl9kdW1wKCRjb25mRGlyLicve3JvdXRlc30vKicuc2VsZjo6Q09ORklHX0VYVFMpOwogICAgICAgIHZhcl9kdW1wKCRjb25mRGlyLicve3JvdXRlc30nLnNlbGY6OkNPTkZJR19FWFRTKTsKICAgICAgICB2YXJfZHVtcCgkcm91dGVzKTsKICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29uZmlnKTtkaWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzb3VyY2UpO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29uZkRpci4nL3tyb3V0ZXN9LycuJHRoaXMtPmVudmlyb25tZW50LicvKicuc2VsZjo6Q09ORklHX0VYVFMpOwogICAgICAgIHZhcl9kdW1wKCRjb25mRGlyLicve3JvdXRlc30vKicuc2VsZjo6Q09ORklHX0VYVFMpOwogICAgICAgIHZhcl9kdW1wKCRjb25mRGlyLicve3JvdXRlc30nLnNlbGY6OkNPTkZJR19FWFRTKTsKICAgICAgICB2YXJfZHVtcCgkcm91dGVzKTsKICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcm91dGVzLT4pCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzb3VyY2UpO2RpZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29uZkRpcik7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcm91dGVzLT4pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIExhdmVndWlcU2hvcGFcQXBwXEFwaVxBY3Rpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29uZkRpcik7ZGllOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIExhdmVndWlcU2hvcGFcQXBwXEFwaVxBY3Rpb247Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
