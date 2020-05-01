@@ -45,9 +45,9 @@
         <entry>qa</entry>
         <entry>147</entry>
         <entry>s</entry>
-        <entry>vs</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>vs</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -128,16 +128,17 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/api/apps/Api/src/Kernel.php" timestamp="1588326998626">
+      <file name="$USER_HOME$/Projects/lavegui/new-origen/api/apps/Api/src/Kernel.php" timestamp="1588351693983">
         <mark key="'" line="15" column="53" />
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="30" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/api/composer.json" timestamp="1588267515403">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Projects/lavegui/new-origen/api/composer.json" timestamp="1588351261995">
+        <mark key="[" line="55" column="32" />
+        <mark key="]" line="55" column="38" />
+        <mark key="." line="55" column="37" />
+        <mark key="^" line="55" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/api/tests/apps/HiResponseTest.php" timestamp="1588327741629">
         <mark key="[" line="11" column="29" />
@@ -151,14 +152,11 @@
         <mark key="." line="33" column="75" />
         <mark key="^" line="33" column="76" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/FavouritesEmail/CarDomainModel.php" timestamp="1588246751507">
-        <mark key="'" line="97" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/api/.env.test" timestamp="1588327101304">
-        <mark key="[" line="1" column="35" />
-        <mark key="]" line="1" column="42" />
-        <mark key="." line="1" column="41" />
-        <mark key="^" line="1" column="42" />
+      <file name="$USER_HOME$/Projects/lavegui/new-origen/api/.env.test" timestamp="1588351702799">
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="1" column="36" />
+        <mark key="." line="1" column="36" />
+        <mark key="^" line="1" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/docker-compose.yml" timestamp="1588348845382">
         <mark key="[" line="9" column="0" />
@@ -176,10 +174,10 @@
         <mark key="^" line="34" column="33" />
         <mark key="." line="34" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/api/phpunit.xml.dist" timestamp="1588268213920">
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="24" column="45" />
-        <mark key="." line="24" column="44" />
+      <file name="$USER_HOME$/Projects/lavegui/new-origen/api/phpunit.xml.dist" timestamp="1588351460169">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="60" />
+        <mark key="." line="26" column="0" />
         <mark key="^" line="24" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" timestamp="1588248445802">
@@ -189,11 +187,15 @@
         <mark key="." line="13" column="33" />
         <mark key="^" line="56" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/api/tests/bootstrap.php" timestamp="1588327473741">
-        <mark key="[" line="10" column="51" />
-        <mark key="]" line="10" column="56" />
-        <mark key="^" line="10" column="56" />
-        <mark key="." line="10" column="55" />
+      <file name="$USER_HOME$/Projects/lavegui/new-origen/api/tests/bootstrap.php" timestamp="1588351668598">
+        <mark key="[" line="9" column="51" />
+        <mark key="]" line="9" column="56" />
+        <mark key="^" line="9" column="56" />
+        <mark key="." line="9" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/lavegui/new-origen/api/phpunit.xml" timestamp="1588351455633">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/api/.dockerignore" timestamp="1588349827628">
         <mark key="[" line="3" column="4" />
@@ -313,47 +315,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>apps</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>request.coches.com</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSBYREVCVUdfQ09ORklHPSJyZW1vdGVfaG9zdD0xOTIuMTY4LjEuMTMxIgo=</text>
+      <register name="0" type="4">
+        <text>Lavegui\Shopa\App\Api</text>
       </register>
       <register name="1" type="2">
-        <text>apps</text>
+        <text encoding="base64">ICAgICAgICAiYmluLWRpciI6ICJhcHBzL0FwaS9zcmMiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiMjIFJ1biBzeW1mb255IGNvbW1hbmQKCmBgYAokIGRvY2tlciBleGVjIC10aSBzaG9wYS1hcGkgc3ltZm9ueQpgYGAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNyYy1kaXIiOiAiYXBwcy9BcGkvc3JjIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>apps</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMjIFJ1biBzeW1mb255IGNvbW1hbmQKCmBgYAokIGRvY2tlciBleGVjIC10aSBzaG9wYS1hcGkgc3ltZm9ueQpgYGAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiMjIFJ1biBzeW1mb255IGNvbW1hbmQKCmBgYAokIGRvY2tlciBleGVjIC10aSBzaG9wYS1hcGkgc3ltZm9ueQpgYGAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMgQnVpbGQgY29udGFpbmVyCgpgYGAKJCBkb2NrZXIgYnVpbGQgLXQgcGhwLTcuNC1hcGFjaGUgLWYgYXBpL0RvY2tlcmZpbGUgLgpgYGAK</text>
+        <text encoding="base64">CiMjIFJ1biBzeW1mb255IGNvbW1hbmQKCmBgYAokIGRvY2tlciBleGVjIC10aSBzaG9wYS1hcGkgc3ltZm9ueQpgYGAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBteXNxbDoKICAgIGltYWdlOiBtYXJpYWRiCiAgICBjb250YWluZXJfbmFtZTogbXlzcWwKICAgIHJlc3RhcnQ6IGFsd2F5cwogICAgZW52aXJvbm1lbnQ6CiAgICAgIE1ZU1FMX1JPT1RfUEFTU1dPUkQ6IHJvb3QKICAgIHZvbHVtZXM6CiAgICAgIC0gLi92YXIvbXlzcWw6L3Zhci9saWIvbXlzcWwKICAgIHBvcnRzOgogICAgICAtIDMzMDY6MzMwNgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
