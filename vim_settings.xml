@@ -7,11 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDb250YWN0RW1haWxMaXN0XD4=</entry>
-        <entry>setto</entry>
-        <entry encoding="base64">XDxfdG9cPg==</entry>
-        <entry>api</entry>
-        <entry>mservs</entry>
         <entry>redis</entry>
         <entry>eurotax</entry>
         <entry>elastic</entry>
@@ -27,6 +22,11 @@
         <entry encoding="base64">XDxfc3RhdHVzXD4=</entry>
         <entry>request.coches.com</entry>
         <entry encoding="base64">XDxfY2Fyc1w+</entry>
+        <entry>swith</entry>
+        <entry>switc</entry>
+        <entry>swi</entry>
+        <entry>relation</entry>
+        <entry encoding="base64">XDxzZXZlbkRheXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>116</entry>
@@ -106,6 +106,12 @@
         <mark key="^" line="9" column="50" />
         <mark key="." line="9" column="49" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/components/Services/NoticeClassifiedExpirationService.php" timestamp="1588607511552">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="53" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/api/apps/Api/src/Kernel.php" timestamp="1588351693983">
         <mark key="'" line="15" column="53" />
         <mark key="[" line="2" column="10" />
@@ -113,6 +119,9 @@
         <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1588591679162" />
+      <file name="$USER_HOME$/Projects/coches.com/models/User/User.php" timestamp="1588607962206">
+        <mark key="'" line="334" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Infrastructure/SwitchboardCall/SwitchboardCallProvider.php" timestamp="1588591739977" />
       <file name="$USER_HOME$/Projects/lavegui/new-origen/docker-compose.yml" timestamp="1588373406041">
         <mark key="[" line="25" column="15" />
@@ -120,7 +129,7 @@
         <mark key="." line="27" column="12" />
         <mark key="^" line="27" column="13" />
       </file>
-      <file name="/PHP Console" timestamp="1588601607440">
+      <file name="/PHP Console" timestamp="1588606721836">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/api/phpunit.xml.dist" timestamp="1588353870298">
@@ -138,7 +147,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/cochescom/eventbus.coches.com/src/EBus/events/Requests/VORequestCallDataWasCreated.php" timestamp="1588592004847" />
-      <file name="/fragment.php" timestamp="1588596458529">
+      <file name="/fragment.php" timestamp="1588606727377">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/api/composer.json" timestamp="1588373951481">
@@ -147,11 +156,12 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronNoticeClassifiedHasExpiredCommand.php" timestamp="1588596854916">
-        <mark key="[" line="39" column="32" />
-        <mark key="]" line="39" column="45" />
-        <mark key="." line="39" column="44" />
-        <mark key="^" line="39" column="45" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronNoticeClassifiedHasExpiredCommand.php" timestamp="1588608182294">
+        <mark key="'" line="115" column="16" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="^" line="48" column="59" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/api/.env.test" timestamp="1588351702799">
         <mark key="[" line="1" column="36" />
@@ -159,22 +169,12 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" timestamp="1588596782550">
-        <mark key="'" line="64" column="85" />
-        <mark key="[" line="13" column="33" />
-        <mark key="]" line="13" column="42" />
-        <mark key="." line="13" column="33" />
-        <mark key="^" line="56" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/api/tests/bootstrap.php" timestamp="1588351668598">
-        <mark key="[" line="9" column="51" />
-        <mark key="]" line="9" column="56" />
-        <mark key="^" line="9" column="56" />
-        <mark key="." line="9" column="55" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/api/phpunit.xml" timestamp="1588351455633">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="60" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" timestamp="1588608150702">
+        <mark key="'" line="14" column="32" />
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="40" />
+        <mark key="^" line="14" column="14" />
+        <mark key="." line="14" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/models/Car/Car.php" timestamp="1588595980770">
         <mark key="'" line="208" column="28" />
@@ -188,22 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="573" column="26" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="564" column="16" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="557" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="548" column="17" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="547" column="28" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="546" column="26" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="545" column="9" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="536" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="534" column="44" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="532" column="27" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="528" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="45" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="551" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="478" column="27" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="541" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/Mandrill/MandrillMessage.php" />
-      <jump line="118" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
       <jump line="148" column="10" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
       <jump line="81" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/environments/env.devel.mizona" />
@@ -288,51 +272,67 @@
       <jump line="194" column="30" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
       <jump line="172" column="22" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
       <jump line="64" column="85" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
+      <jump line="106" column="7" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronNoticeClassifiedHasExpiredCommand.php" />
+      <jump line="143" column="78" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronNoticeClassifiedHasExpiredCommand.php" />
+      <jump line="279" column="28" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
+      <jump line="13" column="30" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
+      <jump line="57" column="38" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
+      <jump line="26" column="6" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
+      <jump line="79" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
+      <jump line="136" column="11" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronNoticeClassifiedHasExpiredCommand.php" />
+      <jump line="140" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronNoticeClassifiedHasExpiredCommand.php" />
+      <jump line="48" column="6" filename="$USER_HOME$/Projects/coches.com/models/User/User.php" />
+      <jump line="312" column="20" filename="$USER_HOME$/Projects/coches.com/models/User/User.php" />
+      <jump line="332" column="21" filename="$USER_HOME$/Projects/coches.com/models/User/User.php" />
+      <jump line="334" column="20" filename="$USER_HOME$/Projects/coches.com/models/User/User.php" />
+      <jump line="114" column="16" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronNoticeClassifiedHasExpiredCommand.php" />
+      <jump line="188" column="20" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
+      <jump line="14" column="32" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICR0b2RheSA9IG5ldyBEYXRlVGltZSgpOwovLyAgICAgICAgJHNldmVuRGF5c0FnbyA9ICR0b2RheS0+YWRkKG5ldyBEYXRlSW50ZXJ2YWwoJ1A3RCcpKQovLyAgICAgICAgICAgIC0+Zm9ybWF0KCdZLW0tZCcpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>ONE_DAY_SCENARIO</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2Fyc1w+</text>
+        <text encoding="base64">XDxzZXZlbkRheXNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>Lavegui\Shopa\App\Api</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZU9mRXhwaXJlZENsYXNzaWZpZWRzOjpPTkVfREFZX1NDRU5BUklPCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPmZpbHRlckJ5KCdpZCcsIDMzOTkwNywgJz0nKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICR0b2RheSA9IG5ldyBEYXRlVGltZSgpOwovLyAgICAgICAgJHNldmVuRGF5c0FnbyA9ICR0b2RheS0+YWRkKG5ldyBEYXRlSW50ZXJ2YWwoJ1A3RCcpKQovLyAgICAgICAgICAgIC0+Zm9ybWF0KCdZLW0tZCcpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IE8gPSAnc2V2ZW5EYXlzJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIFBIUFVuaXRcRnJhbWV3b3JrXFRlc3RDYXNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgImV4dC1qc29uIjogIioiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5maWx0ZXJCeSgncGFydGljdWxhcicsICcxJywgJz0nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWM6OmFzc2VydFRydWUodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIFBIUFVuaXRcRnJhbWV3b3JrXFRlc3RDYXNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHVzZXJJdGVyYXRvciwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiYmluLWRpciI6ICJhcHBzL0FwaS9zcmMiCg==</text>
+        <text encoding="base64">CiAgICAvLyBUT0RPKFBhYmxvKTogdmVyIHNpIHNlIHB1ZWRlIGJvcnJhcjoKICAgIC8qKgogICAgICogQHBhcmFtIENhckRvbWFpbk1vZGVsW10gJGNhckxpc3QKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNldFNldmVuRGF5c0NvbnRlbnRGaWx0ZXJlZChhcnJheSAkY2FyTGlzdCkKICAgIHsKICAgICAgICAkdGhpcy0+X3NldmVuRGF5c0NvbnRlbnRGaWx0ZXJlZCA9ICRjYXJMaXN0OwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -341,9 +341,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfY2Fyc1w+</last-search>
+      <last-search encoding="base64">XDxzZXZlbkRheXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2Fyc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxzZXZlbkRheXNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
       <last-dir>-1</last-dir>
