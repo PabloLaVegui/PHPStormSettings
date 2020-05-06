@@ -44,10 +44,10 @@
         <entry>288</entry>
         <entry>89</entry>
         <entry>.,.+4wa</entry>
-        <entry>vs</entry>
         <entry>q</entry>
         <entry>w</entry>
         <entry>qa</entry>
+        <entry>vs</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -117,17 +117,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" timestamp="1588761073112">
-        <mark key="[" line="129" column="17" />
-        <mark key="]" line="129" column="46" />
-        <mark key="^" line="129" column="14" />
-        <mark key="." line="129" column="13" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/docker-compose.yml" timestamp="1588699133475">
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="28" />
-        <mark key="^" line="18" column="29" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" timestamp="1588763239007">
+        <mark key="[" line="97" column="60" />
+        <mark key="]" line="98" column="58" />
+        <mark key="^" line="98" column="58" />
+        <mark key="." line="98" column="57" />
       </file>
       <file name="/PHP Console" timestamp="1588719312816">
         <mark key="[" line="0" column="0" />
@@ -158,6 +152,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1588719029702">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/sass/pages/_changeData.scss" timestamp="1588763668177">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/migrations.yml" timestamp="1588702786648">
         <mark key="[" line="6" column="29" />
@@ -200,6 +199,11 @@
         <mark key="]" line="9" column="28" />
         <mark key="^" line="5" column="22" />
         <mark key="." line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/editTelephone/validation_method.twig" timestamp="1588763214213">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -307,8 +311,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IDkwMDUzNTI3MQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBAbWVkaWEgI3skbWVkaWE3Njh9IHsKICAgIG1hcmdpbi1yaWdodDogNjBweDsKICB9CgogIEBtZWRpYSAjeyRtZWRpYTEwMjR9IHsKICAgIG1hcmdpbi1yaWdodDogOTBweDsKICB9CgogIEBtZWRpYSAjeyRtZWRpYTEyODB9IHsKICAgIG1hcmdpbi1yaWdodDogMTYwcHg7CiAgfQoK</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
@@ -323,31 +327,31 @@
         <text>cochescomPhoneValidationNumber</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAbWVkaWEgI3skbWVkaWE3Njh9IHsKICAgIG1hcmdpbi1yaWdodDogNjBweDsKICB9CgogIEBtZWRpYSAjeyRtZWRpYTEwMjR9IHsKICAgIG1hcmdpbi1yaWdodDogOTBweDsKICB9CgogIEBtZWRpYSAjeyRtZWRpYTEyODB9IHsKICAgIG1hcmdpbi1yaWdodDogMTYwcHg7CiAgfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMjIEV4ZWN1dGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjYWxsVmFsaWRhdGlvblVybCcgPT4gJGNhbGxWYWxpZGF0aW9uVXJsLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGlkPSJ2YWxpZGF0aW9uLXR5cGUtY2FsbCIgY2xhc3M9ImNoYW5nZS1kYXRhX19waG9uZSI+CiAgICAgICAgICAgIDxpIGNsYXNzPSJmYXMgZmEtcGhvbmUiPjwvaT4KICAgICAgICAgICAgPHA+PHN0cm9uZz5MbMOhbWFub3MgR1JBVElTPC9zdHJvbmc+IGNvbiBlbCBudWV2byBuw7ptZXJvPC9wPgogICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgPGEgY2xhc3M9ImJ1dHRvbiBidXR0b24tLWVkaXQtY2hhbmdlLWRhdGEiIGhyZWY9Int7IGNhbGxWYWxpZGF0aW9uVXJsIH19Ij5SZWFsaXphciBsbGFtYWRhPC9hPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFibGUtPmFkZAo=</text>
+        <text encoding="base64">IyMjIEV4ZWN1dGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzIGRvd24oKSBtaWdyYXRpb24gaXMgYXV0by1nZW5lcmF0ZWQsIHBsZWFzZSBtb2RpZnkgaXQgdG8geW91ciBuZWVkcwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGFibGUtPmFkZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzIHVwKCkgbWlncmF0aW9uIGlzIGF1dG8tZ2VuZXJhdGVkLCBwbGVhc2UgbW9kaWZ5IGl0IHRvIHlvdXIgbmVlZHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
