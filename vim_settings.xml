@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>request.coches.com</entry>
         <entry encoding="base64">XDxfY2Fyc1w+</entry>
         <entry>swith</entry>
         <entry>switc</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxnZXRVc2VyVGVtcG9yYXJ5RGF0YU9yRmFpbFw+</entry>
         <entry encoding="base64">XDxFRElUX1RFTEVQSE9ORV9DQUxMX0VSUk9SX01FU1NBR0VcPg==</entry>
         <entry encoding="base64">XDxjaGFuZ2VUZWxlcGhvbmVCeUNhbGxVc2VDYXNlXD4=</entry>
+        <entry>actionedit</entry>
       </history-search>
       <history-cmd>
         <entry>204</entry>
@@ -100,12 +100,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/apps/Migrations/migrations.yml" timestamp="1588719554614">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="23" />
-        <mark key="^" line="6" column="24" />
-        <mark key="." line="6" column="23" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/sass/pages/_changeData.scss" timestamp="1588763668177">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
@@ -178,7 +172,7 @@
         <mark key="^" line="92" column="64" />
         <mark key="." line="197" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1588719312816">
+      <file name="/PHP Console" timestamp="1588774446569">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/exceptions/ValidationAttemptsReachedException.php" timestamp="1588770742059">
@@ -204,6 +198,9 @@
         <mark key="." line="45" column="44" />
         <mark key="^" line="45" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyDataController.php" timestamp="1588774489152">
+        <mark key="'" line="7" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/editTelephone/validation_method.twig" timestamp="1588771395520">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -212,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="4" filename="$USER_HOME$/Projects/office.coches.com/crm_yii/src/domain/Multiprovince/Multiprovince.php" />
       <jump line="29" column="32" filename="$USER_HOME$/Projects/lavegui/new-origen/api/apps/Api/bin/console" />
       <jump line="3" column="3" filename="$USER_HOME$/Projects/lavegui/new-origen/api/apps/Api/bin/console" />
       <jump line="29" column="10" filename="$USER_HOME$/Projects/office.coches.com/crm_yii/protected/controllers/rentingPicture/RentingPictureController.php" />
@@ -312,6 +308,7 @@
       <jump line="61" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
       <jump line="16" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
       <jump line="232" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
+      <jump line="7" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyDataController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -326,7 +323,7 @@
         <text encoding="base64">IDogaWYgcGlsbHMgaGFzIHNsaWRlciBvciBub3Q=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFuZ2VUZWxlcGhvbmVCeUNhbGxVc2VDYXNlXD4=</text>
+        <text>actionedit</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Z29CYWNrVXJsIA==</text>
@@ -365,12 +362,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjaGFuZ2VUZWxlcGhvbmVCeUNhbGxVc2VDYXNlXD4=</last-search>
+      <last-search>actionedit</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFuZ2VUZWxlcGhvbmVCeUNhbGxVc2VDYXNlXD4=</last-pattern>
+      <last-pattern>actionedit</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
