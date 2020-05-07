@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>swi</entry>
         <entry>relation</entry>
         <entry encoding="base64">XDxzZXZlbkRheXNcPg==</entry>
         <entry encoding="base64">XDxfc2NlbmFyaW9cPg==</entry>
@@ -26,10 +25,10 @@
         <entry>actionedit</entry>
         <entry>ismo</entry>
         <entry>getconn</entry>
+        <entry>call</entry>
         <entry>todo</entry>
       </history-search>
       <history-cmd>
-        <entry>204</entry>
         <entry>218</entry>
         <entry>316</entry>
         <entry>333</entry>
@@ -48,6 +47,7 @@
         <entry>w</entry>
         <entry>vs</entry>
         <entry>q</entry>
+        <entry>792</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -100,10 +100,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/ChangeTelephoneByCallUseCase.php" timestamp="1588844838288">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/ChangeTelephoneByCallUseCase.php" timestamp="1588846451466">
         <mark key="'" line="54" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ActiveRecord/ValidationPhoneRepository.php" timestamp="1588836720626">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ActiveRecord/ValidationPhoneRepository.php" timestamp="1588846560815">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="56" />
         <mark key="^" line="2" column="56" />
@@ -111,6 +111,11 @@
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/vendor/doctrine/dbal/lib/Doctrine/DBAL/DriverManager.php" timestamp="1588787370759">
         <mark key="'" line="238" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/AttemptValidationService.php" timestamp="1588846754930">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/.env.local" timestamp="1588786419411">
         <mark key="[" line="5" column="10" />
@@ -123,9 +128,11 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/userVN/pills/detailPill.twig" timestamp="1588771339610">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="2" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/ChangeTelephoneUseCase.php" timestamp="1588846489221">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="42" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" timestamp="1588835934218">
         <mark key="'" line="52" column="13" />
@@ -139,28 +146,29 @@
         <mark key="^" line="40" column="22" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/ConfigurationBeans/EditTelephoneConfBean.php" timestamp="1588770796274">
-        <mark key="'" line="77" column="12" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="70" />
-        <mark key="^" line="77" column="70" />
-        <mark key="." line="134" column="0" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/ConfigurationBeans/EditTelephoneConfBean.php" timestamp="1588847373344">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" timestamp="1588836595100">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" timestamp="1588847039055">
         <mark key="'" line="54" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
         <mark key="^" line="281" column="26" />
-        <mark key="." line="15" column="0" />
+        <mark key="." line="198" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1588776636683">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/exceptions/ValidationAttemptsReachedException.php" timestamp="1588846903293">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Models/MyData/TelephoneFormTest.php" timestamp="1588775762118">
-        <mark key="[" line="34" column="21" />
-        <mark key="]" line="34" column="30" />
-        <mark key="^" line="34" column="30" />
-        <mark key="." line="34" column="29" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/enums/routes/MyDataRoutesEnum.php" timestamp="1588847362311">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/src/Hi/Infrastructure/Query/DoctrineHiProviderTest.php" timestamp="1588787701759">
         <mark key="[" line="15" column="0" />
@@ -170,24 +178,23 @@
       <file name="/Dummy.txt" timestamp="1588787545001">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" timestamp="1588847367196">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="787" column="0" />
+        <mark key="]" line="787" column="0" />
+        <mark key="." line="787" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/src/Hi/Infrastructure/Query/HiProvider.php" timestamp="1588786682091">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="5" column="38" />
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/models/myData/TelephoneForm.php" timestamp="1588777023005">
-        <mark key="'" line="88" column="6" />
-        <mark key="[" line="110" column="32" />
-        <mark key="]" line="113" column="17" />
-        <mark key="." line="113" column="16" />
-        <mark key="^" line="113" column="17" />
-      </file>
-      <file name="/fragment.php" timestamp="1588776679150">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/MyDataController.php" timestamp="1588774489152">
-        <mark key="'" line="7" column="21" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/editTelephone/_sms_error.twig" timestamp="1588847105661">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/src/Hi/Domain/Infrastructure/Query/HiProvider.php" timestamp="1588786947050">
         <mark key="[" line="5" column="38" />
@@ -195,20 +202,15 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/editTelephone/validation_method.twig" timestamp="1588771395520">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/editTelephone/validation_method.twig" timestamp="1588847087411">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="2" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="13" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/FavouritesEmail/CarDomainModel.php" />
-      <jump line="202" column="15" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/FavouritesEmail/CarDomainModel.php" />
-      <jump line="194" column="22" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/FavouritesEmail/CarDomainModel.php" />
-      <jump line="1359" column="27" filename="$USER_HOME$/Projects/coches.com/models/Car/Car.php" />
-      <jump line="1218" column="13" filename="$USER_HOME$/Projects/coches.com/models/Car/Car.php" />
-      <jump line="469" column="39" filename="$USER_HOME$/Projects/coches.com/models/Car/Car.php" />
       <jump line="441" column="109" filename="$USER_HOME$/Projects/coches.com/models/Car/Car.php" />
       <jump line="140" column="12" filename="$USER_HOME$/Projects/coches.com/models/Car/Car.php" />
       <jump line="28" column="18" filename="$USER_HOME$/Projects/coches.com/models/Car/Car.php" />
@@ -303,51 +305,58 @@
       <jump line="73" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
       <jump line="54" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
       <jump line="54" column="51" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/ChangeTelephoneByCallUseCase.php" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/editTelephone/validation_method.twig" />
+      <jump line="791" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
+      <jump line="39" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/enums/routes/MyDataRoutesEnum.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/enums/routes/MyDataRoutesEnum.php" />
+      <jump line="63" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/ConfigurationBeans/EditTelephoneConfBean.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgLyoqIEB2YXIgQ2hhbmdlVGVsZXBob25lVXNlQ2FzZSAqLwovLyAgICBwcml2YXRlICRjaGFuZ2VUZWxlcGhvbmVCeUNhbGxVc2VDYXNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RHJpdmVyQ28g</text>
+        <text encoding="base64">IGdvQmFja1VybA==</text>
       </register>
       <register name="/" type="4">
         <text>todo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgc2VsZjo6SU5QVVRfVEVYVF9QSE9ORSwKICAgICAgICAgICAgICAgICd1bmlxdWUnLAogICAgICAgICAgICAgICAgJ2F0dHJpYnV0ZU5hbWUnID0+IHNlbGY6OkFUVFJJQlVURV9UT19WQUxJREFURV9VTklRVUUsCiAgICAgICAgICAgICAgICAnY2xhc3NOYW1lJyA9PiBzZWxmOjpDTEFTU05BTUVfVE9fVkFMSURBVEVfVU5JUVVFLAogICAgICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICdUZWzDqWZvbm8geWEgZXhpc3RlJywKICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">eyMKUGFyYW1ldGVyczoKICogc21zVmFsaWRhdGlvblVybChzdHJpbmcpCiAqIGdvQmFja1VybChzdHJpbmcpCiN9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgLyoqIEB2YXIgQ2hhbmdlVGVsZXBob25lVXNlQ2FzZSAqLwovLyAgICBwcml2YXRlICRjaGFuZ2VUZWxlcGhvbmVCeUNhbGxVc2VDYXNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2hhbmdlVGVsZXBob25lQnlDYWxsVXNlQ2FzZSA9ICR0aGlzLT5jb250YWluZXIoKQogICAgICAgICAgICAtPmdldChDaGFuZ2VUZWxlcGhvbmVCeUNhbGxVc2VDYXNlOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiB2ZXIgc2kgc2Ugc2lndWUgdXNhbmRvIGRlc3B1w6lzIGRlIGJvcnJhciBsYSBhY2Npw7NuCiAgICAvKioKICAgICAqIEBwYXJhbSBzdHJpbmcgJHRva2VuCiAgICAgKiBAcmV0dXJuIHN0cmluZwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0Q2FsbEVycm9yUm91dGUoJHRva2VuKQogICAgewogICAgICAgIHJldHVybiBVcmxIYW5kbGVyTWl6b25hOjp0YWtlKCkKICAgICAgICAgICAgLT53aXRoQWJzb2x1dGVVcmwoKQogICAgICAgICAgICAtPm15RGF0YSgpCiAgICAgICAgICAgIC0+Y2FsbEVycm9yKCkKICAgICAgICAgICAgLT53aXRoUGFyYW1Bc1NlZ21lbnQoJHRva2VuKQogICAgICAgICAgICAtPmdldCgpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyhQYWJsbyk6IHZlciBxdWUgcGFzYSBlbiBlc3RhIHZhbGlkYWNpw7NuCg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gJHRoaXMKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNhbGxFcnJvcigpCiAgICB7CiAgICAgICAgJHRoaXMtPl91cmxidWlsZGVkIC49IE15RGF0YVJvdXRlc0VudW06OkNBTExfRVJST1I7CgogICAgICAgIHJldHVybiAkdGhpczsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogdmVyIHF1ZSBzZSB2YWxpZGEK</text>
+        <text encoding="base64">ICAgIGNvbnN0IENBTExfRVJST1IgPSAnZXJyb3ItbGxhbWFkYS8nOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiB2ZXIgc2kgc2Ugc2lndWUgdXNhbmRvIGRlc3B1w6lzIGRlIGJvcnJhcgo=</text>
+        <text encoding="base64">CiAgICAvLyBUT0RPKFBhYmxvKTogdmVyIHNpIHNlIHNpZ3VlIHVzYW5kbyBkZXNwdcOpcyBkZSBib3JyYXIgbGEgYWNjacOzbgogICAgLyoqCiAgICAgKiBAcGFyYW0gc3RyaW5nICR0b2tlbgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldENhbGxFcnJvclJvdXRlKCR0b2tlbikKICAgIHsKICAgICAgICByZXR1cm4gVXJsSGFuZGxlck1pem9uYTo6dGFrZSgpCiAgICAgICAgICAgIC0+d2l0aEFic29sdXRlVXJsKCkKICAgICAgICAgICAgLT5teURhdGEoKQogICAgICAgICAgICAtPmNhbGxFcnJvcigpCiAgICAgICAgICAgIC0+d2l0aFBhcmFtQXNTZWdtZW50KCR0b2tlbikKICAgICAgICAgICAgLT5nZXQoKTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBUT0RPKFBhYmxvKToKUmV3cml0ZVJ1bGUgXm1pcy1kYXRvcy9lcnJvci1sbGFtYWRhLyguKikvJCBpbmRleC5waHA/cj1taXpvbmFDb250cm9sbGVycy9FZGl0VGVsZXBob25lL0NhbGxFcnJvciZ0b2tlbj0kMSBbTkMsTF0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IENBTExfVkFMSURBVElPTiA9ICAnY29uZmlybWFjaW9uLWxsYW1hZGEvJzsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyBUT0RPKFBhYmxvKToKUmV3cml0ZVJ1bGUgXm1pcy1kYXRvcy92YWxpZGFyLWxsYW1hZGEvKC4qKS8kIGluZGV4LnBocD9yPW1pem9uYUNvbnRyb2xsZXJzL0VkaXRUZWxlcGhvbmUvY2FsbFZhbGlkYXRpb24mdG9rZW49JDEgW05DLExdCiMgVE9ETyhQYWJsbyk6ClJld3JpdGVSdWxlIF5taXMtZGF0b3MvY29uZmlybWFjaW9uLWxsYW1hZGEvKC4qKS8kIGluZGV4LnBocD9yPW1pem9uYUNvbnRyb2xsZXJzL0VkaXRUZWxlcGhvbmUvQ2FsbENvbmZpcm1hdGlvbiZ0b2tlbj0kMSBbTkMsTF0K</text>
+      <register name="7" type="4">
+        <text>'validar-llamada/';
+    const CALL_CONFIRMATION =</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvLyBUT0RPKFBhYmxvKTogZGVsZXRlCiAgICAvKioKICAgICAqIEBwYXJhbSAkdGVsZXBob25lCiAgICAgKiBAcmV0dXJuIGJvb2wKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBpc01vYmlsZSgkdGVsZXBob25lKQogICAgewogICAgICAgIHJldHVybiBQaG9uZUhlbHBlcjo6dGFrZSgpLT5pc01vYmlsZSgkdGVsZXBob25lKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IENBTExfRVJST1IgPSAnZXJyb3ItbGxhbWFkYS8nOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gJHRoaXMKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNhbGxDb25maXJtYXRpb24oKQogICAgewogICAgICAgICR0aGlzLT5fdXJsYnVpbGRlZCAuPSBNeURhdGFSb3V0ZXNFbnVtOjpDQUxMX0NPTkZJUk1BVElPTjsKCiAgICAgICAgcmV0dXJuICR0aGlzOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
