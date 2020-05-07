@@ -100,6 +100,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/ChangeTelephoneByCallUseCase.php" timestamp="1588844838288">
+        <mark key="'" line="54" column="51" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ActiveRecord/ValidationPhoneRepository.php" timestamp="1588836720626">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="56" />
@@ -153,12 +156,6 @@
       <file name="/PHP Console" timestamp="1588776636683">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/exceptions/ValidationAttemptsReachedException.php" timestamp="1588770742059">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="35" />
-        <mark key="^" line="2" column="35" />
-        <mark key="." line="2" column="34" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Models/MyData/TelephoneFormTest.php" timestamp="1588775762118">
         <mark key="[" line="34" column="21" />
         <mark key="]" line="34" column="30" />
@@ -206,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="20" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
       <jump line="41" column="13" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/FavouritesEmail/CarDomainModel.php" />
       <jump line="202" column="15" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/FavouritesEmail/CarDomainModel.php" />
       <jump line="194" column="22" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/FavouritesEmail/CarDomainModel.php" />
@@ -306,6 +302,7 @@
       <jump line="271" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
       <jump line="73" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
       <jump line="54" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
+      <jump line="54" column="51" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/MyData/ChangeTelephoneByCallUseCase.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
