@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>relation</entry>
         <entry encoding="base64">XDxzZXZlbkRheXNcPg==</entry>
         <entry encoding="base64">XDxfc2NlbmFyaW9cPg==</entry>
         <entry encoding="base64">XDxfZ2V0RmlsdGVyZWRDYXJzXD4=</entry>
@@ -27,6 +26,7 @@
         <entry>getconn</entry>
         <entry>call</entry>
         <entry>todo</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
         <entry>218</entry>
@@ -43,12 +43,12 @@
         <entry>288</entry>
         <entry>89</entry>
         <entry>.,.+4wa</entry>
-        <entry>qa</entry>
         <entry>w</entry>
-        <entry>vs</entry>
-        <entry>q</entry>
         <entry>792</entry>
         <entry>wa</entry>
+        <entry>qa</entry>
+        <entry>vs</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,16 +112,13 @@
       <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/vendor/doctrine/dbal/lib/Doctrine/DBAL/DriverManager.php" timestamp="1588787370759">
         <mark key="'" line="238" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/API/User/UserAPIController.php" timestamp="1588861778626">
+        <mark key="'" line="20" column="40" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Services/AttemptValidationService.php" timestamp="1588846754930">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/.env.local" timestamp="1588786419411">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/repositories/UserMiZonaRepository.php" timestamp="1588835984160">
         <mark key="[" line="63" column="0" />
@@ -184,12 +181,6 @@
         <mark key="]" line="787" column="0" />
         <mark key="." line="787" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/src/Hi/Infrastructure/Query/HiProvider.php" timestamp="1588786682091">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="5" column="38" />
-        <mark key="^" line="5" column="38" />
-        <mark key="." line="5" column="37" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/editTelephone/_sms_error.twig" timestamp="1588847105661">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="15" />
@@ -202,6 +193,7 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/.htaccess" timestamp="1588861557866" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/editTelephone/validation_method.twig" timestamp="1588847087411">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="0" column="0" />
@@ -211,8 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="441" column="109" filename="$USER_HOME$/Projects/coches.com/models/Car/Car.php" />
-      <jump line="140" column="12" filename="$USER_HOME$/Projects/coches.com/models/Car/Car.php" />
       <jump line="28" column="18" filename="$USER_HOME$/Projects/coches.com/models/Car/Car.php" />
       <jump line="1345" column="49" filename="$USER_HOME$/Projects/coches.com/models/Car/Car.php" />
       <jump line="1342" column="26" filename="$USER_HOME$/Projects/coches.com/models/Car/Car.php" />
@@ -311,6 +301,8 @@
       <jump line="13" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/enums/routes/MyDataRoutesEnum.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/enums/routes/MyDataRoutesEnum.php" />
       <jump line="63" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/ConfigurationBeans/EditTelephoneConfBean.php" />
+      <jump line="83" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/API/User/UserAPIController.php" />
+      <jump line="20" column="40" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/API/User/UserAPIController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,7 +317,7 @@
         <text encoding="base64">IGdvQmFja1VybA==</text>
       </register>
       <register name="/" type="4">
-        <text>todo</text>
+        <text>json</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">eyMKUGFyYW1ldGVyczoKICogc21zVmFsaWRhdGlvblVybChzdHJpbmcpCiAqIGdvQmFja1VybChzdHJpbmcpCiN9Cg==</text>
@@ -359,15 +351,15 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gJHRoaXMKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNhbGxDb25maXJtYXRpb24oKQogICAgewogICAgICAgICR0aGlzLT5fdXJsYnVpbGRlZCAuPSBNeURhdGFSb3V0ZXNFbnVtOjpDQUxMX0NPTkZJUk1BVElPTjsKCiAgICAgICAgcmV0dXJuICR0aGlzOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>todo</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern>todo</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
       <last-dir>1</last-dir>
