@@ -29,8 +29,6 @@
         <entry>json</entry>
       </history-search>
       <history-cmd>
-        <entry>316</entry>
-        <entry>333</entry>
         <entry>400</entry>
         <entry>61</entry>
         <entry>180</entry>
@@ -42,12 +40,14 @@
         <entry>288</entry>
         <entry>89</entry>
         <entry>.,.+4wa</entry>
-        <entry>w</entry>
         <entry>792</entry>
         <entry>vs</entry>
         <entry>qa</entry>
         <entry>200</entry>
         <entry>q</entry>
+        <entry>169</entry>
+        <entry>362</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -100,12 +100,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/src/Hi/Infrastructure/Query/DoctrineHiProviderTest.php" timestamp="1588958036355">
-        <mark key="'" line="58" column="35" />
-        <mark key="[" line="28" column="23" />
-        <mark key="]" line="28" column="32" />
-        <mark key="." line="28" column="31" />
-        <mark key="^" line="28" column="32" />
+      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/src/Hi/Infrastructure/Query/DoctrineHiProviderTest.php" timestamp="1588960868139">
+        <mark key="'" line="64" column="35" />
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="53" />
+        <mark key="." line="28" column="52" />
+        <mark key="^" line="28" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/apps/Api/src/Action/HiAction.php" timestamp="1588870788927">
         <mark key="[" line="24" column="28" />
@@ -119,7 +119,7 @@
         <mark key="]" line="787" column="0" />
         <mark key="." line="787" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588958005762">
+      <file name="/Dummy.txt" timestamp="1588960469846">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/src/Hi/Infrastructure/Query/DoctrineHiProvider.php" timestamp="1588956314890">
@@ -134,6 +134,9 @@
         <mark key="]" line="8" column="17" />
         <mark key="." line="8" column="16" />
         <mark key="^" line="8" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/AbstractSchemaManager.php" timestamp="1588959222601">
+        <mark key="'" line="1027" column="35" />
       </file>
       <file name="/fragment.php" timestamp="1588957904504">
         <mark key="[" line="0" column="0" />
@@ -200,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="13" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/FavouritesEmail/CarDomainModel.php" />
       <jump line="105" column="15" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/FavouritesEmail/CarDomainModel.php" />
       <jump line="97" column="23" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/FavouritesEmail/CarDomainModel.php" />
       <jump line="332" column="5" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
@@ -300,51 +302,52 @@
       <jump line="16" column="22" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/src/Hi/Infrastructure/Query/DoctrineHiProvider.php" />
       <jump line="31" column="0" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/src/Hi/Infrastructure/Query/DoctrineHiProviderTest.php" />
       <jump line="43" column="35" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/src/Hi/Infrastructure/Query/DoctrineHiProviderTest.php" />
+      <jump line="1027" column="35" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/AbstractSchemaManager.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>patatas</text>
+        <text>here the connection???</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>patatas</text>
+        <text>here the connection???</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2hvc3QnID0+ICRfRU5WWydEQl9IT1NUJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogaGVyZSB0aGUgY29ubmVjdGlvbj8/Pwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBob3N0OiAnJWVudihEQl9IT1NUKSUnCiAgICAgICAgcG9ydDogJyVlbnYoREJfUE9SVCklJwogICAgICAgIHVzZXI6ICclZW52KERCX1VTRVIpJScKICAgICAgICBwYXNzd29yZDogJyVlbnYoREJfUEFTU1dPUkQpJScKICAgICAgICBkYm5hbWU6ICclZW52KERCX05BTUUpJScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RyaXZlcicgPT4gJ3Bkb19zcWxpdGUnLAogICAgICAgICAgICAnbWVtb3J5JyA9PiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAnZHJpdmVyJyA9PiAncGRvX3NxbGl0ZScsCi8vICAgICAgICAgICAgJ21lbW9yeScgPT4gdHJ1ZSwK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcU2hvcGFcSGlcRG9tYWluXEluZnJhc3RydWN0dXJlXFF1ZXJ5XEhpUHJvdmlkZXI7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjbGFzcygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkc3RyaW5nCiAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICRwaW5ncmVzdWx0ID0gZXhlYygiL2Jpbi9waW5nIC1uIDMgbG9jYWxob3N0IiwgJG91dGNvbWUsICRzdGF0dXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICRyZWFsU2NoZW1hTWFuYWdlciA9ICRyZWFsQ29ubmVjdGlvbi0+Z2V0U2NoZW1hTWFuYWdlcigpOwovLyAgICAgICAgJHJlYWxTY2hlbWEgPSAkcmVhbFNjaGVtYU1hbmFnZXItPmNyZWF0ZVNjaGVtYSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJHRoaXMtPnByb3ZpZGVyLT5ieUlkKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICRyZWFsQ29ubmVjdGlvbiA9IERyaXZlck1hbmFnZXI6OmdldENvbm5lY3Rpb24oWwovLyAgICAgICAgICAgICdkcml2ZXInID0+ICRfRU5WWydEQl9EUklWRVInXSwKLy8gICAgICAgICAgICAnaG9zdCcgPT4gJF9FTlZbJ0RCX0hPU1QnXSwKLy8vLyAgICAgICAgICAgICdob3N0JyA9PiAnbG9jYWxob3N0JywKLy8gICAgICAgICAgICAncG9ydCcgPT4gJF9FTlZbJ0RCX1BPUlQnXSwKLy8gICAgICAgICAgICAndXNlcicgPT4gJF9FTlZbJ0RCX1VTRVInXSwKLy8gICAgICAgICAgICAncGFzc3dvcmQnID0+ICRfRU5WWydEQl9QQVNTV09SRCddLAovLyAgICAgICAgICAgICdkYm5hbWUnID0+ICRfRU5WWydEQl9OQU1FJ10sCi8vICAgICAgICBdKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
