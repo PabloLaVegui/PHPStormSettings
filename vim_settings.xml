@@ -44,10 +44,10 @@
         <entry>vs</entry>
         <entry>qa</entry>
         <entry>200</entry>
-        <entry>q</entry>
         <entry>169</entry>
         <entry>362</entry>
         <entry>w</entry>
+        <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -100,11 +100,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/src/Hi/Infrastructure/Query/DoctrineHiProviderTest.php" timestamp="1588969324773">
+      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/src/Hi/Infrastructure/Query/DoctrineHiProviderTest.php" timestamp="1588972652723">
         <mark key="'" line="64" column="35" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="37" />
-        <mark key="." line="28" column="52" />
+        <mark key="[" line="54" column="44" />
+        <mark key="]" line="54" column="45" />
+        <mark key="." line="54" column="45" />
         <mark key="^" line="28" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/apps/Api/src/Action/HiAction.php" timestamp="1588870788927">
@@ -123,11 +123,11 @@
         <mark key="." line="16" column="22" />
         <mark key="^" line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/.env.test" timestamp="1588875408071">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="17" />
-        <mark key="." line="8" column="16" />
-        <mark key="^" line="8" column="17" />
+      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/.env.test" timestamp="1588973313685">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="8" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/AbstractSchemaManager.php" timestamp="1588959222601">
         <mark key="'" line="1027" column="35" />
@@ -142,15 +142,15 @@
       <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/apps/.phpunit/phpunit-7.5-0/src/Framework/TestCase.php" timestamp="1588969144189">
         <mark key="'" line="103" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/apps/Api/config/services_test.yaml" timestamp="1588955450727">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="21" />
+      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/apps/Api/config/services_test.yaml" timestamp="1588973897153">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="14" column="8" />
+        <mark key="^" line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/.env.local" timestamp="1588875667270">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
+      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/.env.local" timestamp="1588973299921">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="7" column="16" />
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/apps/Api/config/infrastructure_services.yaml" timestamp="1588871972315">
@@ -168,16 +168,16 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/apps/Api/config/infrastructure/services.yaml" timestamp="1588957422350">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/apps/Api/config/infrastructure/services.yaml" timestamp="1588973337990">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/apps/Api/HiResponseTest.php" timestamp="1588970043298">
-        <mark key="[" line="19" column="57" />
-        <mark key="]" line="20" column="8" />
-        <mark key="^" line="20" column="8" />
-        <mark key="." line="20" column="7" />
+      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/apps/Api/HiResponseTest.php" timestamp="1588973964561">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="27" />
+        <mark key="." line="25" column="26" />
+        <mark key="^" line="25" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/API/User/UserAPIController.php" timestamp="1588862512297">
         <mark key="'" line="20" column="40" />
@@ -304,46 +304,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>client</text>
+        <text>Doctrine\DBAL\Connection</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>client</text>
+        <text encoding="base64">dGhpcy0+Y2xpZW50LT5nZXRDb250YWluZXIoKS0+Z2V0KCdkb2N0cmluZS5kYi5jb25uZWN0aW9uJyk7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAka2VybmVsID0gc3RhdGljOjpib290S2VybmVsKCRvcHRpb25zKTsK</text>
+      <register name="0" type="4">
+        <text>Doctrine\DBAL\Connection</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAka2VybmVsID0gc3RhdGljOjpib290S2VybmVsKCRvcHRpb25zKTsK</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXERCQUxcRHJpdmVyTWFuYWdlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gc2VsZjo6Y3JlYXRlQ2xpZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBDb25uZWN0aW9uIGRiQ29ubmVjdGlvbiAqLwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChDb25uZWN0aW9uICRkYkNvbm5lY3Rpb24pCiAgICB7CgogICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICRrZXJuZWwgPSBzdGF0aWM6OmJvb3RLZXJuZWwoKTsKLy8gICAgICAgICR0aGlzLT5kYkNvbm5lY3Rpb24gPSAka2VybmVsLT5nZXRDb250YWluZXIoKS0+Z2V0KCdkb2N0cmluZS5kYi5jb25uZWN0aW9uJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICRrZXJuZWwgPSBzdGF0aWM6OmJvb3RLZXJuZWwoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5kYkNvbm5lY3Rpb24gPSAka2VybmVsLT5nZXRDb250YWluZXIoKS0+Z2V0KCd0ZXN0c19kYl9jb25uZWN0aW9uJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgpCg==</text>
+        <text encoding="base64">ICBEb2N0cmluZVxEQkFMXENvbm5lY3Rpb246Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcU2hvcGFcSGlcSW5mcmFzdHJ1Y3R1cmVcUXVlcnlcRG9jdHJpbmVIaVByb3ZpZGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAkdGhpcy0+YmF0Y2hQcm9jZXNzb3IgPSBuZXcgQmF0Y2hVcGRhdGVyKCR0aGlzLT5jb25uZWN0aW9uKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
