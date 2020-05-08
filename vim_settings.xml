@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXZlbkRheXNcPg==</entry>
         <entry encoding="base64">XDxfc2NlbmFyaW9cPg==</entry>
         <entry encoding="base64">XDxfZ2V0RmlsdGVyZWRDYXJzXD4=</entry>
         <entry encoding="base64">XDxwcm9jZXNzTWVzc2FnZVw+</entry>
@@ -27,6 +26,7 @@
         <entry>call</entry>
         <entry>todo</entry>
         <entry>json</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>400</entry>
@@ -100,10 +100,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/src/Hi/Infrastructure/Query/DoctrineHiProviderTest.php" timestamp="1588960868139">
+      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/src/Hi/Infrastructure/Query/DoctrineHiProviderTest.php" timestamp="1588969324773">
         <mark key="'" line="64" column="35" />
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="53" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="37" />
         <mark key="." line="28" column="52" />
         <mark key="^" line="28" column="53" />
       </file>
@@ -112,12 +112,6 @@
         <mark key="]" line="24" column="28" />
         <mark key="^" line="24" column="28" />
         <mark key="." line="24" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/helpers/urlhandler/UrlHandlerMizona.php" timestamp="1588847367196">
-        <mark key="'" line="39" column="4" />
-        <mark key="[" line="787" column="0" />
-        <mark key="]" line="787" column="0" />
-        <mark key="." line="787" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1588960469846">
         <mark key="[" line="0" column="0" />
@@ -138,14 +132,15 @@
       <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/AbstractSchemaManager.php" timestamp="1588959222601">
         <mark key="'" line="1027" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/vendor/symfony/framework-bundle/Test/WebTestCase.php" timestamp="1588970010385">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="47" />
+      </file>
       <file name="/fragment.php" timestamp="1588957904504">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/ConfigurationBeans/EditTelephoneConfBean.php" timestamp="1588847373344">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/apps/.phpunit/phpunit-7.5-0/src/Framework/TestCase.php" timestamp="1588969144189">
+        <mark key="'" line="103" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/apps/Api/config/services_test.yaml" timestamp="1588955450727">
         <mark key="[" line="8" column="16" />
@@ -178,10 +173,11 @@
         <mark key="]" line="12" column="32" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/apps/Api/HiResponseTest.php" timestamp="1588955710888">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/apps/Api/HiResponseTest.php" timestamp="1588970043298">
+        <mark key="[" line="19" column="57" />
+        <mark key="]" line="20" column="8" />
+        <mark key="^" line="20" column="8" />
+        <mark key="." line="20" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/API/User/UserAPIController.php" timestamp="1588862512297">
         <mark key="'" line="20" column="40" />
@@ -203,8 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="15" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/FavouritesEmail/CarDomainModel.php" />
-      <jump line="97" column="23" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/FavouritesEmail/CarDomainModel.php" />
       <jump line="332" column="5" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
       <jump line="56" column="38" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
       <jump line="15" column="53" filename="$USER_HOME$/Projects/lavegui/new-origen/api/apps/Api/src/Kernel.php" />
@@ -303,51 +297,53 @@
       <jump line="31" column="0" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/src/Hi/Infrastructure/Query/DoctrineHiProviderTest.php" />
       <jump line="43" column="35" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/src/Hi/Infrastructure/Query/DoctrineHiProviderTest.php" />
       <jump line="1027" column="35" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/AbstractSchemaManager.php" />
+      <jump line="339" column="4" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/apps/.phpunit/phpunit-7.5-0/src/Framework/TestCase.php" />
+      <jump line="103" column="13" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/apps/.phpunit/phpunit-7.5-0/src/Framework/TestCase.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>here the connection???</text>
+        <text>client</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>here the connection???</text>
+        <text>client</text>
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogaGVyZSB0aGUgY29ubmVjdGlvbj8/Pwo=</text>
+        <text encoding="base64">ICAgICAgICAka2VybmVsID0gc3RhdGljOjpib290S2VybmVsKCRvcHRpb25zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAka2VybmVsID0gc3RhdGljOjpib290S2VybmVsKCRvcHRpb25zKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gc2VsZjo6Y3JlYXRlQ2xpZW50KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjbGFzcygpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChDb25uZWN0aW9uICRkYkNvbm5lY3Rpb24pCiAgICB7CgogICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgICAKICAgIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRwaW5ncmVzdWx0ID0gZXhlYygiL2Jpbi9waW5nIC1uIDMgbG9jYWxob3N0IiwgJG91dGNvbWUsICRzdGF0dXMpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRyZWFsU2NoZW1hTWFuYWdlciA9ICRyZWFsQ29ubmVjdGlvbi0+Z2V0U2NoZW1hTWFuYWdlcigpOwovLyAgICAgICAgJHJlYWxTY2hlbWEgPSAkcmVhbFNjaGVtYU1hbmFnZXItPmNyZWF0ZVNjaGVtYSgpOwo=</text>
+        <text encoding="base64">dXNlIExhdmVndWlcU2hvcGFcSGlcSW5mcmFzdHJ1Y3R1cmVcUXVlcnlcRG9jdHJpbmVIaVByb3ZpZGVyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRyZWFsQ29ubmVjdGlvbiA9IERyaXZlck1hbmFnZXI6OmdldENvbm5lY3Rpb24oWwovLyAgICAgICAgICAgICdkcml2ZXInID0+ICRfRU5WWydEQl9EUklWRVInXSwKLy8gICAgICAgICAgICAnaG9zdCcgPT4gJF9FTlZbJ0RCX0hPU1QnXSwKLy8vLyAgICAgICAgICAgICdob3N0JyA9PiAnbG9jYWxob3N0JywKLy8gICAgICAgICAgICAncG9ydCcgPT4gJF9FTlZbJ0RCX1BPUlQnXSwKLy8gICAgICAgICAgICAndXNlcicgPT4gJF9FTlZbJ0RCX1VTRVInXSwKLy8gICAgICAgICAgICAncGFzc3dvcmQnID0+ICRfRU5WWydEQl9QQVNTV09SRCddLAovLyAgICAgICAgICAgICdkYm5hbWUnID0+ICRfRU5WWydEQl9OQU1FJ10sCi8vICAgICAgICBdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -356,13 +352,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>json</last-search>
+      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
