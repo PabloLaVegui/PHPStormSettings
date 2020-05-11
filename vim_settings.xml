@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc2NlbmFyaW9cPg==</entry>
         <entry encoding="base64">XDxfZ2V0RmlsdGVyZWRDYXJzXD4=</entry>
         <entry encoding="base64">XDxwcm9jZXNzTWVzc2FnZVw+</entry>
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
@@ -27,6 +26,7 @@
         <entry>todo</entry>
         <entry>json</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>180</entry>
@@ -47,8 +47,8 @@
         <entry>w</entry>
         <entry>vs</entry>
         <entry>q</entry>
-        <entry>qa</entry>
         <entry>wa</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -175,11 +175,9 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/src/Hi/Infrastructure/UnitDoctrineDbalTestCase.php" timestamp="1588984766156">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="9" column="19" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/.htaccess" timestamp="1589183763195" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/API/VN/AuthorisedDealer/VNAuthorisedDealerAPIController.php" timestamp="1589183766219">
+        <mark key="'" line="32" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/bin/composer.sh" timestamp="1589043257448">
         <mark key="[" line="2" column="35" />
@@ -193,12 +191,6 @@
         <mark key="^" line="16" column="63" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/src/Hi/Infrastructure/DbalHiSave.php" timestamp="1588984828369">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="6" />
-        <mark key="^" line="6" column="6" />
-        <mark key="." line="6" column="5" />
-      </file>
       <file name="$USER_HOME$/Projects/garbage/autodescuento.com/src/infrastructure/event/Events.php" timestamp="1589182679416" />
       <file name="$USER_HOME$/Projects/lavegui/new-origen/shopa/apps/Migrations/src/Version20200509163516.php" timestamp="1589042866498">
         <mark key="[" line="21" column="52" />
@@ -208,7 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="13" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
       <jump line="424" column="24" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
       <jump line="302" column="26" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
       <jump line="275" column="24" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
@@ -308,6 +299,7 @@
       <jump line="7" column="0" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/src/Hi/Infrastructure/Query/DbalHiProviderTest.php" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/src/Hi/Infrastructure/Query/DoctrineHiProvider.php" />
       <jump line="29" column="6" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/apps/Api/ApiTestCase.php" />
+      <jump line="32" column="6" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/API/VN/AuthorisedDealer/VNAuthorisedDealerAPIController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,7 +314,7 @@
         <text encoding="base64">ZG9ja2VyIGV4ZWMgLXRpIHNob3BhLXBocCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhXD4=</text>
+        <text>update</text>
       </register>
       <register name="0" type="4">
         <text>&quot;$@&quot;</text>
@@ -355,19 +347,19 @@
         <text encoding="base64">ZG9ja2VyIGV4ZWMgLXRpIHNob3BhLXBocCBwaHAgdmVuZG9yL2Jpbi9kb2N0cmluZS1taWdyYXRpb25zICQxCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>qa</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
