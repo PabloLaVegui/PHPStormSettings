@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0RmlsdGVyZWRDYXJzXD4=</entry>
-        <entry encoding="base64">XDxwcm9jZXNzTWVzc2FnZVw+</entry>
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxnZXRDb2NoZXNjb21QaG9uZVZhbGlkYXRpb25OdW1iZXJcPg==</entry>
         <entry encoding="base64">XDxnZXRDYWxsVmFsaWRhdGlvblJvdXRlXD4=</entry>
@@ -27,9 +25,10 @@
         <entry>json</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>update</entry>
+        <entry encoding="base64">XDxjb21wbGV0ZURlYWxlclw+</entry>
+        <entry>multiprovince</entry>
       </history-search>
       <history-cmd>
-        <entry>28</entry>
         <entry>53</entry>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry>147</entry>
@@ -44,11 +43,12 @@
         <entry>waa</entry>
         <entry>sp</entry>
         <entry>w</entry>
-        <entry>q</entry>
-        <entry>vs</entry>
         <entry>744</entry>
         <entry>qa</entry>
         <entry>wa</entry>
+        <entry>vs</entry>
+        <entry>q</entry>
+        <entry>217</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -100,7 +100,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/crmmigrations/src/infrastructure/repositories/doctrine/eurotax/ModelEntity.php" timestamp="1589379333021" />
+      <file name="$USER_HOME$/Projects/office.coches.com/crm_yii/protected/views/dealers/dealer/multiprovince/multiprovince.php" timestamp="1589455207480" />
       <file name="$USER_HOME$/Projects/lavegui/new-origen/bin/doctrine-migrations" timestamp="1589230228519">
         <mark key="[" line="6" column="65" />
         <mark key="]" line="6" column="68" />
@@ -127,6 +127,9 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/office.coches.com/crm_yii/protected/views/dealers/dealer/completeDealer.php" timestamp="1589455194286">
+        <mark key="'" line="9" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/lavegui/new-origen/bin/symfony" timestamp="1589230092328">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="38" />
@@ -145,6 +148,10 @@
         <mark key="^" line="43" column="42" />
         <mark key="." line="43" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/office.coches.com/crm_yii/protected/controllers/dealers/DealerController.php" timestamp="1589455981010">
+        <mark key="'" line="216" column="23" />
+        <mark key="[" line="223" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/views/material/VN/ResultsPreIndexCardVN/render_partial/_model_info_and_prices.php" timestamp="1589377605482">
         <mark key="'" line="71" column="111" />
       </file>
@@ -156,9 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="26" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
-      <jump line="275" column="24" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
-      <jump line="247" column="28" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
       <jump line="210" column="28" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
       <jump line="194" column="30" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
       <jump line="172" column="22" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
@@ -256,6 +260,9 @@
       <jump line="29" column="6" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/apps/Api/ApiTestCase.php" />
       <jump line="32" column="6" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/API/VN/AuthorisedDealer/VNAuthorisedDealerAPIController.php" />
       <jump line="71" column="111" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/views/material/VN/ResultsPreIndexCardVN/render_partial/_model_info_and_prices.php" />
+      <jump line="216" column="23" filename="$USER_HOME$/Projects/office.coches.com/crm_yii/protected/controllers/dealers/DealerController.php" />
+      <jump line="3" column="20" filename="$USER_HOME$/Projects/office.coches.com/crm_yii/protected/views/dealers/dealer/completeDealer.php" />
+      <jump line="9" column="9" filename="$USER_HOME$/Projects/office.coches.com/crm_yii/protected/views/dealers/dealer/completeDealer.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -270,7 +277,7 @@
         <text>'Golf'</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>multiprovince</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT5maW5kQnkoWydtb2RuYW1lZ3JwMScgPT4gJ0dvbGYnXSwgbnVsbCwgJGxpbWl0LCAkb2Zmc2V0KTsK</text>
@@ -303,15 +310,15 @@
         <text encoding="base64">ZG9ja2VyIGV4ZWMgLXRpIHNob3BhLXBocCBwaHAgdmVuZG9yL2Jpbi9kb2N0cmluZS1taWdyYXRpb25zICQxCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>217</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>update</last-search>
+      <last-search>multiprovince</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>multiprovince</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
       <last-dir>1</last-dir>
