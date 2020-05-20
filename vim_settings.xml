@@ -7,14 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>validar-llamada</entry>
-        <entry encoding="base64">XDxFRElUX1RFTEVQSE9ORV9FUlJPUl9NRVNTQUdFXD4=</entry>
-        <entry encoding="base64">XDxjYW5Vc2VTTVNWYWxpZGF0aW9uXD4=</entry>
-        <entry encoding="base64">XDxOb3RWYWxpZGF0ZWRUZWxlcGhvbmVFeGNlcHRpb25cPg==</entry>
-        <entry encoding="base64">XDxnZXRVc2VyVGVtcG9yYXJ5RGF0YU9yRmFpbFw+</entry>
-        <entry encoding="base64">XDxFRElUX1RFTEVQSE9ORV9DQUxMX0VSUk9SX01FU1NBR0VcPg==</entry>
-        <entry encoding="base64">XDxjaGFuZ2VUZWxlcGhvbmVCeUNhbGxVc2VDYXNlXD4=</entry>
-        <entry>actionedit</entry>
         <entry>ismo</entry>
         <entry>getconn</entry>
         <entry>call</entry>
@@ -27,6 +19,14 @@
         <entry>delete</entry>
         <entry encoding="base64">XDxfZ2V0V2lkZ2V0VGl0bGVcPg==</entry>
         <entry>price</entry>
+        <entry encoding="base64">XDxQSFBfVkVSU0lPTlw+</entry>
+        <entry encoding="base64">XDxBUENVX1ZFUlNJT05cPg==</entry>
+        <entry encoding="base64">XDxQSFBJWkVfREVQU1w+</entry>
+        <entry encoding="base64">XDxQSFBfSU5JX0RJUlw+</entry>
+        <entry encoding="base64">XDxjb21wb3Nlclw+</entry>
+        <entry encoding="base64">XDxoZWFsdGhjaGVja1w+</entry>
+        <entry encoding="base64">XDxhcGlfcGxhdGZvcm1fcGhwXD4=</entry>
+        <entry encoding="base64">XDxhcGlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>53</entry>
@@ -46,8 +46,8 @@
         <entry>744</entry>
         <entry>q</entry>
         <entry>217</entry>
-        <entry>vs</entry>
         <entry>qa</entry>
+        <entry>vs</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -129,6 +129,13 @@
       <file name="$USER_HOME$/Projects/office.coches.com/crm_yii/protected/views/dealers/dealer/completeDealer.php" timestamp="1589455194286">
         <mark key="'" line="9" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" timestamp="1589992922575">
+        <mark key="'" line="126" column="34" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="137" column="0" />
+        <mark key="." line="136" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/noticias.coches.com/wp-config.php" timestamp="1589467027170">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
@@ -146,14 +153,19 @@
         <mark key="^" line="43" column="42" />
         <mark key="." line="43" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/etc/nginx/default.conf" timestamp="1589993013079">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/office.coches.com/crm_yii/protected/controllers/dealers/DealerController.php" timestamp="1589464350897">
         <mark key="'" line="216" column="23" />
         <mark key="[" line="224" column="0" />
         <mark key="]" line="224" column="0" />
         <mark key="." line="224" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" timestamp="1589977134417">
-        <mark key="'" line="303" column="8" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" timestamp="1589977164304">
+        <mark key="'" line="1088" column="9" />
         <mark key="[" line="1139" column="31" />
         <mark key="]" line="1139" column="36" />
         <mark key="^" line="1139" column="36" />
@@ -162,49 +174,12 @@
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/views/material/VN/ResultsPreIndexCardVN/render_partial/_model_info_and_prices.php" timestamp="1589377605482">
         <mark key="'" line="71" column="111" />
       </file>
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile" timestamp="1589991927530" />
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/Multiprovince/MultiprovinceAPIController.php" timestamp="1589899882732">
         <mark key="'" line="15" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="85" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
-      <jump line="106" column="7" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronNoticeClassifiedHasExpiredCommand.php" />
-      <jump line="143" column="78" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronNoticeClassifiedHasExpiredCommand.php" />
-      <jump line="279" column="28" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
-      <jump line="13" column="30" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
-      <jump line="57" column="38" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
-      <jump line="26" column="6" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
-      <jump line="79" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
-      <jump line="136" column="11" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronNoticeClassifiedHasExpiredCommand.php" />
-      <jump line="140" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronNoticeClassifiedHasExpiredCommand.php" />
-      <jump line="48" column="6" filename="$USER_HOME$/Projects/coches.com/models/User/User.php" />
-      <jump line="312" column="20" filename="$USER_HOME$/Projects/coches.com/models/User/User.php" />
-      <jump line="332" column="21" filename="$USER_HOME$/Projects/coches.com/models/User/User.php" />
-      <jump line="334" column="20" filename="$USER_HOME$/Projects/coches.com/models/User/User.php" />
-      <jump line="114" column="16" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronNoticeClassifiedHasExpiredCommand.php" />
-      <jump line="188" column="20" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
-      <jump line="14" column="32" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
-      <jump line="190" column="4" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
-      <jump line="52" column="13" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
-      <jump line="364" column="4" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
-      <jump line="348" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
-      <jump line="92" column="42" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronNoticeClassifiedHasExpiredCommand.php" />
-      <jump line="77" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronNoticeClassifiedHasExpiredCommand.php" />
-      <jump line="152" column="5" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/Domain/MessageOfExpiredClassifieds.php" />
-      <jump line="82" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/CronNoticeClassifiedHasExpiredCommand.php" />
-      <jump line="432" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
-      <jump line="298" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
-      <jump line="85" column="63" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
-      <jump line="326" column="69" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
-      <jump line="52" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/ConfigurationBeans/EditTelephoneConfBean.php" />
-      <jump line="160" column="58" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
-      <jump line="52" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
-      <jump line="316" column="62" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
-      <jump line="279" column="62" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
-      <jump line="318" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
-      <jump line="296" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
-      <jump line="33" column="14" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
-      <jump line="29" column="10" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
       <jump line="337" column="53" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
       <jump line="300" column="53" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
       <jump line="299" column="53" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
@@ -267,51 +242,89 @@
       <jump line="15" column="6" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/Multiprovince/MultiprovinceAPIController.php" />
       <jump line="65" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/components/widgets/WStockClassifiedSlider.php" />
       <jump line="303" column="8" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
+      <jump line="1138" column="33" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
+      <jump line="1139" column="37" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
+      <jump line="8" column="41" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
+      <jump line="69" column="13" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
+      <jump line="177" column="19" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
+      <jump line="245" column="9" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
+      <jump line="307" column="33" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
+      <jump line="372" column="19" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
+      <jump line="442" column="9" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
+      <jump line="503" column="13" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
+      <jump line="747" column="23" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
+      <jump line="749" column="22" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
+      <jump line="779" column="32" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
+      <jump line="781" column="36" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
+      <jump line="1065" column="19" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
+      <jump line="1088" column="9" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
+      <jump line="101" column="45" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="0" column="4" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="6" column="11" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="120" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="27" column="13" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="32" column="15" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="15" column="4" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="17" column="9" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="52" column="46" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="51" column="43" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="53" column="10" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="72" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="55" column="46" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="54" column="11" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="5" column="13" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="81" column="4" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="102" column="8" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="62" column="8" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="57" column="8" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="8" column="27" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="7" column="8" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="126" column="34" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>(int)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PD9waHAK</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>(int)</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>price</text>
+        <text encoding="base64">XDxhcGlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZ3V6emxlRXhjZXB0aW9uID0gbmV3IENsaWVudEV4Y2VwdGlvbigK</text>
+        <text encoding="base64">Q01EIFsidmFybmlzaGQiLCAiLUYiLCAiLWYiLCAiL2V0Yy92YXJuaXNoL2RlZmF1bHQudmNsIiwgIi1wIiwgImh0dHBfcmVzcF9oZHJfbGVuPTY1NTM2IiwgIi1wIiwgImh0dHBfcmVzcF9zaXplPTk4MzA0Il0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZ3V6emxlRXhjZXB0aW9uID0gbmV3IFxFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">PD9waHAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+X21hbmFnZXItPnJlbW8K</text>
+        <text encoding="base64">Q01EIFsidmFybmlzaGQiLCAiLUYiLCAiLWYiLCAiL2V0Yy92YXJuaXNoL2RlZmF1bHQudmNsIiwgIi1wIiwgImh0dHBfcmVzcF9oZHJfbGVuPTY1NTM2IiwgIi1wIiwgImh0dHBfcmVzcF9zaXplPTk4MzA0Il0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q01EIFsidmFybmlzaGQiLCAiLUYiLCAiLWYiLCAiL2V0Yy92YXJuaXNoL2RlZmF1bHQudmNsIiwgIi1wIiwgImh0dHBfcmVzcF9oZHJfbGVuPTY1NTM2IiwgIi1wIiwgImh0dHBfcmVzcF9zaXplPTk4MzA0Il0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmaW5lKCdGU19NRVRIT0QnLCAnZGlyZWN0Jyk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">QVJHIEFQQ1VfVkVSU0lPTj01LjEuMTgK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVuZGVyUGFydGlhbCgpCg==</text>
+        <text encoding="base64">IyBwZXJzaXN0ZW50IC8gcnVudGltZSBkZXBzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHJlc3BvbnNlLT5nZXRCb2R5KCkpCg==</text>
+        <text encoding="base64">IyAicGhwIiBzdGFnZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">QVJHIFBIUF9WRVJTSU9OPTcuNAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JCBkb2NrZXIgZXhlYyAtdGkgc2hvcGEtcGhwIHBocCB2ZW5kb3IvYmluL2RvY3RyaW5lLW1pZ3JhdGlvbnMgbWlncmF0aW9uczptaWdyYXRlIC1uIC0tY29uZmlndXJhdGlvbj1hcHBzL01pZ3JhdGlvbnMvbWlncmF0aW9ucy55bWwgLS1kYi1jb25maWd1cmF0aW9uPWFwcHMvTWlncmF0aW9ucy9taWdyYXRpb25zLWRiLnBocAo=</text>
+        <text encoding="base64">ICAgICAgICAkZ3V6emxlRXhjZXB0aW9uID0gbmV3IFxFeGNlcHRpb24oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -320,12 +333,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>price</last-search>
+      <last-search encoding="base64">XDxhcGlcPg==</last-search>
       <last-offset />
-      <last-pattern>price</last-pattern>
+      <last-pattern encoding="base64">XDxhcGlcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
