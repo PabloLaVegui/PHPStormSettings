@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ismo</entry>
-        <entry>getconn</entry>
-        <entry>call</entry>
         <entry>todo</entry>
         <entry>json</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
@@ -27,6 +24,9 @@
         <entry encoding="base64">XDxoZWFsdGhjaGVja1w+</entry>
         <entry encoding="base64">XDxhcGlfcGxhdGZvcm1fcGhwXD4=</entry>
         <entry encoding="base64">XDxhcGlcPg==</entry>
+        <entry>entry</entry>
+        <entry>srv\/public</entry>
+        <entry>srv</entry>
       </history-search>
       <history-cmd>
         <entry>53</entry>
@@ -135,12 +135,12 @@
       <file name="$USER_HOME$/Projects/office.coches.com/crm_yii/protected/views/dealers/dealer/completeDealer.php" timestamp="1589455194286">
         <mark key="'" line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" timestamp="1589994960821">
-        <mark key="'" line="49" column="4" />
-        <mark key="[" line="128" column="13" />
-        <mark key="]" line="128" column="13" />
-        <mark key="^" line="103" column="22" />
-        <mark key="." line="128" column="13" />
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" timestamp="1590000394162">
+        <mark key="'" line="132" column="30" />
+        <mark key="[" line="132" column="33" />
+        <mark key="]" line="132" column="37" />
+        <mark key="^" line="132" column="37" />
+        <mark key="." line="132" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/noticias.coches.com/wp-config.php" timestamp="1589467027170">
         <mark key="[" line="137" column="0" />
@@ -192,12 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="53" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
-      <jump line="189" column="53" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
-      <jump line="34" column="14" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
-      <jump line="134" column="53" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
-      <jump line="168" column="53" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
-      <jump line="268" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
       <jump line="378" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
       <jump line="64" column="18" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
       <jump line="63" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
@@ -278,7 +272,6 @@
       <jump line="52" column="46" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
       <jump line="51" column="43" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
       <jump line="53" column="10" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
-      <jump line="72" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
       <jump line="55" column="46" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
       <jump line="54" column="11" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
       <jump line="5" column="13" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
@@ -292,51 +285,58 @@
       <jump line="119" column="15" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
       <jump line="100" column="12" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
       <jump line="49" column="4" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="58" column="15" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="114" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="78" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="72" column="9" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="104" column="8" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="128" column="9" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
+      <jump line="130" column="30" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>shopa/</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>shopa/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcGlcPg==</text>
+        <text>srv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q09QWSBhcHBzL0FwaS9wdWJsaWMgcHVibGljLwo=</text>
+        <text encoding="base64">Q09QWSBhcHBzL0FwaS9zcmMgYXBwcy9BcGkvcHVibGljLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PD9waHAK</text>
+        <text encoding="base64">Q09QWSBhcHBzL0FwaS9zcmMgYXBwcy9BcGkvcHVibGljLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q01EIFsidmFybmlzaGQiLCAiLUYiLCAiLWYiLCAiL2V0Yy92YXJuaXNoL2RlZmF1bHQudmNsIiwgIi1wIiwgImh0dHBfcmVzcF9oZHJfbGVuPTY1NTM2IiwgIi1wIiwgImh0dHBfcmVzcF9zaXplPTk4MzA0Il0K</text>
+        <text encoding="base64">PD9waHAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Q01EIFsidmFybmlzaGQiLCAiLUYiLCAiLWYiLCAiL2V0Yy92YXJuaXNoL2RlZmF1bHQudmNsIiwgIi1wIiwgImh0dHBfcmVzcF9oZHJfbGVuPTY1NTM2IiwgIi1wIiwgImh0dHBfcmVzcF9zaXplPTk4MzA0Il0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q01EIFsidmFybmlzaGQiLCAiLUYiLCAiLWYiLCAiL2V0Yy92YXJuaXNoL2RlZmF1bHQudmNsIiwgIi1wIiwgImh0dHBfcmVzcF9oZHJfbGVuPTY1NTM2IiwgIi1wIiwgImh0dHBfcmVzcF9zaXplPTk4MzA0Il0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QVJHIEFQQ1VfVkVSU0lPTj01LjEuMTgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBwZXJzaXN0ZW50IC8gcnVudGltZSBkZXBzCg==</text>
+        <text encoding="base64">QVJHIEFQQ1VfVkVSU0lPTj01LjEuMTgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAicGhwIiBzdGFnZQo=</text>
+        <text encoding="base64">IyBwZXJzaXN0ZW50IC8gcnVudGltZSBkZXBzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QVJHIFBIUF9WRVJTSU9OPTcuNAo=</text>
+        <text encoding="base64">IyAicGhwIiBzdGFnZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZ3V6emxlRXhjZXB0aW9uID0gbmV3IFxFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">QVJHIFBIUF9WRVJTSU9OPTcuNAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -345,12 +345,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhcGlcPg==</last-search>
+      <last-search>srv</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcGlcPg==</last-pattern>
+      <last-pattern>srv</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
