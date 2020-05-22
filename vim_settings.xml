@@ -40,7 +40,6 @@
         <entry>362</entry>
         <entry>waa</entry>
         <entry>sp</entry>
-        <entry>w</entry>
         <entry>744</entry>
         <entry>q</entry>
         <entry>217</entry>
@@ -48,6 +47,7 @@
         <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry>qa</entry>
         <entry>x</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -135,12 +135,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" timestamp="1590185228913">
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" timestamp="1590186754210">
         <mark key="'" line="95" column="0" />
-        <mark key="[" line="68" column="40" />
-        <mark key="]" line="68" column="42" />
-        <mark key="^" line="68" column="42" />
-        <mark key="." line="68" column="41" />
+        <mark key="[" line="72" column="4" />
+        <mark key="]" line="72" column="4" />
+        <mark key="^" line="72" column="6" />
+        <mark key="." line="72" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/.dockerignore" timestamp="1590172175325">
         <mark key="[" line="0" column="0" />
@@ -302,46 +302,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>apps/Api/var</text>
+        <text>/</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>apps/Api/var</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>var\/cache</text>
       </register>
-      <register name="0" type="4">
-        <text>/usr/bin/wait-for-it</text>
+      <register name="0" type="2">
+        <text encoding="base64">Q01EIFsiLi93YWl0LWZvci1pdC5zaCIsICJkYjozMzA2IiwgIi0tIiwgIi92YXIvd3d3L3ZlbmRvci9iaW4vZG9jdHJpbmUtbWlncmF0aW9ucyIsICJtaWdyYXRpb25zOm1pZ3JhdGUiLCAiLW4iLCAiLS1jb25maWd1cmF0aW9uPS92YXIvd3d3L2FwcHMvTWlncmF0aW9ucy9taWdyYXRpb25zLnltbCIsIi0tZGItY29uZmlndXJhdGlvbj0vdmFyL3d3dy9hcHBzL01pZ3JhdGlvbnMvbWlncmF0aW9ucy1kYi5waHAiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q01EIFsiL3Zhci93d3cvdmVuZG9yL2Jpbi9kb2N0cmluZS1taWdyYXRpb25zIiwgIm1pZ3JhdGlvbnM6bWlncmF0ZSIsICItbiIsICItLWNvbmZpZ3VyYXRpb249L3Zhci93d3cvYXBwcy9NaWdyYXRpb25zL21pZ3JhdGlvbnMueW1sIiwiLS1kYi1jb25maWd1cmF0aW9uPS92YXIvd3d3L2FwcHMvTWlncmF0aW9ucy9taWdyYXRpb25zLWRiLnBocCJdCg==</text>
+        <text encoding="base64">Q01EIFsid2hvYW1pIl0K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Q01EIFsiL3Zhci93d3cvdmVuZG9yL2Jpbi9kb2N0cmluZS1taWdyYXRpb25zIiwgIm1pZ3JhdGlvbnM6bWlncmF0ZSIsICItbiIsICItLWNvbmZpZ3VyYXRpb249L3Zhci93d3cvYXBwcy9NaWdyYXRpb25zL21pZ3JhdGlvbnMueW1sIiwiLS1kYi1jb25maWd1cmF0aW9uPS92YXIvd3d3L2FwcHMvTWlncmF0aW9ucy9taWdyYXRpb25zLWRiLnBocCJdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gZGIK</text>
+        <text encoding="base64">Q01EIFsiL3Zhci93d3cvdmVuZG9yL2Jpbi9kb2N0cmluZS1taWdyYXRpb25zIiwgIm1pZ3JhdGlvbnM6bWlncmF0ZSIsICItbiIsICItLWNvbmZpZ3VyYXRpb249L3Zhci93d3cvYXBwcy9NaWdyYXRpb25zL21pZ3JhdGlvbnMueW1sIiwiLS1kYi1jb25maWd1cmF0aW9uPS92YXIvd3d3L2FwcHMvTWlncmF0aW9ucy9taWdyYXRpb25zLWRiLnBocCJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gZGIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I1JVTiBwaHAgL3Zhci93d3cvdmVuZG9yL2Jpbi9kb2N0cmluZS1taWdyYXRpb25zIG1pZ3JhdGlvbnM6bWlncmF0ZSAtbiBcCiMgICAgLS1jb25maWd1cmF0aW9uPS92YXIvd3d3L2FwcHMvTWlncmF0aW9ucy9taWdyYXRpb25zLnltbCBcCiMgICAgLS1kYi1jb25maWd1cmF0aW9uPS92YXIvd3d3L2FwcHMvTWlncmF0aW9ucy9taWdyYXRpb25zLWRiLnBocAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBUT0RPOiBjcmVvIHF1ZSBwcmltZXJvIGhheSBxdWUgaW5zdGFsYXIgZmxleAo=</text>
+        <text encoding="base64">I1JVTiBwaHAgL3Zhci93d3cvdmVuZG9yL2Jpbi9kb2N0cmluZS1taWdyYXRpb25zIG1pZ3JhdGlvbnM6bWlncmF0ZSAtbiBcCiMgICAgLS1jb25maWd1cmF0aW9uPS92YXIvd3d3L2FwcHMvTWlncmF0aW9ucy9taWdyYXRpb25zLnltbCBcCiMgICAgLS1kYi1jb25maWd1cmF0aW9uPS92YXIvd3d3L2FwcHMvTWlncmF0aW9ucy9taWdyYXRpb25zLWRiLnBocAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0tIAo=</text>
+        <text encoding="base64">IyBUT0RPOiBjcmVvIHF1ZSBwcmltZXJvIGhheSBxdWUgaW5zdGFsYXIgZmxleAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBwcy8ucGhwdW5pdAo=</text>
+        <text encoding="base64">ICAgIC0tIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwcy9BcGkvdmFyLwo=</text>
+        <text encoding="base64">YXBwcy8ucGhwdW5pdAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
