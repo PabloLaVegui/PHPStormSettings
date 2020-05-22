@@ -100,13 +100,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589897900754">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod-from-api-platform" timestamp="1590166266617">
-        <mark key="'" line="102" column="22" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="58" />
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod-from-api-platform" timestamp="1590172228537">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="70" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/etc/nginx/default-api-paltform.conf" timestamp="1590085910981">
         <mark key="[" line="14" column="0" />
@@ -118,7 +115,7 @@
         <mark key="." line="148" column="50" />
         <mark key="^" line="148" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod-apache" timestamp="1590083229640">
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod-apache" timestamp="1590171140166">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="60" />
       </file>
@@ -128,28 +125,31 @@
         <mark key="^" line="29" column="17" />
         <mark key="." line="29" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-nginx" timestamp="1590165324794">
-        <mark key="[" line="10" column="53" />
-        <mark key="]" line="10" column="62" />
-        <mark key="." line="10" column="61" />
-        <mark key="^" line="10" column="62" />
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-nginx" timestamp="1590173121659">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/docker-compose.yml" timestamp="1590165550113">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" timestamp="1590167925961">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="25" column="46" />
-        <mark key="]" line="25" column="48" />
-        <mark key="." line="25" column="47" />
-        <mark key="^" line="25" column="48" />
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" timestamp="1590172306509">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="52" column="66" />
+        <mark key="." line="49" column="62" />
+        <mark key="^" line="49" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/.dockerignore" timestamp="1590168724324">
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/.dockerignore" timestamp="1590172175325">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="2" column="13" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/README.md" timestamp="1590171227544">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="52" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/noticias.coches.com/wp-content/themes/Coches.com/footer.php" timestamp="1590138321804">
         <mark key="[" line="174" column="0" />
@@ -197,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="14" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
       <jump line="62" column="18" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
       <jump line="61" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
       <jump line="16" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
@@ -297,51 +296,54 @@
       <jump line="43" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/etc/nginx/default.conf" />
       <jump line="119" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod-from-api-platform" />
       <jump line="102" column="22" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod-from-api-platform" />
+      <jump line="68" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod-from-api-platform" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YXBwcy8ucGhwdW5pdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>var\/cache</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YXBwcy9BcGkvdmFyLwo=</text>
+      <register name="0" type="4">
+        <text>migrations:migrate -n \
+#    --configuration=/var/www/apps/Migrations/migrations.yml \
+#    --db-configuration=/var/www/apps/Migrations/migrations-db.php</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwcy8ucGhwdW5pdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwcy9BcGkvdmFyLwo=</text>
+        <text encoding="base64">I1JVTiBwaHAgL3Zhci93d3cvdmVuZG9yL2Jpbi9kb2N0cmluZS1taWdyYXRpb25zIG1pZ3JhdGlvbnM6bWlncmF0ZSAtbiBcCiMgICAgLS1jb25maWd1cmF0aW9uPS92YXIvd3d3L2FwcHMvTWlncmF0aW9ucy9taWdyYXRpb25zLnltbCBcCiMgICAgLS1kYi1jb25maWd1cmF0aW9uPS92YXIvd3d3L2FwcHMvTWlncmF0aW9ucy9taWdyYXRpb25zLWRiLnBocAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwcy9BcGkvcHVibGljLy5odGFjY2Vzcwo=</text>
+        <text encoding="base64">IyBUT0RPOiBjcmVvIHF1ZSBwcmltZXJvIGhheSBxdWUgaW5zdGFsYXIgZmxleAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0tIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICYmIAo=</text>
+        <text encoding="base64">YXBwcy8ucGhwdW5pdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICYmIHJtIC1yZiBhcHBzL0FwaS92YXIvKiAgXAo=</text>
+        <text encoding="base64">YXBwcy9BcGkvdmFyLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwcy9BcGkvcHVibGljLy5odGFjY2Vzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIHNldCAteGUgXAo=</text>
+        <text encoding="base64">ICAgICYmIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -356,7 +358,7 @@
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
