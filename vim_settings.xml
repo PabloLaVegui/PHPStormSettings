@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>update</entry>
         <entry encoding="base64">XDxjb21wbGV0ZURlYWxlclw+</entry>
         <entry>multiprovince</entry>
@@ -27,6 +26,7 @@
         <entry>srv</entry>
         <entry>migr</entry>
         <entry>composer</entry>
+        <entry>var\/cache</entry>
       </history-search>
       <history-cmd>
         <entry>53</entry>
@@ -46,9 +46,9 @@
         <entry>q</entry>
         <entry>217</entry>
         <entry>vs</entry>
-        <entry>wa</entry>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry>qa</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -103,12 +103,11 @@
       <file name="/Dummy.txt" timestamp="1589897900754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod-from-api-platform" timestamp="1590084505093">
-        <mark key="'" line="120" column="0" />
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod-from-api-platform" timestamp="1590166266617">
+        <mark key="'" line="102" column="22" />
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/noticias.coches.com/wp-content/plugins/tsmc.coches.com/view/models.php" timestamp="1590141284331" />
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/etc/nginx/default-api-paltform.conf" timestamp="1590085910981">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="30" />
@@ -129,22 +128,28 @@
         <mark key="^" line="29" column="17" />
         <mark key="." line="29" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/src/infrastructure/persistence/doctrine/DoctrineRepository.php" timestamp="1589881141490">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-nginx" timestamp="1590165324794">
+        <mark key="[" line="10" column="53" />
+        <mark key="]" line="10" column="62" />
+        <mark key="." line="10" column="61" />
+        <mark key="^" line="10" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" timestamp="1590084730175">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="21" column="72" />
-        <mark key="]" line="21" column="72" />
-        <mark key="^" line="19" column="62" />
-        <mark key="." line="21" column="72" />
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/docker-compose.yml" timestamp="1590165550113">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/noticias.coches.com/wp-config.php" timestamp="1589467027170">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" timestamp="1590167925961">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="25" column="48" />
+        <mark key="." line="25" column="47" />
+        <mark key="^" line="25" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/.dockerignore" timestamp="1590167525515">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/noticias.coches.com/wp-content/themes/Coches.com/footer.php" timestamp="1590138321804">
         <mark key="[" line="174" column="0" />
@@ -157,10 +162,12 @@
       <file name="/PHP Console" timestamp="1589962899556">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/etc/nginx/default.conf" timestamp="1590086043840">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/etc/nginx/default.conf" timestamp="1590165069632">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/etc/php/php-prod.ini" timestamp="1589994084474">
         <mark key="[" line="0" column="0" />
@@ -175,6 +182,12 @@
         <mark key="^" line="1139" column="36" />
         <mark key="." line="1139" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/docker-compose-prod.yml" timestamp="1590166057873">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile" timestamp="1590001268195">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="4" column="32" />
@@ -184,9 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="17" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
-      <jump line="124" column="62" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
-      <jump line="30" column="10" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
       <jump line="35" column="14" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
       <jump line="62" column="18" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
       <jump line="61" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/EditTelephoneController.php" />
@@ -284,6 +294,9 @@
       <jump line="96" column="11" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod-from-api-platform" />
       <jump line="34" column="8" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod-from-api-platform" />
       <jump line="120" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod-from-api-platform" />
+      <jump line="43" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/etc/nginx/default.conf" />
+      <jump line="119" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod-from-api-platform" />
+      <jump line="102" column="22" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod-from-api-platform" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,55 +308,55 @@
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">Y2FjaGUg</text>
       </register>
       <register name="/" type="4">
-        <text>composer</text>
+        <text>var\/cache</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmYXN0Y2dpX2J1ZmZlcl9zaXplIDMyazsKICAgICAgICBmYXN0Y2dpX2J1ZmZlcnMgMzIgNGs7Cg==</text>
+        <text encoding="base64">ICBteXNxbDoKICAgIGltYWdlOiBtYXJpYWRiCiAgICBjb250YWluZXJfbmFtZTogbXlzcWwKICAgIHJlc3RhcnQ6IGFsd2F5cwogICAgZW52aXJvbm1lbnQ6CiAgICAgIE1ZU1FMX1JPT1RfUEFTU1dPUkQ6IHJvb3QKICAgIHZvbHVtZXM6CiAgICAgIC0gLi92YXIvbXlzcWw6L3Zhci9saWIvbXlzcWwKICAgIHBvcnRzOgogICAgICAtIDMzMDY6MzMwNgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICYmIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmYXN0Y2dpX3Bhc3MgcGhwOjkwMDA7Cg==</text>
+        <text encoding="base64">ICAgICYmIHJtIC1yZiBhcHBzL0FwaS92YXIvKiAgXAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIHBocC1kb2NrZXIubG9jYWw7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJvb3QgL2NvZGU7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">UlVOIHNldCAteGUgXAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii93cC1pbmNsdWRlcy9qcy9jb29raWVzL2Nvb2tpZXNQb2xpY3kuanMiIGRlZmVyPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">IyBUT0RPOiBlc3RhIGxpbmVhIHkgbGEgc2lndWllbnRlLCBtZWpvcmFyIHNpIGVzdGEgaW1hZ2VuIHNvbG8gdmEgYSBzZXIgcGFyYSBwcm9kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii93cC1pbmNsdWRlcy9qcy9jb29raWVzL2Nvb2tpZXNQb2xpY3kuanMiIGRlZmVyPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgLQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIG5wbSBydW4gYnVpbGQgIAo=</text>
+        <text encoding="base64">QVJHIEFTU0VUX0lNQUdFCgpGUk9NICR7QVNTRVRfSU1BR0V9IEFTIGFzc2V0cwoKCkZST00gbmdpbng6MS4xNS45LWFscGluZQoKQ09QWSBkb2NrZXIvbmdpbngvZGVmYXVsdC5jb25mIC9ldGMvbmdpbngvY29uZi5kL2RlZmF1bHQuY29uZgoKQ09QWSAtLWZyb209YXNzZXRzIC92YXIvd3d3L3B1YmxpYyAvdmFyL3d3dy9wdWJsaWMK</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>composer</last-search>
+      <last-search>var\/cache</last-search>
       <last-offset />
-      <last-pattern>composer</last-pattern>
+      <last-pattern>var\/cache</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">

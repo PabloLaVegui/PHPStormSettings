@@ -5,6 +5,7 @@
       <mapping pattern="Dockerfile-prod" type="Dockerfile" />
       <mapping pattern="passwordValidationRequest.js" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-nginx" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="master" type="PLAIN_TEXT" />
