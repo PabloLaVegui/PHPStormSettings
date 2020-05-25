@@ -45,9 +45,9 @@
         <entry>x</entry>
         <entry>w</entry>
         <entry>qa</entry>
+        <entry>447</entry>
         <entry>vs</entry>
         <entry>q</entry>
-        <entry>447</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -109,20 +109,11 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod-from-api-platform" timestamp="1590183562513">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="70" column="45" />
-      </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-nginx" timestamp="1590230091579">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/docker-compose.yml" timestamp="1590165550113">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="13" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" timestamp="1590247927790">
         <mark key="[" line="40" column="0" />
@@ -140,15 +131,20 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1590426763854">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/docker/sql/setup.sql" timestamp="1590188294166">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="35" />
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod-apache" timestamp="1590171140166">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="60" />
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Migrations/src/Version20200525171811.php" timestamp="1590427175473">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/config/packages/lexik_jwt_authentication.yaml" timestamp="1590340604224">
         <mark key="[" line="4" column="14" />
@@ -156,13 +152,23 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Migrations/src/Version20200505225939.php" timestamp="1590427169114">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="40" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/.dockerignore" timestamp="1590245214144">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="9" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/README.md" timestamp="1590340142212">
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Action/Auth/User.php" timestamp="1590426853447">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/README.md" timestamp="1590427124198">
         <mark key="'" line="79" column="0" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="52" column="56" />
@@ -172,13 +178,6 @@
         <mark key="]" line="23" column="13" />
         <mark key="^" line="23" column="13" />
         <mark key="." line="23" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/etc/nginx/default.conf" timestamp="1590165069632">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="27" />
-        <mark key="^" line="5" column="27" />
-        <mark key="." line="5" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/docker-compose-prod.yml" timestamp="1590193280748">
         <mark key="'" line="23" column="190" />
@@ -298,7 +297,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ci8vCSAgICAvLyBDYXNvIHJhcm86IGRvcyBlbnRyYWRhcyBlbiBzZWFyY2hfcHJvdmluY2UgY29uIGRvcyBwcm92aW5jaWFzIGRpc3RpbnRhcwovLyAgICAgICAgLy8gYXNvY2lhZG9zIGFsIG1pc21vIGNvbmNlLiBTZSBsZSBwb25lIGVsIGNpdHlfaWQgZGVsIGNvbmNlCi8vICAgICAgICAkdGhpcy0+ZXhlY3V0ZSgKLy8gICAgICAgICAgICAidXBkYXRlIHNlYXJjaF9wcm92aW5jZSBzZXQgY2l0eV9pZCA9IDM4MjU1IHdoZXJlIGlkID0gMTAzOyIKLy8gICAgICAgICk7Ci8vCi8vICAgICAgICAvLyBPdHJvIGNhc28gcmFybzogRXN0YSBlbnRyYWRhIGRlIHNlYXJjaF9wcm92aW5jZSBubyB0aWVuZSBlbnRyYWRhIHJlbGFjaW9uYWRhCi8vICAgICAgICAvLyBlbiBleHRlcm5hbF9kZWFsZXJzaGlwCi8vICAgICAgICAkdGhpcy0+ZXhlY3V0ZSgKLy8gICAgICAgICAgICAiZGVsZXRlIGZyb20gc2VhcmNoX3Byb3ZpbmNlIHdoZXJlIGlkID0gMzA7IgovLyAgICAgICAgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
@@ -310,34 +309,34 @@
         <text encoding="base64">XDxnZXRVc2VyUmVxdWVzdHNTdW1tYXJ5TGlzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhlY3V0ZSgKICAgICAgICAgICAgIiB1cGRhdGUgc2VhcmNoX3Byb3ZpbmNlIHNldCBjaXR5X2lkID0gMzgyNTUgd2hlcmUgaWQgPSAxMDM7IgogICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGFibGUgPSAkc2NoZW1hLT5jcmVhdGVUYWJsZShzZWxmOjpUQUJMRV9OQU1FKTsKCiAgICAgICAgJHRhYmxlLT5hZGRDb2x1bW4oCiAgICAgICAgICAgICdpZCcsCiAgICAgICAgICAgICdpbnRlZ2VyJywKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2F1dG9pbmNyZW1lbnQnID0+IHRydWUsCiAgICAgICAgICAgIF0KICAgICAgICApOwogICAgICAgICR0YWJsZS0+YWRkQ29sdW1uKAogICAgICAgICAgICAndXNlcm5hbWUnLAogICAgICAgICAgICAnc3RyaW5nJywKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25vdG51bGwnID0+IGZhbHNlLAogICAgICAgICAgICBdCiAgICAgICAgKTsKCiAgICAgICAgJHRhYmxlLT5zZXRQcmltYXJ5S2V5KFsnaWQnXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8vCSAgICAvLyBDYXNvIHJhcm86IGRvcyBlbnRyYWRhcyBlbiBzZWFyY2hfcHJvdmluY2UgY29uIGRvcyBwcm92aW5jaWFzIGRpc3RpbnRhcwovLyAgICAgICAgLy8gYXNvY2lhZG9zIGFsIG1pc21vIGNvbmNlLiBTZSBsZSBwb25lIGVsIGNpdHlfaWQgZGVsIGNvbmNlCi8vICAgICAgICAkdGhpcy0+ZXhlY3V0ZSgKLy8gICAgICAgICAgICAidXBkYXRlIHNlYXJjaF9wcm92aW5jZSBzZXQgY2l0eV9pZCA9IDM4MjU1IHdoZXJlIGlkID0gMTAzOyIKLy8gICAgICAgICk7Ci8vCi8vICAgICAgICAvLyBPdHJvIGNhc28gcmFybzogRXN0YSBlbnRyYWRhIGRlIHNlYXJjaF9wcm92aW5jZSBubyB0aWVuZSBlbnRyYWRhIHJlbGFjaW9uYWRhCi8vICAgICAgICAvLyBlbiBleHRlcm5hbF9kZWFsZXJzaGlwCi8vICAgICAgICAkdGhpcy0+ZXhlY3V0ZSgKLy8gICAgICAgICAgICAiZGVsZXRlIGZyb20gc2VhcmNoX3Byb3ZpbmNlIHdoZXJlIGlkID0gMzA7IgovLyAgICAgICAgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kIGwucHJvdmluY2lhX2lkID0gc3AucHJvdmluY2VfaWQK</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzIHVwKCkgbWlncmF0aW9uIGlzIGF1dG8tZ2VuZXJhdGVkLCBwbGVhc2UgbW9kaWZ5IGl0IHRvIHlvdXIgbmVlZHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbm5lciBqb2luIGxvY2FsaWRhZCBsIG9uIGMubG9jYWxpZGFkX2lkID0gbC5pZAo=</text>
+        <text encoding="base64">LyoqCiAqIEF1dG8tZ2VuZXJhdGVkIE1pZ3JhdGlvbjogUGxlYXNlIG1vZGlmeSB0byB5b3VyIG5lZWRzIQogKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZSBzZWFyY2hfcHJvdmluY2U7Cg==</text>
+        <text encoding="base64">LyoqCiAqIENsYXNzIFVzZXIKICogQHBhY2thZ2UgTGF2ZWd1aVxTaG9wYVxBcHBcQXBpXEFjdGlvblxBdXRoCiAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgkvKgoJLy8gVXNlIHNhZmVVcC9zYWZlRG93biB0byBkbyBtaWdyYXRpb24gd2l0aCB0cmFuc2FjdGlvbgoJcHVibGljIGZ1bmN0aW9uIHNhZmVVcCgpCgl7Cgl9CgoJcHVibGljIGZ1bmN0aW9uIHNhZmVEb3duKCkKCXsKCX0KCSovCg==</text>
+        <text encoding="base64">Ci8vCSAgICAvLyBDYXNvIHJhcm86IGRvcyBlbnRyYWRhcyBlbiBzZWFyY2hfcHJvdmluY2UgY29uIGRvcyBwcm92aW5jaWFzIGRpc3RpbnRhcwovLyAgICAgICAgLy8gYXNvY2lhZG9zIGFsIG1pc21vIGNvbmNlLiBTZSBsZSBwb25lIGVsIGNpdHlfaWQgZGVsIGNvbmNlCi8vICAgICAgICAkdGhpcy0+ZXhlY3V0ZSgKLy8gICAgICAgICAgICAidXBkYXRlIHNlYXJjaF9wcm92aW5jZSBzZXQgY2l0eV9pZCA9IDM4MjU1IHdoZXJlIGlkID0gMTAzOyIKLy8gICAgICAgICk7Ci8vCi8vICAgICAgICAvLyBPdHJvIGNhc28gcmFybzogRXN0YSBlbnRyYWRhIGRlIHNlYXJjaF9wcm92aW5jZSBubyB0aWVuZSBlbnRyYWRhIHJlbGFjaW9uYWRhCi8vICAgICAgICAvLyBlbiBleHRlcm5hbF9kZWFsZXJzaGlwCi8vICAgICAgICAkdGhpcy0+ZXhlY3V0ZSgKLy8gICAgICAgICAgICAiZGVsZXRlIGZyb20gc2VhcmNoX3Byb3ZpbmNlIHdoZXJlIGlkID0gMzA7IgovLyAgICAgICAgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kIGwucHJvdmluY2lhX2lkID0gc3AucHJvdmluY2VfaWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbm5lciBqb2luIGxvY2FsaWRhZCBsIG9uIGMubG9jYWxpZGFkX2lkID0gbC5pZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZSBzZWFyY2hfcHJvdmluY2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIC92YXIvd3d3L2FwcHMvQXBpL2Jpbi9jb25zb2xlIGNhY2hlOmNsZWFyCg==</text>
+        <text encoding="base64">CgkvKgoJLy8gVXNlIHNhZmVVcC9zYWZlRG93biB0byBkbyBtaWdyYXRpb24gd2l0aCB0cmFuc2FjdGlvbgoJcHVibGljIGZ1bmN0aW9uIHNhZmVVcCgpCgl7Cgl9CgoJcHVibGljIGZ1bmN0aW9uIHNhZmVEb3duKCkKCXsKCX0KCSovCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
