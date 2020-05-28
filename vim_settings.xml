@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>multiprovince</entry>
         <entry>delete</entry>
         <entry encoding="base64">XDxfZ2V0V2lkZ2V0VGl0bGVcPg==</entry>
         <entry>price</entry>
@@ -27,6 +26,7 @@
         <entry>var\/cache</entry>
         <entry encoding="base64">XDxnZXRVc2VyUmVxdWVzdHNTdW1tYXJ5TGlzdFw+</entry>
         <entry encoding="base64">XDxtaWdyYXRpb25zXD4=</entry>
+        <entry encoding="base64">XDxfY3JlYXRlRW50aXR5TWFuYWdlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>89</entry>
@@ -111,20 +111,22 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/vendor/symfony/security-core/Encoder/PlaintextPasswordEncoder.php" timestamp="1590615981652">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/Province/mapping/DoctrineProvinceMapping.php" timestamp="1590679935152">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/Province/mapping/DoctrineProvinceMapping.php" timestamp="1590672105500">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="27" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/DoctrineShoppingGuideMapping.php" timestamp="1590680027322">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="51" />
+        <mark key="." line="5" column="50" />
+        <mark key="^" line="5" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/DoctrineShoppingGuideMapping.php" timestamp="1590673387668">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="14" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Projects/coches.com/generic/protected/dependencies/province.php" timestamp="1590678601981">
+        <mark key="'" line="21" column="23" />
+        <mark key="[" line="21" column="80" />
+        <mark key="]" line="21" column="80" />
+        <mark key="^" line="21" column="80" />
+        <mark key="." line="21" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/migrations/m200528_102354_create_shopping_guides_tables.php" timestamp="1590672957613">
         <mark key="[" line="18" column="0" />
@@ -132,22 +134,17 @@
         <mark key="^" line="17" column="12" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/DoctrineShoppingGuideSegmentRepository.php" timestamp="1590675595796">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="6" column="86" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/DoctrineShoppingGuideSegmentRepository.php" timestamp="1590678915559">
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="7" column="71" />
+        <mark key="." line="7" column="70" />
+        <mark key="^" line="7" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/DoctrineShoppingGuideSegmentMapping.php" timestamp="1590673384333">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="9" column="14" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/vendor/lexik/jwt-authentication-bundle/Security/Guard/JWTTokenAuthenticator.php" timestamp="1590616416869">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/DoctrineShoppingGuideSegmentMapping.php" timestamp="1590680016322">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="7" column="59" />
+        <mark key="^" line="7" column="59" />
+        <mark key="." line="7" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/ShoppingGuideMapping.php" timestamp="1590673347837">
         <mark key="'" line="40" column="6" />
@@ -159,7 +156,13 @@
       <file name="/Dummy.txt" timestamp="1590675227961">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/ShoppingGuide/infrastructure/ShoppingGuideSegmentRepository.php" timestamp="1590675305613">
+      <file name="$USER_HOME$/Projects/coches.com/src/infrastructure/persistence/doctrine/DoctrineMySQLEntityManagerFactory.php" timestamp="1590678787055">
+        <mark key="'" line="67" column="21" />
+      </file>
+      <file name="/fragment.php" timestamp="1590679459805">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/ShoppingGuide/infrastructure/ShoppingGuideSegmentRepository.php" timestamp="1590679324700">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="24" />
         <mark key="^" line="12" column="24" />
@@ -168,19 +171,10 @@
       <file name="/" timestamp="1590676964520">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/migrations/m200116_203507_create_table_ad_exports.php" timestamp="1590662745963">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/config/packages/security.yaml" timestamp="1590616144862">
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="7" column="56" />
-        <mark key="." line="7" column="55" />
-        <mark key="^" line="7" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/segment/Segment.php" timestamp="1590667558232">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="37" />
+      <file name="$USER_HOME$/Projects/coches.com/generic/protected/dependencies/shoppingGuide.php" timestamp="1590678881651">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/ShoppingGuide/ShoppingGuideSegment.php" timestamp="1590671956825" />
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/ShoppingGuide/ShoppingGuide.php" timestamp="1590674678449">
@@ -190,25 +184,22 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/ShoppingGuide/DoctrineShoppingGuideSegmentRepositoryTest.php" timestamp="1590677206751">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="5" column="73" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/Province/Repository/DoctrineProvinceRepository.php" timestamp="1590678671938">
+        <mark key="'" line="18" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/Province/repository/DoctrineProvinceRepositoryTest.php" timestamp="1590677197242">
+      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/ShoppingGuide/DoctrineShoppingGuideSegmentRepositoryTest.php" timestamp="1590679838858">
+        <mark key="[" line="38" column="46" />
+        <mark key="]" line="39" column="62" />
+        <mark key="." line="39" column="61" />
+        <mark key="^" line="39" column="62" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/Province/repository/DoctrineProvinceRepositoryTest.php" timestamp="1590679004172">
+        <mark key="'" line="38" column="66" />
         <mark key="[" line="24" column="45" />
         <mark key="]" line="24" column="75" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1027" column="35" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/AbstractSchemaManager.php" />
-      <jump line="339" column="4" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/apps/.phpunit/phpunit-7.5-0/src/Framework/TestCase.php" />
-      <jump line="103" column="13" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/apps/.phpunit/phpunit-7.5-0/src/Framework/TestCase.php" />
-      <jump line="32" column="0" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/src/Hi/Infrastructure/Query/DoctrineHiProviderTest.php" />
-      <jump line="41" column="0" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/src/Hi/Infrastructure/DoctrineDbalTestCase.php" />
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/src/Hi/Infrastructure/Query/DbalHiProviderTest.php" />
-      <jump line="23" column="0" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/src/Hi/Infrastructure/Query/DoctrineHiProvider.php" />
       <jump line="29" column="6" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/apps/Api/ApiTestCase.php" />
       <jump line="32" column="6" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/API/VN/AuthorisedDealer/VNAuthorisedDealerAPIController.php" />
       <jump line="71" column="111" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/views/material/VN/ResultsPreIndexCardVN/render_partial/_model_info_and_prices.php" />
@@ -302,51 +293,58 @@
       <jump line="34" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/ShoppingGuideMapping.php" />
       <jump line="40" column="6" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/ShoppingGuideMapping.php" />
       <jump line="15" column="20" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/ShoppingGuide/ShoppingGuide.php" />
+      <jump line="29" column="6" filename="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/Province/repository/DoctrineProvinceRepositoryTest.php" />
+      <jump line="104" column="0" filename="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/Province/repository/DoctrineProvinceRepositoryTest.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/Province/repository/DoctrineProvinceRepositoryTest.php" />
+      <jump line="21" column="23" filename="$USER_HOME$/Projects/coches.com/generic/protected/dependencies/province.php" />
+      <jump line="18" column="6" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/Province/Repository/DoctrineProvinceRepository.php" />
+      <jump line="67" column="21" filename="$USER_HOME$/Projects/coches.com/src/infrastructure/persistence/doctrine/DoctrineMySQLEntityManagerFactory.php" />
+      <jump line="38" column="66" filename="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/Province/repository/DoctrineProvinceRepositoryTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXFRlc3RzXERvY3RyaW5lVGVzdENhc2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>provincia</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>DoctrineTestCase</text>
+        <text>provincia</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtaWdyYXRpb25zXD4=</text>
+        <text encoding="base64">XDxfY3JlYXRlRW50aXR5TWFuYWdlclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>CcomTestCaseStorageInMemoryTest</text>
+      <register name="0" type="2">
+        <text encoding="base64">LyoqCiAqIEBEb2N0cmluZVxPUk1cTWFwcGluZ1xFbnRpdHkKICogQERvY3RyaW5lXE9STVxNYXBwaW5nXFRhYmxlKG5hbWU9InByb3ZpbmNpYSIpCiAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXFRlc3RzXERvY3RyaW5lVGVzdENhc2U7Cg==</text>
+        <text encoding="base64">ICogQ2xhc3MgRG9jdHJpbmVTaG9wcGluZ0d1aWRlTWFwcGluZwogKiBAcGFja2FnZSBjY29tXGNvY2hlc1xpbmZyYXN0cnVjdHVyZVxTaG9vcGluZ0d1aWRlXG1hcHBpbmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmluZFVuaXF1ZVNob3BwaW5nR3VpZGVMaXN0QnlTZWdtZW50SWRMaXN0KCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIENsYXNzIERvY3RyaW5lU2hvcHBpbmdHdWlkZVNlZ21lbnRSZXBvc2l0b3J5CiAqIEBwYWNrYWdlIGNjb21cY29jaGVzXGluZnJhc3RydWN0dXJlXFNob29waW5nR3VpZGUKICovCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSh0cnVlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIENsYXNzIERvY3RyaW5lU2hvcHBpbmdHdWlkZVNlZ21lbnRSZXBvc2l0b3J5VGVzdAogKiBAcGFja2FnZSBjY29tXGNvY2hlc1x0ZXN0c1xjb2NoZXNfeWlpXHNyY1xpbmZyYXN0cnVjdHVyZVxTaG9wcGluZ0d1aWRlCiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gVE9ETyhQYWJsbyk6IGVzdMOhIGJpZW4gZWwgbm9tYnJlPz8/Pwo=</text>
+        <text encoding="base64">ICAgICAgICAkY29ubmVjdGlvbiA9ICRtYW5hZ2VyLT5idWlsZChEb2N0cmluZU15U1FMRW50aXR5TWFuYWdlckZhY3Rvcnk6OkNPTk5FQ1RJT05fQ09DSEVTQ09NKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIENsYXNzIERvY3RyaW5lU2hvcHBpbmdHdWlkZVJlcG9zaXRvcnkKICovCg==</text>
+        <text encoding="base64">ICAgICAgICAkY29ubmVjdGlvbi0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIENsYXNzIFNob3BwaW5nR3VpZGVNYXBwaW5nCiAqIEBwYWNrYWdlIGNjb21cY29jaGVzXGluZnJhc3RydWN0dXJlXFNob29waW5nR3VpZGVcbWFwcGluZwogKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGMK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -355,13 +353,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtaWdyYXRpb25zXD4=</last-search>
+      <last-search encoding="base64">XDxfY3JlYXRlRW50aXR5TWFuYWdlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtaWdyYXRpb25zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfY3JlYXRlRW50aXR5TWFuYWdlclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>request.coches.com</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
