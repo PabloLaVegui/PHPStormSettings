@@ -100,23 +100,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/config/routes/routes.yaml" timestamp="1590614824156">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="6" column="26" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="6" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Action/Admin/Auth/GetUserTokenAction.php" timestamp="1590613855512">
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="15" column="44" />
-        <mark key="." line="15" column="43" />
-        <mark key="^" line="15" column="44" />
-      </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/ShoppingGuideSegmentMapping.php" timestamp="1590673361902">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="15" column="69" />
         <mark key="." line="15" column="68" />
         <mark key="^" line="15" column="69" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/ShoppingGuide/DoctrineShoppingGuideRepository.php" timestamp="1590674909519">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/vendor/symfony/security-core/Encoder/PlaintextPasswordEncoder.php" timestamp="1590615981652">
         <mark key="[" line="52" column="0" />
@@ -162,8 +155,14 @@
         <mark key="^" line="25" column="62" />
         <mark key="." line="25" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590672313708">
+      <file name="/Dummy.txt" timestamp="1590675227961">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/ShoppingGuide/infrastructure/ShoppingGuideSegmentRepository.php" timestamp="1590675305613">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="12" column="23" />
       </file>
       <file name="/" timestamp="1590667613021">
         <mark key="[" line="0" column="0" />
@@ -183,17 +182,17 @@
         <mark key="]" line="2" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/ShoppingGuide/ShoppingGuideSegment.php" timestamp="1590671956825" />
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/ShoppingGuide/ShoppingGuide.php" timestamp="1590668069282">
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/ShoppingGuide/ShoppingGuide.php" timestamp="1590674678449">
+        <mark key="'" line="15" column="20" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="22" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Action/Admin/Auth/User.php" timestamp="1590613481817">
-        <mark key="[" line="36" column="21" />
-        <mark key="]" line="36" column="25" />
-        <mark key="^" line="36" column="25" />
-        <mark key="." line="36" column="24" />
+      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/ShoppingGuide/DoctrineShoppingGuideSegmentRepositoryTest.php" timestamp="1590675073863">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/vendor/symfony/security-core/Encoder/SodiumPasswordEncoder.php" timestamp="1590615965926">
         <mark key="[" line="79" column="0" />
@@ -202,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="35" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/tests/src/Hi/Infrastructure/Query/DoctrineHiProviderTest.php" />
       <jump line="1027" column="35" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/AbstractSchemaManager.php" />
       <jump line="339" column="4" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/apps/.phpunit/phpunit-7.5-0/src/Framework/TestCase.php" />
       <jump line="103" column="13" filename="$USER_HOME$/Projects/lavegui/new-origen/shopa/apps/.phpunit/phpunit-7.5-0/src/Framework/TestCase.php" />
@@ -302,18 +300,19 @@
       <jump line="41" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Action/Admin/Auth/UserProvider.php" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/ShoppingGuideMapping.php" />
       <jump line="40" column="6" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/ShoppingGuideMapping.php" />
+      <jump line="15" column="20" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/ShoppingGuide/ShoppingGuide.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIENsYXNzIFNob3BwaW5nR3VpZGVNYXBwaW5nCiAqIEBwYWNrYWdlIGNjb21cY29jaGVzXGluZnJhc3RydWN0dXJlXFNob29waW5nR3VpZGVcbWFwcGluZwogKi8K</text>
+      <register name="&quot;" type="4">
+        <text>mixed</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>mixed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaWdyYXRpb25zXD4=</text>
@@ -322,31 +321,31 @@
         <text encoding="base64">ICAgICAqIEBEb2N0cmluZVxPUk1cTWFwcGluZ1xDb2x1bW4obmFtZT0iaWQiLCB0eXBlPSJzdHJpbmciCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENsYXNzIFNob3BwaW5nR3VpZGVNYXBwaW5nCiAqIEBwYWNrYWdlIGNjb21cY29jaGVzXGluZnJhc3RydWN0dXJlXFNob29waW5nR3VpZGVcbWFwcGluZwogKi8K</text>
+        <text encoding="base64">LyoqCiAqIENsYXNzIERvY3RyaW5lU2hvcHBpbmdHdWlkZVNlZ21lbnRSZXBvc2l0b3J5VGVzdAogKiBAcGFja2FnZSBjY29tXGNvY2hlc1x0ZXN0c1xjb2NoZXNfeWlpXHNyY1xpbmZyYXN0cnVjdHVyZVxTaG9wcGluZ0d1aWRlCiAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIENsYXNzIFNob3BwaW5nR3VpZGVTZWdtZW50TWFwcGluZwogKiBAcGFja2FnZSBjY29tXGNvY2hlc1xpbmZyYXN0cnVjdHVyZVxTaG9vcGluZ0d1aWRlXG1hcHBpbmcKICovCg==</text>
+        <text encoding="base64">Ly8gVE9ETyhQYWJsbyk6IGVzdMOhIGJpZW4gZWwgbm9tYnJlPz8/Pwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIENsYXNzIERvY3RyaW5lU2hvcHBpbmdHdWlkZVJlcG9zaXRvcnkKICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdzaG9wcGluZ19ndWlkZV9pZCcgPT4gJ3N0cmluZyBOT1QgTlVMTCcsCiAgICAgICAgICAgICAgICAnc2VnbWVudF9pZCcgPT4gJ3N0cmluZyBOT1QgTlVMTCcsCiAgICAgICAgICAgICAgICAnUFJJTUFSWSBLRVkgKGBzaG9wcGluZ19ndWlkZV9pZGAsIGBzZWdtZW50X2lkYCknLAogICAgICAgICAgICAgICAgJ0NPTlNUUkFJTlQgZmtfc2hvcHBpbmdfZ3VpZGUgRk9SRUlHTiBLRVkgKHNob3BwaW5nX2d1aWRlX2lkKSBSRUZFUkVOQ0VTIHNob3BwaW5nX2d1aWRlKGlkKSAKICAgICAgICAgICAgICAgICBPTiBVUERBVEUgQ0FTQ0FERSBPTiBERUxFVEUgQ0FTQ0FERScsCiAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">LyoqCiAqIENsYXNzIFNob3BwaW5nR3VpZGVNYXBwaW5nCiAqIEBwYWNrYWdlIGNjb21cY29jaGVzXGluZnJhc3RydWN0dXJlXFNob29waW5nR3VpZGVcbWFwcGluZwogKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICAgICAgJ3Nob3BwaW5nX2d1aWRlX3NlZ21lbnQnLAo=</text>
+        <text encoding="base64">LyoqCiAqIENsYXNzIFNob3BwaW5nR3VpZGVTZWdtZW50TWFwcGluZwogKiBAcGFja2FnZSBjY29tXGNvY2hlc1xpbmZyYXN0cnVjdHVyZVxTaG9vcGluZ0d1aWRlXG1hcHBpbmcKICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdzaG9wcGluZ19ndWlkZV9pZCcgPT4gJ3N0cmluZyBOT1QgTlVMTCcsCiAgICAgICAgICAgICAgICAnc2VnbWVudF9pZCcgPT4gJ3N0cmluZyBOT1QgTlVMTCcsCiAgICAgICAgICAgICAgICAnUFJJTUFSWSBLRVkgKGBzaG9wcGluZ19ndWlkZV9pZGAsIGBzZWdtZW50X2lkYCknLAogICAgICAgICAgICAgICAgJ0NPTlNUUkFJTlQgZmtfc2hvcHBpbmdfZ3VpZGUgRk9SRUlHTiBLRVkgKHNob3BwaW5nX2d1aWRlX2lkKSBSRUZFUkVOQ0VTIHNob3BwaW5nX2d1aWRlKGlkKSAKICAgICAgICAgICAgICAgICBPTiBVUERBVEUgQ0FTQ0FERSBPTiBERUxFVEUgQ0FTQ0FERScsCiAgICAgICAgICAgIF0sCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBtaXhlZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0SWQoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+aWQ7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIG1peGVkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUaXRsZSgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT50aXRsZTsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gbWl4ZWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldFVybCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT51cmw7CiAgICB9Cgo=</text>
+        <text encoding="base64">CSAgICAgICAgJ3Nob3BwaW5nX2d1aWRlX3NlZ21lbnQnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gbWl4ZWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldElkKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmlkOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBtaXhlZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0VGl0bGUoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+dGl0bGU7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIG1peGVkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRVcmwoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+dXJsOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
