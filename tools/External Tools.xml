@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="php-cs-fixer" description="php-cs-fixer" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/var/www/html/php-cs-fixer" />
+      <option name="PARAMETERS" value="fix --dry-run --diff -v" />
+      <option name="WORKING_DIRECTORY" value="/var/www/html" />
+    </exec>
+  </tool>
+</toolSet>
