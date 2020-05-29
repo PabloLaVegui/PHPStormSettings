@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxnZXRTaG9wcGluZ0d1aWRlc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>200</entry>
         <entry>169</entry>
         <entry>362</entry>
         <entry>waa</entry>
@@ -45,9 +44,10 @@
         <entry>vs</entry>
         <entry>40</entry>
         <entry>w</entry>
-        <entry>q</entry>
         <entry>wwa</entry>
         <entry>a</entry>
+        <entry>q</entry>
+        <entry>wa\</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -101,12 +101,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1590739793779" />
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/config/routes/routes.yaml" timestamp="1590687532596">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="10" />
-        <mark key="." line="1" column="9" />
-        <mark key="^" line="1" column="10" />
-      </file>
       <file name="/a.dummy" timestamp="1590744150544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,7 +142,11 @@
         <mark key="^" line="142" column="55" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/DoctrineShoppingGuideMapping.php" timestamp="1590733427294">
+      <file name="$USER_HOME$/Projects/coches.com/vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php" timestamp="1590746452874">
+        <mark key="'" line="174" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/DoctrineShoppingGuideMapping.php" timestamp="1590746464852">
+        <mark key="'" line="60" column="20" />
         <mark key="[" line="60" column="15" />
         <mark key="]" line="60" column="21" />
         <mark key="." line="60" column="20" />
@@ -161,12 +159,12 @@
         <mark key="^" line="74" column="32" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/DoctrineShoppingGuideSegmentRepository.php" timestamp="1590744365177">
-        <mark key="'" line="42" column="21" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="28" column="51" />
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/DoctrineShoppingGuideSegmentRepository.php" timestamp="1590754211992">
+        <mark key="'" line="34" column="21" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="23" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/DoctrineShoppingGuideSegmentMapping.php" timestamp="1590734199573">
         <mark key="[" line="19" column="53" />
@@ -202,16 +200,13 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/Province/repository/DoctrineProvinceRepositoryTest.php" timestamp="1590734614193">
-        <mark key="'" line="22" column="0" />
+      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/Province/repository/DoctrineProvinceRepositoryTest.php" timestamp="1590746470114">
+        <mark key="'" line="37" column="47" />
         <mark key="[" line="24" column="45" />
         <mark key="]" line="24" column="75" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="503" column="13" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
-      <jump line="747" column="23" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
-      <jump line="749" column="22" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
       <jump line="779" column="32" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
       <jump line="781" column="36" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
       <jump line="1065" column="19" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
@@ -309,18 +304,21 @@
       <jump line="34" column="28" filename="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Auth/DBALUserProvider.php" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/Province/repository/DoctrineProvinceRepositoryTest.php" />
       <jump line="49" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/DoctrineShoppingGuideSegmentRepository.php" />
+      <jump line="174" column="20" filename="$USER_HOME$/Projects/coches.com/vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php" />
+      <jump line="60" column="20" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/DoctrineShoppingGuideMapping.php" />
+      <jump line="37" column="47" filename="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/Province/repository/DoctrineProvinceRepositoryTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFsnZGtmanNka2Zqc2RrZmonXQo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBEb2N0cmluZVNob3BwaW5nR3VpZGVTZWdtZW50TWFwcGluZ1tdICRzZWdtZW50TWFwcGluZ0xpc3QKICAgICAqIEByZXR1cm4gU2hvcHBpbmdHdWlkZVtdCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gcmV0dXJuVW5pcXVlR3VpZGVzKGFycmF5ICRzZWdtZW50TWFwcGluZ0xpc3QpCiAgICB7CiAgICB9Cg==</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>cabrioShoppingGuide</text>
+        <text>segmentMappingList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRTaG9wcGluZ0d1aWRlc1w+</text>
@@ -329,31 +327,31 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0SW5MaXN0KCRjYWJyaW9TaG9wcGluZ0d1aWRlLCAkcmVzdWx0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFsnZGtmanNka2Zqc2RrZmonXQo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBEb2N0cmluZVNob3BwaW5nR3VpZGVTZWdtZW50TWFwcGluZ1tdICRzZWdtZW50TWFwcGluZ0xpc3QKICAgICAqIEByZXR1cm4gU2hvcHBpbmdHdWlkZVtdCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gcmV0dXJuVW5pcXVlR3VpZGVzKGFycmF5ICRzZWdtZW50TWFwcGluZ0xpc3QpCiAgICB7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJldHVyblVuaXF1ZUd1aWRlcygkbWFwcGluZ0xpc3QpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkb3RoZXIgPSBuZXcgU2hvcHBpbmdHdWlkZSgKICAgICAgICAgICAgJ3RoZS1iZXJsaWRlLWlkJywgJ3RoZSBiZXJsaW5hIHRpdGxlJywgJ3RoZS1iZXJsaW5hLXVybCcKICAgICAgICApOwogICAgICAgICR0aGlzLT5hc3NlcnRJbkxpc3QoJG90aGVyLCAkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIERvY3RyaW5lU2hvcHBpbmdHdWlkZVNlZ21lbnRNYXBwaW5nW10gJHNlZ21lbnRNYXBwaW5nTGlzdAogICAgICogQHJldHVybiBTaG9wcGluZ0d1aWRlW10KICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiByZXR1cm5VbmlxdWVHdWlkZXMoYXJyYXkgJHNlZ21lbnRNYXBwaW5nTGlzdCkKICAgIHsKICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5hc3NlcnRTYW1lU2hvcHBpbmdHdWlkZSgkYmVybGluYVNob3BwaW5nR3VpZGUsICRyZXN1bHRbMV0pOwovLyAgICAgICAgJHRoaXMtPmFzc2VydFNhbWVTaG9wcGluZ0d1aWRlKCRjYWJyaW9TaG9wcGluZ0d1aWRlLCAkcmVzdWx0WzBdKTsKLy8gICAgICAgICR0aGlzLT5hc3NlcnRDb250YWlucygkYmVybGluYVNob3BwaW5nR3VpZGUsICRyZXN1bHQpOwovLyAgICAgICAgJHRoaXMtPmFzc2VydENvbnRhaW5zKCRjYWJyaW9TaG9wcGluZ0d1aWRlLCAkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJldHVyblVuaXF1ZUd1aWRlcygkbWFwcGluZ0xpc3QpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmdldFVuaXF1ZUd1aWRlTGlzdCgKICAgICAgICAgICAgJHRoaXMtPmdldFNob3BwaW5nR3VpZGVzKCRzZWdtZW50TWFwcGluZ0xpc3QpCiAgICAgICAgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIGZvb1xmdW5jOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFNob3BwaW5nR3VpZGUgJGV4cGVjdGVkCiAgICAgKiBAcGFyYW0gU2hvcHBpbmdHdWlkZSAkYWN0dWFsCiAgICAgKiBAcmV0dXJuIGJvb2wKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBlcXVhbFNob3BwaW5nR3VpZGUoCiAgICAgICAgU2hvcHBpbmdHdWlkZSAkZXhwZWN0ZWQsCiAgICAgICAgU2hvcHBpbmdHdWlkZSAkYWN0dWFsCiAgICApIHsKICAgICAgICAkdGhpcy0+YXNzZXJ0U2FtZSgkZXhwZWN0ZWQtPmdldElkKCksICRhY3R1YWwtPmdldElkKCkpOwogICAgICAgICR0aGlzLT5hc3NlcnRTYW1lKCRleHBlY3RlZC0+Z2V0VGl0bGUoKSwgJGFjdHVhbC0+Z2V0VGl0bGUoKSk7CiAgICAgICAgJHRoaXMtPmFzc2VydFNhbWUoJGV4cGVjdGVkLT5nZXRVcmwoKSwgJGFjdHVhbC0+Z2V0VXJsKCkpOwogICAgfQo=</text>
+        <text encoding="base64">dXNlIGNjb21cY29jaGVzXGRvbWFpblxTaG9wcGluZ0d1aWRlXFNob3BwaW5nR3VpZGVTZWdtZW50Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Tm90RXF1YWxzKCQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsnZGtmanNka2Zqc2RrZmonXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
