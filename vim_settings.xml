@@ -104,12 +104,6 @@
       <file name="/a.dummy" timestamp="1590744150544">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/tests/apps/Api/HiResponseTest.php" timestamp="1590688245958">
-        <mark key="[" line="32" column="39" />
-        <mark key="]" line="32" column="40" />
-        <mark key="^" line="32" column="40" />
-        <mark key="." line="32" column="39" />
-      </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Migrations/src/Version20200525171811.php" timestamp="1590704652289">
         <mark key="'" line="33" column="21" />
         <mark key="[" line="59" column="37" />
@@ -152,12 +146,11 @@
         <mark key="." line="60" column="20" />
         <mark key="^" line="60" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Auth/DBALUserProvider.php" timestamp="1590707248568">
-        <mark key="'" line="34" column="28" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="74" column="32" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Auth/DBALUserProvider.php" timestamp="1590768787986">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="75" column="24" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/DoctrineShoppingGuideSegmentRepository.php" timestamp="1590754211992">
         <mark key="'" line="34" column="21" />
@@ -172,19 +165,24 @@
         <mark key="^" line="19" column="61" />
         <mark key="." line="19" column="60" />
       </file>
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile" timestamp="1590769096214">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="42" />
+        <mark key="." line="22" column="41" />
+        <mark key="^" line="22" column="42" />
+      </file>
       <file name="$USER_HOME$/Projects/coches.com/vendor/ottosmops/pdftotext/src/Extract.php" timestamp="1590739669729" />
       <file name="/fragment.php" timestamp="1590743993740">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Auth/User.php" timestamp="1590707150698">
-        <mark key="'" line="42" column="4" />
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="35" />
-        <mark key="." line="21" column="34" />
-        <mark key="^" line="21" column="35" />
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Auth/User.php" timestamp="1590768774264">
+        <mark key="'" line="50" column="4" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/README.md" timestamp="1590688690331">
-        <mark key="'" line="58" column="52" />
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/README.md" timestamp="1590769220657">
+        <mark key="'" line="78" column="0" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="52" column="56" />
       </file>
@@ -207,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="779" column="32" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
       <jump line="781" column="36" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
       <jump line="1065" column="19" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
       <jump line="1088" column="9" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
@@ -307,51 +304,52 @@
       <jump line="174" column="20" filename="$USER_HOME$/Projects/coches.com/vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php" />
       <jump line="60" column="20" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/DoctrineShoppingGuideMapping.php" />
       <jump line="37" column="47" filename="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/Province/repository/DoctrineProvinceRepositoryTest.php" />
+      <jump line="78" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBEb2N0cmluZVNob3BwaW5nR3VpZGVTZWdtZW50TWFwcGluZ1tdICRzZWdtZW50TWFwcGluZ0xpc3QKICAgICAqIEByZXR1cm4gU2hvcHBpbmdHdWlkZVtdCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gcmV0dXJuVW5pcXVlR3VpZGVzKGFycmF5ICRzZWdtZW50TWFwcGluZ0xpc3QpCiAgICB7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>131</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>segmentMappingList</text>
+        <text>131</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRTaG9wcGluZ0d1aWRlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0SW5MaXN0KCRjYWJyaW9TaG9wcGluZ0d1aWRlLCAkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXlfbWFwKAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBEb2N0cmluZVNob3BwaW5nR3VpZGVTZWdtZW50TWFwcGluZ1tdICRzZWdtZW50TWFwcGluZ0xpc3QKICAgICAqIEByZXR1cm4gU2hvcHBpbmdHdWlkZVtdCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gcmV0dXJuVW5pcXVlR3VpZGVzKGFycmF5ICRzZWdtZW50TWFwcGluZ0xpc3QpCiAgICB7CiAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCR1c2VyRGF0YSk7ZGllOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJldHVyblVuaXF1ZUd1aWRlcygkbWFwcGluZ0xpc3QpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCR1c2VyRGF0YSwgJHJvbGVMaXN0KTtkaWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIERvY3RyaW5lU2hvcHBpbmdHdWlkZVNlZ21lbnRNYXBwaW5nW10gJHNlZ21lbnRNYXBwaW5nTGlzdAogICAgICogQHJldHVybiBTaG9wcGluZ0d1aWRlW10KICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiByZXR1cm5VbmlxdWVHdWlkZXMoYXJyYXkgJHNlZ21lbnRNYXBwaW5nTGlzdCkKICAgIHsKICAgIH0KCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAyID09PSAkdGhpcy0+cm9sZSA/IFsnUk9MRV9BRE1JTiddIDogW107Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJldHVyblVuaXF1ZUd1aWRlcygkbWFwcGluZ0xpc3QpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCRhKTtkaWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmdldFVuaXF1ZUd1aWRlTGlzdCgKICAgICAgICAgICAgJHRoaXMtPmdldFNob3BwaW5nR3VpZGVzKCRzZWdtZW50TWFwcGluZ0xpc3QpCiAgICAgICAgKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICRhID0gYXJyYXlfbWFwKAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIGZvb1xmdW5jOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyhQYWJsbyk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIGNjb21cY29jaGVzXGRvbWFpblxTaG9wcGluZ0d1aWRlXFNob3BwaW5nR3VpZGVTZWdtZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFsnZGtmanNka2Zqc2RrZmonXQo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBEb2N0cmluZVNob3BwaW5nR3VpZGVTZWdtZW50TWFwcGluZ1tdICRzZWdtZW50TWFwcGluZ0xpc3QKICAgICAqIEByZXR1cm4gU2hvcHBpbmdHdWlkZVtdCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gcmV0dXJuVW5pcXVlR3VpZGVzKGFycmF5ICRzZWdtZW50TWFwcGluZ0xpc3QpCiAgICB7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJldHVyblVuaXF1ZUd1aWRlcygkbWFwcGluZ0xpc3QpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
