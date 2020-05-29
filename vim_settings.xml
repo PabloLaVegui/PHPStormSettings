@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0V2lkZ2V0VGl0bGVcPg==</entry>
         <entry>price</entry>
         <entry encoding="base64">XDxQSFBfVkVSU0lPTlw+</entry>
         <entry encoding="base64">XDxBUENVX1ZFUlNJT05cPg==</entry>
@@ -27,9 +26,9 @@
         <entry encoding="base64">XDxtaWdyYXRpb25zXD4=</entry>
         <entry encoding="base64">XDxfY3JlYXRlRW50aXR5TWFuYWdlclw+</entry>
         <entry>var_d</entry>
+        <entry encoding="base64">XDxnZXRTaG9wcGluZ0d1aWRlc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>.,.+4wa</entry>
         <entry>792</entry>
         <entry>200</entry>
         <entry>169</entry>
@@ -48,6 +47,7 @@
         <entry>40</entry>
         <entry>w</entry>
         <entry>q</entry>
+        <entry>wwa</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -100,47 +100,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1590739793779" />
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/config/routes/routes.yaml" timestamp="1590687532596">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="10" />
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Action/Admin/Auth/UserProvider.php" timestamp="1590686926574">
-        <mark key="'" line="11" column="29" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="75" column="5" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/DoctrineShoppingGuideMapping.php" timestamp="1590733427294">
-        <mark key="[" line="60" column="15" />
-        <mark key="]" line="60" column="21" />
-        <mark key="." line="60" column="20" />
-        <mark key="^" line="60" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Auth/DBALUserProvider.php" timestamp="1590707248568">
-        <mark key="'" line="34" column="28" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="74" column="32" />
-        <mark key="." line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/DoctrineShoppingGuideSegmentRepository.php" timestamp="1590733996937">
-        <mark key="[" line="17" column="74" />
-        <mark key="]" line="17" column="75" />
-        <mark key="." line="17" column="74" />
-        <mark key="^" line="17" column="75" />
-      </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/DoctrineShoppingGuideSegmentMapping.php" timestamp="1590734199573">
-        <mark key="[" line="19" column="53" />
-        <mark key="]" line="19" column="61" />
-        <mark key="^" line="19" column="61" />
-        <mark key="." line="19" column="60" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/.env" timestamp="1590686985262">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="/a.dummy" timestamp="1590744150544">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/tests/apps/Api/HiResponseTest.php" timestamp="1590688245958">
         <mark key="[" line="32" column="39" />
@@ -155,27 +123,10 @@
         <mark key="^" line="59" column="44" />
         <mark key="." line="59" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/config/services.yaml" timestamp="1590687469298">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Auth/User.php" timestamp="1590707150698">
-        <mark key="'" line="42" column="4" />
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="35" />
-        <mark key="." line="21" column="34" />
-        <mark key="^" line="21" column="35" />
-      </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/src/Shared/Value/Id.php" timestamp="1590688764886">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/README.md" timestamp="1590688690331">
-        <mark key="'" line="58" column="52" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="52" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/config/packages/security.yaml" timestamp="1590690831258">
         <mark key="'" line="20" column="0" />
@@ -191,6 +142,54 @@
         <mark key="^" line="73" column="68" />
         <mark key="." line="73" column="70" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/tests/DoctrineRepositoryFactory.php" timestamp="1590739723641">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="142" column="55" />
+        <mark key="." line="129" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/DoctrineShoppingGuideMapping.php" timestamp="1590733427294">
+        <mark key="[" line="60" column="15" />
+        <mark key="]" line="60" column="21" />
+        <mark key="." line="60" column="20" />
+        <mark key="^" line="60" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Auth/DBALUserProvider.php" timestamp="1590707248568">
+        <mark key="'" line="34" column="28" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="74" column="32" />
+        <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/DoctrineShoppingGuideSegmentRepository.php" timestamp="1590744365177">
+        <mark key="'" line="42" column="21" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="28" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/mapping/DoctrineShoppingGuideSegmentMapping.php" timestamp="1590734199573">
+        <mark key="[" line="19" column="53" />
+        <mark key="]" line="19" column="61" />
+        <mark key="^" line="19" column="61" />
+        <mark key="." line="19" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/vendor/ottosmops/pdftotext/src/Extract.php" timestamp="1590739669729" />
+      <file name="/fragment.php" timestamp="1590743993740">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Auth/User.php" timestamp="1590707150698">
+        <mark key="'" line="42" column="4" />
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="35" />
+        <mark key="." line="21" column="34" />
+        <mark key="^" line="21" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/README.md" timestamp="1590688690331">
+        <mark key="'" line="58" column="52" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="52" column="56" />
+      </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Auth/UserProvider.php" timestamp="1590690747827">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="12" column="6" />
@@ -198,33 +197,19 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/ShoppingGuide/DoctrineShoppingGuideSegmentRepositoryTest.php" timestamp="1590736511876">
-        <mark key="[" line="37" column="46" />
-        <mark key="]" line="37" column="47" />
-        <mark key="." line="37" column="46" />
-        <mark key="^" line="37" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Action/Admin/Auth/User.php" timestamp="1590686848777">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="52" column="5" />
-        <mark key="^" line="30" column="31" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/ShoppingGuide/DoctrineShoppingGuideSegmentRepositoryTest.php" timestamp="1590743999166">
+        <mark key="[" line="55" column="31" />
+        <mark key="]" line="55" column="50" />
+        <mark key="." line="55" column="49" />
+        <mark key="^" line="55" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/Province/repository/DoctrineProvinceRepositoryTest.php" timestamp="1590734614193">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="24" column="45" />
         <mark key="]" line="24" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/tests/DoctrineRepositoryFactory.php" timestamp="1590736459369">
-        <mark key="[" line="141" column="49" />
-        <mark key="]" line="143" column="55" />
-        <mark key="^" line="143" column="55" />
-        <mark key="." line="143" column="54" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="442" column="9" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
       <jump line="503" column="13" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
       <jump line="747" column="23" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
       <jump line="749" column="22" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/domain/renting/offer/RentingOffer.php" />
@@ -324,48 +309,49 @@
       <jump line="29" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Auth/DBALUserProvider.php" />
       <jump line="34" column="28" filename="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Auth/DBALUserProvider.php" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/Province/repository/DoctrineProvinceRepositoryTest.php" />
+      <jump line="49" column="21" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoopingGuide/DoctrineShoppingGuideSegmentRepository.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>berlina</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>berlina</text>
+        <text>array</text>
       </register>
       <register name="/" type="4">
-        <text>var_d</text>
+        <text encoding="base64">XDxnZXRTaG9wcGluZ0d1aWRlc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>Doctrine\ORM\Mapping\</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gU2hvcHBpbmdHdWlkZVtdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBEb2N0cmluZVNob3BwaW5nR3VpZGVNYXBwaW5nKAogICAgICAgICAgICAgICAgICAgICRzaG9wcGluZ0d1aWRlLT5nZXRJZCgpLAogICAgICAgICAgICAgICAgICAgICRzaG9wcGluZ0d1aWRlLT5nZXRUaXRsZSgpLAogICAgICAgICAgICAgICAgICAgICRzaG9wcGluZ0d1aWRlLT5nZXRVcmwoKQogICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9tYW5hZ2VyLT5mbHVzaCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIGNjb21cY29jaGVzXGRvbWFpblxTaG9wcGluZ0d1aWRlXFNob3BwaW5nR3VpZGVTZWdtZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGd1aWRlTGlzdDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogYWRkIGFub3RoZXIgZGlmZmVyZW50Pwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIGNjb21cY29jaGVzXGRvbWFpblxTaG9wcGluZ0d1aWRlXFNob3BwaW5nR3VpZGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkkbWFwcGluZy0+Z2V0U2hvcHBpbmdHdWlkZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcm9sZUxpc3QpO2RpZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKToK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXlfbWFwCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -377,12 +363,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>var_d</last-search>
+      <last-search encoding="base64">XDxnZXRTaG9wcGluZ0d1aWRlc1w+</last-search>
       <last-offset />
-      <last-pattern>var_d</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRTaG9wcGluZ0d1aWRlc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
