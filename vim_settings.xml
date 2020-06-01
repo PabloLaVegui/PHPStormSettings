@@ -139,9 +139,10 @@
         <mark key="." line="40" column="28" />
         <mark key="^" line="40" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/application/services/TrafficReport/ExtractTrafficReportDataServiceTest.php" timestamp="1591013993338">
-        <mark key="[" line="294" column="131" />
-        <mark key="]" line="294" column="177" />
+      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/application/services/TrafficReport/ExtractTrafficReportDataServiceTest.php" timestamp="1591017971562">
+        <mark key="'" line="293" column="23" />
+        <mark key="[" line="292" column="0" />
+        <mark key="]" line="296" column="9" />
         <mark key="^" line="294" column="177" />
         <mark key="." line="294" column="176" />
       </file>
@@ -150,9 +151,6 @@
         <mark key="]" line="4" column="32" />
         <mark key="." line="22" column="41" />
         <mark key="^" line="22" column="42" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590838133414">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/tests/apps/Auth/ApiTestCase.php" timestamp="1590860923893">
         <mark key="'" line="76" column="0" />
@@ -183,6 +181,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/application/useCases/TrafficReport/Api/FindTrafficReport/FindTrafficReportUseCaseTest.php" timestamp="1591018116621">
+        <mark key="[" line="225" column="41" />
+        <mark key="]" line="225" column="73" />
+        <mark key="^" line="225" column="73" />
+        <mark key="." line="225" column="72" />
+      </file>
       <file name="$USER_HOME$/Projects/eurotax.coches.com/Dockerfile" timestamp="1591005911149">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -196,7 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="46" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
       <jump line="51" column="43" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
       <jump line="53" column="10" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
       <jump line="55" column="46" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
@@ -296,51 +299,52 @@
       <jump line="56" column="30" filename="$USER_HOME$/Projects/coches.com/environments/.env.test" />
       <jump line="23" column="20" filename="$USER_HOME$/Projects/coches.com/environments/.env.test" />
       <jump line="79" column="28" filename="$USER_HOME$/Projects/coches.com/environments/.env.test" />
+      <jump line="293" column="23" filename="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/application/services/TrafficReport/ExtractTrafficReportDataServiceTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>aaaaaaaaaaaaa</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>aaaaaaaaaaaaa</text>
+        <text>new ExtractTrafficReportDataService(new Extract(), getenv('TMP_ABSOLUTE_PATH'));</text>
       </register>
       <register name="/" type="4">
         <text>tmp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VE1QX0FCU09MVVRFX1BBVEg9Ii90bXAvIgo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChCaW5hcnlOb3RGb3VuZCAkZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKAogICAgICAgICAgICAgICAgIllvdSBuZWVkIGluc3RhbGwgcG9wcGxlciBwYWNrYWdlLiBNYWM6ICckIGJyZXcgaW5zdGFsbCBwb3BwbGVyJy4gTGludXg6ICckIHN1ZG8gYXB0LWdldCBpbnN0YWxsIC15IHBvcHBsZXItdXRpbHMnLiBUT0RPOiBkZWphciBkZSBkZXBlbmRlciBkZWwgZXh0ZXJpb3IgcGFyYSBlc3RvcyB0ZXN0cyIKICAgICAgICAgICAgKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlQ2FzZSA9IG5ldyBFeHRyYWN0VHJhZmZpY1JlcG9ydERhdGFTZXJ2aWNlKG5ldyBFeHRyYWN0KCksIGdldGVudignVE1QX0FCU09MVVRFX1BBVEgnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VE1QX0FCU09MVVRFX1BBVEg9Ii90bXAvIgo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgRXh0cmFjdFRyYWZmaWNSZXBvcnREYXRhU2VydmljZShuZXcgRXh0cmFjdCgpLCBnZXRlbnYoJ1RNUF9BQlNPTFVURV9QQVRIJykpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCRxYi0+Z2V0UXVlcnkoKS0+Z2V0U1FMKCkpO2RpZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlQ2FzZSA9IG5ldyBFeHRyYWN0VHJhZmZpY1JlcG9ydERhdGFTZXJ2aWNlKG5ldyBFeHRyYWN0KCksIGdldGVudignVE1QX0FCU09MVVRFX1BBVEgnKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIGN1cmwgLXNTIGh0dHBzOi8vZ2V0LnN5bWZvbnkuY29tL2NsaS9pbnN0YWxsZXIgfCBiYXNoIFwKICAgICYmIG12IH4vLnN5bWZvbnkvYmluL3N5bWZvbnkgL3Vzci9sb2NhbC9iaW4vc3ltZm9ueQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">VE1QX0FCU09MVVRFX1BBVEg9Ii90bXAvIgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">I1BBU1NfREFUQV9CQVNFPWV1cm90YXhfcWEyCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCRxYi0+Z2V0UXVlcnkoKS0+Z2V0U1FMKCkpO2RpZTsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
