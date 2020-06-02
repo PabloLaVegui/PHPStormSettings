@@ -45,9 +45,9 @@
         <entry>wa\</entry>
         <entry>140</entry>
         <entry>30</entry>
-        <entry>qa</entry>
         <entry>vs</entry>
         <entry>wa</entry>
+        <entry>qa</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
@@ -100,23 +100,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1591011274288">
-        <mark key="'" line="150" column="29" />
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/GuzzleGatewayTestCase.php" timestamp="1591088597802">
-        <mark key="'" line="88" column="21" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="38" column="51" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/GuzzleRequestAPIUserVNPreferencesRepositoryTest.php" timestamp="1591088898263">
-        <mark key="[" line="233" column="19" />
-        <mark key="]" line="233" column="19" />
-        <mark key="." line="233" column="19" />
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="19" />
+        <mark key="." line="30" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/tests/apps/Auth/LoginTest.php" timestamp="1591034251283">
         <mark key="[" line="52" column="24" />
@@ -154,11 +141,11 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="105" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/CarInfoGatewayTest.php" timestamp="1591089050033">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="118" column="19" />
-        <mark key="]" line="118" column="19" />
-        <mark key="." line="118" column="19" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/VNRequestController.php" timestamp="1591093793464">
+        <mark key="[" line="338" column="0" />
+        <mark key="]" line="338" column="0" />
+        <mark key="^" line="315" column="34" />
+        <mark key="." line="338" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/ShoppingGuide/ShoppingGuideAPIController.php" timestamp="1591024383480">
         <mark key="[" line="47" column="0" />
@@ -197,7 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="8" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
       <jump line="126" column="34" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
       <jump line="119" column="15" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
       <jump line="100" column="12" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
@@ -297,18 +283,19 @@
       <jump line="66" column="55" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleShoppingGuideRepositoryTest.php" />
       <jump line="90" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleShoppingGuideRepositoryTest.php" />
       <jump line="51" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/CarInfoGatewayTest.php" />
+      <jump line="324" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/VNRequestController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c2VsZjo6TUVUSE9ELCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBNYWtlTW9kZWxSZXF1ZXN0Vk4gJG1ha2VNb2RlbFJlcXVlc3RWTiAqLwo=</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VsZjo6TUVUSE9ELCA=</text>
+        <text>array|</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -317,10 +304,10 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSBQSFBVbml0X0ZyYW1ld29ya19Nb2NrT2JqZWN0X01hdGNoZXJfSW52b2tlZENvdW50ICRleHBlY3RzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBNYWtlTW9kZWxSZXF1ZXN0Vk4gJG1ha2VNb2RlbFJlcXVlc3RWTiAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IE1FVEhPRCA9ICdyZXF1ZXN0JzsK</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBNYWtlTW9kZWxSZXF1ZXN0Vk4gW10gJG1ha2VNb2RlbFJlcXVlc3RWTkxpc3QKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBnZXRVbmlxdWVTZWdtZW50SWRMaXN0KGFycmF5ICRtYWtlTW9kZWxSZXF1ZXN0Vk5MaXN0KQogICAgewogICAgICAgICRzZWdtZW50SWRMaXN0ID0gW107CiAgICAgICAgLyoqIEB2YXIgTWFrZU1vZGVsUmVxdWVzdFZOICRtYWtlTW9kZWxSZXF1ZXN0Vk4gKi8KICAgICAgICBmb3JlYWNoICgkbWFrZU1vZGVsUmVxdWVzdFZOTGlzdCBhcyAkbWFrZU1vZGVsUmVxdWVzdFZOKSB7CiAgICAgICAgICAgICRzZWdtZW50SWRMaXN0ID0gYXJyYXlfbWVyZ2UoCiAgICAgICAgICAgICAgICAkc2VnbWVudElkTGlzdCwKICAgICAgICAgICAgICAgICRtYWtlTW9kZWxSZXF1ZXN0Vk4tPmdldFNlZ21lbnRJZExpc3QoKQogICAgICAgICAgICApOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGFycmF5X3VuaXF1ZSgkc2VnbWVudElkTGlzdCk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -329,16 +316,16 @@
         <text encoding="base64">ICAgIGNvbnN0IE1FVEhPRCA9ICdyZXF1ZXN0JzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIG1pem9uYVxkb21haW5cTW9kZWxzXENhclxTZWdtZW50Owp1c2UgbWl6b25hXGRvbWFpblxNb2RlbHNcQ2FyXENhclR5cGVJbmZvOwp1c2UgbWl6b25hXGRvbWFpblxNb2RlbHNcQ2FyXENhck1vZGVsSW5mbzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIG1pem9uYVxkb21haW5cTW9kZWxzXENhclxNYWtlOwp1c2UgbWl6b25hXGRvbWFpblxNb2RlbHNcQ2FyXFR5cGU7CnVzZSBtaXpvbmFcZG9tYWluXE1vZGVsc1xDYXJcTW9kZWw7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IE1FVEhPRCA9ICdyZXF1ZXN0JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">dXNlIG1pem9uYVxkb21haW5cTW9kZWxzXENhclxTZWdtZW50Owp1c2UgbWl6b25hXGRvbWFpblxNb2RlbHNcQ2FyXENhclR5cGVJbmZvOwp1c2UgbWl6b25hXGRvbWFpblxNb2RlbHNcQ2FyXENhck1vZGVsSW5mbzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">dXNlIG1pem9uYVxkb21haW5cTW9kZWxzXENhclxNYWtlOwp1c2UgbWl6b25hXGRvbWFpblxNb2RlbHNcQ2FyXFR5cGU7CnVzZSBtaXpvbmFcZG9tYWluXE1vZGVsc1xDYXJcTW9kZWw7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAqCg==</text>
