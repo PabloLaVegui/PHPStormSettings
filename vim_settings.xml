@@ -107,10 +107,16 @@
         <mark key="." line="20" column="34" />
         <mark key="^" line="20" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/GuzzleRequestAPIUserVNPreferencesRepositoryTest.php" timestamp="1591088898263">
-        <mark key="[" line="30" column="19" />
-        <mark key="]" line="30" column="19" />
-        <mark key="." line="30" column="19" />
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/config/infrastructure/services.yaml" timestamp="1591207420040">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/config/services_test.yaml" timestamp="1591208823137">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="32" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="11" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/doc/swagger.yaml" timestamp="1591181084555">
         <mark key="[" line="47" column="0" />
@@ -128,6 +134,12 @@
       <file name="/PHP Console" timestamp="1591198955974">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Auth/DBALUserProvider.php" timestamp="1591209226371">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+        <mark key="." line="23" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/VNRequestController.php" timestamp="1591105183719">
         <mark key="'" line="310" column="0" />
         <mark key="[" line="337" column="0" />
@@ -142,16 +154,15 @@
       <file name="/Dummy.txt" timestamp="1591193198222">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1591193265322">
+      <file name="/fragment.php" timestamp="1591208868341">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/UserVNOpportunity/FinderMakeModelRequestVNUseCaseTest.php" timestamp="1591096230444">
-        <mark key="'" line="272" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/config/services.yaml" timestamp="1591208819316">
+        <mark key="[" line="40" column="59" />
+        <mark key="]" line="40" column="65" />
+        <mark key="^" line="40" column="65" />
+        <mark key="." line="40" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Application/UseCases/UserVNOpportunity/FinderMakeModelRequestVNUseCase.php" timestamp="1591096102888" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ShoppingGuide/ShoppingGuide.php" timestamp="1591112868262">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -280,46 +291,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>$USER_HOME$/Projects/coches.com/</text>
+        <text>DBALUserProvider</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/Projects/coches.com/</text>
+        <text>DBALUserProvider</text>
       </register>
       <register name="/" type="4">
         <text>eurotax</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogICAgICBSdXRhIGFic29sdXRhIGRlbCBhcmNoaXZvIGNzdjoKICogICAgICAgICAgJCBjb2NoZXNfeWlpL3Byb3RlY3RlZC95aWljIHNob3BwaW5nZ3VpZGVtaWdyYXRpb24gaW5kZXggXAogKiAgICAgICAgICAgICAgIC0tcGF0aD0vVXNlcnMvcGFibG9ndXRpZXJyZXovUHJvamVjdHMvY29jaGVzLmNvbS9ldGMvY3N2L3Nob3BwaW5nLWd1aWRlcy5jc3YK</text>
+        <text encoding="base64">ICAgIExhdmVndWlcU2hvcGFcQXBwXEFwaVxBdXRoXFVzZXJQcm92aWRlcjoKICAgICAgICBjYWxsczoKICAgICAgICAgICAgLSBbc2V0Q29ubmVjdGlvbiwgWydARG9jdHJpbmVcREJBTFxDb25uZWN0aW9uJ11dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29ubmVjdGlvbiA9ICRjb25uZWN0aW9uOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEZJTEVfTkFNRSA9ICdzaG9wcGluZy1ndWlkZXMuY3N2JzsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNlIGNjb21cY29jaGVzXGRvbWFpblxleGNlcHRpb25cTm90Rm91bmRFeGNlcHRpb247Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgTm90Rm91bmRFeGNlcHRpb24K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgTm90Rm91bmRFeGNlcHRpb24K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlkOiB0aGUtaWQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IEZJTEVfTkFNRSA9ICdzaG9wcGluZy1ndWlkZXMuY3N2JzsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">dXNlIGNjb21cY29jaGVzXGRvbWFpblxleGNlcHRpb25cTm90Rm91bmRFeGNlcHRpb247Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgTm90Rm91bmRFeGNlcHRpb24K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiBib3JyYXIgc2kgbm8gaGFjZSBmYWx0YQogICAgLyoqCiAgICAgKiBAdmFyIHN0cmluZwogICAgICovCiAgICBwcml2YXRlICRhYnNvbHV0ZVBhdGggPSBfX0RJUl9fIC4gJy8uLi8uLi8uLi9ldGMvY3N2Lyc7Cg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgTm90Rm91bmRFeGNlcHRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgTm90Rm91bmRFeGNlcHRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
