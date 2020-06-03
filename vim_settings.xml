@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21wb3Nlclw+</entry>
         <entry encoding="base64">XDxoZWFsdGhjaGVja1w+</entry>
         <entry encoding="base64">XDxhcGlfcGxhdGZvcm1fcGhwXD4=</entry>
         <entry encoding="base64">XDxhcGlcPg==</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxHRVRfU0hPUFBJTkdfR1VJREVfVVJJXD4=</entry>
         <entry encoding="base64">XDxtb2NrXD4=</entry>
         <entry>class</entry>
+        <entry>eurotax</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -46,9 +46,9 @@
         <entry>30</entry>
         <entry>vs</entry>
         <entry>q</entry>
+        <entry>qa</entry>
         <entry>55</entry>
         <entry>wa</entry>
-        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -100,6 +100,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1591194138414">
+        <mark key="'" line="19" column="5" />
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="34" />
+        <mark key="^" line="20" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/GuzzleRequestAPIUserVNPreferencesRepositoryTest.php" timestamp="1591088898263">
         <mark key="[" line="30" column="19" />
         <mark key="]" line="30" column="19" />
@@ -118,14 +125,8 @@
         <mark key="^" line="54" column="31" />
         <mark key="." line="54" column="30" />
       </file>
-      <file name="/PHP Console" timestamp="1591177322699">
+      <file name="/PHP Console" timestamp="1591194151904">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Auth/DBALUserProvider.php" timestamp="1591036634221">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="24" column="80" />
-        <mark key="^" line="24" column="80" />
-        <mark key="." line="24" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleShoppingGuideRepositoryTest.php" timestamp="1591088750247">
         <mark key="'" line="90" column="0" />
@@ -141,7 +142,10 @@
         <mark key="^" line="333" column="23" />
         <mark key="." line="337" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1591100985858">
+      <file name="/Dummy.txt" timestamp="1591193198222">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.php" timestamp="1591193265322">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/UserVNOpportunity/FinderMakeModelRequestVNUseCaseTest.php" timestamp="1591096230444">
@@ -156,27 +160,19 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Repositories/GuzzleShoppingGuideRepository.php" timestamp="1591087620943">
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="16" column="49" />
-      </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ShoppingGuideMigrationCommand.php" timestamp="1591192882846" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/userVN/opportunity/partial/preferenceSection.twig" timestamp="1591105216406" />
       <file name="$USER_HOME$/Projects/coches.com/README.md" timestamp="1591176079927">
         <mark key="[" line="29" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/vendor/phpunit/phpunit/src/Framework/TestCase.php" timestamp="1591088458012">
-        <mark key="[" line="1832" column="15" />
-        <mark key="]" line="1832" column="63" />
+      <file name="$USER_HOME$/Projects/coches.com/src/infrastructure/Utils/CsvReader.php" timestamp="1591193748835">
+        <mark key="[" line="12" column="59" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="3" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="15" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
-      <jump line="114" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
-      <jump line="78" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
-      <jump line="72" column="9" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
-      <jump line="104" column="8" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
-      <jump line="128" column="9" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
-      <jump line="130" column="30" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
       <jump line="116" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod-from-api-platform" />
       <jump line="98" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod-from-api-platform" />
@@ -270,24 +266,31 @@
       <jump line="272" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/UserVNOpportunity/FinderMakeModelRequestVNUseCaseTest.php" />
       <jump line="309" column="5" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/VNRequestController.php" />
       <jump line="310" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/VNRequestController.php" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="55" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="70" column="20" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="78" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="86" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="95" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="19" column="5" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgICAgUXVlcnk6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>eurotax.local.tekis.coches.com</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;ccc&quot;,&quot;ddd&quot;</text>
+        <text>eurotax.local.tekis.coches.com</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text>eurotax</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBtb2RlbC1pZC1saXN0OiBbImFhYSIsImJiYiJdCiAgICAgICAgICAgICAgbW9kZWwtbmFtZS1saXN0OiBbImNjYyIsImRkZCJdCiAgICAgICAgICAgICAgbWFrZS1pZC1saXN0OiBbImVlZSIsImZmZiJdCiAgICAgICAgICAgICAgcHJvdmluY2UtaWQtbGlzdDogWyJnZ2ciLCJoaGhoIl0K</text>
+        <text encoding="base64">SE9TVF9FVVJPVEFYPSJodHRwOi8vZXVyb3RheC5sb2NhbC50ZWtpcy5jb2NoZXMuY29tIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyAgICAgICAgICAgICAgUXVlcnk6Cg==</text>
@@ -317,15 +320,15 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnRlbnQ6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>class</last-search>
+      <last-search>eurotax</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern>eurotax</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
       <last-dir>1</last-dir>
