@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>srv</entry>
-        <entry>migr</entry>
         <entry>composer</entry>
         <entry>var\/cache</entry>
         <entry encoding="base64">XDxnZXRVc2VyUmVxdWVzdHNTdW1tYXJ5TGlzdFw+</entry>
@@ -27,6 +25,8 @@
         <entry>config</entry>
         <entry encoding="base64">XDxBVVRIT1JJU0VEX0RFQUxFUl9WTlZPXD4=</entry>
         <entry>descuentos</entry>
+        <entry>admin</entry>
+        <entry>acceso</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
@@ -46,9 +46,9 @@
         <entry>55</entry>
         <entry>106</entry>
         <entry>qa</entry>
-        <entry>q</entry>
         <entry>264</entry>
         <entry>wa</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -100,46 +100,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1591194138414">
-        <mark key="'" line="19" column="5" />
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="20" column="35" />
-        <mark key="." line="20" column="34" />
-        <mark key="^" line="20" column="35" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/config/config.yaml" timestamp="1591278332473">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="35" column="31" />
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591193198222">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/config/infrastructure/services.yaml" timestamp="1591207420040">
         <mark key="[" line="4" column="2" />
         <mark key="]" line="4" column="25" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoppingGuide/DoctrineShoppingGuideRepository.php" timestamp="1591259468577">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1591260094548">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/make/repository/GuzzleMakeRepository.php" timestamp="1591260684430">
-        <mark key="[" line="89" column="42" />
-        <mark key="]" line="90" column="16" />
-        <mark key="." line="90" column="15" />
-        <mark key="^" line="90" column="16" />
-      </file>
-      <file name="/fragment.php" timestamp="1591284958421">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/views/wVNUserLoggedMenu.php" timestamp="1591277152139">
         <mark key="[" line="7" column="15" />
@@ -160,31 +133,7 @@
         <mark key="^" line="11" column="64" />
         <mark key="." line="11" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/config/services.yaml" timestamp="1591209891281">
-        <mark key="[" line="40" column="59" />
-        <mark key="]" line="40" column="65" />
-        <mark key="^" line="40" column="65" />
-        <mark key="." line="40" column="64" />
-      </file>
-      <file name="$USER_HOME$/Projects/coches.com/src/infrastructure/persistence/doctrine/DoctrineRepository.php" timestamp="1591259460718">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" timestamp="1591280835733" />
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" timestamp="1591278606144">
-        <mark key="'" line="410" column="4" />
-        <mark key="[" line="263" column="0" />
-        <mark key="]" line="263" column="54" />
-        <mark key="." line="758" column="79" />
-        <mark key="^" line="758" column="49" />
-      </file>
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ShoppingGuideMigrationCommand.php" timestamp="1591271944664">
-        <mark key="'" line="151" column="27" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
-      </file>
       <file name="/PHP Console" timestamp="1591285108327">
         <mark key="[" line="0" column="0" />
       </file>
@@ -198,6 +147,51 @@
         <mark key="[" line="671" column="0" />
         <mark key="]" line="671" column="80" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/ShoppingGuide/DoctrineShoppingGuideRepository.php" timestamp="1591259468577">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/make/repository/GuzzleMakeRepository.php" timestamp="1591260684430">
+        <mark key="[" line="89" column="42" />
+        <mark key="]" line="90" column="16" />
+        <mark key="." line="90" column="15" />
+        <mark key="^" line="90" column="16" />
+      </file>
+      <file name="/fragment.php" timestamp="1591284958421">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/config/services.yaml" timestamp="1591209891281">
+        <mark key="[" line="40" column="59" />
+        <mark key="]" line="40" column="65" />
+        <mark key="^" line="40" column="65" />
+        <mark key="." line="40" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/src/infrastructure/persistence/doctrine/DoctrineRepository.php" timestamp="1591259460718">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/identity/LoginController.php" timestamp="1591285507962" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" timestamp="1591278606144">
+        <mark key="'" line="410" column="4" />
+        <mark key="[" line="263" column="0" />
+        <mark key="]" line="263" column="54" />
+        <mark key="." line="758" column="79" />
+        <mark key="^" line="758" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ShoppingGuideMigrationCommand.php" timestamp="1591271944664">
+        <mark key="'" line="151" column="27" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" timestamp="1591285297569">
+        <mark key="'" line="112" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/coches.com/src/infrastructure/Utils/CsvReader.php" timestamp="1591198996757">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -205,10 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
-      <jump line="42" column="12" filename="$USER_HOME$/Projects/lavegui/shopa-api/Dockerfile-prod" />
-      <jump line="51" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/README.md" />
-      <jump line="79" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/README.md" />
       <jump line="149" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="423" column="19" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/DealerVNRequest/GuzzleUserRequestsSummaryRepositoryTest.php" />
       <jump line="236" column="28" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/DealerVNRequest/GuzzleUserRequestsSummaryRepositoryTest.php" />
@@ -305,6 +295,10 @@
       <jump line="40" column="23" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenuNEW.php" />
       <jump line="112" column="27" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenuNEW.php" />
       <jump line="76" column="13" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenuNEW.php" />
+      <jump line="38" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
+      <jump line="110" column="32" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
+      <jump line="111" column="32" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
+      <jump line="112" column="32" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,7 +313,7 @@
         <text>VNRequestRepository::class</text>
       </register>
       <register name="/" type="4">
-        <text>descuentos</text>
+        <text>acceso</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3Nob3dEaXNjb3VudHMnID0+ICR0aGlzLT5zaG93RGlzY291bnRzKCksCg==</text>
@@ -352,15 +346,15 @@
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>descuentos</last-search>
+      <last-search>acceso</last-search>
       <last-offset />
-      <last-pattern>descuentos</last-pattern>
+      <last-pattern>acceso</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
       <last-dir>1</last-dir>
