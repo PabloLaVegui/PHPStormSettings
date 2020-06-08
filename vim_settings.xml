@@ -42,13 +42,13 @@
         <entry>55</entry>
         <entry>106</entry>
         <entry>264</entry>
-        <entry>qa</entry>
         <entry>145</entry>
         <entry>wa\</entry>
         <entry>193</entry>
+        <entry>wa</entry>
+        <entry>qa</entry>
         <entry>vs</entry>
         <entry>q</entry>
-        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -148,12 +148,6 @@
         <mark key="]" line="7" column="31" />
         <mark key="." line="26" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Auth/FakeUserProvider.php" timestamp="1591468486530">
-        <mark key="[" line="20" column="52" />
-        <mark key="]" line="21" column="43" />
-        <mark key="." line="21" column="42" />
-        <mark key="^" line="21" column="43" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/centralMenu/views/wVNUserLoggedCentralMenuNEW.php" timestamp="1591601176664">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="31" />
@@ -187,6 +181,9 @@
         <mark key="." line="759" column="0" />
         <mark key="^" line="760" column="66" />
       </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/request/DoctrineRequestRepositoryTest.php" timestamp="1591627249406">
+        <mark key="'" line="37" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/centralMenu/WCentralMenu.php" timestamp="1591600927490">
         <mark key="'" line="36" column="71" />
         <mark key="[" line="192" column="0" />
@@ -204,13 +201,6 @@
         <mark key="." line="89" column="56" />
         <mark key="^" line="89" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" timestamp="1591625190737">
-        <mark key="'" line="694" column="20" />
-        <mark key="[" line="695" column="0" />
-        <mark key="]" line="695" column="0" />
-        <mark key="." line="695" column="0" />
-        <mark key="^" line="689" column="52" />
-      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/car/Make.php" timestamp="1591608390866">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="22" />
@@ -219,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="0" filename="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/Province/repository/DoctrineProvinceRepositoryTest.php" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/coches.com/tests/coches_yii/src/infrastructure/Province/repository/DoctrineProvinceRepositoryTest.php" />
       <jump line="21" column="23" filename="$USER_HOME$/Projects/coches.com/generic/protected/dependencies/province.php" />
       <jump line="18" column="6" filename="$USER_HOME$/Projects/coches.com/coches_yii/src/infrastructure/Province/Repository/DoctrineProvinceRepository.php" />
@@ -319,6 +308,7 @@
       <jump line="6" column="0" filename="$USER_HOME$/Projects/request.coches.com/tests/infrastructure/guzzle/car/EurotaxMakeReposotoryTest.php" />
       <jump line="69" column="55" filename="$USER_HOME$/Projects/request.coches.com/tests/infrastructure/guzzle/car/EurotaxMakeReposotoryTest.php" />
       <jump line="689" column="20" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
+      <jump line="37" column="4" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/request/DoctrineRequestRepositoryTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -366,7 +356,7 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhwZWN0RXhjZXB0aW9uKEludGVybmFsRXJyb3JFeGNlcHRpb246OmNsYXNzKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
