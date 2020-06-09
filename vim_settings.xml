@@ -105,9 +105,6 @@
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/config/config.yaml" timestamp="1591687667000">
         <mark key="[" line="34" column="0" />
-        <mark key="]" line="41" column="11" />
-        <mark key="." line="41" column="9" />
-        <mark key="^" line="41" column="10" />
       </file>
       <file name="/Dummy.txt" timestamp="1591699404494">
         <mark key="[" line="0" column="0" />
@@ -126,10 +123,10 @@
         <mark key="." line="42" column="40" />
         <mark key="^" line="4" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/UserVNPreferencesController.php" timestamp="1591704606526">
+      <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/UserVNPreferencesController.php" timestamp="1591710728379">
         <mark key="'" line="61" column="15" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="42" />
+        <mark key="[" line="61" column="15" />
+        <mark key="]" line="61" column="42" />
         <mark key="^" line="38" column="46" />
         <mark key="." line="38" column="45" />
       </file>
@@ -157,8 +154,12 @@
       <file name="/PHP Console" timestamp="1591697725206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/application/controller/UserVNPreferencesControllerTest.php" timestamp="1591708830163">
-        <mark key="[" line="38" column="45" />
+      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/application/controller/UserVNPreferencesControllerTest.php" timestamp="1591710801145">
+        <mark key="'" line="40" column="42" />
+        <mark key="[" line="55" column="48" />
+        <mark key="]" line="56" column="50" />
+        <mark key="^" line="56" column="50" />
+        <mark key="." line="56" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/tests/apps/Api/ApiDoctrineDbalTestCase.php" timestamp="1591640880342">
         <mark key="[" line="15" column="5" />
@@ -205,7 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/tests/apps/Auth/ApiTestCase.php" />
       <jump line="14" column="26" filename="$USER_HOME$/Projects/coches.com/environments/env.devel" />
       <jump line="79" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="183" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
@@ -305,24 +305,25 @@
       <jump line="703" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
       <jump line="399" column="35" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
       <jump line="701" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
+      <jump line="39" column="42" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/application/controller/UserVNPreferencesControllerTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAkY29udGFpbmVyLT5zZXQoJ0V1cm90YXhfQ2xpZW50Jywgc3RhdGljIGZ1bmN0aW9uIChDb250YWluZXJJbnRlcmZhY2UgJGNvbnRhaW5lcikgewogICAgICAgICRjb25maWcgPSAkY29udGFpbmVyLT5nZXQoJ2NvbmZpZycpOwoKICAgICAgICByZXR1cm4gbmV3IEd1enpsZUNsaWVudChbCiAgICAgICAgICAgICdiYXNlX3VyaScgPT4gJGNvbmZpZy0+Z2V0KCdBUElfRVVST1RBWF9CQVNFX1VSSScpLAogICAgICAgICAgICAndmVyaWZ5JyA9PiAnZGV2JyAhPT0gJGNvbmZpZy0+Z2V0KCdFTlZJUk9OTUVOVCcpLAogICAgICAgICAgICAnaGVhZGVycycgPT4gWwogICAgICAgICAgICAgICAgJ1gtQXBpLUtleScgPT4gJGNvbmZpZy0+Z2V0KCdBUElfRVVST1RBWF9BUElfS0VZJykKICAgICAgICAgICAgXSwKICAgICAgICBdKTsKICAgIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>UpdateUserVNPreferenceUseCase</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>UpdateUserVNPreferenceUseCase</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFdXJvdGF4X0NsaWVudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZjo6Z2V0QXJyYXlWYWx1ZSgnY3JlYXRlZEF0JywgJG9wdGlvbnMsIG5ldyBEYXRlKCkpLAo=</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIFVwZGF0ZVVzZXJWTlByZWZlcmVuY2VVc2VDYXNlfFBIUFVuaXRfRnJhbWV3b3JrX01vY2tPYmplY3RfTW9ja09iamVjdCAqLwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAkY29udGFpbmVyLT5zZXQoJ0V1cm90YXhfQ2xpZW50Jywgc3RhdGljIGZ1bmN0aW9uIChDb250YWluZXJJbnRlcmZhY2UgJGNvbnRhaW5lcikgewogICAgICAgICRjb25maWcgPSAkY29udGFpbmVyLT5nZXQoJ2NvbmZpZycpOwoKICAgICAgICByZXR1cm4gbmV3IEd1enpsZUNsaWVudChbCiAgICAgICAgICAgICdiYXNlX3VyaScgPT4gJGNvbmZpZy0+Z2V0KCdBUElfRVVST1RBWF9CQVNFX1VSSScpLAogICAgICAgICAgICAndmVyaWZ5JyA9PiAnZGV2JyAhPT0gJGNvbmZpZy0+Z2V0KCdFTlZJUk9OTUVOVCcpLAogICAgICAgICAgICAnaGVhZGVycycgPT4gWwogICAgICAgICAgICAgICAgJ1gtQXBpLUtleScgPT4gJGNvbmZpZy0+Z2V0KCdBUElfRVVST1RBWF9BUElfS0VZJykKICAgICAgICAgICAgXSwKICAgICAgICBdKTsKICAgIH0pOwo=</text>
