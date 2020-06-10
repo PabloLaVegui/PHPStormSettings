@@ -44,10 +44,10 @@
         <entry>wa\</entry>
         <entry>193</entry>
         <entry>qa</entry>
-        <entry>q</entry>
         <entry>vs</entry>
         <entry>43</entry>
         <entry>30</entry>
+        <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -100,22 +100,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/tests/apps/Api/Admin/AdminTestCase.php" timestamp="1591718662724">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="60" column="44" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/config/services_test.yaml" timestamp="1591723375658">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/tests/apps/Api/Auth/AdminLoginTest.php" timestamp="1591719280650">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/tests/src/Hi/Infrastructure/DoctrineDbalTestCase.php" timestamp="1591723768329">
         <mark key="[" line="13" column="45" />
@@ -123,34 +112,62 @@
         <mark key="^" line="19" column="12" />
         <mark key="." line="13" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/application/controller/UserVNPreferencesControllerTest.php" timestamp="1591710801145">
-        <mark key="'" line="40" column="42" />
-        <mark key="[" line="55" column="48" />
-        <mark key="]" line="56" column="50" />
-        <mark key="^" line="56" column="50" />
-        <mark key="." line="56" column="49" />
+      <file name="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" timestamp="1591796665728">
+        <mark key="'" line="142" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/src/infrastructure/guzzle/car/EurotaxMakeRepository.php" timestamp="1591800368514">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/tests/Functional/userVNPreferences/FindUserVnPreferencesFunctionalTest.php" timestamp="1591800525889">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="14" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/tests/apps/Api/ApiDoctrineDbalTestCase.php" timestamp="1591723685572">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/src/Hi/Domain/Infrastructure/Query/HiProvider.php" timestamp="1591722788992">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="53" />
+      <file name="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" timestamp="1591797044457">
+        <mark key="'" line="713" column="0" />
+        <mark key="[" line="402" column="0" />
+        <mark key="]" line="402" column="63" />
+        <mark key="." line="397" column="0" />
+        <mark key="^" line="424" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/userVNPreference/UserVNPreferenceCollection.php" timestamp="1591782947877">
+      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/userVNPreference/UserVNPreferenceCollection.php" timestamp="1591795071821">
         <mark key="'" line="215" column="0" />
-        <mark key="[" line="311" column="30" />
-        <mark key="]" line="312" column="21" />
-        <mark key="^" line="312" column="21" />
-        <mark key="." line="312" column="20" />
+        <mark key="[" line="298" column="14" />
+        <mark key="]" line="298" column="20" />
+        <mark key="^" line="298" column="20" />
+        <mark key="." line="298" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/src/application/settings.php" timestamp="1591796635302">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/vendor/phpunit/phpunit/src/Framework/TestCase.php" timestamp="1591799154358">
+        <mark key="[" line="293" column="0" />
+        <mark key="]" line="293" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/tests/fixture/UserVNPreferenceCollectionFixture.php" timestamp="1591781424476">
         <mark key="[" line="29" column="67" />
         <mark key="]" line="30" column="56" />
         <mark key="^" line="30" column="56" />
         <mark key="." line="30" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/tests/Functional/FunctionalBaseTestCase.php" timestamp="1591800519805">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="35" column="25" />
+        <mark key="]" line="36" column="25" />
+        <mark key="." line="36" column="24" />
+        <mark key="^" line="36" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/domain/useCase/userVNPreference/FindUserVNPreferenceUseCaseTest.php" timestamp="1591781150033">
         <mark key="'" line="60" column="14" />
@@ -159,25 +176,18 @@
         <mark key="." line="69" column="69" />
         <mark key="^" line="69" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/tests/apps/Api/HiResponseTest.php" timestamp="1591718387975">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="35" column="8" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/environments/.env" timestamp="1591774155676">
+      <file name="$USER_HOME$/Projects/request.coches.com/environments/.env" timestamp="1591797375568">
         <mark key="'" line="45" column="0" />
-        <mark key="[" line="46" column="58" />
-        <mark key="]" line="50" column="39" />
+        <mark key="[" line="45" column="21" />
+        <mark key="]" line="45" column="45" />
         <mark key="^" line="50" column="39" />
         <mark key="." line="50" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/vnPreference/FindUserVNPreferenceUseCase.php" timestamp="1591782856238">
+      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/vnPreference/FindUserVNPreferenceUseCase.php" timestamp="1591795007315">
         <mark key="'" line="4" column="79" />
-        <mark key="[" line="53" column="61" />
-        <mark key="]" line="53" column="62" />
-        <mark key="." line="53" column="61" />
-        <mark key="^" line="53" column="62" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/UserVNPreferencesController.php" timestamp="1591773291025">
         <mark key="'" line="61" column="15" />
@@ -186,16 +196,15 @@
         <mark key="^" line="38" column="46" />
         <mark key="." line="38" column="45" />
       </file>
-      <file name="/fragment.php" timestamp="1591782142244">
+      <file name="/fragment.php" timestamp="1591800466912">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Action/HiAction.php" timestamp="1591723104432">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/src/Hi/Infrastructure/Query/DoctrineHiProvider.php" timestamp="1591722683770">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="46" />
+      <file name="$USER_HOME$/Projects/request.coches.com/tests/config/dependencies.test.php" timestamp="1591800516938">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="76" column="8" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/tests/apps/Api/ApiTestCase.php" timestamp="1591724388037">
         <mark key="[" line="35" column="23" />
@@ -203,26 +212,15 @@
         <mark key="." line="35" column="23" />
         <mark key="^" line="35" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/domain/model/userVNPreference/UserVNPreferenceCollectionTest.php" timestamp="1591783366013">
+      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/domain/model/userVNPreference/UserVNPreferenceCollectionTest.php" timestamp="1591795598233">
         <mark key="'" line="127" column="35" />
-        <mark key="[" line="124" column="8" />
-        <mark key="]" line="124" column="32" />
-        <mark key="." line="124" column="31" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
         <mark key="^" line="124" column="32" />
+        <mark key="." line="132" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/GuzzleGatewayTestCase.php" />
-      <jump line="62" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleShoppingGuideRepositoryTest.php" />
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleShoppingGuideRepositoryTest.php" />
-      <jump line="41" column="63" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleShoppingGuideRepositoryTest.php" />
-      <jump line="66" column="55" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleShoppingGuideRepositoryTest.php" />
-      <jump line="90" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleShoppingGuideRepositoryTest.php" />
-      <jump line="51" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/CarInfoGatewayTest.php" />
-      <jump line="324" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/VNRequestController.php" />
-      <jump line="272" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/UserVNOpportunity/FinderMakeModelRequestVNUseCaseTest.php" />
-      <jump line="309" column="5" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/VNRequestController.php" />
-      <jump line="310" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/VNRequestController.php" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="55" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="70" column="20" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
@@ -312,51 +310,62 @@
       <jump line="260" column="16" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userVNPreference/UserVNPreferenceCollection.php" />
       <jump line="215" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userVNPreference/UserVNPreferenceCollection.php" />
       <jump line="127" column="35" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/domain/model/userVNPreference/UserVNPreferenceCollectionTest.php" />
+      <jump line="142" column="10" filename="$USER_HOME$/Projects/request.coches.com/src/application/routes.php" />
+      <jump line="18" column="34" filename="$USER_HOME$/Projects/request.coches.com/tests/config/dependencies.test.php" />
+      <jump line="80" column="0" filename="$USER_HOME$/Projects/request.coches.com/tests/config/dependencies.test.php" />
+      <jump line="75" column="0" filename="$USER_HOME$/Projects/request.coches.com/tests/config/dependencies.test.php" />
+      <jump line="34" column="0" filename="$USER_HOME$/Projects/request.coches.com/tests/config/dependencies.test.php" />
+      <jump line="43" column="64" filename="$USER_HOME$/Projects/request.coches.com/tests/config/dependencies.test.php" />
+      <jump line="74" column="0" filename="$USER_HOME$/Projects/request.coches.com/tests/config/dependencies.test.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/request.coches.com/tests/config/dependencies.test.php" />
+      <jump line="38" column="0" filename="$USER_HOME$/Projects/request.coches.com/tests/Functional/FunctionalBaseTestCase.php" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/request.coches.com/tests/Functional/userVNPreferences/FindUserVnPreferencesFunctionalTest.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/request.coches.com/tests/Functional/userVNPreferences/FindUserVnPreferencesFunctionalTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJlZmVyZW5jZUNvbGxlY3Rpb24gPSBVc2VyVk5QcmVmZXJlbmNlQ29sbGVjdGlvbkZpeHR1cmU6OmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">dXNlIEd1enpsZUh0dHBcVGVzdHNcUmluZ1xDbGllbnRcU2VydmVyOwo=</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J21ha2VMaXN0JyA9Pg==</text>
+        <text>mock</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IHNlbGYoCiAgICAgICAgICAgICRkYXRhWyd1c2VyX2lkJ10sCiAgICAgICAgICAgIG5ldyBUaW1lTGltaXQoJGRhdGFbJ3RpbWVfbGltaXQnXSksCiAgICAgICAgICAgIG5ldyBSZWFzb24oJGRhdGFbJ3JlYXNvbiddKSwKICAgICAgICAgICAgbmV3IERpc3BsYWNlbWVudCgkZGF0YVsnZGlzcGxhY2VtZW50J10pLAogICAgICAgICAgICAkZGF0YVsnbWF4X3ByaWNlJ10sCiAgICAgICAgICAgICRkYXRhWydhZGRpdGlvbmFsX2luZm8nXSwKICAgICAgICAgICAgbmV3IERhdGUoKSwKICAgICAgICAgICAgbmV3IERhdGUoKSwKICAgICAgICAgICAgW10KICAgICAgICApOwo=</text>
+      <register name="0" type="4">
+        <text>new Response(200, [], 'Hello, World')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJlZmVyZW5jZUNvbGxlY3Rpb24gPSBVc2VyVk5QcmVmZXJlbmNlQ29sbGVjdGlvbkZpeHR1cmU6OmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">dXNlIEd1enpsZUh0dHBcVGVzdHNcUmluZ1xDbGllbnRcU2VydmVyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBdKTsK</text>
+        <text encoding="base64">dXNlIEd1enpsZUh0dHBcQ2xpZW50Owp1c2UgR3V6emxlSHR0cFxIYW5kbGVyXE1vY2tIYW5kbGVyOwp1c2UgR3V6emxlSHR0cFxIYW5kbGVyU3RhY2s7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJlZmVyZW5jZUNvbGxlY3Rpb24gPSBVc2VyVk5QcmVmZXJlbmNlQ29sbGVjdGlvbkZpeHR1cmU6OmJ1aWxkKFsK</text>
+        <text encoding="base64">dXNlIEd1enpsZUh0dHBcSGFuZGxlclxNb2NrSGFuZGxlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW10K</text>
+        <text encoding="base64">Ly8gICAgLyoqIEB2YXIgYXJyYXkgKi8KLy8gICAgcHJvdGVjdGVkICRkYXRhOwovLwovLyAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoJG5hbWUgPSBudWxsLCBhcnJheSAkZGF0YSA9IFtdLCAkZGF0YU5hbWUgPSAnJykKLy8gICAgewovLyAgICAgICAgJHRoaXMtPmRhdGEgPSAkZGF0YTsKLy8gICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IERhdGUoKSwK</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCRuYW1lID0gbnVsbCwgYXJyYXkgJGRhdGEgPSBbXSwgJGRhdGFOYW1lID0gJycpCi8vICAgIHsKLy8gICAgICAgICRtb2NrID0gbmV3IE1vY2tIYW5kbGVyKFsKLy8gICAgICAgICAgICBuZXcgUmVzcG9uc2UoMjAwLCBbXSwgJ0hlbGxvLCBXb3JsZCcpLAovLyAgICAgICAgXSk7Ci8vCi8vLy8gICAgICAgICRoYW5kbGVyU3RhY2sgPSBIYW5kbGVyU3RhY2s6OmNyZWF0ZSgkbW9jayk7Ci8vLy8gICAgICAgICRndXp6bGVDbGllbnQgPSBuZXcgQ2xpZW50KFsKLy8vLy8vICAgICAgICAgICAgJ2Jhc2VfdXJpJyA9PiAnaHR0cDovL2xvY2FsaG9zdC8nLAovLy8vLy8gICAgICAgICAgICAndmVyaWZ5JyA9PiBmYWxzZSwKLy8vLyAgICAgICAgICAgICdoYW5kbGVyJyA9PiAkaGFuZGxlclN0YWNrLAovLy8vICAgICAgICBdKTsKLy8KLy8gICAgICAgIHBhcmVudDo6X19jb25zdHJ1Y3QobnVsbCwgWwovLyAgICAgICAgICAgICdldXJvdGF4TW9ja0hhbmRsZXInID0+ICRtb2NrLAovLyAgICAgICAgXSk7Ci8vICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IERhdGUoKSwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bW9jCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhdGFbJ2FkZGl0aW9uYWxfaW5mbyddLAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJ2h0dHA6Ly9sb2NhbGhvc3QvJyAuIHNlbGY6Ok1BS0VTX1VSSSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhdGFbJ21heF9wcmljZSddLAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAndmVyaWZ5JyA9PiBmYWxzZSwK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -371,7 +380,7 @@
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
