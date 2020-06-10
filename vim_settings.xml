@@ -37,7 +37,6 @@
         <entry>wwa</entry>
         <entry>a</entry>
         <entry>140</entry>
-        <entry>30</entry>
         <entry>55</entry>
         <entry>106</entry>
         <entry>264</entry>
@@ -48,6 +47,7 @@
         <entry>q</entry>
         <entry>vs</entry>
         <entry>43</entry>
+        <entry>30</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -173,6 +173,13 @@
         <mark key="^" line="35" column="8" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/environments/.env" timestamp="1591774155676">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="46" column="58" />
+        <mark key="]" line="50" column="39" />
+        <mark key="^" line="50" column="39" />
+        <mark key="." line="50" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/vnPreference/FindUserVNPreferenceUseCase.php" timestamp="1591703513664">
         <mark key="'" line="4" column="79" />
         <mark key="[" line="42" column="40" />
@@ -186,10 +193,6 @@
         <mark key="]" line="61" column="42" />
         <mark key="^" line="38" column="46" />
         <mark key="." line="38" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/infrastructure/car/MakeRepository.php" timestamp="1591698662455">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Action/HiAction.php" timestamp="1591723104432">
         <mark key="[" line="4" column="10" />
@@ -207,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="26" filename="$USER_HOME$/Projects/coches.com/environments/env.devel" />
       <jump line="79" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="183" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
@@ -307,6 +309,7 @@
       <jump line="399" column="35" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
       <jump line="701" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
       <jump line="39" column="42" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/application/controller/UserVNPreferencesControllerTest.php" />
+      <jump line="45" column="0" filename="$USER_HOME$/Projects/request.coches.com/environments/.env" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
