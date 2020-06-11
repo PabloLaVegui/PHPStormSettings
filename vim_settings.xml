@@ -99,7 +99,26 @@
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/docker-compose.yml" timestamp="1591876493014">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/migrations.yml" timestamp="1591876456251">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="40" />
+        <mark key="^" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/README.md" timestamp="1591875917856">
+        <mark key="[" line="25" column="68" />
+        <mark key="]" line="25" column="68" />
+        <mark key="^" line="25" column="68" />
+        <mark key="." line="25" column="67" />
+      </file>
+    </filemarks>
     <jumps>
       <jump line="79" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="183" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
@@ -205,47 +224,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>80</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyAgICBzbGltOgojICAgICAgICBpbWFnZTogcGhwOjcuNC1hbHBpbmUKIyAgICAgICAgd29ya2luZ19kaXI6IC92YXIvd3d3CiMgICAgICAgIGNvbW1hbmQ6IHBocCAtUyAwLjAuMC4wOjgwODAgLXQgcHVibGljCiMgICAgICAgIGVudmlyb25tZW50OgojICAgICAgICAgICAgZG9ja2VyOiAidHJ1ZSIKIyAgICAgICAgcG9ydHM6CiMgICAgICAgICAgICAtIDgwODA6ODA4MAojICAgICAgICB2b2x1bWVzOgojICAgICAgICAgICAgLSAuOi92YXIvd3d3CiMgICAgICAgICAgICAtIGxvZ3M6L3Zhci93d3cvbG9ncwojICAgICAgICBkZXBlbmRzX29uOgojICAgICAgICAgICAgLSBkYgo=</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>80</text>
+        <text>MyProject</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFdXJvdGF4X0NsaWVudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">bWlncmF0aW9uc19uYW1lc3BhY2U6ICJNeVByb2plY3RcXE1pZ3JhdGlvbnMiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICBzbGltOgojICAgICAgICBpbWFnZTogcGhwOjcuNC1hbHBpbmUKIyAgICAgICAgd29ya2luZ19kaXI6IC92YXIvd3d3CiMgICAgICAgIGNvbW1hbmQ6IHBocCAtUyAwLjAuMC4wOjgwODAgLXQgcHVibGljCiMgICAgICAgIGVudmlyb25tZW50OgojICAgICAgICAgICAgZG9ja2VyOiAidHJ1ZSIKIyAgICAgICAgcG9ydHM6CiMgICAgICAgICAgICAtIDgwODA6ODA4MAojICAgICAgICB2b2x1bWVzOgojICAgICAgICAgICAgLSAuOi92YXIvd3d3CiMgICAgICAgICAgICAtIGxvZ3M6L3Zhci93d3cvbG9ncwojICAgICAgICBkZXBlbmRzX29uOgojICAgICAgICAgICAgLSBkYgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YGBgCmRvY2tlciBidWlsZCAtdCBuaWtvbGFzIC4KYGBgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kOiBwaHAgLVMgMC4wLjAuMDo4MDgwIC10IHB1YmxpYwo=</text>
+        <text encoding="base64">YGBgCmRvY2tlciBidWlsZCAtdCBuaWtvbGFzIC4KYGBgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JraW5nX2RpcjogL3Zhci93d3cK</text>
+        <text encoding="base64">ICAgICAgICBjb21tYW5kOiBwaHAgLVMgMC4wLjAuMDo4MDgwIC10IHB1YmxpYwo=</text>
       </register>
       <register name="5" type="2">
-        <text>## Run for dev</text>
+        <text encoding="base64">ICAgICAgICB3b3JraW5nX2RpcjogL3Zhci93d3cK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJhdXRob3JzIjogWwogICAgICAgIHsKICAgICAgICAgICAgIm5hbWUiOiAiSm9zaCBMb2NraGFydCIsCiAgICAgICAgICAgICJlbWFpbCI6ICJpbmZvQGpvc2hsb2NraGFydC5jb20iLAogICAgICAgICAgICAiaG9tZXBhZ2UiOiAiaHR0cDovL3d3dy5qb3NobG9ja2hhcnQuY29tLyIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgIm5hbWUiOiAiUGllcnJlIEJlcnViZSIsCiAgICAgICAgICAgICJlbWFpbCI6ICJwaWVycmVAbGdzZS5jb20iLAogICAgICAgICAgICAiaG9tZXBhZ2UiOiAiaHR0cDovL3d3dy5sZ3NlLmNvbS8iCiAgICAgICAgfQogICAgXSwK</text>
+        <text>## Run for dev</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJsaWNlbnNlIjogIk1JVCIsCg==</text>
+        <text encoding="base64">ICAgICJhdXRob3JzIjogWwogICAgICAgIHsKICAgICAgICAgICAgIm5hbWUiOiAiSm9zaCBMb2NraGFydCIsCiAgICAgICAgICAgICJlbWFpbCI6ICJpbmZvQGpvc2hsb2NraGFydC5jb20iLAogICAgICAgICAgICAiaG9tZXBhZ2UiOiAiaHR0cDovL3d3dy5qb3NobG9ja2hhcnQuY29tLyIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgIm5hbWUiOiAiUGllcnJlIEJlcnViZSIsCiAgICAgICAgICAgICJlbWFpbCI6ICJwaWVycmVAbGdzZS5jb20iLAogICAgICAgICAgICAiaG9tZXBhZ2UiOiAiaHR0cDovL3d3dy5sZ3NlLmNvbS8iCiAgICAgICAgfQogICAgXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJob21lcGFnZSI6ICJodHRwOi8vZ2l0aHViLmNvbS9zbGltcGhwL1NsaW0tU2tlbGV0b24iLAo=</text>
+        <text encoding="base64">ICAgICJsaWNlbnNlIjogIk1JVCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJrZXl3b3JkcyI6IFsKICAgICAgICAibWljcm9mcmFtZXdvcmsiLAogICAgICAgICJyZXN0IiwKICAgICAgICAicm91dGVyIiwKICAgICAgICAicHNyNyIKICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICJob21lcGFnZSI6ICJodHRwOi8vZ2l0aHViLmNvbS9zbGltcGhwL1NsaW0tU2tlbGV0b24iLAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
