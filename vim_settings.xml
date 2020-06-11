@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxUTVBfQUJTT0xVVEVfUEFUSFw+</entry>
         <entry>tmp</entry>
         <entry encoding="base64">XDxHRVRfU0hPUFBJTkdfR1VJREVfVVJJXD4=</entry>
         <entry encoding="base64">XDxtb2NrXD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxGaW5kVXNlclZOUHJlZmVyZW5jZVVzZUNhc2VcPg==</entry>
         <entry encoding="base64">XDxNYWtlUmVwb3NpdG9yeVw+</entry>
         <entry encoding="base64">XDxFdXJvdGF4X0NsaWVudFw+</entry>
+        <entry>getConn</entry>
       </history-search>
       <history-cmd>
         <entry>447</entry>
@@ -100,11 +100,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Application/Actions/User/ListUsersAction.php" timestamp="1591888331212">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Team/Domain/Infrastructure/TeamRepository.php" timestamp="1591886658083">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="10" column="21" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/vendor/doctrine/dbal/lib/Doctrine/DBAL/DriverManager.php" timestamp="1591887103804">
+        <mark key="'" line="35" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Team/Infrastructure/DbalTeamRepository.php" timestamp="1591887644353">
+        <mark key="[" line="40" column="23" />
+        <mark key="]" line="40" column="30" />
+        <mark key="^" line="40" column="30" />
+        <mark key="." line="40" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/docker-compose.yml" timestamp="1591876493014">
         <mark key="[" line="16" column="23" />
@@ -112,11 +125,23 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/app/routes.php" timestamp="1591888386843">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="21" column="82" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/environment/.env" timestamp="1591884773377">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="15" />
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Team/Application/Action/ListTeamsAction.php" timestamp="1591888356980">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="22" column="47" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Migrations/Version20200611143555.php" timestamp="1591886385925">
         <mark key="[" line="31" column="5" />
@@ -153,13 +178,19 @@
         <mark key="]" line="5" column="16" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Team/Application/GetAllTeamsAction.php" timestamp="1591887746364">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Migrations/Version20200611132200.php" timestamp="1591882102123">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="^" line="40" column="34" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591886610110">
+      <file name="/Dummy.txt" timestamp="1591888092938">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/.gitignore" timestamp="1591884883093">
@@ -168,15 +199,14 @@
         <mark key="^" line="9" column="16" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Team/Domain/Team.php" timestamp="1591886600423">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="9" column="24" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Team/Domain/Team.php" timestamp="1591888302707">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="23" column="10" />
+        <mark key="." line="23" column="9" />
+        <mark key="^" line="23" column="10" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="183" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="179" column="28" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
@@ -276,51 +306,52 @@
       <jump line="701" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
       <jump line="39" column="42" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/application/controller/UserVNPreferencesControllerTest.php" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/cochescom/nikolas/README.md" />
+      <jump line="35" column="12" filename="$USER_HOME$/Projects/cochescom/nikolas/vendor/doctrine/dbal/lib/Doctrine/DBAL/DriverManager.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIENvY2hlc2NvbVxOaWtvbGFzXFRlYW1cQXBwbGljYXRpb25cR2V0QWxsVGVhbXNBY3Rpb247Cg==</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>GetAllTeamsAction</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFdXJvdGF4X0NsaWVudFw+</text>
+        <text>getConn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RyaW5nICRpZDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJlc3BvbmRXaXRoRGF0YSgkdXNlcnMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIENvY2hlc2NvbVxOaWtvbGFzXFRlYW1cQXBwbGljYXRpb25cR2V0QWxsVGVhbXNBY3Rpb247Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIENvY2hlc2NvbVxOaWtvbGFzXEFwcGxpY2F0aW9uXEFjdGlvbnNcVXNlclxWaWV3VXNlckFjdGlvbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIENvY2hlc2NvbVxOaWtvbGFzXEFwcGxpY2F0aW9uXEFjdGlvbnNcVXNlclxMaXN0VXNlcnNBY3Rpb247Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogTGlzdFRlYW1zQWN0aW9uIGNvbnN0cnVjdG9yLgogICAgICogQHBhcmFtIFRlYW1SZXBvc2l0b3J5ICRyZXBvc2l0b3J5CiAgICAgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIFRlYW0gY29uc3RydWN0b3IuCiAgICAgKiBAcGFyYW0gc3RyaW5nICRpZAogICAgICogQHBhcmFtIHN0cmluZyAkbmFtZQogICAgICovCg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0SWQoKTogc3RyaW5nCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5pZDsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0TmFtZSgpOiBzdHJpbmcKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPm5hbWU7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQganNvblNlcmlhbGl6ZSgpIG1ldGhvZC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgYWN0aW9uKCkgbWV0aG9kLgo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -329,12 +360,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxFdXJvdGF4X0NsaWVudFw+</last-search>
+      <last-search>getConn</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFdXJvdGF4X0NsaWVudFw+</last-pattern>
+      <last-pattern>getConn</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
