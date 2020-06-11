@@ -119,12 +119,6 @@
         <mark key="^" line="40" column="30" />
         <mark key="." line="40" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/docker-compose.yml" timestamp="1591876493014">
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/app/routes.php" timestamp="1591888386843">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -167,11 +161,17 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/migrations-db.php" timestamp="1591881352156">
-        <mark key="[" line="6" column="68" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/migrations-db.php" timestamp="1591889410393">
+        <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="16" />
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/public/index.php" timestamp="1591889447737">
+        <mark key="[" line="14" column="45" />
+        <mark key="]" line="14" column="48" />
+        <mark key="." line="14" column="47" />
+        <mark key="^" line="14" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/environment/env.dev" timestamp="1591884777703">
         <mark key="[" line="0" column="0" />
@@ -204,6 +204,11 @@
         <mark key="]" line="23" column="10" />
         <mark key="." line="23" column="9" />
         <mark key="^" line="23" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/app/dependencies.php" timestamp="1591889631835">
+        <mark key="[" line="44" column="39" />
+        <mark key="]" line="44" column="39" />
+        <mark key="." line="44" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -311,47 +316,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIENvY2hlc2NvbVxOaWtvbGFzXFRlYW1cQXBwbGljYXRpb25cR2V0QWxsVGVhbXNBY3Rpb247Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>GetAllTeamsAction</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>getConn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJlc3BvbmRXaXRoRGF0YSgkdXNlcnMpOwo=</text>
+        <text encoding="base64">JGRvdGVudiA9IERvdGVudjo6Y3JlYXRlSW1tdXRhYmxlKF9fRElSX18gLiAnL2Vudmlyb25tZW50JywgJy5lbnYnKTsKJGRvdGVudi0+bG9hZCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIENvY2hlc2NvbVxOaWtvbGFzXFRlYW1cQXBwbGljYXRpb25cR2V0QWxsVGVhbXNBY3Rpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIENvY2hlc2NvbVxOaWtvbGFzXEFwcGxpY2F0aW9uXEFjdGlvbnNcVXNlclxWaWV3VXNlckFjdGlvbjsK</text>
+        <text encoding="base64">Y29uc3Qgc3RyaW5nIERCQUxfQ09OTkVDVElPTiA9ICcnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIENvY2hlc2NvbVxOaWtvbGFzXEFwcGxpY2F0aW9uXEFjdGlvbnNcVXNlclxMaXN0VXNlcnNBY3Rpb247Cg==</text>
+        <text encoding="base64">Y29tcG9zZXIgcmVxdWlyZSBkb2N0cmluZS9kYmFsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogTGlzdFRlYW1zQWN0aW9uIGNvbnN0cnVjdG9yLgogICAgICogQHBhcmFtIFRlYW1SZXBvc2l0b3J5ICRyZXBvc2l0b3J5CiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdkcml2ZXInID0+ICQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0SWQoKTogc3RyaW5nCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5pZDsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0TmFtZSgpOiBzdHJpbmcKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPm5hbWU7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQganNvblNlcmlhbGl6ZSgpIG1ldGhvZC4K</text>
+        <text encoding="base64">dXNlIENvY2hlc2NvbVxOaWtvbGFzXFRlYW1cQXBwbGljYXRpb25cR2V0QWxsVGVhbXNBY3Rpb247Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIENvY2hlc2NvbVxOaWtvbGFzXEFwcGxpY2F0aW9uXEFjdGlvbnNcVXNlclxWaWV3VXNlckFjdGlvbjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgYWN0aW9uKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">dXNlIENvY2hlc2NvbVxOaWtvbGFzXEFwcGxpY2F0aW9uXEFjdGlvbnNcVXNlclxMaXN0VXNlcnNBY3Rpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
