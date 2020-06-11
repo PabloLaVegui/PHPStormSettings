@@ -44,10 +44,10 @@
         <entry>wa\</entry>
         <entry>193</entry>
         <entry>43</entry>
-        <entry>qa</entry>
         <entry>vs</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>qa</entry>
+        <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -100,6 +100,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Team/Domain/Infrastructure/TeamRepository.php" timestamp="1591886658083">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/docker-compose.yml" timestamp="1591876493014">
         <mark key="[" line="16" column="23" />
         <mark key="]" line="17" column="0" />
@@ -112,17 +118,29 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Migrations/Version20200611143555.php" timestamp="1591886385925">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="32" column="42" />
+        <mark key="^" line="32" column="42" />
+        <mark key="." line="32" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/migrations.yml" timestamp="1591877800502">
         <mark key="[" line="7" column="38" />
         <mark key="]" line="7" column="39" />
         <mark key="." line="7" column="38" />
         <mark key="^" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/README.md" timestamp="1591885043153">
-        <mark key="[" line="31" column="34" />
-        <mark key="]" line="31" column="39" />
-        <mark key="^" line="31" column="39" />
-        <mark key="." line="31" column="38" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Migrations/Version20200611143122.php" timestamp="1591886073579">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="38" />
+        <mark key="^" line="27" column="38" />
+        <mark key="." line="27" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/README.md" timestamp="1591885802351">
+        <mark key="[" line="48" column="66" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/migrations-db.php" timestamp="1591881352156">
         <mark key="[" line="6" column="68" />
@@ -141,11 +159,20 @@
         <mark key="^" line="40" column="34" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1591886610110">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/.gitignore" timestamp="1591884883093">
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="16" />
         <mark key="^" line="9" column="16" />
         <mark key="." line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Team/Domain/Team.php" timestamp="1591886600423">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="9" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -253,47 +280,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFdXJvdGF4X0NsaWVudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RyaW5nICRpZDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">L3Zhci9jYWNoZS8KL3Zhci9teXNxbC8qCiEvdmFyL215c3FsL3NxbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IS92YXIvbXlzcWwvc3FsL25pa29uaWtvX2JhY2t1cC0yMDIwMDYxMS5zcWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IS92YXIvbXlzcWwvc3FsL25pa29uaWtvX2JhY2t1cC0yMDIwMDYxMS5zcWwK</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IS92YXIvbXlzcWwvc3FsLyoqCg==</text>
+        <text encoding="base64">ICAgICAqIFRlYW0gY29uc3RydWN0b3IuCiAgICAgKiBAcGFyYW0gc3RyaW5nICRpZAogICAgICogQHBhcmFtIHN0cmluZyAkbmFtZQogICAgICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">L3Zhci8qKgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyEvdmFyL215c3FsL3NxbAo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Iy92YXIvbXlzcWwvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
