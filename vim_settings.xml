@@ -29,7 +29,6 @@
         <entry>getConn</entry>
       </history-search>
       <history-cmd>
-        <entry>447</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>wq</entry>
         <entry>40</entry>
@@ -45,9 +44,10 @@
         <entry>193</entry>
         <entry>43</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>qa</entry>
         <entry>q</entry>
+        <entry>58</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -104,15 +104,6 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Team/Domain/Infrastructure/TeamRepository.php" timestamp="1591886658083">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="10" column="21" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/vendor/doctrine/dbal/lib/Doctrine/DBAL/DriverManager.php" timestamp="1591887103804">
-        <mark key="'" line="35" column="12" />
-      </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Team/Infrastructure/DbalTeamRepository.php" timestamp="1591943901468">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="64" />
@@ -125,23 +116,29 @@
         <mark key="^" line="33" column="41" />
         <mark key="." line="33" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/app/routes.php" timestamp="1591888386843">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="21" column="82" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Query/Domain/Vote.php" timestamp="1591952314529">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Domain/VoteDateGroup.php" timestamp="1591946753985">
-        <mark key="[" line="18" column="48" />
-        <mark key="]" line="18" column="54" />
-        <mark key="^" line="18" column="54" />
-        <mark key="." line="18" column="53" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/app/routes.php" timestamp="1591952454974">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Domain/Application/Action/ListVotesAction.php" timestamp="1591946905618">
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="26" />
-        <mark key="." line="27" column="25" />
-        <mark key="^" line="27" column="26" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Domain/VoteDateGroup.php" timestamp="1591951784557">
+        <mark key="[" line="30" column="9" />
+        <mark key="]" line="30" column="10" />
+        <mark key="^" line="30" column="10" />
+        <mark key="." line="30" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Domain/Application/Action/ListVotesAction.php" timestamp="1591950503380">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="20" />
+        <mark key="." line="21" column="20" />
+        <mark key="^" line="21" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Domain/VoteCollection.php" timestamp="1591945085668">
         <mark key="[" line="5" column="32" />
@@ -149,11 +146,11 @@
         <mark key="^" line="5" column="49" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Domain/Vote.php" timestamp="1591944960532">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="11" column="28" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Domain/Vote.php" timestamp="1591951838189">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="22" column="40" />
+        <mark key="^" line="22" column="40" />
+        <mark key="." line="22" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Team/Application/Action/ListTeamsAction.php" timestamp="1591888356980">
         <mark key="[" line="17" column="0" />
@@ -161,17 +158,23 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Domain/Infrastructure/VoteRepository.php" timestamp="1591946802042">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="14" column="30" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Domain/Infrastructure/VoteRepository.php" timestamp="1591950643742">
+        <mark key="[" line="21" column="1" />
+        <mark key="]" line="21" column="1" />
+        <mark key="." line="21" column="1" />
+        <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Migrations/Version20200611143555.php" timestamp="1591886385925">
-        <mark key="[" line="31" column="5" />
-        <mark key="]" line="32" column="42" />
-        <mark key="^" line="32" column="42" />
-        <mark key="." line="32" column="41" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Query/Domain/Infrastructure/VoteRepository.php" timestamp="1591952406297">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Query/Domain/Application/Action/ListVotesAction.php" timestamp="1591952432392">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/migrations-db.php" timestamp="1591889410393">
         <mark key="[" line="6" column="0" />
@@ -185,38 +188,34 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Team/Application/GetAllTeamsAction.php" timestamp="1591887746364">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="1" column="24" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Query/Domain/VoteDateGroup.php" timestamp="1591952325101">
+        <mark key="[" line="3" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591946496968">
+      <file name="/Dummy.txt" timestamp="1591952272549">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Team/Domain/Team.php" timestamp="1591888302707">
-        <mark key="[" line="23" column="9" />
-        <mark key="]" line="23" column="10" />
-        <mark key="." line="23" column="9" />
-        <mark key="^" line="23" column="10" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Infrastructure/DbalVoteRepository.php" timestamp="1591951650614">
+        <mark key="'" line="59" column="6" />
+        <mark key="[" line="52" column="15" />
+        <mark key="]" line="52" column="15" />
+        <mark key="." line="52" column="15" />
+        <mark key="^" line="81" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Infrastructure/DbalVoteRepository.php" timestamp="1591946859231">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="51" column="30" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Query/Infrastructure/DbalVoteRepository.php" timestamp="1591952379736">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="33" />
+        <mark key="^" line="7" column="33" />
+        <mark key="." line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/app/dependencies.php" timestamp="1591889631835">
-        <mark key="[" line="44" column="39" />
-        <mark key="]" line="44" column="39" />
-        <mark key="." line="44" column="39" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/app/dependencies.php" timestamp="1591952476809">
+        <mark key="'" line="55" column="9" />
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="33" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
-      <jump line="26" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
-      <jump line="179" column="28" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
-      <jump line="150" column="29" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="56" column="30" filename="$USER_HOME$/Projects/coches.com/environments/.env.test" />
       <jump line="23" column="20" filename="$USER_HOME$/Projects/coches.com/environments/.env.test" />
       <jump line="79" column="28" filename="$USER_HOME$/Projects/coches.com/environments/.env.test" />
@@ -313,51 +312,55 @@
       <jump line="39" column="42" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/application/controller/UserVNPreferencesControllerTest.php" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/cochescom/nikolas/README.md" />
       <jump line="35" column="12" filename="$USER_HOME$/Projects/cochescom/nikolas/vendor/doctrine/dbal/lib/Doctrine/DBAL/DriverManager.php" />
+      <jump line="13" column="9" filename="$USER_HOME$/Projects/cochescom/nikolas/app/dependencies.php" />
+      <jump line="63" column="83" filename="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Infrastructure/DbalVoteRepository.php" />
+      <jump line="59" column="6" filename="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Infrastructure/DbalVoteRepository.php" />
+      <jump line="55" column="9" filename="$USER_HOME$/Projects/cochescom/nikolas/app/dependencies.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Q29sbGVjdGlvbiA9ICR0aGlzLT5yZXBvc2l0b3J5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQganNvblNlcmlhbGl6ZSgpIG1ldGhvZC4K</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q29sbGVjdGlvbiA9ICR0aGlzLT5yZXBvc2l0b3J5</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>getConn</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkaW5pdCA9IG5ldyBEYXRlVGltZSgkcXVlcnlQYXJhbXNbJ2luaXREYXRlJ10pOwo=</text>
+      <register name="0" type="4">
+        <text>$dateGroupList[$formattedDate]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFZvdGVDb2xsZWN0aW9uKCR0aGlzLT5nZXRWb3RlTGlzdCgkdm90ZXNEYXRhKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQganNvblNlcmlhbGl6ZSgpIG1ldGhvZC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBhcnJheSAkdm90ZXNEYXRhCiAgICAgKiBAcmV0dXJuIFZvdGVbXQogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldFZvdGVMaXN0KGFycmF5ICR2b3Rlc0RhdGEpOiBhcnJheQogICAgewogICAgICAgIHJldHVybiBhcnJheV9tYXAoCiAgICAgICAgICAgIGZuIChhcnJheSAkcm93RGF0YSkgPT4gbmV3IFZvdGUoCiAgICAgICAgICAgICAgICAkcm93RGF0YVsndm90ZSddLAogICAgICAgICAgICAgICAgJHJvd0RhdGFbJ2RhdGUnXSwKICAgICAgICAgICAgICAgICRyb3dEYXRhWydjb21tZW50J10sCiAgICAgICAgICAgICksCiAgICAgICAgICAgICR2b3Rlc0RhdGEKICAgICAgICApOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQganNvblNlcmlhbGl6ZSgpIG1ldGhvZC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIENvY2hlc2NvbVxOaWtvbGFzXFZvdGVcRG9tYWluXFZvdGVDb2xsZWN0aW9uOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHByaW50X3IoJHZvdGVzRGF0YSk7ZGllOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIENvY2hlc2NvbVxOaWtvbGFzXFZvdGVcRG9tYWluXFZvdGVDb2xsZWN0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRkYXRlR3JvdXBMaXN0KTtkaWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBWb3RlKCR2b3RlRGF0YVsndm90ZSddLCAkdGhpcy0+Z2V0Q29tbWVudCgkdm90ZURhdGFbJ2NvbW1lbnQnXSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogTGlzdFZvdGVzQWN0aW9uIGNvbnN0cnVjdG9yLgogICAgICogQHBhcmFtIFZvdGVSZXBvc2l0b3J5ICRyZXBvc2l0b3J5CiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdm90ZXNEYXRhKTtkaWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
