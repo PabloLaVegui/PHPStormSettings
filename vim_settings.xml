@@ -7,16 +7,12 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2NrXD4=</entry>
-        <entry encoding="base64">XDx3Vk5Vc2VyTG9nZ2VkTWVudVw+</entry>
-        <entry encoding="base64">XDxBVVRIT1JJU0VEX0RFQUxFUl9WTlw+</entry>
         <entry>config</entry>
         <entry encoding="base64">XDxBVVRIT1JJU0VEX0RFQUxFUl9WTlZPXD4=</entry>
         <entry>descuentos</entry>
         <entry>admin</entry>
         <entry>acceso</entry>
         <entry>eurotax</entry>
-        <entry>class</entry>
         <entry encoding="base64">XDxNYWtlUmVwb3NpdG9yeUFsaWFzXD4=</entry>
         <entry encoding="base64">XDxDY29tQ29uZmlnXD4=</entry>
         <entry encoding="base64">XDxzaG93Vk5EaXNjb3VudHNcPg==</entry>
@@ -24,30 +20,34 @@
         <entry encoding="base64">XDxGaW5kVXNlclZOUHJlZmVyZW5jZVVzZUNhc2VcPg==</entry>
         <entry encoding="base64">XDxNYWtlUmVwb3NpdG9yeVw+</entry>
         <entry encoding="base64">XDxFdXJvdGF4X0NsaWVudFw+</entry>
-        <entry>getConn</entry>
-        <entry encoding="base64">XDxWb3RlUmVwb3NpdG9yeVw+</entry>
-        <entry encoding="base64">XDxEYmFsVm90ZVJlcG9zaXRvcnlcPg==</entry>
+        <entry>build</entry>
+        <entry>fromarra</entry>
+        <entry>self</entry>
+        <entry>class</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry encoding="base64">XDxyZXBvc2l0b3J5XD4=</entry>
+        <entry encoding="base64">XDx1c2VyVk5QcmVmZXJlbmNlUmVwb3NpdG9yeU1vY2tcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>wq</entry>
         <entry>40</entry>
+        <entry>w</entry>
         <entry>wwa</entry>
         <entry>a</entry>
         <entry>140</entry>
-        <entry>30</entry>
         <entry>55</entry>
         <entry>106</entry>
         <entry>264</entry>
         <entry>145</entry>
         <entry>wa\</entry>
         <entry>193</entry>
-        <entry>43</entry>
         <entry>qa</entry>
-        <entry>58</entry>
         <entry>vs</entry>
+        <entry>43</entry>
+        <entry>30</entry>
         <entry>q</entry>
-        <entry>w</entry>
+        <entry>26</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -100,29 +100,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Domain/VoteDateGroup.php" timestamp="1591951784557">
-        <mark key="[" line="30" column="9" />
-        <mark key="]" line="30" column="10" />
-        <mark key="^" line="30" column="10" />
-        <mark key="." line="30" column="9" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/app/dependencies.php" timestamp="1591956918335">
+        <mark key="'" line="6" column="72" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="62" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Domain/Application/Action/ListVotesAction.php" timestamp="1591950503380">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="20" />
-        <mark key="." line="21" column="20" />
-        <mark key="^" line="21" column="25" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Query/Domain/Infrastructure/VoteRepository.php" timestamp="1591952406297">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Domain/Vote.php" timestamp="1591951838189">
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="22" column="40" />
-        <mark key="^" line="22" column="40" />
-        <mark key="." line="22" column="39" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Infrastructure/DbalVoteRepository.php" timestamp="1591951650614">
+        <mark key="'" line="59" column="6" />
+        <mark key="[" line="52" column="15" />
+        <mark key="]" line="52" column="15" />
+        <mark key="." line="52" column="15" />
+        <mark key="^" line="81" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Domain/Infrastructure/VoteRepository.php" timestamp="1591950643742">
-        <mark key="[" line="21" column="1" />
-        <mark key="]" line="21" column="1" />
-        <mark key="." line="21" column="1" />
-        <mark key="^" line="13" column="20" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Command/Infrastructure/DbalVoteRepository.php" timestamp="1591957505893">
+        <mark key="[" line="48" column="43" />
+        <mark key="]" line="48" column="44" />
+        <mark key="." line="48" column="43" />
+        <mark key="^" line="48" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Query/Domain/Application/Action/ListVotesAction.php" timestamp="1591952432392">
         <mark key="[" line="6" column="27" />
@@ -136,19 +138,17 @@
         <mark key="." line="94" column="13" />
         <mark key="^" line="113" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Query/Domain/VoteDateGroup.php" timestamp="1591952325101">
-        <mark key="[" line="3" column="32" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Domain/Infrastructure/VoteRepository.php" timestamp="1591950643742">
+        <mark key="[" line="21" column="1" />
+        <mark key="]" line="21" column="1" />
+        <mark key="." line="21" column="1" />
+        <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Query/Application/Action/ListVotesAction.php" timestamp="1591954449588">
-        <mark key="[" line="3" column="39" />
-        <mark key="]" line="3" column="39" />
-        <mark key="." line="3" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Command/Domain/Infrastructure/VoteRepository.php" timestamp="1591955630183">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="23" />
-        <mark key="^" line="9" column="23" />
-        <mark key="." line="9" column="22" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Domain/Application/Action/ListVotesAction.php" timestamp="1591950503380">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="20" />
+        <mark key="." line="21" column="20" />
+        <mark key="^" line="21" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Query/Domain/Vote.php" timestamp="1591952314529">
         <mark key="[" line="3" column="33" />
@@ -156,11 +156,17 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/app/routes.php" timestamp="1591955831953">
-        <mark key="[" line="27" column="97" />
-        <mark key="]" line="27" column="98" />
-        <mark key="." line="27" column="97" />
-        <mark key="^" line="27" column="98" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Domain/VoteDateGroup.php" timestamp="1591951784557">
+        <mark key="[" line="30" column="9" />
+        <mark key="]" line="30" column="10" />
+        <mark key="^" line="30" column="10" />
+        <mark key="." line="30" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Query/Infrastructure/DbalVoteRepository.php" timestamp="1591957810692">
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="40" column="30" />
+        <mark key="^" line="40" column="30" />
+        <mark key="." line="40" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Command/Application/Action/AddVoteAction.php" timestamp="1591957986961">
         <mark key="[" line="37" column="0" />
@@ -174,11 +180,28 @@
         <mark key="^" line="5" column="49" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Query/Domain/Infrastructure/VoteRepository.php" timestamp="1591952406297">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="33" />
-        <mark key="^" line="5" column="33" />
-        <mark key="." line="5" column="32" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Query/Application/Action/ListVotesAction.php" timestamp="1591954449588">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Query/Domain/VoteDateGroup.php" timestamp="1591952325101">
+        <mark key="[" line="3" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/app/routes.php" timestamp="1591955831953">
+        <mark key="[" line="27" column="97" />
+        <mark key="]" line="27" column="98" />
+        <mark key="." line="27" column="97" />
+        <mark key="^" line="27" column="98" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591955580867">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Domain/Vote.php" timestamp="1591951838189">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="22" column="40" />
+        <mark key="^" line="22" column="40" />
+        <mark key="." line="22" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Command/Domain/Vote.php" timestamp="1591954731307">
         <mark key="[" line="45" column="0" />
@@ -186,34 +209,11 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="13" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591955580867">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Infrastructure/DbalVoteRepository.php" timestamp="1591951650614">
-        <mark key="'" line="59" column="6" />
-        <mark key="[" line="52" column="15" />
-        <mark key="]" line="52" column="15" />
-        <mark key="." line="52" column="15" />
-        <mark key="^" line="81" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Query/Infrastructure/DbalVoteRepository.php" timestamp="1591957810692">
-        <mark key="[" line="40" column="29" />
-        <mark key="]" line="40" column="30" />
-        <mark key="^" line="40" column="30" />
-        <mark key="." line="40" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/app/dependencies.php" timestamp="1591956918335">
-        <mark key="'" line="6" column="72" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="62" column="49" />
-      </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Command/Infrastructure/DbalVoteRepository.php" timestamp="1591957505893">
-        <mark key="[" line="48" column="43" />
-        <mark key="]" line="48" column="44" />
-        <mark key="." line="48" column="43" />
-        <mark key="^" line="48" column="44" />
+      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Command/Domain/Infrastructure/VoteRepository.php" timestamp="1591955630183">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="23" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="9" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -386,7 +386,7 @@
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
