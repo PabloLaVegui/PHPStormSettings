@@ -7,11 +7,11 @@
       <mapping pattern="passwordValidationRequest.js" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="devel" type="PLAIN_TEXT" />
-      <mapping ext="master" type="PLAIN_TEXT" />
-      <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="master" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping pattern="_creatorStablishedModal" type="Twig" />
       <mapping pattern="infrastructure_services" type="YAML" />
