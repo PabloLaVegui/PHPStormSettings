@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxBVVRIT1JJU0VEX0RFQUxFUl9WTlZPXD4=</entry>
-        <entry>descuentos</entry>
-        <entry>admin</entry>
         <entry>acceso</entry>
         <entry encoding="base64">XDxNYWtlUmVwb3NpdG9yeUFsaWFzXD4=</entry>
         <entry encoding="base64">XDxDY29tQ29uZmlnXD4=</entry>
@@ -27,6 +24,9 @@
         <entry encoding="base64">XDx1c2VyVk5QcmVmZXJlbmNlUmVwb3NpdG9yeU1vY2tcPg==</entry>
         <entry>campa</entry>
         <entry>eurotax</entry>
+        <entry encoding="base64">XDxnZXRVc2VyUmVxdWVzdHNTdW1tYXJ5TGlzdFw+</entry>
+        <entry encoding="base64">XDxnZXRGaWx0ZXJcPg==</entry>
+        <entry encoding="base64">XDxnZXRTdW1tYXJ5VG90YWxDb3VudFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53YQ==</entry>
@@ -111,6 +111,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" timestamp="1592306336982">
+        <mark key="[" line="51" column="65" />
+        <mark key="]" line="51" column="66" />
+        <mark key="^" line="51" column="66" />
+        <mark key="." line="51" column="65" />
+      </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/tests/apps/Api/ApiDoctrineDbalTestCase.php" timestamp="1592243689233">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -121,12 +127,6 @@
         <mark key="]" line="28" column="0" />
         <mark key="^" line="15" column="8" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Action/Admin/HiAction.php" timestamp="1592241561844">
-        <mark key="[" line="4" column="38" />
-        <mark key="]" line="4" column="44" />
-        <mark key="." line="4" column="43" />
-        <mark key="^" line="4" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Auth/FakeUserProvider.php" timestamp="1592244200840">
         <mark key="[" line="2" column="24" />
@@ -160,6 +160,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunityUseCase.php" timestamp="1592304823331">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="36" />
+        <mark key="^" line="7" column="36" />
+        <mark key="." line="7" column="35" />
+      </file>
       <file name="/PHP Console" timestamp="1592300847501">
         <mark key="[" line="0" column="0" />
       </file>
@@ -178,20 +184,15 @@
       <file name="/fragment.php" timestamp="1592300854960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/UserRequestSummaryController.php" timestamp="1592304423986">
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="21" column="37" />
-        <mark key="^" line="21" column="37" />
-        <mark key="." line="21" column="36" />
+      <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/UserRequestSummaryController.php" timestamp="1592306273034">
+        <mark key="'" line="208" column="21" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="203" column="26" />
+        <mark key="^" line="203" column="26" />
+        <mark key="." line="203" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/lavegui/shopa-api/README.md" timestamp="1592241140758" />
     </filemarks>
     <jumps>
-      <jump line="90" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleShoppingGuideRepositoryTest.php" />
-      <jump line="51" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/CarInfoGatewayTest.php" />
-      <jump line="324" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/VNRequestController.php" />
-      <jump line="272" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/UserVNOpportunity/FinderMakeModelRequestVNUseCaseTest.php" />
-      <jump line="309" column="5" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/VNRequestController.php" />
       <jump line="310" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/VNRequestController.php" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="55" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
@@ -287,6 +288,11 @@
       <jump line="61" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/src/Auth/DBALUserProvider.php" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/lavegui/shopa-api/apps/Api/config/services_test.yaml" />
       <jump line="31" column="10" filename="$USER_HOME$/Projects/lavegui/shopa-api/vendor/symfony/security-core/User/UserProviderInterface.php" />
+      <jump line="75" column="9" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/UserRequestSummaryController.php" />
+      <jump line="188" column="21" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/UserRequestSummaryController.php" />
+      <jump line="147" column="21" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/UserRequestSummaryController.php" />
+      <jump line="170" column="21" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/UserRequestSummaryController.php" />
+      <jump line="207" column="21" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/UserRequestSummaryController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,37 +307,37 @@
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>eurotax</text>
+        <text encoding="base64">XDxnZXRTdW1tYXJ5VG90YWxDb3VudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFVzZXJuYW1lTm90Rm91bmRFeGNlcHRpb24oIiR1c2VybmFtZS4gVXNlcm5hbWUgbm90IGZvdW5kIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAncmVjZWl2ZWQnID0+ICR0aGlzLT51c2VyUmVxdWVzdHNTdW1tYXJ5UmVwb3NpdG9yeQogICAgICAgICAgICAgICAgLT5jb3VudERlYWxlclJlcXVlc3RzR3JvdXBlZEJ5VXNlcigkZGVhbGVySWQsIG5ldyBSZWNlaXZlZEZpbHRlcigpKSwKICAgICAgICAgICAgJ3dpdGhvdXRfc3RhdHVzJyA9PiAkdGhpcy0+dXNlclJlcXVlc3RzU3VtbWFyeVJlcG9zaXRvcnkKICAgICAgICAgICAgICAgIC0+Y291bnREZWFsZXJSZXF1ZXN0c0dyb3VwZWRCeVVzZXIoJGRlYWxlcklkLCBuZXcgV2l0aG91dFN0YXR1c0ZpbHRlcigpKSwKICAgICAgICAgICAgJ2luX3Byb2dyZXNzJyA9PiAkdGhpcy0+dXNlclJlcXVlc3RzU3VtbWFyeVJlcG9zaXRvcnkKICAgICAgICAgICAgICAgIC0+Y291bnREZWFsZXJSZXF1ZXN0c0dyb3VwZWRCeVVzZXIoJGRlYWxlcklkLCBuZXcgSW5Qcm9ncmVzc0ZpbHRlcigpKSwKICAgICAgICAgICAgJ3Bvc3Rwb25lZCcgPT4gJHRoaXMtPnVzZXJSZXF1ZXN0c1N1bW1hcnlSZXBvc2l0b3J5CiAgICAgICAgICAgICAgICAtPmNvdW50RGVhbGVyUmVxdWVzdHNHcm91cGVkQnlVc2VyKCRkZWFsZXJJZCwgbmV3IFBvc3Rwb25lZEZpbHRlcigpKSwKICAgICAgICAgICAgJ2FyY2hpdmVkJyA9PiAkdGhpcy0+dXNlclJlcXVlc3RzU3VtbWFyeVJlcG9zaXRvcnkKICAgICAgICAgICAgICAgIC0+Y291bnREZWFsZXJSZXF1ZXN0c0dyb3VwZWRCeVVzZXIoJGRlYWxlcklkLCBuZXcgQXJjaGl2ZWRGaWx0ZXIoKSkKICAgICAgICBdOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIENsYXNzIEZha2VVc2VyUHJvdmlkZXIKICogQHBhY2thZ2UgTGF2ZWd1aVxTaG9wYVxBcHBcQXBpXEF1dGgKICovCg==</text>
+        <text encoding="base64">ICAgICAgICAkc2l6ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gVE9ETyhQYWJsbyk6IHZlciBwb3IgcXVlIG5vIGZ1bmNpb25hIGVuIGxhIGNhcnBldGEgdGVzdHMK</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWQ6IExhdmVndWlcU2hvcGFcVGVzdFxBcHBcQXBpXEF1dGhcRmFrZVVzZXJQcm92aWRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">LyoqCiAqIENsYXNzIEZpbmREZWFsZXJWTk9wcG9ydHVuaXR5VXNlQ2FzZQogKiBAcGFja2FnZSBjb2NoZXNjb21ccmVxdWVzdFxkb21haW5cdXNlQ2FzZVxkZWFsZXJWTk9wcG9ydHVuaXR5CiAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhQGEudGVzdCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFVzZXIoCiAgICAgICAgICAgICdhQGEudGVzdCcsCiAgICAgICAgICAgICcxMjM0NTYnLAogICAgICAgICAgICBbMV0KICAgICAgICApOwo=</text>
+        <text encoding="base64">LyoqCiAqIENsYXNzIEZha2VVc2VyUHJvdmlkZXIKICogQHBhY2thZ2UgTGF2ZWd1aVxTaG9wYVxBcHBcQXBpXEF1dGgKICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogZW1haWwgeSBwYXNzIGRhbiBpZ3VhbCBwb3JxdWUgc2UgdHJhdGEgZGUgcXVlIGRldnVlbHZhCiAgICAgICAgLy8gICAgICAgICAgICAgIHVzdWFyaW8sIHZlciBjb21vIGhhY2VyIHBhcmEgcXVlIGNvaW5jaWRhbiBlbiBlbCB0ZXN0Y2FzZQogICAgICAgIC8vICAgICAgICAgICAgICBvIG5vCiAgICAgICAgLy8gVE9ETyhQYWJsbyk6IHByb2JhciBjYW1iaWFuZG8gZWwgcGFzc3dvcmQKICAgICAgICAvLyBUT0RPKFBhYmxvKTogZW1haWwgeSBwYXNzIGEgLmVudgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -340,12 +346,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>eurotax</last-search>
+      <last-search encoding="base64">XDxnZXRTdW1tYXJ5VG90YWxDb3VudFw+</last-search>
       <last-offset />
-      <last-pattern>eurotax</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRTdW1tYXJ5VG90YWxDb3VudFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
