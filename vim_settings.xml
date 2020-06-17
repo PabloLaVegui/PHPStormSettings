@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93Vk5EaXNjb3VudHNcPg==</entry>
         <entry encoding="base64">XDxSZXNvdXJjZU5vdEZvdW5kRXhjZXB0aW9uQWxpYXNcPg==</entry>
         <entry encoding="base64">XDxGaW5kVXNlclZOUHJlZmVyZW5jZVVzZUNhc2VcPg==</entry>
         <entry encoding="base64">XDxNYWtlUmVwb3NpdG9yeVw+</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxnZXRTdW1tYXJ5VG90YWxDb3VudFw+</entry>
         <entry>json</entry>
         <entry>serial</entry>
+        <entry>fromraw</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53YQ==</entry>
@@ -44,10 +44,10 @@
         <entry>43</entry>
         <entry>30</entry>
         <entry>26</entry>
-        <entry>qa</entry>
         <entry>vs</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qa</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -110,11 +110,11 @@
         <mark key="^" line="16" column="32" />
         <mark key="." line="16" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/DealerVNOpportunitySummaryController.php" timestamp="1592317027261">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="22" column="25" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Gateways/DealerVNRequest/DealerVNOpportunitySummaryTransformer.php" timestamp="1592383911297">
+        <mark key="'" line="58" column="20" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="44" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/userRequestsSummary/DoctrineDealerVNOpportunitySummaryRepositoryTest.php" timestamp="1592321811213">
         <mark key="]" line="36" column="33" />
@@ -171,12 +171,6 @@
         <mark key="^" line="20" column="29" />
         <mark key="." line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/DealerVnOpportunitySummaryCount.php" timestamp="1592317919041">
-        <mark key="[" line="55" column="13" />
-        <mark key="]" line="55" column="27" />
-        <mark key="^" line="55" column="28" />
-        <mark key="." line="55" column="27" />
-      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/userRequestsSummary/DealerVNOpportunitySummary.php" timestamp="1592321279665">
         <mark key="]" line="13" column="25" />
         <mark key="^" line="13" column="25" />
@@ -189,9 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
-      <jump line="110" column="32" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
-      <jump line="111" column="32" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
       <jump line="112" column="32" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" />
       <jump line="236" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenuNEW.php" />
       <jump line="213" column="48" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" />
@@ -289,12 +280,15 @@
       <jump line="14" column="59" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userVNPreference/UserVNPreferenceCollection.php" />
       <jump line="149" column="6" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userRequestsSummary/UserRequestsSummary.php" />
       <jump line="104" column="0" filename="$USER_HOME$/Projects/request.coches.com/tests/Functional/userRequestSummary/FindUserRequestSummaryFunctionalTest.php" />
+      <jump line="17" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Gateways/DealerVNRequest/DealerVNOpportunitySummaryTransformer.php" />
+      <jump line="38" column="30" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Gateways/DealerVNRequest/DealerVNOpportunitySummaryTransformer.php" />
+      <jump line="58" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Gateways/DealerVNRequest/DealerVNOpportunitySummaryTransformer.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bWFya1Rlc3RTa2lwcGVkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBTY29yZSgkcmF3RGF0YVsnc2NvcmUnXSkK</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
@@ -303,10 +297,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>serial</text>
+        <text>fromraw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfcmVxdWVzdHNfc3VtbWFyeScgPT4gJHRoaXMtPm9wcG9ydHVuaXR5UGFnaW5hdGVkTGlzdCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBTY29yZSgkcmF3RGF0YVsnc2NvcmUnXSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+bWFya1Rlc3RTa2lwcGVkKCk7Cg==</text>
@@ -342,9 +336,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>serial</last-search>
+      <last-search>fromraw</last-search>
       <last-offset />
-      <last-pattern>serial</last-pattern>
+      <last-pattern>fromraw</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
       <last-dir>1</last-dir>
