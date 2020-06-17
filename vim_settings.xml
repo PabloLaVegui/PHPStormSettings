@@ -7,14 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2NrXD4=</entry>
-        <entry encoding="base64">XDx3Vk5Vc2VyTG9nZ2VkTWVudVw+</entry>
-        <entry encoding="base64">XDxBVVRIT1JJU0VEX0RFQUxFUl9WTlw+</entry>
-        <entry>config</entry>
-        <entry encoding="base64">XDxBVVRIT1JJU0VEX0RFQUxFUl9WTlZPXD4=</entry>
-        <entry>descuentos</entry>
-        <entry>admin</entry>
-        <entry>acceso</entry>
         <entry>eurotax</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxNYWtlUmVwb3NpdG9yeUFsaWFzXD4=</entry>
@@ -27,6 +19,14 @@
         <entry>getConn</entry>
         <entry encoding="base64">XDxWb3RlUmVwb3NpdG9yeVw+</entry>
         <entry encoding="base64">XDxEYmFsVm90ZVJlcG9zaXRvcnlcPg==</entry>
+        <entry>auth</entry>
+        <entry>login</entry>
+        <entry>json</entry>
+        <entry>jwt</entry>
+        <entry>usercrede</entry>
+        <entry encoding="base64">XDxhcGlLZXlcPg==</entry>
+        <entry>200</entry>
+        <entry>401</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53YQ==</entry>
@@ -44,10 +44,10 @@
         <entry>193</entry>
         <entry>43</entry>
         <entry>58</entry>
-        <entry>vs</entry>
-        <entry>q</entry>
         <entry>qa</entry>
         <entry>w</entry>
+        <entry>vs</entry>
+        <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -111,27 +111,18 @@
         <mark key="]" line="7" column="45" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/README.md" timestamp="1591962992152">
-        <mark key="[" line="94" column="13" />
-        <mark key="]" line="94" column="13" />
-        <mark key="." line="94" column="13" />
-        <mark key="^" line="113" column="1" />
-      </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/User/Domain/RoleEnum.php" timestamp="1592331418866">
         <mark key="[" line="4" column="37" />
         <mark key="]" line="4" column="52" />
         <mark key="^" line="4" column="52" />
         <mark key="." line="4" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/README.md" timestamp="1592330257929">
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/README.md" timestamp="1592347193231">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="43" column="52" />
-        <mark key="]" line="43" column="52" />
-        <mark key="^" line="42" column="64" />
-        <mark key="." line="43" column="52" />
-      </file>
-      <file name="/PHP Console" timestamp="1592260728044">
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="88" column="49" />
+        <mark key="]" line="92" column="22" />
+        <mark key="^" line="92" column="22" />
+        <mark key="." line="92" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/.env.test" timestamp="1592340935576">
         <mark key="[" line="15" column="0" />
@@ -145,11 +136,18 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/Dockerfile" timestamp="1592259339515">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="53" />
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" timestamp="1592414291114">
+        <mark key="'" line="31" column="41" />
+        <mark key="[" line="59" column="15" />
+        <mark key="]" line="59" column="15" />
+        <mark key="." line="59" column="15" />
+        <mark key="^" line="64" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.example.yaml" timestamp="1592413780305">
+        <mark key="'" line="598" column="0" />
+        <mark key="[" line="724" column="0" />
+        <mark key="]" line="727" column="16" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/src/Auth/User.php" timestamp="1592329795311">
         <mark key="[" line="28" column="0" />
@@ -165,12 +163,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/cochescom/nikolas/src/Vote/Command/Application/Action/AddVoteAction.php" timestamp="1591957986961">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="22" column="76" />
-      </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/config/packages/security.yaml" timestamp="1592263060425">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="32" column="70" />
@@ -180,6 +172,12 @@
         <mark key="]" line="8" column="11" />
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/docker-compose.yml" timestamp="1592347345432">
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="37" column="17" />
+        <mark key="^" line="37" column="17" />
+        <mark key="." line="37" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/apps/Api/Auth/FakeUserProvider.php" timestamp="1592342603906">
         <mark key="'" line="24" column="0" />
@@ -211,33 +209,14 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/.gitignore" timestamp="1592414243230">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="28" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleShoppingGuideRepositoryTest.php" />
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleShoppingGuideRepositoryTest.php" />
-      <jump line="41" column="63" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleShoppingGuideRepositoryTest.php" />
-      <jump line="66" column="55" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleShoppingGuideRepositoryTest.php" />
-      <jump line="90" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/guzzle/repository/GuzzleShoppingGuideRepositoryTest.php" />
-      <jump line="51" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/gateways/CarInfoGatewayTest.php" />
-      <jump line="324" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/VNRequestController.php" />
-      <jump line="272" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/Application/UseCases/UserVNOpportunity/FinderMakeModelRequestVNUseCaseTest.php" />
-      <jump line="309" column="5" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/VNRequestController.php" />
-      <jump line="310" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/request/vn/VNRequestController.php" />
-      <jump line="27" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
-      <jump line="55" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
-      <jump line="70" column="20" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
-      <jump line="78" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
-      <jump line="86" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
-      <jump line="95" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
-      <jump line="19" column="5" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
-      <jump line="43" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ShoppingGuideMigrationCommand.php" />
-      <jump line="96" column="0" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ShoppingGuideMigrationCommand.php" />
-      <jump line="151" column="27" filename="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/ShoppingGuideMigrationCommand.php" />
-      <jump line="39" column="23" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" />
-      <jump line="754" column="7" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" />
-      <jump line="279" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" />
-      <jump line="64" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" />
-      <jump line="38" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" />
       <jump line="760" column="41" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" />
       <jump line="410" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" />
       <jump line="9" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenuNEW.php" />
@@ -313,51 +292,76 @@
       <jump line="6" column="72" filename="$USER_HOME$/Projects/cochescom/nikolas/app/dependencies.php" />
       <jump line="53" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/README.md" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/tests/apps/Api/Auth/FakeUserProvider.php" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="75" column="14" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="257" column="8" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="29" column="29" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="180" column="5" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="140" column="4" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="26" column="23" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="53" column="23" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="67" column="23" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="91" column="23" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="117" column="23" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="57" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="49" column="10" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="15" column="9" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="45" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="249" column="2" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="32" column="33" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="115" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="54" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="575" column="11" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.example.yaml" />
+      <jump line="62" column="17" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="725" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.example.yaml" />
+      <jump line="99" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.example.yaml" />
+      <jump line="31" column="41" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="598" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.example.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgcHJvdGVjdGVkIGZ1bmN0aW9uIHRva2VuKCk6IHN0cmluZwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgIyBhcmJpdHJhcnkgbmFtZSBmb3IgdGhlIHNlY3VyaXR5IHNjaGVtZQ==</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VsZjo6JGNsaWVudC0+c2V0QXV0aGVudGljYXRlZEFzQWRtaW4oKTs=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBhcmJpdHJhcnkgbmFtZSBmb3IgdGhlIHNlY3VyaXR5IHNjaGVtZQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEYmFsVm90ZVJlcG9zaXRvcnlcPg==</text>
+        <text>401</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiB0b2tlbigpOiBzdHJpbmcK</text>
+        <text encoding="base64">L2FwcHMvQXBpL2NvbmZpZy9zZWNyZXRzL3Byb2QvcHJvZC5kZWNyeXB0LnByaXZhdGUucGhwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgcHJvdGVjdGVkIGZ1bmN0aW9uIHRva2VuKCk6IHN0cmluZwo=</text>
+        <text encoding="base64">ICAtIG5hbWU6IHVzZXIKICAgIGRlc2NyaXB0aW9uOiBPcGVyYXRpb25zIGFib3V0IHVzZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0b2tlbiA9ICR0aGlzLT50b2tlbigpOwoK</text>
+        <text encoding="base64">ICAgIGFwaV9rZXk6CiAgICAgIHR5cGU6IGFwaUtleQogICAgICBuYW1lOiBhcGlfa2V5CiAgICAgIGluOiBoZWFkZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNlbGY6OiRjbGllbnQtPnNldFNlcnZlclBhcmFtZXRlcignSFRUUF9BdXRob3JpemF0aW9uJywgc3ByaW50ZignQmVhcmVyICVzJywgJHRva2VuKSk7Cg==</text>
+        <text encoding="base64">ICBzZWN1cml0eVNjaGVtZXM6CiAgICBCZWFyZXJBdXRoOgogICAgICB0eXBlOiBodHRwCiAgICAgIHNjaGVtZTogYmVhcmVyCiAgICAgIGJlYXJlckZvcm1hdDogSldUCgpkZWZpbml0aW9uczoKCnNlY3VyaXR5RGVmaW5pdGlvbnM6CiAgYWRtaW5fYXV0aDoKICAgIHR5cGU6ICJiZWFyZXIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBVc2VyQ3JlZGVudGlhbHM6CiAgICB0eXBlOiBvYmplY3QKICAgIHByb3BlcnRpZXM6CiAgICAgIGVtYWlsOgogICAgICAgIHR5cGU6IHN0cmluZwogICAgICBwYXNzd29yZDoKICAgICAgICB0eXBlOiBzdHJpbmcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNjaGVtYToKICAgICAgICAgICAgdHlwZTogIm9iamVjdCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAkY2xpZW50LT5nZXRSZXNwb25zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgcGFyYW1ldGVyczoKICAgICAgICAtIGluOiAiYm9keSIKICAgICAgICAgIGRlc2NyaXB0aW9uOiAiVGhlIHVzZXIgY3JlZGVudGlhbHMiCiAgICAgICAgICByZXF1aXJlZDogdHJ1ZQogICAgICAgICAgc2NoZW1hOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50LT5yZXF1ZXN0KCdHRVQnLCAnL2FkbWluL2hpLzMzMzMnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAkcmVmOiAnIy9jb21wb25lbnRzL3NjaGVtYXMvUGV0Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gJHRoaXMtPmdldEFkbWluQXV0aGVudGljYXRlZENsaWVudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlZjogIiMvZGVmaW5pdGlvbnMvVXNlckNyZWRlbnRpYWxzIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgJGNsaWVudCA9ICR0aGlzLT5nZXRBZG1pbkF1dGhlbnRpY2F0ZWRDbGllbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgcHJvZHVjZXM6CiAgICAgICAgLSAiYXBwbGljYXRpb24vanNvbiIK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -366,13 +370,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxEYmFsVm90ZVJlcG9zaXRvcnlcPg==</last-search>
+      <last-search>401</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEYmFsVm90ZVJlcG9zaXRvcnlcPg==</last-pattern>
+      <last-pattern>401</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
