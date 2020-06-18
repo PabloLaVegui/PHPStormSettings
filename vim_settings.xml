@@ -9,7 +9,6 @@
       <history-search>
         <entry encoding="base64">XDx1c2VyVk5QcmVmZXJlbmNlUmVwb3NpdG9yeU1vY2tcPg==</entry>
         <entry>campa</entry>
-        <entry>eurotax</entry>
         <entry encoding="base64">XDxnZXRVc2VyUmVxdWVzdHNTdW1tYXJ5TGlzdFw+</entry>
         <entry encoding="base64">XDxnZXRGaWx0ZXJcPg==</entry>
         <entry>count</entry>
@@ -27,6 +26,7 @@
         <entry>scoring</entry>
         <entry encoding="base64">XDxnZXRPcHBvcnR1bml0eUxpc3RXaXRoU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxnZXRFeHBlY3RlZFw+</entry>
+        <entry>eurotax</entry>
       </history-search>
       <history-cmd>
         <entry>wwa</entry>
@@ -100,23 +100,44 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/callSchedule/CallScheduleNotification.php" timestamp="1592475218690">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/DealerVnOpportunitySummaryDTO.php" timestamp="1592478461565">
         <mark key="[" line="11" column="26" />
         <mark key="]" line="11" column="38" />
         <mark key="^" line="11" column="38" />
         <mark key="." line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/domain/service/CalculateScoringUserVNServiceTest.php" timestamp="1592465528064">
-        <mark key="[" line="8" column="39" />
-        <mark key="]" line="17" column="5" />
-        <mark key="^" line="17" column="5" />
-        <mark key="." line="17" column="4" />
+      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/dealerVNOpportunitySummary/DoctrineDealerVNOpportunitySummaryRepositoryTest.php" timestamp="1592475066754">
+        <mark key="[" line="776" column="0" />
+        <mark key="]" line="776" column="0" />
+        <mark key="." line="776" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/eurotax.coches.com/config/environment/.env" timestamp="1592494929191">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/FindDealerVnOpportunitySummaryResponse.php" timestamp="1592487589608">
+        <mark key="'" line="72" column="43" />
+        <mark key="[" line="126" column="25" />
+        <mark key="]" line="126" column="36" />
+        <mark key="." line="126" column="35" />
+        <mark key="^" line="126" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/tests/Functional/dealerVNOpportunitySummary/FindDealerVNOpportunitySummaryFunctionalTest.php" timestamp="1592488154797">
+        <mark key="'" line="239" column="21" />
+        <mark key="[" line="270" column="35" />
+        <mark key="]" line="270" column="36" />
+        <mark key="^" line="270" column="37" />
+        <mark key="." line="270" column="36" />
+      </file>
+      <file name="/fragment.php" timestamp="1592475139665">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/callSchedule/CallScheduleNotification.php" timestamp="1592475218690">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" timestamp="1592488363155">
         <mark key="'" line="38" column="0" />
@@ -132,18 +153,6 @@
         <mark key="." line="453" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/jenkins/projects/coches/config.yml" timestamp="1592492895354" />
-      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/dealerVNOpportunitySummary/DoctrineDealerVNOpportunitySummaryRepositoryTest.php" timestamp="1592475066754">
-        <mark key="[" line="776" column="0" />
-        <mark key="]" line="776" column="0" />
-        <mark key="." line="776" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/FindDealerVnOpportunitySummaryResponse.php" timestamp="1592487589608">
-        <mark key="'" line="72" column="43" />
-        <mark key="[" line="126" column="25" />
-        <mark key="]" line="126" column="36" />
-        <mark key="." line="126" column="35" />
-        <mark key="^" line="126" column="36" />
-      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/dealerVNOpportunitySummary/FilteredDoctrineDealerVNOpportunitySummaryRepositoryTest.php" timestamp="1592475651815">
         <mark key="'" line="65" column="44" />
         <mark key="[" line="37" column="33" />
@@ -151,18 +160,11 @@
         <mark key="." line="37" column="44" />
         <mark key="^" line="37" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1592493763005">
-        <mark key="'" line="102" column="5" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1592494885152">
+        <mark key="'" line="54" column="29" />
         <mark key="[" line="43" column="33" />
         <mark key="]" line="43" column="34" />
         <mark key="." line="43" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/tests/Functional/dealerVNOpportunitySummary/FindDealerVNOpportunitySummaryFunctionalTest.php" timestamp="1592488154797">
-        <mark key="'" line="239" column="21" />
-        <mark key="[" line="270" column="35" />
-        <mark key="]" line="270" column="36" />
-        <mark key="^" line="270" column="37" />
-        <mark key="." line="270" column="36" />
       </file>
       <file name="/PHP Console" timestamp="1592480925491">
         <mark key="[" line="0" column="0" />
@@ -179,27 +181,13 @@
         <mark key="." line="92" column="34" />
         <mark key="^" line="92" column="35" />
       </file>
-      <file name="/fragment.php" timestamp="1592475139665">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/callSchedule/CallSchedule.php" timestamp="1592475169257">
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/domain/service/ScoringCalculatorTest.php" timestamp="1592465541607">
-        <mark key="]" line="8" column="23" />
-        <mark key="^" line="8" column="23" />
-        <mark key="." line="8" column="22" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="10" filename="$USER_HOME$/Projects/lavegui/shopa-api/vendor/symfony/security-core/User/UserProviderInterface.php" />
-      <jump line="75" column="9" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/UserRequestSummaryController.php" />
-      <jump line="188" column="21" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/UserRequestSummaryController.php" />
-      <jump line="147" column="21" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/UserRequestSummaryController.php" />
-      <jump line="170" column="21" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/UserRequestSummaryController.php" />
-      <jump line="207" column="21" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/UserRequestSummaryController.php" />
       <jump line="36" column="47" filename="$USER_HOME$/Projects/request.coches.com/tests/Functional/userRequestSummary/FindUserRequestSummaryFunctionalTest.php" />
       <jump line="150" column="20" filename="$USER_HOME$/Projects/request.coches.com/tests/Functional/userRequestSummary/FindUserRequestSummaryFunctionalTest.php" />
       <jump line="192" column="48" filename="$USER_HOME$/Projects/request.coches.com/tests/Functional/userRequestSummary/FindUserRequestSummaryFunctionalTest.php" />
@@ -294,12 +282,18 @@
       <jump line="239" column="21" filename="$USER_HOME$/Projects/request.coches.com/tests/Functional/dealerVNOpportunitySummary/FindDealerVNOpportunitySummaryFunctionalTest.php" />
       <jump line="38" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" />
       <jump line="97" column="5" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
+      <jump line="0" column="32" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
+      <jump line="40" column="23" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
+      <jump line="43" column="22" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
+      <jump line="46" column="29" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
+      <jump line="51" column="23" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
+      <jump line="54" column="29" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I01ZU1FMX0NPQ0hFU19EQk5BTUU9ImNvY2hlc19xYTIiCiNNWVNRTF9BVVRPREVTQ1VFTlRPX0RCTkFNRT0iYXRkX3FhMiIKI01ZU1FMX0VVUk9UQVhfREJOQU1FPSJldXJvdGF4X3FhMiIK</text>
+        <text encoding="base64">I05BTUVfREFUQV9CQVNFPWV1cm90YXhfcWEyCiNVU0VSX0RBVEFfQkFTRT1ldXJvdGF4X3FhMgojUEFTU19EQVRBX0JBU0U9ZXVyb3RheF9xYTIK</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
@@ -308,10 +302,10 @@
         <text>isArchived</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRFeHBlY3RlZFw+</text>
+        <text>eurotax</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I01ZU1FMX0NPQ0hFU19EQk5BTUU9ImNvY2hlc19xYTIiCiNNWVNRTF9BVVRPREVTQ1VFTlRPX0RCTkFNRT0iYXRkX3FhMiIKI01ZU1FMX0VVUk9UQVhfREJOQU1FPSJldXJvdGF4X3FhMiIK</text>
+        <text encoding="base64">I05BTUVfREFUQV9CQVNFPWV1cm90YXhfcWEyCiNVU0VSX0RBVEFfQkFTRT1ldXJvdGF4X3FhMgojUEFTU19EQVRBX0JBU0U9ZXVyb3RheF9xYTIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAkb3Bwb3J0dW5pdHlMaXN0Cg==</text>
@@ -347,13 +341,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZXRFeHBlY3RlZFw+</last-search>
+      <last-search>eurotax</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRFeHBlY3RlZFw+</last-pattern>
+      <last-pattern>eurotax</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
