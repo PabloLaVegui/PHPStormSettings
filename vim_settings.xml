@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxyZXBvc2l0b3J5XD4=</entry>
         <entry encoding="base64">XDx1c2VyVk5QcmVmZXJlbmNlUmVwb3NpdG9yeU1vY2tcPg==</entry>
         <entry>campa</entry>
@@ -25,8 +24,9 @@
         <entry>callschedule</entry>
         <entry encoding="base64">XDxzZXJpYWxpemVcPg==</entry>
         <entry>jsons</entry>
-        <entry encoding="base64">XDxnZXRPcHBvcnR1bml0eUxpc3RXaXRoU3RhdHVzXD4=</entry>
         <entry>session</entry>
+        <entry>scoring</entry>
+        <entry encoding="base64">XDxnZXRPcHBvcnR1bml0eUxpc3RXaXRoU3RhdHVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>40</entry>
@@ -46,8 +46,8 @@
         <entry>qa</entry>
         <entry>w</entry>
         <entry>vs</entry>
-        <entry>q</entry>
         <entry>121</entry>
+        <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -118,12 +118,12 @@
         <mark key="^" line="17" column="5" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" timestamp="1592480775205">
-        <mark key="'" line="42" column="53" />
-        <mark key="[" line="57" column="28" />
-        <mark key="]" line="57" column="37" />
-        <mark key="^" line="57" column="37" />
-        <mark key="." line="57" column="36" />
+      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" timestamp="1592482146957">
+        <mark key="'" line="92" column="21" />
+        <mark key="[" line="58" column="13" />
+        <mark key="]" line="58" column="28" />
+        <mark key="^" line="58" column="28" />
+        <mark key="." line="58" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/controller/DealerVNOpportunitySummaryController.php" timestamp="1592408686682">
         <mark key="'" line="79" column="0" />
@@ -157,6 +157,9 @@
         <mark key="." line="37" column="44" />
         <mark key="^" line="37" column="45" />
       </file>
+      <file name="/PHP Console" timestamp="1592480925491">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1592477661827">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -188,9 +191,6 @@
       <file name="$USER_HOME$/Projects/mizona.coches.com/webpack.config.js" timestamp="1592405170661" />
     </filemarks>
     <jumps>
-      <jump line="52" column="8" filename="$USER_HOME$/Projects/cochescom/nikolas/app/dependencies.php" />
-      <jump line="55" column="23" filename="$USER_HOME$/Projects/cochescom/nikolas/app/dependencies.php" />
-      <jump line="9" column="31" filename="$USER_HOME$/Projects/cochescom/nikolas/app/dependencies.php" />
       <jump line="61" column="0" filename="$USER_HOME$/Projects/cochescom/nikolas/app/dependencies.php" />
       <jump line="7" column="86" filename="$USER_HOME$/Projects/cochescom/nikolas/app/dependencies.php" />
       <jump line="62" column="0" filename="$USER_HOME$/Projects/cochescom/nikolas/app/dependencies.php" />
@@ -288,24 +288,27 @@
       <jump line="55" column="6" filename="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" />
       <jump line="42" column="53" filename="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" />
       <jump line="72" column="43" filename="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/FindDealerVnOpportunitySummaryResponse.php" />
+      <jump line="91" column="21" filename="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" />
+      <jump line="52" column="14" filename="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" />
+      <jump line="92" column="21" filename="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>\cochescom\request\domain\service\</text>
+        <text>opportunityListWithScore</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>\cochescom\request\domain\service\</text>
+        <text>opportunityListWithScore</text>
       </register>
       <register name="/" type="4">
-        <text>session</text>
+        <text encoding="base64">XDxnZXRPcHBvcnR1bml0eUxpc3RXaXRoU3RhdHVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBEZWFsZXJWTk9wcG9ydHVuaXR5U3VtbWFyeVtdICRvcHBvcnR1bml0eUxpc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9wcG9ydHVuaXR5TGlzdFdpdGhTY29yZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNlIGNvY2hlc2NvbVxyZXF1ZXN0XGRvbWFpblxzZXJ2aWNlXFNjb3JpbmdDYWxjdWxhdG9yOwo=</text>
@@ -341,12 +344,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>session</last-search>
+      <last-search encoding="base64">XDxnZXRPcHBvcnR1bml0eUxpc3RXaXRoU3RhdHVzXD4=</last-search>
       <last-offset />
-      <last-pattern>session</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRPcHBvcnR1bml0eUxpc3RXaXRoU3RhdHVzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
