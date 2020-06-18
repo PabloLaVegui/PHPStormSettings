@@ -44,11 +44,11 @@
         <entry>30</entry>
         <entry>26</entry>
         <entry>vs</entry>
-        <entry>q</entry>
         <entry>w</entry>
         <entry>163</entry>
-        <entry>wa</entry>
         <entry>qa</entry>
+        <entry>wa</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -100,6 +100,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/domain/service/CalculateScoringUserVNServiceTest.php" timestamp="1592465528064">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="17" column="5" />
+        <mark key="^" line="17" column="5" />
+        <mark key="." line="17" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Gateways/DealerVNRequest/DealerVNOpportunitySummaryTransformer.php" timestamp="1592396417419">
         <mark key="'" line="58" column="20" />
         <mark key="[" line="114" column="0" />
@@ -118,11 +124,14 @@
         <mark key="^" line="36" column="33" />
         <mark key="." line="36" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/userRequestsSummary/DoctrineUserRequestsSummaryRepositoryTest.php" timestamp="1592321794962">
-        <mark key="[" line="36" column="6" />
-      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/tests/Functional/userRequestSummary/FilteredFindUserRequestSummaryFunctionalTest.php" timestamp="1592321935697">
         <mark key="[" line="15" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/FindDealerVnOpportunitySummaryResponse.php" timestamp="1592466217841">
+        <mark key="[" line="41" column="53" />
+        <mark key="]" line="41" column="44" />
+        <mark key="." line="41" column="43" />
+        <mark key="^" line="41" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/tests/Functional/userRequestSummary/FindUserRequestSummaryFunctionalTest.php" timestamp="1592321971299">
         <mark key="'" line="104" column="0" />
@@ -138,20 +147,15 @@
         <mark key="^" line="20" column="29" />
         <mark key="." line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/userRequestsSummary/DealerVNOpportunitySummary.php" timestamp="1592321279665">
-        <mark key="]" line="13" column="25" />
-        <mark key="^" line="13" column="25" />
-        <mark key="." line="13" column="24" />
+      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/domain/service/ScoringCalculatorTest.php" timestamp="1592465541607">
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/dbal/DBALQueryExpressionBuilder.php" timestamp="1592405305922">
         <mark key="'" line="30" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/webpack.config.js" timestamp="1592405170661" />
-      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/userRequestsSummary/FilteredDoctrineUserRequestsSummaryRepositoryTest.php" timestamp="1592321462888">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="213" column="48" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/extensions/headerMenu/WUserLoggedMenu.php" />
@@ -301,7 +305,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndG90YWxfc3VtbWFyaWVzJyA9PiAkc2l6ZSwK</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
