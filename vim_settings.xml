@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>fromarra</entry>
         <entry>self</entry>
         <entry>class</entry>
         <entry encoding="base64">XDwpXD4=</entry>
@@ -27,6 +26,7 @@
         <entry>serialize</entry>
         <entry>callschedule</entry>
         <entry encoding="base64">XDxzZXJpYWxpemVcPg==</entry>
+        <entry>jsons</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -106,6 +106,12 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/DealerVnOpportunitySummaryDTO.php" timestamp="1592477719156">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/domain/service/CalculateScoringUserVNServiceTest.php" timestamp="1592465528064">
         <mark key="[" line="8" column="39" />
         <mark key="]" line="17" column="5" />
@@ -130,11 +136,11 @@
         <mark key="]" line="776" column="0" />
         <mark key="." line="776" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/FindDealerVnOpportunitySummaryResponse.php" timestamp="1592476091371">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/FindDealerVnOpportunitySummaryResponse.php" timestamp="1592476127475">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
         <mark key="^" line="33" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/dealerVNOpportunitySummary/FilteredDoctrineDealerVNOpportunitySummaryRepositoryTest.php" timestamp="1592475651815">
@@ -147,10 +153,10 @@
       <file name="/PHP Console" timestamp="1592396326900">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/tests/Functional/userRequestSummary/FindDealerVNOpportunitySummaryFunctionalTest.php" timestamp="1592321984622">
-        <mark key="]" line="20" column="29" />
-        <mark key="^" line="20" column="29" />
-        <mark key="." line="20" column="28" />
+      <file name="/Dummy.txt" timestamp="1592477661827">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" timestamp="1592475682438">
         <mark key="'" line="264" column="6" />
@@ -177,8 +183,6 @@
       <file name="$USER_HOME$/Projects/mizona.coches.com/webpack.config.js" timestamp="1592405170661" />
     </filemarks>
     <jumps>
-      <jump line="405" column="13" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
-      <jump line="400" column="9" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
       <jump line="21" column="48" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
       <jump line="703" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
       <jump line="399" column="35" filename="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" />
@@ -277,12 +281,14 @@
       <jump line="91" column="44" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/dealerVNOpportunitySummary/FilteredDoctrineDealerVNOpportunitySummaryRepositoryTest.php" />
       <jump line="65" column="44" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/dealerVNOpportunitySummary/FilteredDoctrineDealerVNOpportunitySummaryRepositoryTest.php" />
       <jump line="121" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/FindDealerVnOpportunitySummaryResponse.php" />
+      <jump line="41" column="4" filename="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/FindDealerVnOpportunitySummaryResponse.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/FindDealerVnOpportunitySummaryResponse.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIFNjb3JpbmdDYWxjdWxhdG9yICovCiAgICBwcml2YXRlICRzY29yaW5nQ2FsY3VsYXRvcjsK</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldFNjb3JlKERlYWxlclZOT3Bwb3J0dW5pdHlTdW1tYXJ5ICRzdW1tYXJ5KQogICAgewogICAgfQo=</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
@@ -291,37 +297,37 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXJpYWxpemVcPg==</text>
+        <text>jsons</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRjYWxsU2NoZWR1bGUtPmdldFNjaGVkdWxlRGF0ZSgpLCAkcmVzdWx0WzBdLT5nZXRDYWxsU2NoZWR1bGUoKS0+Z2V0U2NoZWR1bGVEYXRlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIFNjb3JpbmdDYWxjdWxhdG9yICovCiAgICBwcml2YXRlICRzY29yaW5nQ2FsY3VsYXRvcjsK</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldFNjb3JlKERlYWxlclZOT3Bwb3J0dW5pdHlTdW1tYXJ5ICRzdW1tYXJ5KQogICAgewogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIFNjb3JpbmdDYWxjdWxhdG9yICovCiAgICBwcml2YXRlICRzY29yaW5nQ2FsY3VsYXRvcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBhcnJheV9tYXAoCi8vICAgICAgICAgICAgWyR0aGlzLCAnc3VtbWFyeVNlcmlhbGl6ZSddLAovLyAgICAgICAgICAgICR0aGlzLT5vcHBvcnR1bml0eVBhZ2luYXRlZExpc3QKLy8gICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBhcnJheV9tYXAoCi8vICAgICAgICAgICAgWyR0aGlzLCAnc3VtbWFyeVNlcmlhbGl6ZSddLAovLyAgICAgICAgICAgICR0aGlzLT5vcHBvcnR1bml0eVBhZ2luYXRlZExpc3QKLy8gICAgICAgICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvLyBUT0RPKFBhYmxvKTogY29tcHJvYmFyIHF1ZSB5YSBubyBzZSB1c2EKICAgIC8qKgogICAgICogQHJldHVybiBhcnJheQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2VyaWFsaXplKCkKICAgIHsKICAgICAgICAkY2FsbFJlcXVlc3RSZWFzb24gPSAkdGhpcy0+Z2V0Q2FsbFJlcXVlc3RSZWFzb24oKTsKCiAgICAgICAgJGlzU3RhcnJlZCA9ICR0aGlzLT5pc1N0YXJyZWQoKTsKCiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJ3VzZXJfaWQnID0+ICR0aGlzLT51c2VySWQsCiAgICAgICAgICAgICdyZWFkJyA9PiAkdGhpcy0+cmVhZCwKICAgICAgICAgICAgJ2xhc3RfcmVxdWVzdF9kYXRlJyA9PiAkdGhpcy0+bGFzdFJlcXVlc3REYXRlLAogICAgICAgICAgICAnaXNfYXJjaGl2ZWQnID0+ICR0aGlzLT5hcmNoaXZlZEF0ICE9PSBudWxsLAogICAgICAgICAgICAnY2FsbF9yZXF1ZXN0JyA9PiBbCiAgICAgICAgICAgICAgICAnaGFzX2NhbGxfcmVxdWVzdHMnID0+ICR0aGlzLT5oYXNDYWxsUmVxdWVzdCgpLAogICAgICAgICAgICAgICAgJ2NhbGxfcmVxdWVzdF9yZWFzb24nID0+ICRjYWxsUmVxdWVzdFJlYXNvbiwKICAgICAgICAgICAgXSwKICAgICAgICAgICAgJ2lzX3N0YXJyZWQnID0+ICRpc1N0YXJyZWQsCiAgICAgICAgICAgICdyZXF1ZXN0X3Zpc3VhbGl6YXRpb25faWRfbGlzdCcgPT4gJHRoaXMtPnJlcXVlc3RWaXN1YWxpemF0aW9uSWRMaXN0LAogICAgICAgICAgICAnY2FsbF9zY2hlZHVsZScgPT4gJHRoaXMtPmdldENhbGxTY2hlZHVsZVNlcmlhbGl6ZWQoKSwKICAgICAgICAgICAgJ3VucmVhZF9yZXF1ZXN0c19jb3VudCcgPT4gJHRoaXMtPnVucmVhZFJlcXVlc3RzQ291bnQsCiAgICAgICAgICAgICd1bnJlYWRfc3RvY2tfcmVxdWVzdHNfY291bnQnID0+ICR0aGlzLT51bnJlYWRTdG9ja1JlcXVlc3RzQ291bnQsCiAgICAgICAgICAgICdtZXNzYWdlc19jb3VudCcgPT4gJHRoaXMtPm1lc3NhZ2VzQ291bnQsCiAgICAgICAgICAgICd1bnJlYWRfbWVzc2FnZXNfY291bnQnID0+ICR0aGlzLT51bnJlYWRNZXNzYWdlc0NvdW50LAogICAgICAgICAgICAnc3RhdHVzJyA9PiAkdGhpcy0+c3RhdHVzLAogICAgICAgICAgICAnc3RhdHVzX3JlYXNvbicgPT4gJHRoaXMtPnN0YXR1c1JlYXNvbgogICAgICAgIF07CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiB2ZXIgc2kgc2UgcHVlZGUgYm9ycmFyCg==</text>
+        <text encoding="base64">CiAgICAvLyBUT0RPKFBhYmxvKTogY29tcHJvYmFyIHF1ZSB5YSBubyBzZSB1c2EKICAgIC8qKgogICAgICogQHJldHVybiBhcnJheQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2VyaWFsaXplKCkKICAgIHsKICAgICAgICAkY2FsbFJlcXVlc3RSZWFzb24gPSAkdGhpcy0+Z2V0Q2FsbFJlcXVlc3RSZWFzb24oKTsKCiAgICAgICAgJGlzU3RhcnJlZCA9ICR0aGlzLT5pc1N0YXJyZWQoKTsKCiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJ3VzZXJfaWQnID0+ICR0aGlzLT51c2VySWQsCiAgICAgICAgICAgICdyZWFkJyA9PiAkdGhpcy0+cmVhZCwKICAgICAgICAgICAgJ2xhc3RfcmVxdWVzdF9kYXRlJyA9PiAkdGhpcy0+bGFzdFJlcXVlc3REYXRlLAogICAgICAgICAgICAnaXNfYXJjaGl2ZWQnID0+ICR0aGlzLT5hcmNoaXZlZEF0ICE9PSBudWxsLAogICAgICAgICAgICAnY2FsbF9yZXF1ZXN0JyA9PiBbCiAgICAgICAgICAgICAgICAnaGFzX2NhbGxfcmVxdWVzdHMnID0+ICR0aGlzLT5oYXNDYWxsUmVxdWVzdCgpLAogICAgICAgICAgICAgICAgJ2NhbGxfcmVxdWVzdF9yZWFzb24nID0+ICRjYWxsUmVxdWVzdFJlYXNvbiwKICAgICAgICAgICAgXSwKICAgICAgICAgICAgJ2lzX3N0YXJyZWQnID0+ICRpc1N0YXJyZWQsCiAgICAgICAgICAgICdyZXF1ZXN0X3Zpc3VhbGl6YXRpb25faWRfbGlzdCcgPT4gJHRoaXMtPnJlcXVlc3RWaXN1YWxpemF0aW9uSWRMaXN0LAogICAgICAgICAgICAnY2FsbF9zY2hlZHVsZScgPT4gJHRoaXMtPmdldENhbGxTY2hlZHVsZVNlcmlhbGl6ZWQoKSwKICAgICAgICAgICAgJ3VucmVhZF9yZXF1ZXN0c19jb3VudCcgPT4gJHRoaXMtPnVucmVhZFJlcXVlc3RzQ291bnQsCiAgICAgICAgICAgICd1bnJlYWRfc3RvY2tfcmVxdWVzdHNfY291bnQnID0+ICR0aGlzLT51bnJlYWRTdG9ja1JlcXVlc3RzQ291bnQsCiAgICAgICAgICAgICdtZXNzYWdlc19jb3VudCcgPT4gJHRoaXMtPm1lc3NhZ2VzQ291bnQsCiAgICAgICAgICAgICd1bnJlYWRfbWVzc2FnZXNfY291bnQnID0+ICR0aGlzLT51bnJlYWRNZXNzYWdlc0NvdW50LAogICAgICAgICAgICAnc3RhdHVzJyA9PiAkdGhpcy0+c3RhdHVzLAogICAgICAgICAgICAnc3RhdHVzX3JlYXNvbicgPT4gJHRoaXMtPnN0YXR1c1JlYXNvbgogICAgICAgIF07CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gYXJyYXl8bnVsbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0Q2FsbFNjaGVkdWxlU2VyaWFsaXplZCgpCiAgICB7CiAgICAgICAgcmV0dXJuIGVtcHR5KCR0aGlzLT5jYWxsU2NoZWR1bGUpCiAgICAgICAgICAgID8gbnVsbAogICAgICAgICAgICA6ICR0aGlzLT5jYWxsU2NoZWR1bGUtPmpzb25TZXJpYWxpemUoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiB2ZXIgc2kgc2UgcHVlZGUgYm9ycmFyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiB2ZXIgc2kgc2UgdXNhIGVuIG90cm8gc2l0aW8gcGFyYSBib3JyYXIK</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gYXJyYXl8bnVsbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0Q2FsbFNjaGVkdWxlU2VyaWFsaXplZCgpCiAgICB7CiAgICAgICAgcmV0dXJuIGVtcHR5KCR0aGlzLT5jYWxsU2NoZWR1bGUpCiAgICAgICAgICAgID8gbnVsbAogICAgICAgICAgICA6ICR0aGlzLT5jYWxsU2NoZWR1bGUtPmpzb25TZXJpYWxpemUoKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -330,12 +336,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzZXJpYWxpemVcPg==</last-search>
+      <last-search>jsons</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXJpYWxpemVcPg==</last-pattern>
+      <last-pattern>jsons</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
