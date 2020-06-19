@@ -25,6 +25,7 @@
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="GotoBookmark7" />
+  <action id="GotoLine" />
   <action id="InsertLiveTemplate" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift right" second-keystroke="shift left" />
@@ -36,6 +37,9 @@
   </action>
   <action id="PhpGeneratePhpDocBlocks">
     <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
@@ -81,6 +85,7 @@
     <keyboard-shortcut first-keystroke="meta alt semicolon" />
   </action>
   <action id="Tree-selectChildExtendSelection" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="XDebugger.JumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
