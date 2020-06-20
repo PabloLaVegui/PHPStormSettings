@@ -44,10 +44,10 @@
         <entry>193</entry>
         <entry>43</entry>
         <entry>58</entry>
-        <entry>qa</entry>
         <entry>vs</entry>
-        <entry>q</entry>
+        <entry>qa</entry>
         <entry>w</entry>
+        <entry>q</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -100,11 +100,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/callSchedule/CallSchedule.php" timestamp="1592475169257">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/FindDealerVnOpportunitySummaryResponse.php" timestamp="1592496580201">
         <mark key="'" line="72" column="43" />
         <mark key="[" line="76" column="0" />
@@ -118,30 +113,56 @@
         <mark key="." line="133" column="47" />
         <mark key="^" line="133" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/User/Domain/User.php" timestamp="1592434003601">
-        <mark key="'" line="49" column="29" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="51" column="30" />
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/src/Admin/User/Infrastructure/DoctrineUserRepositoryTest.php" timestamp="1592673580727">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="61" />
+        <mark key="." line="21" column="60" />
+        <mark key="^" line="21" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/User/Infrastructure/DbalUserRepository.php" timestamp="1592434873923">
-        <mark key="[" line="46" column="29" />
-        <mark key="]" line="46" column="30" />
-        <mark key="." line="46" column="29" />
-        <mark key="^" line="46" column="30" />
+      <file name="/a.dummy" timestamp="1592669355985">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/DealerVnOpportunitySummaryDTO.php" timestamp="1592478461565">
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="38" />
-        <mark key="^" line="11" column="38" />
-        <mark key="." line="11" column="37" />
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/User/Domain/User.php" timestamp="1592669253662">
+        <mark key="'" line="41" column="29" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" timestamp="1592480805707">
-        <mark key="[" line="452" column="23" />
-        <mark key="]" line="453" column="30" />
-        <mark key="^" line="453" column="30" />
-        <mark key="." line="453" column="29" />
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/src/Hi/Infrastructure/DoctrineDbalTestCase.php" timestamp="1592668623556">
+        <mark key="[" line="10" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/src/Hi/Infrastructure/Query/DbalHiProviderTest.php" timestamp="1592671572156">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="34" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="18" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/User/Infrastructure/DoctrineUserRepository.php" timestamp="1592674316626">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="62" column="48" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592670794464">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/src/Action/Admin/User/CreateUserAction.php" timestamp="1592674321271">
+        <mark key="[" line="9" column="64" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/apps/Api/Admin/User/CreateUserTest.php" timestamp="1592671521165">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="85" column="52" />
+        <mark key="^" line="71" column="72" />
+        <mark key="." line="71" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/tests/Functional/dealerVNOpportunitySummary/FindDealerVNOpportunitySummaryFunctionalTest.php" timestamp="1592496651793">
         <mark key="'" line="239" column="21" />
@@ -150,6 +171,11 @@
         <mark key="^" line="269" column="37" />
         <mark key="." line="260" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Hi/Infrastructure/Query/DoctrineHiProvider.php" timestamp="1592674333234">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" timestamp="1592496775018">
         <mark key="'" line="5" column="71" />
         <mark key="[" line="93" column="49" />
@@ -157,65 +183,14 @@
         <mark key="^" line="93" column="48" />
         <mark key="." line="93" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/User/Domain/UserRepository.php" timestamp="1592433486310">
-        <mark key="[" line="8" column="44" />
-        <mark key="]" line="8" column="45" />
-        <mark key="^" line="8" column="45" />
-        <mark key="." line="8" column="44" />
-      </file>
-      <file name="/PHP Console" timestamp="1592480925491">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/callSchedule/CallScheduleNotification.php" timestamp="1592475218690">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/src/Shared/Domain/Value/IdTest.php" timestamp="1592433130951">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/eurotax.coches.com/config/environment/.env" timestamp="1592494929191">
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592477661827">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-      </file>
-      <file name="/fragment.php" timestamp="1592475139665">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1592494885152">
-        <mark key="'" line="54" column="29" />
-        <mark key="[" line="43" column="33" />
-        <mark key="]" line="43" column="34" />
-        <mark key="." line="43" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" timestamp="1592496545677">
-        <mark key="'" line="47" column="6" />
-        <mark key="[" line="284" column="0" />
-        <mark key="]" line="284" column="0" />
-        <mark key="^" line="92" column="35" />
-        <mark key="." line="284" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/dealerVNOpportunitySummary/FilteredDoctrineDealerVNOpportunitySummaryRepositoryTest.php" timestamp="1592475651815">
-        <mark key="'" line="65" column="44" />
-        <mark key="[" line="37" column="33" />
-        <mark key="]" line="37" column="45" />
-        <mark key="." line="37" column="44" />
-        <mark key="^" line="37" column="45" />
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/src/Admin/User/Infrastructure/UserRepositoryTest.php" timestamp="1592674238552">
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="37" column="36" />
+        <mark key="^" line="37" column="36" />
+        <mark key="." line="37" column="35" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="37" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userRequestsSummary/UserRequestsSummary.php" />
-      <jump line="173" column="20" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userRequestsSummary/UserRequestsSummary.php" />
-      <jump line="150" column="25" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userRequestsSummary/UserRequestsSummary.php" />
       <jump line="18" column="21" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userRequestsSummary/UserRequestsSummary.php" />
       <jump line="17" column="28" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userVNPreference/UserVNPreferenceCollection.php" />
       <jump line="148" column="19" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userRequestsSummary/UserRequestsSummary.php" />
@@ -313,51 +288,54 @@
       <jump line="3" column="71" filename="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" />
       <jump line="4" column="71" filename="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" />
       <jump line="5" column="71" filename="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" />
+      <jump line="42" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/User/Infrastructure/DoctrineUserRepository.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/User/Infrastructure/DoctrineUserRepository.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/User/Infrastructure/DoctrineUserRepository.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>1343</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogRG9jdHJpbmVIaVByb3ZpZGVyIGNvbnN0cnVjdG9yLgogICAgICovCg==</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>1343</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
       </register>
-      <register name="0" type="4">
-        <text>578</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT5mZXRjaEFsbCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5maWx0ZXJCeSgpCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogRG9jdHJpbmVIaVByb3ZpZGVyIGNvbnN0cnVjdG9yLgogICAgICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2lzX3N0YXJyZWQnID0+IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiBjb2RpZmljYXIgcGFzc3dvcmQsIHB1ZWRlIHNlciBhdXRvbcOhdGljbz8KICAgIC8vICAgICAgICAgICAgICBzZSBwdWVkZSB1c2FyIGVuIGVsIGNvbnRyb2xsZXIgdXNlciBkZSBhdXRoPwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lzX3N0YXJyZWQnID0+ICR0aGlzLT5pc1N0YXJyZWQoJHN1bW1hcnkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogaW5zZXJ0IGRhdGEgaW50byAndXNlcl9yb2xlJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBEZWFsZXJWTk9wcG9ydHVuaXR5U3VtbWFyeSAkc3VtbWFyeQogICAgICogQHJldHVybiBib29sCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gaXNTdGFycmVkKERlYWxlclZOT3Bwb3J0dW5pdHlTdW1tYXJ5ICRzdW1tYXJ5KQogICAgewogICAgICAgIHJldHVybiAkc3VtbWFyeS0+aXNTdGFycmVkKCkgPzogZmFsc2U7CiAgICB9Cg==</text>
+        <text encoding="base64">dXNlIExhdmVndWlcU2hvcGFcU2hhcmVkXERvbWFpblxWYWx1ZVxJZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICRyb2xlRGF0YSA9ICRxdWVyeUJ1aWxkZXIKLy8gICAgICAgICAgICAtPnNlbGVjdCgnKicpCi8vICAgICAgICAgICAgLT5mcm9tKCd1c2VyX3JvbGUnKQovLyAgICAgICAgICAgIC0+ZXhlY3V0ZSgpCi8vICAgICAgICAgICAgLT5mZXRjaEFsbCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBib29sfG51bGwKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGlzU3RhcnJlZCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5wcmVmZXJlbmNlcwogICAgICAgICAgICA/ICR0aGlzLT5wcmVmZXJlbmNlcy0+aXNTdGFycmVkKCkKICAgICAgICAgICAgOiBudWxsOwogICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAtPmZldGNoQWxsKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkb3Bwb3J0dW5pdHlMaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IERhdGVUaW1lKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChudWxsID09PSAkc3VtbWFyeS0+Z2V0UHJlZmVyZW5jZXMoKSkgewogICAgICAgICAgICAgICAgICAgICRzdW1tYXJ5LT5zZXRTY29yZShzZWxmOjpTQ09SRV9XSVRIT1VUX1BSRUZFUkVOQ0VTKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgJHN1bW1hcnktPnNldFNjb3JlKAogICAgICAgICAgICAgICAgICAgICAgICAkY2FsY3VsYXRvci0+ZXhlY3V0ZSgkc3VtbWFyeS0+Z2V0UHJlZmVyZW5jZXMoKSkKICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdlbWFpbCcgPT4gJHVzZXItPmdldEVtYWlsKCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwYXNzd29yZCcgPT4gJzpwYXNzd29yZCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
