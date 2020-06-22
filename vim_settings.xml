@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>count</entry>
         <entry encoding="base64">XDxnZXRTdW1tYXJ5VG90YWxDb3VudFw+</entry>
         <entry>json</entry>
         <entry>serial</entry>
@@ -27,9 +26,9 @@
         <entry>status</entry>
         <entry encoding="base64">XDxDT09LSUVfSEFTSFw+</entry>
         <entry>cookie</entry>
+        <entry>smsar</entry>
       </history-search>
       <history-cmd>
-        <entry>140</entry>
         <entry>55</entry>
         <entry>106</entry>
         <entry>264</entry>
@@ -48,6 +47,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
         <entry>vs</entry>
+        <entry>137</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -100,13 +100,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1592812575023">
+      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1592816549949">
         <mark key="'" line="184" column="19" />
         <mark key="j" line="214" column="18" />
-        <mark key="[" line="218" column="9" />
-        <mark key="]" line="218" column="10" />
-        <mark key="." line="218" column="10" />
-        <mark key="^" line="216" column="0" />
+        <mark key="[" line="188" column="27" />
+        <mark key="]" line="188" column="27" />
+        <mark key="." line="188" column="27" />
+        <mark key="^" line="177" column="30" />
       </file>
       <file name="/Dummy.txt" timestamp="1592477661827">
         <mark key="[" line="0" column="0" />
@@ -179,12 +179,12 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="126" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/environments/.env.test" timestamp="1592812527508">
-        <mark key="'" line="128" column="21" />
-        <mark key="[" line="160" column="9" />
-        <mark key="]" line="160" column="10" />
-        <mark key="." line="160" column="10" />
-        <mark key="^" line="126" column="0" />
+      <file name="$USER_HOME$/Projects/coches.com/environments/.env.test" timestamp="1592816545925">
+        <mark key="'" line="9" column="14" />
+        <mark key="[" line="130" column="27" />
+        <mark key="]" line="130" column="27" />
+        <mark key="." line="130" column="27" />
+        <mark key="^" line="128" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/tests/Functional/dealerVNOpportunitySummary/FindDealerVNOpportunitySummaryFunctionalTest.php" timestamp="1592496651793">
         <mark key="'" line="239" column="21" />
@@ -204,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="19" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userRequestsSummary/UserRequestsSummary.php" />
       <jump line="205" column="6" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userVNPreference/UserVNPreferenceCollection.php" />
       <jump line="14" column="59" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userVNPreference/UserVNPreferenceCollection.php" />
       <jump line="149" column="6" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userRequestsSummary/UserRequestsSummary.php" />
@@ -304,21 +303,22 @@
       <jump line="32" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env.test" />
       <jump line="126" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env.test" />
       <jump line="128" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env.test" />
+      <jump line="9" column="14" filename="$USER_HOME$/Projects/coches.com/environments/.env.test" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q09PS0lFX0hBU0g9IjEyMzQ1NiIK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>cookie</text>
+        <text>smsar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q09PS0lFX0hBU0g6IjEyMzQ1NiIKClNNU0FSRU5BX0FVVEhfS0VZIjoiIiwKClBSQUtUT05fU1VSVkVZX1JFU1BPTlNFX1VSSSI6Imh0dHBzOi8vY29jaGVzY29tLnByYWt0b24uZXMvY3JtX0RFVi9jdXN0b20gIC9zY3JpcHRfZmV0Y2hfc3VydmV5X3Jlc3BvbnNlcy5waHAiCgpTU0FOR1lPTkdfQ0xJRU5UX0lEOiIzTVZHOTJ1X1YzVU1wVi5oVTJXRldPQmRab29aWl9xcDNfUVFwRDN6a1hpeU0yYkZnQjBXanFIRERkeEQuYVNSOFpoTFpTemN6ajg2VmJMaDVkV2J2IgpTU0FOR1lPTkdfQ0xJRU5UX1NFQ1JFVDoiOTkxNDAzMzY1ODE5MDY0ODA2IgpTU0FOR1lPTkdfVVNFUk5BTUU6InVzdWFyaW8ubWFyY2FAd3RsLmRlc2EiClNTQU5HWU9OR19QQVNTV09SRDoiJERyaV9iZXIyITE5JEhWYjFTajV5N29Zb1VkUTNORU9GeUh1QUYiClNTQU5HWU9OR19BVVRIX1VSSToiaHR0cHM6Ly90ZXN0LnNhbGVzZm9yY2UuY29tL3NlcnZpY2VzL29hdXRoMi90b2tlbiIKU1NBTkdZT05HX1NFTkRfVVJJOiJodHRwczovL2JlcmdlLS1ERVNBLmNzODYubXkuc2FsZXNmb3JjZS5jb20vc2VydmljZXMvYXBleHJlc3QvbGVhZFdlYi92MS9udWV2b0NhbmRpZGF0byIKCkhPU1RfTEVBU0VQTEFOOiJodHRwczovL2dvLnBhcmRvdC5jb20iCkxFQVNFUExBTl9JTkRJVklEVUFMX1VSTDoiJHtIT1NUX0xFQVNFUExBTn0vbC8xOTI3MDIvMjAxOS0wOS0yNy8yMXBxenMiCkxFQVNFUExBTl9JTkRJVklEVUFMX0ZST01fT0ZGRVJfVVJMOiIke0hPU1RfTEVBU0VQTEFOfS9sLzE5MjcwMi8yMDE3LTA1LTE4LzUydGtqIgpMRUFTRVBMQU5fQlVTSU5FU1NfVVJMOiIke0hPU1RfTEVBU0VQTEFOfS9sLzE5MjcwMi8yMDE5LTA5LTI3LzIxcHF5OCIKTEVBU0VQTEFOX0JVU0lORVNTX0ZST01fT0ZGRVJfVVJMOiIke0hPU1RfTEVBU0VQTEFOfS9sLzE5MjcwMi8yMDE3LTA1LTE4LzUydHFnIgpMRUFTRVBMQU5fRlJFRUxBTkNFX1VSTDoiJHtIT1NUX0xFQVNFUExBTn0vbC8xOTI3MDIvMjAxOS0wOS0yNy8yMXBxenEiCkxFQVNFUExBTl9GUkVFTEFOQ0VfRlJPTV9PRkZFUl9VUkw6IiR7SE9TVF9MRUFTRVBMQU59L2wvMTkyNzAyLzIwMTctMDUtMjYvNTRsZmQiCgpBVERfQVVUT0xPR0lOX0NJUEhFUl9TRUNSRVQ6IlhuMnI1dTh4L0E/RChHK0tiUGVTaFZtWXAzczZ2OXkkIgoKQ0NPTV9TSUdOX0NFUlRfRklMRU5BTUU6IiIKQ0NPTV9TSUdOX0NFUlRfUEFTU1dPUkQ6IiIKCkRHVF9XU0RMX1VSTDoiIgoKSE9TVF9GSU5UT05JQzoiaHR0cHM6Ly9wcmUuZmludG9uaWMuY29tIiwKSE9TVF9BUElfRklOVE9OSUM6Imh0dHBzOi8vcHJlLWxvYW5zLXdlYi1hcGkuZmludG9uaWMuY29tIgpGSU5UT05JQ19BVVRIX1VTRVI6IiIKRklOVE9OSUNfQVVUSF9QQVNTOiIiCgpTTVRQX0hPU1Q6IiIKU01UUF9QT1JUOiIiCgo=</text>
@@ -382,13 +382,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>cookie</last-search>
+      <last-search>smsar</last-search>
       <last-offset />
-      <last-pattern>cookie</last-pattern>
+      <last-pattern>smsar</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
