@@ -44,10 +44,10 @@
         <entry>193</entry>
         <entry>43</entry>
         <entry>58</entry>
-        <entry>qa</entry>
         <entry>w</entry>
         <entry>vs</entry>
         <entry>q</entry>
+        <entry>qa</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -127,11 +127,11 @@
         <mark key="^" line="24" column="12" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/src/Shared/Domain/Value/IdTest.php" timestamp="1592691397054">
-        <mark key="[" line="33" column="69" />
-        <mark key="]" line="34" column="8" />
-        <mark key="." line="34" column="7" />
-        <mark key="^" line="34" column="8" />
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/Infrastructure/Doctrine/Schema/User/UserShema.php" timestamp="1592856810082">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/config/packages/test/security.yaml" timestamp="1592694538451">
         <mark key="[" line="2" column="6" />
@@ -153,7 +153,10 @@
         <mark key="." line="68" column="33" />
         <mark key="^" line="68" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592848798564">
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/Infrastructure/Doctrine/Schema/User/UserSchema.php" timestamp="1592856777369">
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592856851745">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -183,15 +186,15 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="59" />
       </file>
-      <file name="/fragment.php" timestamp="1592692914986">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/User/Domain/Email.php" timestamp="1592849814638">
         <mark key="'" line="17" column="4" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="6" />
         <mark key="." line="6" column="5" />
         <mark key="^" line="6" column="6" />
+      </file>
+      <file name="/" timestamp="1592856597081">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/User/Domain/InvalidRoleCodeException.php" timestamp="1592848580696">
         <mark key="[" line="8" column="30" />
@@ -209,10 +212,6 @@
         <mark key="]" line="34" column="39" />
         <mark key="^" line="34" column="39" />
         <mark key="." line="34" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/.phpunit/phpunit-7.5-0/src/Framework/TestCase.php" timestamp="1592694193949">
-        <mark key="[" line="380" column="0" />
-        <mark key="]" line="380" column="79" />
       </file>
     </filemarks>
     <jumps>
@@ -321,7 +320,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiByZWZhY3RvciBkYmFsIGNyZWFjacOzbiBkZSBzY2hlbWFzIGVuIGxvcyB0ZXN0cwogICAgLy8gVE9ETyhQYWJsbyk6IHJlZmFjdG9yIHVzZXIgcHJvdmlkZXIgZGUgYXV0aCBwYXJhIHVzYXIgdXNlclJlcG9zaXRvcnk/PwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
@@ -336,31 +335,31 @@
         <text>invalid-email</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiByZWZhY3RvciBkYmFsIGNyZWFjacOzbiBkZSBzY2hlbWFzIGVuIGxvcyB0ZXN0cwogICAgLy8gVE9ETyhQYWJsbyk6IHJlZmFjdG9yIHVzZXIgcHJvdmlkZXIgZGUgYXV0aCBwYXJhIHVzYXIgdXNlclJlcG9zaXRvcnk/PwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiB2YWxpZGFyIGlucHV0Pwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiB2YWxpZGFyIGlucHV0PwogICAgLy8gVE9ETyhQYWJsbyk6IHJlZmFjdG9yIGRiYWwgY3JlYWNpw7NuIGRlIHNjaGVtYXMgZW4gbG9zIHRlc3RzCiAgICAvLyBUT0RPKFBhYmxvKTogcmVmYWN0b3IgdXNlciBwcm92aWRlciBkZSBhdXRoIHBhcmEgdXNhciB1c2VyUmVwb3NpdG9yeT8/Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0RW1haWxBc1N0cmluZygpOiBzdHJpbmcKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmVtYWlsLT5hc1N0cmluZygpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaW52YWxpZCBlbWFpbGFkZHJlc3MK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiByZWZhY3RvciBkYmFsIGNyZWFjacOzbiBkZSBzY2hlbWFzIGVuIGxvcyB0ZXN0cwogICAgLy8gVE9ETyhQYWJsbyk6IHJlZmFjdG9yIHVzZXIgcHJvdmlkZXIgZGUgYXV0aCBwYXJhIHVzYXIgdXNlclJlcG9zaXRvcnk/PwoK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiB2YWxpZGFyIGlucHV0Pwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
