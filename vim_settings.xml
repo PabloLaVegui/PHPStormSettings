@@ -21,12 +21,12 @@
         <entry>scoring</entry>
         <entry encoding="base64">XDxnZXRPcHBvcnR1bml0eUxpc3RXaXRoU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxnZXRFeHBlY3RlZFw+</entry>
-        <entry>eurotax</entry>
         <entry>iss</entry>
         <entry>status</entry>
         <entry encoding="base64">XDxDT09LSUVfSEFTSFw+</entry>
         <entry>cookie</entry>
         <entry>smsar</entry>
+        <entry>eurotax</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
@@ -100,13 +100,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1592816549949">
-        <mark key="'" line="184" column="19" />
+      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1592821432958">
+        <mark key="'" line="99" column="21" />
         <mark key="j" line="214" column="18" />
-        <mark key="[" line="188" column="27" />
-        <mark key="]" line="188" column="27" />
-        <mark key="." line="188" column="27" />
-        <mark key="^" line="177" column="30" />
+        <mark key="[" line="22" column="50" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1592477661827">
         <mark key="[" line="0" column="0" />
@@ -204,18 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="6" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userVNPreference/UserVNPreferenceCollection.php" />
-      <jump line="14" column="59" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userVNPreference/UserVNPreferenceCollection.php" />
-      <jump line="149" column="6" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userRequestsSummary/UserRequestsSummary.php" />
-      <jump line="104" column="0" filename="$USER_HOME$/Projects/request.coches.com/tests/Functional/userRequestSummary/FindUserRequestSummaryFunctionalTest.php" />
-      <jump line="17" column="6" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Gateways/DealerVNRequest/DealerVNOpportunitySummaryTransformer.php" />
-      <jump line="38" column="30" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Gateways/DealerVNRequest/DealerVNOpportunitySummaryTransformer.php" />
-      <jump line="58" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/Gateways/DealerVNRequest/DealerVNOpportunitySummaryTransformer.php" />
-      <jump line="30" column="25" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/Infrastructure/dbal/DBALQueryExpressionBuilder.php" />
-      <jump line="79" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/application/controller/DealerVNOpportunitySummaryController.php" />
-      <jump line="90" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
-      <jump line="144" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
-      <jump line="189" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
       <jump line="249" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
       <jump line="234" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
       <jump line="161" column="27" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
@@ -304,24 +292,36 @@
       <jump line="126" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env.test" />
       <jump line="128" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env.test" />
       <jump line="9" column="14" filename="$USER_HOME$/Projects/coches.com/environments/.env.test" />
+      <jump line="64" column="14" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="71" column="20" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="79" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="87" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="96" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="19" column="22" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="59" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="74" column="20" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="82" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="90" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="99" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>39470</text>
+        <text>local</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>39470</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
-        <text>smsar</text>
+        <text>eurotax</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q09PS0lFX0hBU0g6IjEyMzQ1NiIKClNNU0FSRU5BX0FVVEhfS0VZIjoiIiwKClBSQUtUT05fU1VSVkVZX1JFU1BPTlNFX1VSSSI6Imh0dHBzOi8vY29jaGVzY29tLnByYWt0b24uZXMvY3JtX0RFVi9jdXN0b20gIC9zY3JpcHRfZmV0Y2hfc3VydmV5X3Jlc3BvbnNlcy5waHAiCgpTU0FOR1lPTkdfQ0xJRU5UX0lEOiIzTVZHOTJ1X1YzVU1wVi5oVTJXRldPQmRab29aWl9xcDNfUVFwRDN6a1hpeU0yYkZnQjBXanFIRERkeEQuYVNSOFpoTFpTemN6ajg2VmJMaDVkV2J2IgpTU0FOR1lPTkdfQ0xJRU5UX1NFQ1JFVDoiOTkxNDAzMzY1ODE5MDY0ODA2IgpTU0FOR1lPTkdfVVNFUk5BTUU6InVzdWFyaW8ubWFyY2FAd3RsLmRlc2EiClNTQU5HWU9OR19QQVNTV09SRDoiJERyaV9iZXIyITE5JEhWYjFTajV5N29Zb1VkUTNORU9GeUh1QUYiClNTQU5HWU9OR19BVVRIX1VSSToiaHR0cHM6Ly90ZXN0LnNhbGVzZm9yY2UuY29tL3NlcnZpY2VzL29hdXRoMi90b2tlbiIKU1NBTkdZT05HX1NFTkRfVVJJOiJodHRwczovL2JlcmdlLS1ERVNBLmNzODYubXkuc2FsZXNmb3JjZS5jb20vc2VydmljZXMvYXBleHJlc3QvbGVhZFdlYi92MS9udWV2b0NhbmRpZGF0byIKCkhPU1RfTEVBU0VQTEFOOiJodHRwczovL2dvLnBhcmRvdC5jb20iCkxFQVNFUExBTl9JTkRJVklEVUFMX1VSTDoiJHtIT1NUX0xFQVNFUExBTn0vbC8xOTI3MDIvMjAxOS0wOS0yNy8yMXBxenMiCkxFQVNFUExBTl9JTkRJVklEVUFMX0ZST01fT0ZGRVJfVVJMOiIke0hPU1RfTEVBU0VQTEFOfS9sLzE5MjcwMi8yMDE3LTA1LTE4LzUydGtqIgpMRUFTRVBMQU5fQlVTSU5FU1NfVVJMOiIke0hPU1RfTEVBU0VQTEFOfS9sLzE5MjcwMi8yMDE5LTA5LTI3LzIxcHF5OCIKTEVBU0VQTEFOX0JVU0lORVNTX0ZST01fT0ZGRVJfVVJMOiIke0hPU1RfTEVBU0VQTEFOfS9sLzE5MjcwMi8yMDE3LTA1LTE4LzUydHFnIgpMRUFTRVBMQU5fRlJFRUxBTkNFX1VSTDoiJHtIT1NUX0xFQVNFUExBTn0vbC8xOTI3MDIvMjAxOS0wOS0yNy8yMXBxenEiCkxFQVNFUExBTl9GUkVFTEFOQ0VfRlJPTV9PRkZFUl9VUkw6IiR7SE9TVF9MRUFTRVBMQU59L2wvMTkyNzAyLzIwMTctMDUtMjYvNTRsZmQiCgpBVERfQVVUT0xPR0lOX0NJUEhFUl9TRUNSRVQ6IlhuMnI1dTh4L0E/RChHK0tiUGVTaFZtWXAzczZ2OXkkIgoKQ0NPTV9TSUdOX0NFUlRfRklMRU5BTUU6IiIKQ0NPTV9TSUdOX0NFUlRfUEFTU1dPUkQ6IiIKCkRHVF9XU0RMX1VSTDoiIgoKSE9TVF9GSU5UT05JQzoiaHR0cHM6Ly9wcmUuZmludG9uaWMuY29tIiwKSE9TVF9BUElfRklOVE9OSUM6Imh0dHBzOi8vcHJlLWxvYW5zLXdlYi1hcGkuZmludG9uaWMuY29tIgpGSU5UT05JQ19BVVRIX1VTRVI6IiIKRklOVE9OSUNfQVVUSF9QQVNTOiIiCgpTTVRQX0hPU1Q6IiIKU01UUF9QT1JUOiIiCgo=</text>
+        <text encoding="base64">I0hPU1RfRVVST1RBWD0iaHR0cDovL2V1cm90YXgubG9jYWwudGVraXMuY29jaGVzLmNvbSIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Q09PS0lFX0hBU0g9IjEyMzQ1NiIK</text>
@@ -382,13 +382,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>smsar</last-search>
+      <last-search>eurotax</last-search>
       <last-offset />
-      <last-pattern>smsar</last-pattern>
+      <last-pattern>eurotax</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
