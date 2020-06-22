@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRVc2VyUmVxdWVzdHNTdW1tYXJ5TGlzdFw+</entry>
-        <entry encoding="base64">XDxnZXRGaWx0ZXJcPg==</entry>
         <entry>count</entry>
         <entry encoding="base64">XDxnZXRTdW1tYXJ5VG90YWxDb3VudFw+</entry>
         <entry>json</entry>
@@ -27,6 +25,8 @@
         <entry>eurotax</entry>
         <entry>iss</entry>
         <entry>status</entry>
+        <entry encoding="base64">XDxDT09LSUVfSEFTSFw+</entry>
+        <entry>cookie</entry>
       </history-search>
       <history-cmd>
         <entry>140</entry>
@@ -40,7 +40,6 @@
         <entry>30</entry>
         <entry>26</entry>
         <entry>163</entry>
-        <entry>vs</entry>
         <entry>121</entry>
         <entry>q</entry>
         <entry>42</entry>
@@ -48,6 +47,7 @@
         <entry>94</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>vs</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -100,33 +100,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/DealerVnOpportunitySummaryDTO.php" timestamp="1592478461565">
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="38" />
-        <mark key="^" line="11" column="38" />
-        <mark key="." line="11" column="37" />
+      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1592812575023">
+        <mark key="'" line="184" column="19" />
+        <mark key="j" line="214" column="18" />
+        <mark key="[" line="218" column="9" />
+        <mark key="]" line="218" column="10" />
+        <mark key="." line="218" column="10" />
+        <mark key="^" line="216" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/eurotax.coches.com/config/environment/.env" timestamp="1592494929191">
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/FindDealerVnOpportunitySummaryResponse.php" timestamp="1592496580201">
-        <mark key="'" line="72" column="43" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="126" column="36" />
-      </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/tests/Functional/dealerVNOpportunitySummary/FindDealerVNOpportunitySummaryFunctionalTest.php" timestamp="1592496651793">
-        <mark key="'" line="239" column="21" />
-        <mark key="[" line="260" column="0" />
-        <mark key="]" line="260" column="0" />
-        <mark key="^" line="269" column="37" />
-        <mark key="." line="260" column="0" />
-      </file>
-      <file name="/fragment.php" timestamp="1592475139665">
+      <file name="/Dummy.txt" timestamp="1592477661827">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/callSchedule/CallScheduleNotification.php" timestamp="1592475218690">
         <mark key="'" line="60" column="0" />
@@ -134,46 +119,11 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" timestamp="1592496775018">
-        <mark key="'" line="5" column="71" />
-        <mark key="[" line="93" column="49" />
-        <mark key="]" line="93" column="48" />
-        <mark key="^" line="93" column="48" />
-        <mark key="." line="93" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" timestamp="1592480805707">
-        <mark key="[" line="452" column="23" />
-        <mark key="]" line="453" column="30" />
-        <mark key="^" line="453" column="30" />
-        <mark key="." line="453" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/jenkins/projects/coches/config.yml" timestamp="1592492895354" />
-      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/AtdVnAuthorisedDealerMigrationCommand.php" timestamp="1592549873974">
-        <mark key="[" line="133" column="43" />
-        <mark key="]" line="133" column="48" />
-        <mark key="." line="133" column="47" />
-        <mark key="^" line="133" column="48" />
-      </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/dealerVNOpportunitySummary/FilteredDoctrineDealerVNOpportunitySummaryRepositoryTest.php" timestamp="1592475651815">
-        <mark key="'" line="65" column="44" />
-        <mark key="[" line="37" column="33" />
-        <mark key="]" line="37" column="45" />
-        <mark key="." line="37" column="44" />
-        <mark key="^" line="37" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1592494885152">
-        <mark key="'" line="54" column="29" />
-        <mark key="[" line="43" column="33" />
-        <mark key="]" line="43" column="34" />
-        <mark key="." line="43" column="34" />
-      </file>
-      <file name="/PHP Console" timestamp="1592480925491">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592477661827">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/DealerVnOpportunitySummaryDTO.php" timestamp="1592478461565">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="38" />
+        <mark key="^" line="11" column="38" />
+        <mark key="." line="11" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" timestamp="1592496545677">
         <mark key="'" line="47" column="6" />
@@ -182,18 +132,78 @@
         <mark key="^" line="92" column="35" />
         <mark key="." line="284" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/dealerVNOpportunitySummary/FilteredDoctrineDealerVNOpportunitySummaryRepositoryTest.php" timestamp="1592475651815">
+        <mark key="'" line="65" column="44" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="45" />
+        <mark key="." line="37" column="44" />
+        <mark key="^" line="37" column="45" />
+      </file>
+      <file name="/fragment.php" timestamp="1592475139665">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/commands/AtdVnAuthorisedDealerMigrationCommand.php" timestamp="1592810877001">
+        <mark key="[" line="133" column="43" />
+        <mark key="]" line="133" column="46" />
+        <mark key="." line="133" column="45" />
+        <mark key="^" line="133" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1592494885152">
+        <mark key="'" line="54" column="29" />
+        <mark key="[" line="43" column="33" />
+        <mark key="]" line="43" column="34" />
+        <mark key="." line="43" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/callSchedule/CallSchedule.php" timestamp="1592475169257">
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/eurotax.coches.com/config/environment/.env" timestamp="1592810814722">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" timestamp="1592496775018">
+        <mark key="'" line="5" column="71" />
+        <mark key="[" line="93" column="49" />
+        <mark key="]" line="93" column="48" />
+        <mark key="^" line="93" column="48" />
+        <mark key="." line="93" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/FindDealerVnOpportunitySummaryResponse.php" timestamp="1592496580201">
+        <mark key="'" line="72" column="43" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="126" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/environments/.env.test" timestamp="1592812527508">
+        <mark key="'" line="128" column="21" />
+        <mark key="[" line="160" column="9" />
+        <mark key="]" line="160" column="10" />
+        <mark key="." line="160" column="10" />
+        <mark key="^" line="126" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/tests/Functional/dealerVNOpportunitySummary/FindDealerVNOpportunitySummaryFunctionalTest.php" timestamp="1592496651793">
+        <mark key="'" line="239" column="21" />
+        <mark key="[" line="260" column="0" />
+        <mark key="]" line="260" column="0" />
+        <mark key="^" line="269" column="37" />
+        <mark key="." line="260" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1592480925491">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" timestamp="1592480805707">
+        <mark key="[" line="452" column="23" />
+        <mark key="]" line="453" column="30" />
+        <mark key="^" line="453" column="30" />
+        <mark key="." line="453" column="29" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="37" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userRequestsSummary/UserRequestsSummary.php" />
-      <jump line="173" column="20" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userRequestsSummary/UserRequestsSummary.php" />
-      <jump line="150" column="25" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userRequestsSummary/UserRequestsSummary.php" />
-      <jump line="18" column="21" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userRequestsSummary/UserRequestsSummary.php" />
-      <jump line="17" column="28" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userVNPreference/UserVNPreferenceCollection.php" />
       <jump line="148" column="19" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userRequestsSummary/UserRequestsSummary.php" />
       <jump line="205" column="6" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userVNPreference/UserVNPreferenceCollection.php" />
       <jump line="14" column="59" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/userVNPreference/UserVNPreferenceCollection.php" />
@@ -289,51 +299,81 @@
       <jump line="3" column="71" filename="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" />
       <jump line="4" column="71" filename="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" />
       <jump line="5" column="71" filename="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerVNOpportunity/FindDealerVNOpportunitySummaryUseCase.php" />
+      <jump line="184" column="19" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env.test" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env.test" />
+      <jump line="126" column="0" filename="$USER_HOME$/Projects/coches.com/environments/.env.test" />
+      <jump line="128" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env.test" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>1343</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q09PS0lFX0hBU0g9IjEyMzQ1NiIK</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>1343</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text>cookie</text>
       </register>
-      <register name="0" type="4">
-        <text>578</text>
+      <register name="0" type="2">
+        <text encoding="base64">Q09PS0lFX0hBU0g6IjEyMzQ1NiIKClNNU0FSRU5BX0FVVEhfS0VZIjoiIiwKClBSQUtUT05fU1VSVkVZX1JFU1BPTlNFX1VSSSI6Imh0dHBzOi8vY29jaGVzY29tLnByYWt0b24uZXMvY3JtX0RFVi9jdXN0b20gIC9zY3JpcHRfZmV0Y2hfc3VydmV5X3Jlc3BvbnNlcy5waHAiCgpTU0FOR1lPTkdfQ0xJRU5UX0lEOiIzTVZHOTJ1X1YzVU1wVi5oVTJXRldPQmRab29aWl9xcDNfUVFwRDN6a1hpeU0yYkZnQjBXanFIRERkeEQuYVNSOFpoTFpTemN6ajg2VmJMaDVkV2J2IgpTU0FOR1lPTkdfQ0xJRU5UX1NFQ1JFVDoiOTkxNDAzMzY1ODE5MDY0ODA2IgpTU0FOR1lPTkdfVVNFUk5BTUU6InVzdWFyaW8ubWFyY2FAd3RsLmRlc2EiClNTQU5HWU9OR19QQVNTV09SRDoiJERyaV9iZXIyITE5JEhWYjFTajV5N29Zb1VkUTNORU9GeUh1QUYiClNTQU5HWU9OR19BVVRIX1VSSToiaHR0cHM6Ly90ZXN0LnNhbGVzZm9yY2UuY29tL3NlcnZpY2VzL29hdXRoMi90b2tlbiIKU1NBTkdZT05HX1NFTkRfVVJJOiJodHRwczovL2JlcmdlLS1ERVNBLmNzODYubXkuc2FsZXNmb3JjZS5jb20vc2VydmljZXMvYXBleHJlc3QvbGVhZFdlYi92MS9udWV2b0NhbmRpZGF0byIKCkhPU1RfTEVBU0VQTEFOOiJodHRwczovL2dvLnBhcmRvdC5jb20iCkxFQVNFUExBTl9JTkRJVklEVUFMX1VSTDoiJHtIT1NUX0xFQVNFUExBTn0vbC8xOTI3MDIvMjAxOS0wOS0yNy8yMXBxenMiCkxFQVNFUExBTl9JTkRJVklEVUFMX0ZST01fT0ZGRVJfVVJMOiIke0hPU1RfTEVBU0VQTEFOfS9sLzE5MjcwMi8yMDE3LTA1LTE4LzUydGtqIgpMRUFTRVBMQU5fQlVTSU5FU1NfVVJMOiIke0hPU1RfTEVBU0VQTEFOfS9sLzE5MjcwMi8yMDE5LTA5LTI3LzIxcHF5OCIKTEVBU0VQTEFOX0JVU0lORVNTX0ZST01fT0ZGRVJfVVJMOiIke0hPU1RfTEVBU0VQTEFOfS9sLzE5MjcwMi8yMDE3LTA1LTE4LzUydHFnIgpMRUFTRVBMQU5fRlJFRUxBTkNFX1VSTDoiJHtIT1NUX0xFQVNFUExBTn0vbC8xOTI3MDIvMjAxOS0wOS0yNy8yMXBxenEiCkxFQVNFUExBTl9GUkVFTEFOQ0VfRlJPTV9PRkZFUl9VUkw6IiR7SE9TVF9MRUFTRVBMQU59L2wvMTkyNzAyLzIwMTctMDUtMjYvNTRsZmQiCgpBVERfQVVUT0xPR0lOX0NJUEhFUl9TRUNSRVQ6IlhuMnI1dTh4L0E/RChHK0tiUGVTaFZtWXAzczZ2OXkkIgoKQ0NPTV9TSUdOX0NFUlRfRklMRU5BTUU6IiIKQ0NPTV9TSUdOX0NFUlRfUEFTU1dPUkQ6IiIKCkRHVF9XU0RMX1VSTDoiIgoKSE9TVF9GSU5UT05JQzoiaHR0cHM6Ly9wcmUuZmludG9uaWMuY29tIiwKSE9TVF9BUElfRklOVE9OSUM6Imh0dHBzOi8vcHJlLWxvYW5zLXdlYi1hcGkuZmludG9uaWMuY29tIgpGSU5UT05JQ19BVVRIX1VTRVI6IiIKRklOVE9OSUNfQVVUSF9QQVNTOiIiCgpTTVRQX0hPU1Q6IiIKU01UUF9QT1JUOiIiCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5maWx0ZXJCeSgpCg==</text>
+        <text encoding="base64">Q09PS0lFX0hBU0g9IjEyMzQ1NiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2lzX3N0YXJyZWQnID0+IGZhbHNlLAo=</text>
+        <text encoding="base64">Q09PS0lFX0hBU0g6IjEyMzQ1NiIK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lzX3N0YXJyZWQnID0+ICR0aGlzLT5pc1N0YXJyZWQoJHN1bW1hcnkpLAo=</text>
+      <register name="3" type="8">
+        <text>&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBEZWFsZXJWTk9wcG9ydHVuaXR5U3VtbWFyeSAkc3VtbWFyeQogICAgICogQHJldHVybiBib29sCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gaXNTdGFycmVkKERlYWxlclZOT3Bwb3J0dW5pdHlTdW1tYXJ5ICRzdW1tYXJ5KQogICAgewogICAgICAgIHJldHVybiAkc3VtbWFyeS0+aXNTdGFycmVkKCkgPzogZmFsc2U7CiAgICB9Cg==</text>
+        <text encoding="base64">TVlTUUxfUE9SVD0zMzA4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UE9SVF9EQVRBX0JBU0U9MzMwOAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBib29sfG51bGwKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGlzU3RhcnJlZCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5wcmVmZXJlbmNlcwogICAgICAgICAgICA/ICR0aGlzLT5wcmVmZXJlbmNlcy0+aXNTdGFycmVkKCkKICAgICAgICAgICAgOiBudWxsOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5maWx0ZXJCeSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkb3Bwb3J0dW5pdHlMaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2lzX3N0YXJyZWQnID0+IGZhbHNlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChudWxsID09PSAkc3VtbWFyeS0+Z2V0UHJlZmVyZW5jZXMoKSkgewogICAgICAgICAgICAgICAgICAgICRzdW1tYXJ5LT5zZXRTY29yZShzZWxmOjpTQ09SRV9XSVRIT1VUX1BSRUZFUkVOQ0VTKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgJHN1bW1hcnktPnNldFNjb3JlKAogICAgICAgICAgICAgICAgICAgICAgICAkY2FsY3VsYXRvci0+ZXhlY3V0ZSgkc3VtbWFyeS0+Z2V0UHJlZmVyZW5jZXMoKSkKICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2lzX3N0YXJyZWQnID0+ICR0aGlzLT5pc1N0YXJyZWQoJHN1bW1hcnkpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBEZWFsZXJWTk9wcG9ydHVuaXR5U3VtbWFyeSAkc3VtbWFyeQogICAgICogQHJldHVybiBib29sCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gaXNTdGFycmVkKERlYWxlclZOT3Bwb3J0dW5pdHlTdW1tYXJ5ICRzdW1tYXJ5KQogICAgewogICAgICAgIHJldHVybiAkc3VtbWFyeS0+aXNTdGFycmVkKCkgPzogZmFsc2U7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -342,9 +382,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>status</last-search>
+      <last-search>cookie</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern>cookie</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
       <last-dir>1</last-dir>
