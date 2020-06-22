@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxUWVBFX0RFQUxFUl9WTl9TVE9DS1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>55</entry>
         <entry>106</entry>
         <entry>264</entry>
         <entry>145</entry>
@@ -49,6 +48,7 @@
         <entry>137</entry>
         <entry>wa</entry>
         <entry>qa</entry>
+        <entry>.,.+6wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -100,8 +100,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1592821432958">
-        <mark key="'" line="99" column="21" />
+      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1592831898062">
+        <mark key="'" line="8" column="6" />
         <mark key="j" line="214" column="18" />
         <mark key="[" line="22" column="50" />
         <mark key="]" line="23" column="0" />
@@ -139,9 +139,6 @@
         <mark key="." line="37" column="44" />
         <mark key="^" line="37" column="45" />
       </file>
-      <file name="/fragment.php" timestamp="1592475139665">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1592494885152">
         <mark key="'" line="54" column="29" />
         <mark key="[" line="43" column="33" />
@@ -166,7 +163,7 @@
         <mark key="^" line="93" column="48" />
         <mark key="." line="93" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/models/User/User.php" timestamp="1592822398572">
+      <file name="$USER_HOME$/Projects/coches.com/models/User/User.php" timestamp="1592823490225">
         <mark key="'" line="140" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/models/VN/VNAuthorisedDealer.php" timestamp="1592823470358" />
@@ -191,7 +188,7 @@
         <mark key="^" line="269" column="37" />
         <mark key="." line="260" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1592480925491">
+      <file name="/PHP Console" timestamp="1592833394496">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" timestamp="1592480805707">
@@ -202,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
       <jump line="161" column="27" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
       <jump line="299" column="18" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
       <jump line="293" column="9" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
@@ -302,6 +298,7 @@
       <jump line="90" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="99" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="140" column="10" filename="$USER_HOME$/Projects/coches.com/models/User/User.php" />
+      <jump line="8" column="6" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -374,7 +371,7 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBEZWFsZXJWTk9wcG9ydHVuaXR5U3VtbWFyeSAkc3VtbWFyeQogICAgICogQHJldHVybiBib29sCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gaXNTdGFycmVkKERlYWxlclZOT3Bwb3J0dW5pdHlTdW1tYXJ5ICRzdW1tYXJ5KQogICAgewogICAgICAgIHJldHVybiAkc3VtbWFyeS0+aXNTdGFycmVkKCkgPzogZmFsc2U7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>.,.+6wa</text>
       </register>
     </registers>
   </component>
@@ -386,7 +383,7 @@
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
