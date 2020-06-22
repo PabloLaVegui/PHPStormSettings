@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>json</entry>
         <entry>serial</entry>
         <entry>fromraw</entry>
         <entry encoding="base64">XDxwcmVmZXJlbmNlc1w+</entry>
@@ -27,6 +26,7 @@
         <entry>smsar</entry>
         <entry>eurotax</entry>
         <entry encoding="base64">XDxUWVBFX0RFQUxFUl9WTl9TVE9DS1w+</entry>
+        <entry encoding="base64">XDxUWVBFX0RFQUxFUl9WT19TVE9DS1w+</entry>
       </history-search>
       <history-cmd>
         <entry>106</entry>
@@ -139,16 +139,14 @@
         <mark key="." line="37" column="44" />
         <mark key="^" line="37" column="45" />
       </file>
+      <file name="/fragment.php" timestamp="1592835750606">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1592494885152">
         <mark key="'" line="54" column="29" />
         <mark key="[" line="43" column="33" />
         <mark key="]" line="43" column="34" />
         <mark key="." line="43" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/callSchedule/CallSchedule.php" timestamp="1592475169257">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/eurotax.coches.com/config/environment/.env" timestamp="1592810814722">
         <mark key="[" line="4" column="21" />
@@ -163,10 +161,9 @@
         <mark key="^" line="93" column="48" />
         <mark key="." line="93" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/models/User/User.php" timestamp="1592823490225">
-        <mark key="'" line="140" column="10" />
+      <file name="$USER_HOME$/Projects/coches.com/models/User/User.php" timestamp="1592836036309">
+        <mark key="'" line="142" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/coches.com/models/VN/VNAuthorisedDealer.php" timestamp="1592823470358" />
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/FindDealerVnOpportunitySummaryResponse.php" timestamp="1592496580201">
         <mark key="'" line="72" column="43" />
         <mark key="[" line="76" column="0" />
@@ -188,7 +185,7 @@
         <mark key="^" line="269" column="37" />
         <mark key="." line="260" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1592833394496">
+      <file name="/PHP Console" timestamp="1592835784484">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" timestamp="1592480805707">
@@ -199,8 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="27" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
-      <jump line="299" column="18" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
       <jump line="293" column="9" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
       <jump line="314" column="6" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
       <jump line="325" column="20" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
@@ -299,6 +294,8 @@
       <jump line="99" column="21" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="140" column="10" filename="$USER_HOME$/Projects/coches.com/models/User/User.php" />
       <jump line="8" column="6" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
+      <jump line="2287" column="29" filename="$USER_HOME$/Projects/coches.com/models/User/User.php" />
+      <jump line="142" column="10" filename="$USER_HOME$/Projects/coches.com/models/User/User.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,7 +310,7 @@
         <text>local</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUWVBFX0RFQUxFUl9WTl9TVE9DS1w+</text>
+        <text encoding="base64">XDxUWVBFX0RFQUxFUl9WT19TVE9DS1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I0hPU1RfRVVST1RBWD0iaHR0cDovL2V1cm90YXgubG9jYWwudGVraXMuY29jaGVzLmNvbSIK</text>
@@ -377,9 +374,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxUWVBFX0RFQUxFUl9WTl9TVE9DS1w+</last-search>
+      <last-search encoding="base64">XDxUWVBFX0RFQUxFUl9WT19TVE9DS1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUWVBFX0RFQUxFUl9WTl9TVE9DS1w+</last-pattern>
+      <last-pattern encoding="base64">XDxUWVBFX0RFQUxFUl9WT19TVE9DS1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
       <last-dir>-1</last-dir>
