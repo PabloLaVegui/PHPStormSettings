@@ -43,12 +43,12 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
         <entry>137</entry>
-        <entry>wa</entry>
         <entry>.,.+6wa</entry>
         <entry>70</entry>
         <entry>vs</entry>
         <entry>q</entry>
         <entry>qa</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -113,7 +113,6 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/campaign/CampaignController.php" timestamp="1592924624269" />
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" timestamp="1592496545677">
         <mark key="'" line="47" column="6" />
         <mark key="[" line="284" column="0" />
@@ -129,6 +128,12 @@
         <mark key="[" line="43" column="33" />
         <mark key="]" line="43" column="34" />
         <mark key="." line="43" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerCampaign/dealerCampaignPage.js" timestamp="1592983902610">
+        <mark key="[" line="43" column="23" />
+        <mark key="]" line="43" column="28" />
+        <mark key="." line="43" column="27" />
+        <mark key="^" line="43" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/eurotax.coches.com/config/environment/.env" timestamp="1592810814722">
         <mark key="[" line="4" column="21" />
@@ -150,7 +155,6 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="126" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/tests/unit/infrastructure/dbal/CampaignDealerRequest/DBALCampaignDealerRequestRepositoryTest.php" timestamp="1592920992475" />
       <file name="$USER_HOME$/Projects/coches.com/environments/.env.test" timestamp="1592816545925">
         <mark key="'" line="9" column="14" />
         <mark key="[" line="130" column="27" />
@@ -281,27 +285,30 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>local</text>
+        <text>true</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUWVBFX0RFQUxFUl9WT19TVE9DS1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I0hPU1RfRVVST1RBWD0iaHR0cDovL2V1cm90YXgubG9jYWwudGVraXMuY29jaGVzLmNvbSIK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcmVzcG9uc2UgPSB0cnVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q09PS0lFX0hBU0g9IjEyMzQ1NiIK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGFyZ2V0IGRhdGFzZXQ6ICcsIHRhcmdldC5kYXRhc2V0KTsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Q09PS0lFX0hBU0g9IjEyMzQ1NiIK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Q09PS0lFX0hBU0g6IjEyMzQ1NiIK</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>&quot;
 &quot;
 &quot;
@@ -329,26 +336,23 @@
 &quot;
 &quot;</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">TVlTUUxfUE9SVD0zMzA4Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">UE9SVF9EQVRBX0JBU0U9MzMwOAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT5maWx0ZXJCeSgpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2lzX3N0YXJyZWQnID0+IGZhbHNlLAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2lzX3N0YXJyZWQnID0+ICR0aGlzLT5pc1N0YXJyZWQoJHN1bW1hcnkpLAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBEZWFsZXJWTk9wcG9ydHVuaXR5U3VtbWFyeSAkc3VtbWFyeQogICAgICogQHJldHVybiBib29sCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gaXNTdGFycmVkKERlYWxlclZOT3Bwb3J0dW5pdHlTdW1tYXJ5ICRzdW1tYXJ5KQogICAgewogICAgICAgIHJldHVybiAkc3VtbWFyeS0+aXNTdGFycmVkKCkgPzogZmFsc2U7CiAgICB9Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
