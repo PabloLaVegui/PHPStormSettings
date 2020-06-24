@@ -116,12 +116,12 @@
         <mark key="^" line="26" column="49" />
         <mark key="." line="26" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/User/Infrastructure/DoctrineUserRepository.php" timestamp="1592951731961">
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/User/Infrastructure/DoctrineUserRepository.php" timestamp="1593019943763">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="111" column="28" />
-        <mark key="]" line="111" column="28" />
-        <mark key="." line="111" column="28" />
-        <mark key="^" line="112" column="24" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="114" column="63" />
+        <mark key="." line="114" column="62" />
+        <mark key="^" line="114" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/src/Action/Admin/User/CreateUserAction.php" timestamp="1592866597387">
         <mark key="'" line="56" column="0" />
@@ -178,12 +178,12 @@
         <mark key="^" line="17" column="49" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/apps/Api/Admin/User/DeleteUserTest.php" timestamp="1592953752622">
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/apps/Api/Admin/User/DeleteUserTest.php" timestamp="1593019819153">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="57" column="53" />
-        <mark key="]" line="58" column="38" />
-        <mark key="^" line="58" column="38" />
-        <mark key="." line="58" column="37" />
+        <mark key="[" line="45" column="35" />
+        <mark key="]" line="45" column="35" />
+        <mark key="^" line="45" column="36" />
+        <mark key="." line="45" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/src/Hi/Infrastructure/Query/DbalHiProviderTest.php" timestamp="1592861256398">
         <mark key="[" line="18" column="0" />
@@ -328,46 +328,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>borrar tambien la relación</text>
+        <text>'</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>borrar tambien la relación</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRVc2VyU2NoZW1hXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWM6OmFzc2VydENvdW50KDEsICR0aGlzLT5zdG9yZWRVc2VyUm9sZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIi9hZG1pbi91c2VyL3skdXNlcklkLT5hc1N0cmluZygpfSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBzdGF0aWM6OiRkYkNvbm5lY3Rpb24tPmZldGNoQWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKFBhYmxvKTogRGVsZXRlIHRoZSByZWxhdGlvbiB3aXRoIHVzZXJfcm9sZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oUGFibG8pOiB0aGluayBob3cgZGVjdXBsZSB0aGUgdGVzdHMgZnJvbSBkb2N0cmluZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIERhdGVUaW1lOwp1c2UgTGF2ZWd1aVxTaG9wYVxBZG1pblxVc2VyXERvbWFpblxFbWFpbDsKdXNlIExhdmVndWlcU2hvcGFcQWRtaW5cVXNlclxEb21haW5cUm9sZTsKdXNlIExhdmVndWlcU2hvcGFcQWRtaW5cVXNlclxEb21haW5cUm9sZUVudW07CnVzZSBMYXZlZ3VpXFNob3BhXEFkbWluXFVzZXJcRG9tYWluXFVzZXI7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBzdGF0aWM6OiRkYkNvbm5lY3Rpb24tPmZldGNoQWxsKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdjcmVhdGUnCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIERhdGVUaW1lOwp1c2UgTGF2ZWd1aVxTaG9wYVxBZG1pblxVc2VyXERvbWFpblxFbWFpbDsKdXNlIExhdmVndWlcU2hvcGFcQWRtaW5cVXNlclxEb21haW5cUm9sZTsKdXNlIExhdmVndWlcU2hvcGFcQWRtaW5cVXNlclxEb21haW5cUm9sZUVudW07CnVzZSBMYXZlZ3VpXFNob3BhXEFkbWluXFVzZXJcRG9tYWluXFVzZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IG5ldyBVc2VyKAogICAgICAgICAgICBuZXcgRW1haWwoJ3Rlc3RAdGVzdC5jb20nKSwKICAgICAgICAgICAgJ3Bhc3N3b3JkJywKICAgICAgICAgICAgbmV3IFJvbGUoUm9sZUVudW06OkFETUlOKSwKICAgICAgICAgICAgbmV3IERhdGVUaW1lKCkKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjcmVhdGUnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSWQ6OmZyb21VdWlkKFV1aWQ6OnV1aWQ0KCkpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkdXNlciA9IG5ldyBVc2VyKAogICAgICAgICAgICBuZXcgRW1haWwoJ3Rlc3RAdGVzdC5jb20nKSwKICAgICAgICAgICAgJ3Bhc3N3b3JkJywKICAgICAgICAgICAgbmV3IFJvbGUoUm9sZUVudW06OkFETUlOKSwKICAgICAgICAgICAgbmV3IERhdGVUaW1lKCkKICAgICAgICApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSWQ6OmZyb21VdWlkKFV1aWQ6OnV1aWQ0KCkpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
