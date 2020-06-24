@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>serial</entry>
-        <entry>fromraw</entry>
-        <entry encoding="base64">XDxwcmVmZXJlbmNlc1w+</entry>
         <entry encoding="base64">XDxnZXRDYWxsU2NoZWR1bGVTZXJpYWxpemVkXD4=</entry>
         <entry>serialize</entry>
         <entry>callschedule</entry>
@@ -27,6 +24,9 @@
         <entry>eurotax</entry>
         <entry encoding="base64">XDxUWVBFX0RFQUxFUl9WTl9TVE9DS1w+</entry>
         <entry encoding="base64">XDxUWVBFX0RFQUxFUl9WT19TVE9DS1w+</entry>
+        <entry encoding="base64">XDxkZWFsZXJDYW1wYWlnblJlcG9zaXRvcnlcPg==</entry>
+        <entry encoding="base64">XDxjYW1wYWlnblR5cGVcPg==</entry>
+        <entry encoding="base64">XDxjYW1wYWlnblJlcG9zaXRvcnlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>264</entry>
@@ -45,9 +45,9 @@
         <entry>137</entry>
         <entry>.,.+6wa</entry>
         <entry>70</entry>
+        <entry>qa</entry>
         <entry>vs</entry>
         <entry>q</entry>
-        <entry>qa</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -113,6 +113,13 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/campaign/CampaignController.php" timestamp="1592989503524" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/DealerVNRequest/campaign/partials/showcase.twig" timestamp="1592990017133">
+        <mark key="[" line="35" column="17" />
+        <mark key="]" line="35" column="17" />
+        <mark key="." line="35" column="17" />
+        <mark key="^" line="34" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" timestamp="1592496545677">
         <mark key="'" line="47" column="6" />
         <mark key="[" line="284" column="0" />
@@ -123,17 +130,18 @@
       <file name="/fragment.php" timestamp="1592836059900">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1592494885152">
+      <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1592988800658">
         <mark key="'" line="54" column="29" />
         <mark key="[" line="43" column="33" />
         <mark key="]" line="43" column="34" />
         <mark key="." line="43" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerCampaign/dealerCampaignPage.js" timestamp="1592983902610">
-        <mark key="[" line="43" column="23" />
-        <mark key="]" line="43" column="28" />
-        <mark key="." line="43" column="27" />
-        <mark key="^" line="43" column="28" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerCampaign/dealerCampaignPage.js" timestamp="1592990073599">
+        <mark key="'" line="2" column="7" />
+        <mark key="[" line="34" column="37" />
+        <mark key="]" line="34" column="41" />
+        <mark key="." line="34" column="40" />
+        <mark key="^" line="34" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/eurotax.coches.com/config/environment/.env" timestamp="1592810814722">
         <mark key="[" line="4" column="21" />
@@ -148,6 +156,12 @@
         <mark key="^" line="93" column="48" />
         <mark key="." line="93" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/DealerVNRequest/campaign/partials/vip.twig" timestamp="1592990028329">
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="17" />
+        <mark key="." line="33" column="17" />
+        <mark key="^" line="32" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/FindDealerVnOpportunitySummaryResponse.php" timestamp="1592496580201">
         <mark key="'" line="72" column="43" />
         <mark key="[" line="76" column="0" />
@@ -155,6 +169,7 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="126" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/DealerVNRequest/campaign/campaign.twig" timestamp="1592989691407" />
       <file name="$USER_HOME$/Projects/coches.com/environments/.env.test" timestamp="1592816545925">
         <mark key="'" line="9" column="14" />
         <mark key="[" line="130" column="27" />
@@ -172,19 +187,24 @@
       <file name="/PHP Console" timestamp="1592923838766">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/request.coches.com/src/application/dependencies.php" timestamp="1592480805707">
-        <mark key="[" line="452" column="23" />
-        <mark key="]" line="453" column="30" />
-        <mark key="^" line="453" column="30" />
-        <mark key="." line="453" column="29" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/repository/vn/dealerCampaign/dealerCampaignRepository.js" timestamp="1592988637536">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="11" column="10" />
+        <mark key="." line="11" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/DealerVNRequest/campaign/partials/advertising.twig" timestamp="1592990038681">
+        <mark key="[" line="33" column="16" />
+        <mark key="]" line="33" column="16" />
+        <mark key="^" line="33" column="17" />
+        <mark key="." line="33" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/repository/vn/interactionNote/DealerInteractionNoteRepository.js" timestamp="1592988751417">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="70" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="9" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
-      <jump line="314" column="6" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
-      <jump line="325" column="20" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
-      <jump line="42" column="4" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
-      <jump line="53" column="39" filename="$USER_HOME$/Projects/request.coches.com/src/domain/useCase/dealerUserInteraction/FindDealerVnOpportunitySummaryResponse.php" />
       <jump line="271" column="52" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/dealerVNOpportunitySummary/DoctrineDealerVNOpportunitySummaryRepositoryTest.php" />
       <jump line="302" column="54" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/dealerVNOpportunitySummary/DoctrineDealerVNOpportunitySummaryRepositoryTest.php" />
       <jump line="601" column="45" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/dealerVNOpportunitySummary/DoctrineDealerVNOpportunitySummaryRepositoryTest.php" />
@@ -280,35 +300,49 @@
       <jump line="8" column="6" filename="$USER_HOME$/Projects/coches.com/environments/.env" />
       <jump line="2287" column="29" filename="$USER_HOME$/Projects/coches.com/models/User/User.php" />
       <jump line="142" column="10" filename="$USER_HOME$/Projects/coches.com/models/User/User.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerCampaign/dealerCampaignPage.js" />
+      <jump line="47" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerCampaign/dealerCampaignPage.js" />
+      <jump line="35" column="12" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerCampaign/dealerCampaignPage.js" />
+      <jump line="40" column="48" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerCampaign/dealerCampaignPage.js" />
+      <jump line="2" column="7" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerCampaign/dealerCampaignPage.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>-</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUWVBFX0RFQUxFUl9WT19TVE9DS1w+</text>
+        <text encoding="base64">XDxjYW1wYWlnblJlcG9zaXRvcnlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcmVzcG9uc2UgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS1jYW1wYWlnbi10eXBlPSIxIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGFyZ2V0IGRhdGFzZXQ6ICcsIHRhcmdldC5kYXRhc2V0KTsK</text>
+        <text encoding="base64">ICAgICAgICBkZWFsZXJDYW1wYWlnblJlcG9zaXRvcnkoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q09PS0lFX0hBU0g9IjEyMzQ1NiIK</text>
+        <text encoding="base64">aW1wb3J0IGRlYWxlckNhbXBhaWduUmVwb3NpdG9yeQogICAgZnJvbSAiLi4vLi4vLi4vcmVwb3NpdG9yeS92bi9kZWFsZXJDYW1wYWlnbi9kZWFsZXJDYW1wYWlnblJlcG9zaXRvcnkiOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGFyZ2V0IGRhdGFzZXQ6ICcsIHRhcmdldC5kYXRhc2V0KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Q09PS0lFX0hBU0g9IjEyMzQ1NiIK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Q09PS0lFX0hBU0g6IjEyMzQ1NiIK</text>
       </register>
-      <register name="4" type="8">
+      <register name="7" type="8">
         <text>&quot;
 &quot;
 &quot;
@@ -336,20 +370,11 @@
 &quot;
 &quot;</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">TVlTUUxfUE9SVD0zMzA4Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">UE9SVF9EQVRBX0JBU0U9MzMwOAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5maWx0ZXJCeSgpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2lzX3N0YXJyZWQnID0+IGZhbHNlLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lzX3N0YXJyZWQnID0+ICR0aGlzLT5pc1N0YXJyZWQoJHN1bW1hcnkpLAo=</text>
+        <text encoding="base64">UE9SVF9EQVRBX0JBU0U9MzMwOAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -358,9 +383,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxUWVBFX0RFQUxFUl9WT19TVE9DS1w+</last-search>
+      <last-search encoding="base64">XDxjYW1wYWlnblJlcG9zaXRvcnlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUWVBFX0RFQUxFUl9WT19TVE9DS1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjYW1wYWlnblJlcG9zaXRvcnlcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
       <last-dir>-1</last-dir>
