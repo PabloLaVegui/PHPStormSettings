@@ -47,8 +47,8 @@
         <entry>70</entry>
         <entry>vs</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>qa</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -100,19 +100,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/coches.com/environments/.env" timestamp="1592831898062">
-        <mark key="'" line="8" column="6" />
-        <mark key="j" line="214" column="18" />
-        <mark key="[" line="22" column="50" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592921178738">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-      </file>
       <file name="$USER_HOME$/Projects/coches.com/sass/coches/newStructure/brandday.scss" timestamp="1593072026323">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="22" />
@@ -123,10 +110,6 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Solicitud.php" timestamp="1593167968120" />
-      <file name="/fragment.php" timestamp="1592836059900">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/environments/.env" timestamp="1592988800658">
         <mark key="'" line="54" column="29" />
@@ -145,13 +128,8 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/campaign/CampaignCreateController.php" timestamp="1593014277965">
-        <mark key="[" line="44" column="34" />
-        <mark key="]" line="44" column="38" />
-        <mark key="." line="44" column="37" />
-        <mark key="^" line="44" column="38" />
-      </file>
-      <file name="/PHP Console" timestamp="1592923838766">
+      <file name="$USER_HOME$/Projects/coches.com/vendor/cochescom/core.coches.com/classified/src/domainModel/classified/vo/ClassifiedVO.php" timestamp="1593169089971" />
+      <file name="/PHP Console" timestamp="1593169825319">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/repository/vn/dealerCampaign/dealerCampaignRepository.js" timestamp="1593012940744">
@@ -160,16 +138,26 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Solicitud.php" timestamp="1593167968120" />
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/campaign/CampaignCreateController.php" timestamp="1593014277965">
+        <mark key="[" line="44" column="34" />
+        <mark key="]" line="44" column="38" />
+        <mark key="." line="44" column="37" />
+        <mark key="^" line="44" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/coches.com/models/Car/CarForm.php" timestamp="1593169188833" />
+      <file name="$USER_HOME$/Projects/coches.com/extensions/CarRequestForm/CarVORequestForm.php" timestamp="1593169760175">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/DealerVNRequest/campaign/partials/advertising.twig" timestamp="1593013904566">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/repository/vn/interactionNote/DealerInteractionNoteRepository.js" timestamp="1592988751417">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="70" />
-      </file>
+      <file name="$USER_HOME$/Projects/coches.com/models/Car/Car.php" timestamp="1593169291331" />
       <file name="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateRemoteRequestUseCase.php" timestamp="1593156564935" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" timestamp="1593010065100">
         <mark key="[" line="226" column="20" />
@@ -283,8 +271,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>bRenaultMegane</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgncGF0YXRhcycpO2RpZTsK</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
@@ -299,34 +287,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnNlbmRHdG1FdmVudCh0eXBlR3RtKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS1uYW1lPSJkaXNwbGF5Igo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgncGF0YXRhcycpO2RpZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS1uYW1lPSJldmVudHMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS1uYW1lPSJkaXNwbGF5Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS1uYW1lPSJjbGFzc2lmaWVkcyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS1uYW1lPSJldmVudHMiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsZXQgdHlwZUd0bSA9IHRhcmdldC5kYXRhc2V0Lm5hbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS1uYW1lPSJjbGFzc2lmaWVkcyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBnZXRHdG1TdHJpbmdGcm9tVHlwZShjYW1wYWlnblR5cGUpIHsKICAgICAgICBjb25zdCBnbXRTdHJpbmdNYXAgPSB7CiAgICAgICAgICAgIDA6ICdjbGFzc2lmaWVkcycsCiAgICAgICAgICAgIDE6ICdldmVudHMnLAogICAgICAgICAgICAyOiAnZGlzcGxheScKICAgICAgICB9OwoKICAgICAgICByZXR1cm4gZ210U3RyaW5nTWFwW2NhbXBhaWduVHlwZV07CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBsZXQgdHlwZUd0bSA9IHRhcmdldC5kYXRhc2V0Lm5hbWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHlwZUd0bSAnLCB0eXBlR3RtKTsK</text>
+        <text encoding="base64">CiAgICBnZXRHdG1TdHJpbmdGcm9tVHlwZShjYW1wYWlnblR5cGUpIHsKICAgICAgICBjb25zdCBnbXRTdHJpbmdNYXAgPSB7CiAgICAgICAgICAgIDA6ICdjbGFzc2lmaWVkcycsCiAgICAgICAgICAgIDE6ICdldmVudHMnLAogICAgICAgICAgICAyOiAnZGlzcGxheScKICAgICAgICB9OwoKICAgICAgICByZXR1cm4gZ210U3RyaW5nTWFwW2NhbXBhaWduVHlwZV07CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0aGlzLnNlbmRHdG1FdmVudCh0eXBlR3RtKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHlwZUd0bSAnLCB0eXBlR3RtKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ210ICcsIGdtdFN0cmluZ01hcFtjYW1wYWlnblR5cGVdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0aGlzLnNlbmRHdG1FdmVudCh0eXBlR3RtKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBnZXRHdG1TdHJpbmdGcm9tVHlwZSgkY2FtcGFpZ25UeXBlKSB7CiAgICAgICAgY29uc3QgZ210U3RyaW5nTWFwID0gewogICAgICAgICAgICAwOiAnJwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ210ICcsIGdtdFN0cmluZ01hcFtjYW1wYWlnblR5cGVdKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
