@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>callschedule</entry>
         <entry encoding="base64">XDxzZXJpYWxpemVcPg==</entry>
         <entry>jsons</entry>
         <entry>session</entry>
@@ -27,9 +26,9 @@
         <entry encoding="base64">XDxjYW1wYWlnblJlcG9zaXRvcnlcPg==</entry>
         <entry encoding="base64">XDxnZXRHdG1TdHJpbmdGcm9tVHlwZVw+</entry>
         <entry encoding="base64">XDx0eXBlR3RtXD4=</entry>
+        <entry encoding="base64">XDxfaXNTdG9ja1ZORGVhbGVyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>wa\</entry>
         <entry>193</entry>
         <entry>43</entry>
         <entry>30</entry>
@@ -49,6 +48,7 @@
         <entry>wa</entry>
         <entry>299</entry>
         <entry>373</entry>
+        <entry>136</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -100,6 +100,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/coches.com/models/Car/CocheBusquedas.php" timestamp="1593172215109">
+        <mark key="'" line="185" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/coches.com/sass/coches/newStructure/brandday.scss" timestamp="1593072026323">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="22" />
@@ -112,12 +115,6 @@
         <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/models/SignUp/SignUpForm.php" timestamp="1593170583511" />
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerCampaign/dealerCampaignPage.js" timestamp="1593013873795">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="58" column="50" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/views/mizonaDesign/DealerVNRequest/campaign/partials/vip.twig" timestamp="1593013900818">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -127,17 +124,12 @@
       <file name="/PHP Console" timestamp="1593170947947">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/repository/vn/dealerCampaign/dealerCampaignRepository.js" timestamp="1593012940744">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="27" />
-        <mark key="^" line="12" column="27" />
-        <mark key="." line="12" column="26" />
-      </file>
       <file name="$USER_HOME$/Projects/coches.com/models/DeprecatedModels/Solicitud.php" timestamp="1593167968120" />
-      <file name="/fragment.php" timestamp="1593171179006">
+      <file name="/fragment.php" timestamp="1593171989668">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/controllers/SignUpController.php" timestamp="1593170285133" />
+      <file name="$USER_HOME$/Projects/pasarela.coches.com/docker/mysql/1_coches_qa1.sql" timestamp="1593172775457" />
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/campaign/CampaignCreateController.php" timestamp="1593014277965">
         <mark key="[" line="44" column="34" />
         <mark key="]" line="44" column="38" />
@@ -158,15 +150,9 @@
       </file>
       <file name="$USER_HOME$/Projects/coches.com/models/Car/Car.php" timestamp="1593169291331" />
       <file name="$USER_HOME$/Projects/crmmigrations/src/application/UseCases/requests/CreateRemoteRequestUseCase.php" timestamp="1593156564935" />
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/.htaccess" timestamp="1593010065100">
-        <mark key="[" line="226" column="20" />
-        <mark key="]" line="226" column="21" />
-        <mark key="." line="226" column="20" />
-      </file>
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" timestamp="1593168069075" />
     </filemarks>
     <jumps>
-      <jump line="703" column="57" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/dealerVNOpportunitySummary/DoctrineDealerVNOpportunitySummaryRepositoryTest.php" />
       <jump line="734" column="56" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/dealerVNOpportunitySummary/DoctrineDealerVNOpportunitySummaryRepositoryTest.php" />
       <jump line="776" column="72" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/dealerVNOpportunitySummary/DoctrineDealerVNOpportunitySummaryRepositoryTest.php" />
       <jump line="172" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
@@ -266,6 +252,7 @@
       <jump line="132" column="4" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerCampaign/dealerCampaignPage.js" />
       <jump line="34" column="15" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerCampaign/dealerCampaignPage.js" />
       <jump line="96" column="40" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/js/src/infrastructure/ui/vn/dealerCampaign/dealerCampaignPage.js" />
+      <jump line="185" column="21" filename="$USER_HOME$/Projects/coches.com/models/Car/CocheBusquedas.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -280,7 +267,7 @@
         <text>bRenaultMegane</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0eXBlR3RtXD4=</text>
+        <text encoding="base64">XDxfaXNTdG9ja1ZORGVhbGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnNlbmRHdG1FdmVudCh0eXBlR3RtKTsK</text>
@@ -313,19 +300,19 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ210ICcsIGdtdFN0cmluZ01hcFtjYW1wYWlnblR5cGVdKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>373</text>
+        <text>136</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0eXBlR3RtXD4=</last-search>
+      <last-search encoding="base64">XDxfaXNTdG9ja1ZORGVhbGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0eXBlR3RtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfaXNTdG9ja1ZORGVhbGVyXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
