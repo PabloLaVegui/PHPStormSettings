@@ -18,7 +18,6 @@
         <entry encoding="base64">XDxhcGlLZXlcPg==</entry>
         <entry>200</entry>
         <entry>401</entry>
-        <entry>class</entry>
         <entry encoding="base64">XDxmcm9tVXNlckRhdGFUb1VzZXJcPg==</entry>
         <entry encoding="base64">XDxzZXRVc2VyU2NoZW1hXD4=</entry>
         <entry>in: query</entry>
@@ -27,6 +26,7 @@
         <entry>invalild</entry>
         <entry encoding="base64">XDxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb25cPg==</entry>
         <entry>hi</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -43,12 +43,12 @@
         <entry>193</entry>
         <entry>43</entry>
         <entry>58</entry>
-        <entry>w</entry>
-        <entry>vs</entry>
         <entry>qa</entry>
+        <entry>x</entry>
+        <entry>vs</entry>
+        <entry>w</entry>
         <entry>q</entry>
         <entry>wa</entry>
-        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -100,22 +100,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/vendor/doctrine/dbal/lib/Doctrine/DBAL/Query/QueryBuilder.php" timestamp="1592951566123">
-        <mark key="[" line="529" column="0" />
-        <mark key="]" line="531" column="45" />
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/config/routes/routes.yaml" timestamp="1593554719322">
+        <mark key="[" line="14" column="50" />
+        <mark key="]" line="14" column="81" />
+        <mark key="." line="14" column="80" />
+        <mark key="^" line="14" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/config/routes/routes.yaml" timestamp="1593465127646">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="4" column="26" />
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/Product/Category/Infrastructure/CategoryRepository.php" timestamp="1593556724108">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="1" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/apps/Api/Admin/User/DeleteUserTest.php" timestamp="1593464253004">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="87" column="22" />
-        <mark key="]" line="87" column="38" />
-        <mark key="." line="87" column="37" />
-        <mark key="^" line="87" column="38" />
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/Product/Category/Domain/CategoryRepository.php" timestamp="1593556799575">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="3" column="54" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/src/Action/Admin/User/DeleteUserAction.php" timestamp="1593464703209">
         <mark key="'" line="28" column="17" />
@@ -123,8 +125,17 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1593462506782">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Migrations/src/Version20200630221227.php" timestamp="1593555878547">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="30" column="38" />
+        <mark key="^" line="35" column="47" />
+        <mark key="." line="35" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/Product/Category/Domain/Category.php" timestamp="1593556615761">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/README.md" timestamp="1593466917209">
         <mark key="'" line="21" column="9" />
@@ -133,33 +144,28 @@
         <mark key="^" line="96" column="62" />
         <mark key="." line="96" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/src/Shared/Domain/Value/IdTest.php" timestamp="1593464456126">
-        <mark key="[" line="44" column="34" />
-        <mark key="]" line="44" column="35" />
-        <mark key="^" line="44" column="35" />
-        <mark key="." line="44" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/User/Infrastructure/DoctrineUserRepository.php" timestamp="1593463494357">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="123" column="22" />
-        <mark key="]" line="123" column="36" />
-        <mark key="." line="123" column="35" />
-        <mark key="^" line="123" column="36" />
-      </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/.phpunit/phpunit-7.5-0/vendor/phar-io/version/README.md" timestamp="1593465061386">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" timestamp="1593464746400">
-        <mark key="[" line="91" column="23" />
-        <mark key="]" line="91" column="34" />
-        <mark key="." line="91" column="33" />
-        <mark key="^" line="91" column="34" />
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" timestamp="1593554535367">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+        <mark key="^" line="115" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.example.yaml" timestamp="1593463761788">
-        <mark key="'" line="473" column="10" />
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/Infrastructure/Doctrine/Schema/User/UserSchema.php" timestamp="1593555826075">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/Infrastructure/Doctrine/Schema/Product/Category/CategorySchema.php" timestamp="1593556359299">
+        <mark key="'" line="15" column="46" />
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="15" column="47" />
+        <mark key="." line="15" column="46" />
+        <mark key="^" line="15" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/src/Action/Admin/User/CreateUserAction.php" timestamp="1593464691856">
         <mark key="'" line="56" column="0" />
@@ -168,22 +174,46 @@
         <mark key="^" line="43" column="52" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/apps/Api/Admin/User/CreateUserTest.php" timestamp="1592952022494">
+      <file name="/Dummy.txt" timestamp="1593556831284">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/apps/Api/Admin/User/CreateUserTest.php" timestamp="1593556089524">
         <mark key="'" line="105" column="21" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="53" column="10" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Migrations/src/Version20200629174020.php" timestamp="1593452757865">
-        <mark key="[" line="22" column="52" />
-        <mark key="]" line="22" column="52" />
-        <mark key="." line="22" column="51" />
-        <mark key="^" line="22" column="52" />
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/Product/Category/Infrastructure/CategotyRepository.php" timestamp="1593556703304">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="53" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/Table.php" timestamp="1593453029252" />
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Migrations/src/Version20200525171811.php" timestamp="1593454024776">
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/Product/Category/Infrastructure/DoctrineCategoryRepository.php" timestamp="1593556853831">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="9" column="62" />
+        <mark key="^" line="9" column="62" />
+        <mark key="." line="9" column="61" />
+      </file>
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Migrations/src/Version20200525171811.php" timestamp="1593555404522">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="55" />
         <mark key="^" line="22" column="55" />
         <mark key="." line="22" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/apps/Api/Admin/Product/Category/CreateCategoryTest.php" timestamp="1593556322577">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="58" column="58" />
+        <mark key="]" line="58" column="64" />
+        <mark key="." line="58" column="63" />
+        <mark key="^" line="58" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/src/Action/Admin/Product/Category/CreateCategoryAction.php" timestamp="1593554687287">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Shared/Domain/Value/Id.php" timestamp="1593464563236">
         <mark key="'" line="10" column="0" />
@@ -192,22 +222,8 @@
         <mark key="^" line="30" column="80" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/src/Action/Admin/HiAction.php" timestamp="1592953258272">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="57" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/src/Admin/User/Infrastructure/UserRepositoryTest.php" timestamp="1593463121651">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="88" column="8" />
-        <mark key="." line="85" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="703" column="57" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/dealerVNOpportunitySummary/DoctrineDealerVNOpportunitySummaryRepositoryTest.php" />
-      <jump line="734" column="56" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/dealerVNOpportunitySummary/DoctrineDealerVNOpportunitySummaryRepositoryTest.php" />
-      <jump line="776" column="72" filename="$USER_HOME$/Projects/request.coches.com/tests/Unit/infrastructure/doctrine/dealerVNOpportunitySummary/DoctrineDealerVNOpportunitySummaryRepositoryTest.php" />
       <jump line="172" column="0" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
       <jump line="233" column="23" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
       <jump line="235" column="22" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
@@ -305,62 +321,65 @@
       <jump line="9" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/src/Shared/Domain/Value/Id.php" />
       <jump line="28" column="17" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/src/Action/Admin/User/DeleteUserAction.php" />
       <jump line="21" column="9" filename="$USER_HOME$/Projects/new-origen/shopa-api/README.md" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/tests/apps/Api/Admin/Product/Category/CreateCategoryTest.php" />
+      <jump line="15" column="46" filename="$USER_HOME$/Projects/new-origen/shopa-api/tests/Infrastructure/Doctrine/Schema/Product/Category/CategorySchema.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/Product/Category/Infrastructure/CategoryRepository.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aGk6CiAgIHBhdGg6IC9hZG1pbi9oaS97aGlJZH0KICAgY29udHJvbGxlcjogTGF2ZWd1aVxTaG9wYVxBcHBcQXBpXEFjdGlvblxBZG1pblxIaUFjdGlvbjo6aGkKICAgbWV0aG9kczogR0VUCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>hi</text>
+        <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlc2NyaXB0aW9uOiBTdWNjZXNzZnVsIG9wZXJhdGlvbgo=</text>
+        <text encoding="base64">PD9waHAKZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7CgpuYW1lc3BhY2UgTGF2ZWd1aVxTaG9wYVxBZG1pblxQcm9kdWN0XENhdGVnb3J5XEluZnJhc3RydWN0dXJlOwoKdXNlIExhdmVndWlcU2hvcGFcQWRtaW5cUHJvZHVjdFxDYXRlZ29yeVxEb21haW5cQ2F0ZWdvcnk7CgppbnRlcmZhY2UgQ2F0ZWdvcnlSZXBvc2l0b3J5CnsKICAgIHB1YmxpYyBmdW5jdGlvbiBpbnNlcnQoQ2F0ZWdvcnkgJGNhdGVnb3J5KTogdm9pZDsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aGk6CiAgIHBhdGg6IC9hZG1pbi9oaS97aGlJZH0KICAgY29udHJvbGxlcjogTGF2ZWd1aVxTaG9wYVxBcHBcQXBpXEFjdGlvblxBZG1pblxIaUFjdGlvbjo6aGkKICAgbWV0aG9kczogR0VUCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZSgsIFJlc3BvbnNlOjpIVFRQX05PVF9GT1VORCk7Cg==</text>
+        <text encoding="base64">dXNlIExhdmVndWlcU2hvcGFcQWRtaW5cUHJvZHVjdFxDYXRlZ29yeVxEb21haW5cQ2F0ZWdvcnk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">PD9waHAKCmRlY2xhcmUoc3RyaWN0X3R5cGVzPTEpOwoKbmFtZXNwYWNlIExhdmVndWlcU2hvcGFcQWRtaW5cUHJvZHVjdFxDYXRlZ29yeVxEb21haW47CgpjbGFzcyBDYXRlZ29yeVJlcG9zaXRvcnkgCnsKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIFByb3BoZWN5XEV4Y2VwdGlvblxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlcklkID0gSWQ6OmZyb21TdHJpbmcoJHV1aWQpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkdGFibGUK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIGh0dHBcRXhjZXB0aW9uXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>hi</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>hi</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
       <last-dir>1</last-dir>
