@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>session</entry>
-        <entry>scoring</entry>
-        <entry encoding="base64">XDxnZXRPcHBvcnR1bml0eUxpc3RXaXRoU3RhdHVzXD4=</entry>
-        <entry encoding="base64">XDxnZXRFeHBlY3RlZFw+</entry>
         <entry>iss</entry>
         <entry>status</entry>
         <entry encoding="base64">XDxDT09LSUVfSEFTSFw+</entry>
@@ -24,9 +20,13 @@
         <entry encoding="base64">XDxjYW1wYWlnblJlcG9zaXRvcnlcPg==</entry>
         <entry encoding="base64">XDxnZXRHdG1TdHJpbmdGcm9tVHlwZVw+</entry>
         <entry encoding="base64">XDx0eXBlR3RtXD4=</entry>
-        <entry encoding="base64">XDxfaXNTdG9ja1ZORGVhbGVyXD4=</entry>
         <entry>revive</entry>
         <entry>localhost</entry>
+        <entry encoding="base64">XDxfaXNTdG9ja1ZORGVhbGVyXD4=</entry>
+        <entry encoding="base64">XDxfaXNTdG9ja1w+</entry>
+        <entry encoding="base64">XDxpc1N0b2NrXD4=</entry>
+        <entry encoding="base64">XDxpc1N0b2NrQ2FyXD4=</entry>
+        <entry encoding="base64">XDxpc1N0b2NrVk5EZWFsZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
@@ -126,6 +126,13 @@
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ActiveRecord/CocheBusquedas.php" timestamp="1593704604653">
+        <mark key="'" line="227" column="0" />
+        <mark key="[" line="226" column="45" />
+        <mark key="]" line="226" column="46" />
+        <mark key="." line="226" column="45" />
+        <mark key="^" line="226" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/controllers/mizonaControllers/campaign/CampaignCreateController.php" timestamp="1593014277965">
         <mark key="[" line="44" column="34" />
         <mark key="]" line="44" column="38" />
@@ -155,15 +162,6 @@
       <file name="$USER_HOME$/Projects/coches.com/coches_yii/protected/Helpers/Consumers/RequestVOConsumer.php" timestamp="1593684979124" />
     </filemarks>
     <jumps>
-      <jump line="235" column="22" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
-      <jump line="327" column="28" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
-      <jump line="329" column="21" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
-      <jump line="5" column="48" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
-      <jump line="29" column="13" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
-      <jump line="30" column="13" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
-      <jump line="53" column="33" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
-      <jump line="69" column="9" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
-      <jump line="84" column="31" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
       <jump line="101" column="33" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
       <jump line="118" column="9" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
       <jump line="134" column="13" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
@@ -255,51 +253,60 @@
       <jump line="19" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/environments/.env" />
       <jump line="1552" column="6" filename="$USER_HOME$/Projects/coches.com/models/Car/Car.php" />
       <jump line="1300" column="57" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ActiveRecord/Car.php" />
+      <jump line="181" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ActiveRecord/CocheBusquedas.php" />
+      <jump line="182" column="21" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ActiveRecord/CocheBusquedas.php" />
+      <jump line="133" column="56" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ActiveRecord/CocheBusquedas.php" />
+      <jump line="178" column="30" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ActiveRecord/CocheBusquedas.php" />
+      <jump line="115" column="8" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ActiveRecord/CocheBusquedas.php" />
+      <jump line="817" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ActiveRecord/CocheBusquedas.php" />
+      <jump line="134" column="33" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ActiveRecord/CocheBusquedas.php" />
+      <jump line="186" column="20" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ActiveRecord/CocheBusquedas.php" />
+      <jump line="223" column="0" filename="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ActiveRecord/CocheBusquedas.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkbGVuZ3RoID0gKGVtcHR5KCRwb3N0VGl0bGUpKSA/ICRsZW5ndGggOiAoJGxlbmd0aCAtIHN0cmxlbih0cmltKCRwb3N0VGl0bGUpIC0gMSkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>KM</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>length</text>
+        <text>KM</text>
       </register>
       <register name="/" type="4">
-        <text>localhost</text>
+        <text encoding="base64">XDxpc1N0b2NrVk5EZWFsZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>trlen(trim($postTitle) - 1)</text>
+        <text>KM_MAX_TO_BE_STOCK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkbGVuZ3RoID0gKGVtcHR5KCRwb3N0VGl0bGUpKSA/ICRsZW5ndGggOiAoJGxlbmd0aCAtIHN0cmxlbih0cmltKCRwb3N0VGl0bGUpIC0gMSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGxlbmd0aCA9ICRhOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkbGVuZ3RoID0gKGVtcHR5KCRwb3N0VGl0bGUpKSA/ICRsZW5ndGggOiAoJGxlbmd0aCAtIHN0cmxlbih0cmltKCRwb3N0VGl0bGUpIC0gMSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QVBJX0VVUk9UQVhfQkFTRV9VUkk9Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MC92MS8iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">REFUQS1SRVZJVkUtSUQ9ImY1NzUxZDQxOTkxY2RlZTU4YmQyNzI5MzE1MTE2ZmE4Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgncGF0YXRhcycpO2RpZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS1uYW1lPSJkaXNwbGF5Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS1uYW1lPSJldmVudHMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -308,13 +315,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>localhost</last-search>
+      <last-search encoding="base64">XDxpc1N0b2NrVk5EZWFsZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>localhost</last-pattern>
+      <last-pattern encoding="base64">XDxpc1N0b2NrVk5EZWFsZXJcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_d</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
