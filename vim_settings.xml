@@ -157,17 +157,17 @@
       <file name="/PHP Console" timestamp="1593872394361">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/User/Infrastructure/DoctrineUserRepository.php" timestamp="1593872206411">
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/User/Infrastructure/DoctrineUserRepository.php" timestamp="1593896371661">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="114" column="24" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="137" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" timestamp="1593873017075">
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" timestamp="1593896651573">
         <mark key="'" line="90" column="0" />
-        <mark key="[" line="144" column="23" />
-        <mark key="]" line="144" column="34" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="148" column="32" />
         <mark key="^" line="144" column="34" />
-        <mark key="." line="144" column="33" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/Infrastructure/Doctrine/Schema/Product/Category/CategorySchema.php" timestamp="1593815421097">
         <mark key="'" line="15" column="46" />
@@ -183,29 +183,29 @@
         <mark key="^" line="43" column="52" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593870928859">
+      <file name="/Dummy.txt" timestamp="1593896521322">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/src/Action/Admin/Product/Category/DeleteCategoryAction.php" timestamp="1593872958748">
-        <mark key="[" line="26" column="48" />
-        <mark key="]" line="26" column="64" />
-        <mark key="^" line="26" column="64" />
-        <mark key="." line="26" column="63" />
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/src/Action/Admin/Product/Category/DeleteCategoryAction.php" timestamp="1593896596790">
+        <mark key="[" line="29" column="48" />
+        <mark key="]" line="29" column="62" />
+        <mark key="^" line="29" column="62" />
+        <mark key="." line="29" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/Product/Category/Infrastructure/CategotyRepository.php" timestamp="1593556703304">
-        <mark key="[" line="7" column="28" />
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/Product/Category/Domain/CategoryNotFoundException.php" timestamp="1593896539235">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="40" />
+        <mark key="^" line="6" column="50" />
+        <mark key="." line="6" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/Product/Category/Infrastructure/DoctrineCategoryRepository.php" timestamp="1593896564662">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="53" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/Product/Category/Infrastructure/DoctrineCategoryRepository.php" timestamp="1593872266435">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="30" />
-        <mark key="." line="42" column="29" />
-        <mark key="^" line="42" column="30" />
+        <mark key="^" line="61" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/tests/apps/Api/Admin/Product/Category/CreateCategoryTest.php" timestamp="1593870728090">
         <mark key="'" line="14" column="0" />
@@ -223,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="9" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
       <jump line="134" column="13" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
       <jump line="164" column="43" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
       <jump line="231" column="15" filename="$USER_HOME$/Projects/request.coches.com/src/domain/model/dealerVNOpportunitySummary/DealerVNOpportunitySummary.php" />
@@ -323,12 +322,13 @@
       <jump line="41" column="30" filename="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/Product/Category/Infrastructure/DoctrineCategoryRepository.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/Product/Category/Infrastructure/DoctrineCategoryRepository.php" />
       <jump line="90" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/openApi/swagger.yaml" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/Product/Category/Infrastructure/DoctrineCategoryRepository.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>HTTP_BAD_REQUEST</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA0MDQ6CiAgICAgICAgICBkZXNjcmlwdGlvbjogTm90IGZvdW5kCg==</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
@@ -340,34 +340,34 @@
         <text>delete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjphc3NlcnRTYW1lKAogICAgICAgICAgICBSZXNwb25zZTo6SFRUUF9CQURfUkVRVUVTVCwKICAgICAgICAgICAgJHJlc3BvbnNlLT5nZXRTdGF0dXNDb2RlKCkKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICA0MDQ6CiAgICAgICAgICBkZXNjcmlwdGlvbjogTm90IGZvdW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWM6OmFzc2VydENvdW50KDEsICR0aGlzLT5zdG9yZWRDYXRlZ29yaWVzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3RvcmVDYXRlZ29yeSgkY2F0ZWdvcnlJZCk7Cg==</text>
+        <text encoding="base64">dXNlIExhdmVndWlcU2hvcGFcQWRtaW5cVXNlclxEb21haW5cVXNlck5vdEZvdW5kRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0aWM6OmFzc2VydENvdW50KDEsICR0aGlzLT5zdG9yZWRDYXRlZ29yaWVzKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvKiogQHRlc3QgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzaG91bGRfcmVzcG9uc2Vfbm90X2ZvdW5kX3doZW5fY2F0ZWdvcnlfbm90X2ZvdW5kKCk6IHZvaWQKICAgIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3RvcmVDYXRlZ29yeSgkY2F0ZWdvcnlJZCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKiogQHRlc3QgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzaG91bGRfcmVzcG9uc2Vfbm90X2ZvdW5kX3doZW5fY2F0ZWdvcnlfbm90X2ZvdW5kKCk6IHZvaWQKICAgIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY2F0ZWdvcnlJZCA9IElkOjpmcm9tU3RyaW5nKCR1dWlkKTsKICAgICAgICAkdGhpcy0+Y2F0ZWdvcnlSZXBvc2l0b3J5LT5kZWxldGUoJGNhdGVnb3J5SWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAoKQogICAgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkY2F0ZWdvcnlJZCA9IElkOjpmcm9tU3RyaW5nKCR1dWlkKTsKICAgICAgICAkdGhpcy0+Y2F0ZWdvcnlSZXBvc2l0b3J5LT5kZWxldGUoJGNhdGVnb3J5SWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
