@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxyb3V0ZXNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>40</entry>
         <entry>wwa</entry>
         <entry>a</entry>
         <entry>140</entry>
@@ -46,8 +45,9 @@
         <entry>w</entry>
         <entry>61</entry>
         <entry>x</entry>
-        <entry>vs</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz52cw==</entry>
+        <entry>vs</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -118,12 +118,11 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/stats-public/app/config/dependencies/dependencies.php" timestamp="1594896772926">
+      <file name="$USER_HOME$/Projects/stats-public/app/config/dependencies/dependencies.php" timestamp="1594901408065">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="6" column="10" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/stats-public/app/api/config/ReaderConfig.php" timestamp="1594896719200">
         <mark key="'" line="18" column="23" />
@@ -161,11 +160,11 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/stats-public/app/api/actions/ExampleAction.php" timestamp="1594894520513">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="18" column="25" />
+      <file name="$USER_HOME$/Projects/stats-public/app/api/actions/ExampleAction.php" timestamp="1594901397923">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/stats-public/README.md" timestamp="1594899780915">
         <mark key="[" line="22" column="46" />
@@ -173,10 +172,11 @@
         <mark key="^" line="22" column="56" />
         <mark key="." line="22" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/stats-public/app/config/dependencies/routes.php" timestamp="1594895686350">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Projects/stats-public/app/config/dependencies/routes.php" timestamp="1594901414134">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="8" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/stats-public/app/environments/.env" timestamp="1594896937111">
         <mark key="[" line="7" column="0" />
@@ -326,47 +326,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>generate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIGNjb21cYXBwXGFwaVxhY3Rpb25zXEV4YW1wbGVBY3Rpb247Cg==</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>generate</text>
+        <text>tConfig(ReaderConfig::class);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb3V0ZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YGBgCnBocCB2ZW5kb3IvYmluL2RvY3RyaW5lLW1pZ3JhdGlvbnMgbWlncmF0aW9uczpnZW5lcmF0ZSAvCiAgICAtLWNvbmZpZ3VyYXRpb249YXBwL21pZ3JhdGlvbnMvbWlncmF0aW9ucy55bWwgLwogICAgLS1kYi1jb25maWd1cmF0aW9uPWFwcC9taWdyYXRpb25zL21pZ3JhdGlvbnMtZGIucGhwCmBgYAo=</text>
+        <text encoding="base64">JGNvbnRhaW5lci0+c2V0KCdjb25maWcnLCBzdGF0aWMgZnVuY3Rpb24gKCkgewogICAgcmV0dXJuIEJ1aWxkZXJDb25maWc6OmJ1aWxkKCkKICAgICAgICAtPmVudihfX0RJUl9fIC4gJy8uLi8uLi9lbnZpcm9ubWVudHMvLmVudicpCiAgICAgICAgLT5nZXRDb25maWcoUmVhZGVyQ29uZmlnOjpjbGFzcyk7Cn0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIGNjb21cYXBwXGFwaVxhY3Rpb25zXEV4YW1wbGVBY3Rpb247Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWlncmF0aW9uc19uYW1lc3BhY2U6IERvY3RyaW5lTWlncmF0aW9ucwptaWdyYXRpb25zX2RpcmVjdG9yeTogbWlncmF0aW9ucwoKbmFtZTogRG9jdHJpbmUgU2FuZGJveCBNaWdyYXRpb25zCgp0YWJsZV9uYW1lOiBkb2N0cmluZV9taWdyYXRpb25fdmVyc2lvbnMK</text>
+        <text encoding="base64">dXNlIGNjb21cYXBwXGFwaVxhY3Rpb25zXEV4YW1wbGVBY3Rpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiRjb250YWluZXItPnNldChFeGFtcGxlQWN0aW9uOjpjbGFzcywgc3RhdGljIGZ1bmN0aW9uICgpIHsKICAgIHJldHVybiBuZXcgRXhhbXBsZUFjdGlvbigpOwp9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIGNjb21cYXBwXGFwaVxhY3Rpb25zOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIENsYXNzIEV4YW1wbGVBY3Rpb24KICogQHBhY2thZ2UgY2NvbVxhcHBcYXBpXGFjdGlvbnMKICovCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIERJXENvbnRhaW5lckJ1aWxkZXI7CnVzZSBEb2N0cmluZVxEQkFMXFRvb2xzXENvbnNvbGVcSGVscGVyXENvbm5lY3Rpb25IZWxwZXI7CnVzZSBTeW1mb255XENvbXBvbmVudFxDb25zb2xlXEhlbHBlclxIZWxwZXJTZXQ7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">QnVpbGRlckNvbmZpZzo6YnVpbGQoKQogICAgICAgIC0+ZW52KF9fRElSX18gLiAnLy4uLy4uL2Vudmlyb25tZW50cy8uZW52JykKICAgICAgICAtPmdl</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmV0dXJuIG5ldyBIZWxwZXJTZXQoWwogICAgJ2VtJyA9PiBuZXcgRW50aXR5TWFuYWdlckhlbHBlcigkZW50aXR5TWFuYWdlciksCiAgICAnZGInID0+IG5ldyBDb25uZWN0aW9uSGVscGVyKCRlbnRpdHlNYW5hZ2VyLT5nZXRDb25uZWN0aW9uKCkpLApdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JGJ1aWxkZXIgPSBuZXcgQ29udGFpbmVyQnVpbGRlcigpOwokY29udGFpbmVyID0gJGJ1aWxkZXItPmJ1aWxkKCk7CgokZGVwZW5kZW5jaWVzID0gcmVxdWlyZSBfX0RJUl9fIC4gJy9hcHAvY29uZmlnL2RlcGVuZGVuY2llcy9kZXBlbmRlbmNpZXMucGhwJzsKCiRkZXBlbmRlbmNpZXMoJGNvbnRhaW5lcik7CgokZW50aXR5TWFuYWdlciA9ICRjb250YWluZXItPmdldChFbnRpdHlNYW5hZ2VySW50ZXJmYWNlOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">bWlncmF0aW9uc19uYW1lc3BhY2U6IERvY3RyaW5lTWlncmF0aW9ucwptaWdyYXRpb25zX2RpcmVjdG9yeTogbWlncmF0aW9ucwoKbmFtZTogRG9jdHJpbmUgU2FuZGJveCBNaWdyYXRpb25zCgp0YWJsZV9uYW1lOiBkb2N0cmluZV9taWdyYXRpb25fdmVyc2lvbnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxUb29sc1xDb25zb2xlXEhlbHBlclxFbnRpdHlNYW5hZ2VySGVscGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
