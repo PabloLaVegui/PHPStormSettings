@@ -29,7 +29,6 @@
         <entry>delete</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>40</entry>
         <entry>wwa</entry>
         <entry>a</entry>
@@ -49,6 +48,7 @@
         <entry>q</entry>
         <entry>w</entry>
         <entry>wa</entry>
+        <entry>61</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -103,21 +103,38 @@
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/phpunit.xml.dist" timestamp="1593901454515">
         <mark key="^" line="25" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593902927631">
+      <file name="/Dummy.txt" timestamp="1594893178020">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/stats-public/composer.json" timestamp="1594892635444">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/stats-public/app/api/actions/ExampleAction.php" timestamp="1594893260668">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/User/Infrastructure/DoctrineUserRepository.php" timestamp="1593896371661">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="123" column="0" />
         <mark key="]" line="137" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ActiveRecord/CocheBusquedas.php" timestamp="1593705803842">
-        <mark key="[" line="219" column="24" />
-        <mark key="]" line="219" column="24" />
-        <mark key="." line="219" column="24" />
-        <mark key="^" line="55" column="12" />
+      <file name="$USER_HOME$/Projects/stats-public/app/config/dependencies/dependencies.php" timestamp="1594893064127">
+        <mark key="[" line="18" column="60" />
+        <mark key="]" line="18" column="60" />
+        <mark key="^" line="18" column="59" />
+        <mark key="." line="18" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projects/stats-public/app/config/dependencies/routes.php" timestamp="1594893163886">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/Product/Category/Infrastructure/DoctrineCategoryRepository.php" timestamp="1593896564662">
         <mark key="'" line="59" column="0" />
@@ -169,15 +186,6 @@
         <mark key="^" line="144" column="34" />
         <mark key="." line="147" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/config/routes/routes.yaml" timestamp="1593870890850">
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="19" column="18" />
-        <mark key="." line="19" column="17" />
-        <mark key="^" line="19" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/mizona.coches.com/secure_yii/protected/domain/Models/ActiveRecord/Car.php" timestamp="1593701543952">
-        <mark key="'" line="1300" column="57" />
-      </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/README.md" timestamp="1593900752924">
         <mark key="'" line="21" column="9" />
         <mark key="[" line="92" column="22" />
@@ -195,13 +203,6 @@
         <mark key="]" line="6" column="40" />
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/new-origen/shopa-api/src/Admin/Product/Category/Domain/CategoryRepository.php" timestamp="1593872033245">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="41" />
-        <mark key="^" line="12" column="41" />
-        <mark key="." line="12" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/new-origen/shopa-api/apps/Api/src/Action/Admin/User/DeleteUserAction.php" timestamp="1593902470045">
         <mark key="'" line="21" column="35" />
@@ -316,14 +317,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="c" type="4">
         <text>tagifyName</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -332,34 +333,34 @@
         <text encoding="base64">ICAgICAgICA8d2hpdGVsaXN0IHByb2Nlc3NVbmNvdmVyZWRGaWxlc0Zyb21XaGl0ZWxpc3Q9ImZhbHNlIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJiZWJlcmxlaS9kb2N0cmluZWV4dGVuc2lvbnMiOiAiXjEuMSIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcU2hvcGFcQWRtaW5cVXNlclxEb21haW5cUm9sZTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIExhdmVndWlcU2hvcGFcU2hhcmVkXERvbWFpblxFeGNlcHRpb25cSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">dXNlIExhdmVndWlcU2hvcGFcQWRtaW5cVXNlclxEb21haW5cUm9sZTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">dXNlIExhdmVndWlcU2hvcGFcU2hhcmVkXERvbWFpblxFeGNlcHRpb25cSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxsb2dnaW5nPgogICAgICAgIDxsb2cgdHlwZT0iY292ZXJhZ2UtaHRtbCIgdGFyZ2V0PSIuL3Zhci90ZXN0cy9yZXBvcnQiIC8+CiAgICA8L2xvZ2dpbmc+Cg==</text>
+        <text encoding="base64">dXNlIExhdmVndWlcU2hvcGFcU2hhcmVkXERvbWFpblxFeGNlcHRpb25cSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpcmVjdG9yeSBzdWZmaXg9Ii5waHAiPmFwcC9BcGkvc3JjL0FjdGlvbjwvZGlyZWN0b3J5Pgo=</text>
+        <text encoding="base64">ICAgIDxsb2dnaW5nPgogICAgICAgIDxsb2cgdHlwZT0iY292ZXJhZ2UtaHRtbCIgdGFyZ2V0PSIuL3Zhci90ZXN0cy9yZXBvcnQiIC8+CiAgICA8L2xvZ2dpbmc+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGxvd1VwcGVyQm91bmQ9IjM1Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpcmVjdG9yeSBzdWZmaXg9Ii5waHAiPmFwcC9BcGkvc3JjL0FjdGlvbjwvZGlyZWN0b3J5Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8d2hpdGVsaXN0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGxvd1VwcGVyQm91bmQ9IjM1Igo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>61</text>
       </register>
     </registers>
   </component>
