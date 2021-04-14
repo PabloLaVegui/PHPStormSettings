@@ -1,21 +1,23 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="scfProductTableRow" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-prod" type="Dockerfile" />
-      <mapping pattern="Dockerfile-nginx" type="PLAIN_TEXT" />
-      <mapping pattern="passwordValidationRequest.js" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping ext="devel" type="PLAIN_TEXT" />
-      <mapping ext="dev" type="PLAIN_TEXT" />
-      <mapping ext="master" type="PLAIN_TEXT" />
-      <mapping ext="com" type="PLAIN_TEXT" />
-      <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping pattern="passwordValidationRequest.js" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-nginx" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="master" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="devel" type="PLAIN_TEXT" />
       <mapping pattern="_creatorStablishedModal" type="Twig" />
       <mapping pattern="infrastructure_services" type="YAML" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
