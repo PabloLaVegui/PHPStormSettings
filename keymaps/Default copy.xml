@@ -1,5 +1,15 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
   <action id="ChangesView.Move" />
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
@@ -14,6 +24,12 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="ctrl e" />
@@ -21,11 +37,33 @@
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
   <action id="EditorRightWithSelection" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExternalSystem.CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="ExternalSystem.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="GotoBookmark7" />
   <action id="GotoLine" />
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
   <action id="InsertLiveTemplate" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift right" second-keystroke="shift left" />
@@ -45,6 +83,12 @@
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="ProblemsView.CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="ProblemsView.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
