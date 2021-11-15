@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="/var/www/html" />
     </exec>
   </tool>
+  <tool name="ecs" description="ecs" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/projects/cochescom/international/user/vendor/symplify/easy-coding-standard/bin/ecs" />
+      <option name="PARAMETERS" value="--fix --ansi --no-interaction" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/projects/cochescom/international/user/vendor/symplify/easy-coding-standard/bin" />
+    </exec>
+  </tool>
 </toolSet>
