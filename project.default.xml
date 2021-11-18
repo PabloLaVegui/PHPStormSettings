@@ -1,0 +1,46 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ComposerJsonPluginSettings">
+        <unboundedVersionInspectionSettings>
+          <excludedPackages />
+        </unboundedVersionInspectionSettings>
+        <customRepositories />
+      </component>
+      <component name="FileColors">
+        <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+        <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+        <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+        <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="PhpDockerContainerSettings">
+        <list>
+          <map>
+            <entry key="11f27ebd-6b50-4c30-9ec7-b80b0a0f2d8c">
+              <value>
+                <DockerContainerSettings>
+                  <option name="version" value="1" />
+                  <option name="volumeBindings">
+                    <list>
+                      <DockerVolumeBindingImpl>
+                        <option name="containerPath" value="/opt/project" />
+                      </DockerVolumeBindingImpl>
+                    </list>
+                  </option>
+                </DockerContainerSettings>
+              </value>
+            </entry>
+          </map>
+        </list>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
