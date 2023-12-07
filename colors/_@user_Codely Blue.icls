@@ -4,7 +4,7 @@
     <property name="created">2021-06-25T13:24:10</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.3.0.0</property>
-    <property name="modified">2022-09-16T09:58:59</property>
+    <property name="modified">2021-07-21T09:28:19</property>
     <property name="originalScheme">Codely Blue</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -561,18 +561,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DIFF_CONFLICT">
-      <value>
-        <option name="BACKGROUND" value="9f9438" />
-        <option name="ERROR_STRIPE_COLOR" value="c1c145" />
-      </value>
-    </option>
-    <option name="DIFF_DELETED">
-      <value>
-        <option name="BACKGROUND" value="b15c6a" />
-        <option name="ERROR_STRIPE_COLOR" value="c68282" />
-      </value>
-    </option>
     <option name="DOC_COMMENT_TAG_VALUE">
       <value>
         <option name="FOREGROUND" value="bdae93" />
@@ -722,9 +710,6 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
-    <option name="HTML_CODE">
-      <value />
-    </option>
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
@@ -797,13 +782,10 @@
         <option name="FOREGROUND" value="83786e" />
       </value>
     </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="KOTLIN_LABEL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="83a598" />
+      </value>
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -838,8 +820,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="ebdbb2" />
+        <option name="BACKGROUND" value="1b262d" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
