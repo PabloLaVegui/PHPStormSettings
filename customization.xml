@@ -1,6 +1,6 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="TouchBarDefaultOptionalGroup" is_group="true" action_type="-1" position="5">
+    <group value="TouchBarDefaultOptionalGroup" is_group="true" forse_popup="false" action_type="-1" position="5">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
@@ -12,16 +12,43 @@
       <path value="Debugger" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="PhpListenDebugAction" is_action="true" action_type="1" position="3">
+    <group value="Stop" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ToggleLineBreakpoint" is_action="true" action_type="1" position="4">
+    <group value="PhpListenDebugAction" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Stop" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Touchbar Run/Debug Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleLineBreakpoint" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Resume" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Touchbar Run/Debug Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="StepInto" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Touchbar Run/Debug Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ToggleLineBreakpoint" is_action="true" action_type="1" position="4">
@@ -30,7 +57,20 @@
       <path value="Debugger" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="FindUsages" is_action="true" action_type="1" position="6">
+    <group value="FindUsages" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="StepOver" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Touchbar Run/Debug Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CallHierarchy" is_action="true" action_type="1" position="6">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
@@ -40,12 +80,6 @@
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Debugger" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CallHierarchy" is_action="true" action_type="1" position="7">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="CallHierarchy" icon="$USER_HOME$/Downloads/1450755.png" />
