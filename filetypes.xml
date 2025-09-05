@@ -10,6 +10,7 @@
       <mapping pattern="request_vo_user_ack_v2" type="HTML" />
       <mapping pattern="request_vo_user_ack_test_pablo_fin6" type="HTML" />
       <mapping pattern="scf_fs_change_status_dealer_notification" type="HTML" />
+      <mapping pattern="mcp.json" type="JSON5" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".dockerignore" approved="true" type="DockerIgnore file" />
