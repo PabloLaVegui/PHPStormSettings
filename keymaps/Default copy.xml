@@ -1,4 +1,10 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="ActivateAIAssistantToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 1" />
+    <keyboard-shortcut first-keystroke="shift meta 1" />
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateHierarchyToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>
@@ -26,6 +32,7 @@
   <action id="Database.OpenDbStorageAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -58,6 +65,7 @@
   <action id="ExternalSystem.ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="FileChooser.GotoProject" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
